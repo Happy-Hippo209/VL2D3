@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"values": [{"variety": "Glabron", "yield": 32.4, "yieldError": 7.55, "yieldError2": -10.55}, {"variety": "Manchuria", "yield": 30.97, "yieldError": 6.98, "yieldError2": -3.98}, {"variety": "No. 457", "yield": 33.96, "yieldError": 3.92, "yieldError2": -0.92}, {"variety": "No. 462", "yield": 30.45, "yieldError": 11.97, "yieldError2": -15.97}]}, "description": "Asymetric error bars encoded with xError and xError2 channels", "layer": [{"encoding": {"x": {"field": "yield", "scale": {"zero": false}, "type": "quantitative"}, "xError": {"field": "yieldError"}, "xError2": {"field": "yieldError2"}, "y": {"field": "variety", "type": "ordinal"}}, "mark": {"ticks": true, "type": "errorbar"}}, {"encoding": {"x": {"field": "yield", "type": "quantitative"}, "y": {"field": "variety", "type": "ordinal"}}, "mark": {"color": "black", "filled": true, "type": "point"}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

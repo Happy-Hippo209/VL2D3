@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"values": [{"a": 0, "b": 28, "c": 0}, {"a": 0, "b": 91, "c": 1}, {"a": 1, "b": 43, "c": 0}, {"a": 1, "b": 55, "c": 1}, {"a": 2, "b": 81, "c": 0}, {"a": 2, "b": 53, "c": 1}, {"a": 3, "b": 19, "c": 0}]}, "encoding": {"color": {"field": "c", "type": "nominal"}, "x": {"field": "a", "scale": {"nice": 1}, "type": "quantitative"}, "y": {"field": "b", "impute": {"keyvals": [4], "value": 100}, "type": "quantitative"}}, "mark": "line"};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

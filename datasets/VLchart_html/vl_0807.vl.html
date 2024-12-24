@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://gist.githubusercontent.com/khang-dao/6de62fe05acaffae40ec138c9bbae6f7/raw/06c60fb3ea1ef680ccfbaebbdfa63a116eff88ac/olympics-1986-2016-cleaned-2.csv"}, "background": "rgba(255, 255, 255, 0)", "width": 900, "layer": [{"mark": "bar", "encoding": {"y": {"aggregate": "count", "title": "Number of Medals"}, "x": {"field": "Year", "type": "ordinal"}, "color": {"field": "Medal", "type": "nominal", "scale": {"domain": ["Gold", "Silver", "Bronze"], "range": ["#A7A59C", "#E8C85D", "#DBA584"]}, "title": "Medal Type"}, "tooltip": [{"field": "Year", "type": "ordinal", "title": "Year"}, {"field": "Medal", "aggregate": "count", "title": "Medals"}]}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

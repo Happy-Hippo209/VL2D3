@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"url": "https://walterra.github.io/jupyter2kibana/data/fq_single_count_15m_annotations.json", "format": {"property": "hits.hits", "type": "json"}, "name": "ml-annotations"}, "mark": {"type": "rect", "color": "#369", "opacity": 0.15}, "encoding": {"tooltip": [{"field": "annotation", "type": "nominal"}], "x": {"field": "timestamp", "type": "temporal"}, "x2": {"field": "end_timestamp"}, "y": {"field": "y", "type": "quantitative"}, "y2": {"field": "y2"}}, "transform": [{"calculate": "datum._source.annotation", "as": "annotation"}, {"calculate": "datum._source.timestamp", "as": "timestamp"}, {"calculate": "datum._source.end_timestamp", "as": "end_timestamp"}, {"calculate": "datum._source.job_id", "as": "job_id"}, {"filter": "(datum.job_id === 'fq_single_count_15m')"}, {"calculate": "350", "as": "y"}, {"calculate": "0", "as": "y2"}], "$schema": "https://vega.github.io/schema/vega-lite/v5.json"};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

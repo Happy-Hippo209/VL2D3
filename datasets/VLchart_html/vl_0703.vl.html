@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/matsim-scenarios/matsim-duesseldorf/b160620ef3d645969b5060b436391be3bc378cb6/src/main/simwrapper/overview/sim_srv.csv"}, "mark": "bar", "width": 220, "height": 200, "encoding": {"column": {"field": "source", "title": "Mode-choice by distance classes"}, "x": {"field": "pct", "type": "quantitative", "title": "Share"}, "y": {"field": "dist_group", "sort": ["10000+", "5000 - 10000", "3000 - 5000", "1000 - 3000", "0 - 1000"], "title": "Distance classes"}, "color": {"field": "main_mode", "type": "nominal", "title": "Main mode", "scale": {"domain": ["bike", "car", "pt", "walk"], "range": ["#0f5eca ", "#fc8712", "#37ab17", "#d00000"]}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

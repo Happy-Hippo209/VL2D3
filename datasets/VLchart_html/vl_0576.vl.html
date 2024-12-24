@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "House Prices: New York and Las Vegas", "subtitle": ["All transactions house price index. Rebased to 2005. Source: FRED.", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/e4e/US_FRED_HousePrices_NYC_LV.csv"}, "transform": [{"calculate": "datum['New York']/567.14", "as": "New York index"}, {"calculate": "datum['Las Vegas']/219.34", "as": "Las Vegas index"}, {"calculate": "year(datum.Date)", "as": "year"}, {"fold": ["New York index", "Las Vegas index"], "as": ["city", "housePrice"]}, {"filter": {"field": "year", "gt": 2004}}], "height": 400, "width": 250, "mark": {"type": "line", "color": "rgb(128, 0, 0)", "strokeWidth": 2}, "encoding": {"x": {"field": "Date", "type": "temporal", "title": null, "axis": {"grid": false}}, "y": {"field": "housePrice", "type": "quantitative", "title": null}, "facet": {"field": "city", "columns": 2, "title": null}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

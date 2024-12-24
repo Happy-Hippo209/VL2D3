@@ -1,0 +1,1330 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 50,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 100,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 150,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 200,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 150,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 100,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 50,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 50,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 100,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 150,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 200,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": ":01",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 50,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": ":02",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 100,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": ":03",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 150,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": ":04",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 200,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": ":05",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 100,
+                              "y": 21,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "date (seconds)",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 150,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 100,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 50,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 200,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 150,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "50",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 100,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "100",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 50,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "150",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 0,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "200",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -28.5927734375,
+                              "y": 100,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "price",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "brush_brush_bg",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "#333",
+                      "fillOpacity": 0.125,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (seconds): :01; price: 150",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 50,
+                      "y": 100,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (seconds): :02; price: 100",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 100,
+                      "y": 30.000000000000004,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (seconds): :03; price: 170",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 150,
+                      "y": 35.00000000000001,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (seconds): :04; price: 165",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 200,
+                      "y": 0,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (seconds): :05; price: 200",
+                      "ariaRoleDescription": "point"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "brush_brush",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "transparent",
+                      "stroke": null,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 200,
+              "height": 200,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 25,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 50,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 75,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 100,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 125,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 150,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 175,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 200,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 150,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 100,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 50,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 25,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 50,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 75,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 100,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 125,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 150,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 175,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 200,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "00:00",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 25,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 0,
+                              "text": "00:05",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 50,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "00:10",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 75,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 0,
+                              "text": "00:15",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 100,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "00:20",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 125,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 0,
+                              "text": "00:25",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 150,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "00:30",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 175,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 0,
+                              "text": "00:35",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 200,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "00:40",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 100,
+                              "y": 21,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "date (minutes)",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 150,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 100,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 50,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 200,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 150,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "50",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 100,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "100",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 50,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "150",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 0,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "200",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -28.5927734375,
+                              "y": 100,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "price",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_1_marks",
+                  "role": "mark",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (minutes): 00:00; price: 150",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 50,
+                      "y": 100,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (minutes): 00:10; price: 100",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 100,
+                      "y": 30.000000000000004,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (minutes): 00:20; price: 170",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 150,
+                      "y": 35.00000000000001,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (minutes): 00:30; price: 165",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 200,
+                      "y": 0,
+                      "fill": "transparent",
+                      "opacity": 0.7,
+                      "stroke": "goldenrod",
+                      "strokeWidth": 2,
+                      "size": 30,
+                      "shape": "circle",
+                      "description": "date (minutes): 00:40; price: 200",
+                      "ariaRoleDescription": "point"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 267,
+              "y": 0,
+              "width": 200,
+              "height": 200,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 200
+    }
+  ],
+  "zindex": 0
+}

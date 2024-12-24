@@ -1,0 +1,508 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 100,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 480
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 480
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 100,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 100,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -16.8642578125,
+                              "y": 100,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "price",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "area",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "interactive": false,
+                  "clip": true,
+                  "items": [],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 480,
+              "height": 200,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 60.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 480
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 240,
+                              "y": 4,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "date",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 60.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 30,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 30,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 60,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -16.8642578125,
+                              "y": 30,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "price",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "brush_brush_bg",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "#333",
+                      "fillOpacity": 0.125,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "area",
+                  "name": "concat_1_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "brush_brush",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "transparent",
+                      "stroke": null,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 222,
+              "width": 480,
+              "height": 60,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 480,
+      "height": 0
+    }
+  ],
+  "zindex": 0
+}

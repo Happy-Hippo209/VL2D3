@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "config": {"legend": {"disable": true}}, "data": {"url": "https://raw.githubusercontent.com/JackECameron/FIT3179/main/D2_resources/data/stationData/stationData_long.csv", "format": {"type": "csv"}}, "transform": [{"filter": "datum.stationNum == 10"}], "encoding": {"theta": {"field": "perc", "type": "quantitative", "stack": true}}, "layer": [{"mark": {"type": "arc", "radius2": 90, "radius": 140, "stroke": "white", "strokeWidth": 4, "cornerRadius": 10}, "transform": [{"filter": "datum.class == 'unit'"}, {"filter": "datum.perc != 0"}, {"calculate": "datum.perc + '%'", "as": "perLabel1"}], "encoding": {"color": {"field": "type", "type": "nominal", "scale": {"scheme": "greys", "type": "ordinal"}}, "tooltip": [{"field": "decrip", "type": "nominal", "title": "Equipment Class"}, {"field": "quant", "type": "quantitative", "title": "Total Number"}, {"field": "perLabel1", "title": "Percent of Equipment"}]}}, {"mark": {"type": "text", "radius": 115, "color": "white", "opacity": 0}, "transform": [{"filter": "datum.class == 'unit'"}, {"filter": "datum.perc != 0"}, {"calculate": "datum.perc + '%'", "as": "perLabel2"}], "encoding": {"text": {"field": "perLabel2"}}}, {"mark": {"type": "arc", "radius2": 140, "radius": 190, "stroke": "white", "strokeWidth": 4, "cornerRadius": 10}, "transform": [{"filter": "datum.class == 'equipment'"}, {"filter": "datum.perc != 0"}, {"calculate": "datum.perc + '%'", "as": "perLabel2"}], "encoding": {"color": {"field": "type", "type": "nominal"}, "tooltip": [{"field": "decrip", "type": "nominal", "title": "Equipment Type"}, {"field": "quant", "type": "quantitative", "title": "Total Number"}, {"field": "perLabel2", "title": "Percent of Equipment"}]}}, {"mark": {"type": "text", "radius": 165, "color": "white", "opacity": 0}, "transform": [{"filter": "datum.class == 'equipment'"}, {"filter": "datum.perc != 0"}, {"calculate": "datum.perc + '%'", "as": "perLabel2"}], "encoding": {"text": {"field": "perLabel2"}}}], "view": {"stroke": null}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,844 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 48,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 97,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 145,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 194,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 242,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 290,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 339,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 387,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 435,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 484,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 532,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 581,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 629,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 2,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 48.38461538461539,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 96.76923076923077,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 145.15384615384616,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "15",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 193.53846153846155,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 241.92307692307693,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 290.3076923076923,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 338.6923076923077,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "35",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 387.0769230769231,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 435.46153846153845,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "45",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 483.84615384615387,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 532.2307692307692,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "55",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 580.6153846153846,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 629,
+                      "y": 2,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "65",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 629
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 314.5,
+                      "y": 16,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Life expectancy",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 27,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 81,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 136,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 190,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 245,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 354,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 409,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 463,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 518,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 572,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 26.772727272727238,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Chad",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 81.31818181818178,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "South Sudan",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 135.86363636363632,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Zimbabwe",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 190.40909090909088,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Sierra Leone",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 244.95454545454544,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Guinea-Bissau",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 299.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Zambia",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 354.0454545454545,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Afghanistan",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 408.59090909090907,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Swaziland",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 463.1363636363636,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Somalia",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 517.6818181818181,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Central African Republic",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 572.2272727272727,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Lesotho",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 600
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 329.99999999999994,
+              "width": 565.1323076923077,
+              "height": 49.09090909090909,
+              "fill": "#FF6973",
+              "x2": 565.1323076923077,
+              "description": "lifeExp: 58; country: Afghanistan; region: Asia; Country: Afghanistan; Region: Asia; Age (years): 58.4",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 493.6363636363636,
+              "width": 492.5553846153846,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 492.5553846153846,
+              "description": "lifeExp: 51; country: Central African Republic; region: Africa; Country: Central African Republic; Region: Africa; Age (years): 50.9",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 2.727272727272691,
+              "width": 582.5507692307692,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 582.5507692307692,
+              "description": "lifeExp: 60; country: Chad; region: Africa; Country: Chad; Region: Africa; Age (years): 60.2",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 220.90909090909088,
+              "width": 573.8415384615384,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 573.8415384615384,
+              "description": "lifeExp: 59; country: Guinea-Bissau; region: Africa; Country: Guinea-Bissau; Region: Africa; Age (years): 59.3",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 548.1818181818182,
+              "width": 491.5876923076923,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 491.5876923076923,
+              "description": "lifeExp: 51; country: Lesotho; region: Africa; Country: Lesotho; Region: Africa; Age (years): 50.8",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 166.36363636363632,
+              "width": 576.7446153846154,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 576.7446153846154,
+              "description": "lifeExp: 60; country: Sierra Leone; region: Africa; Country: Sierra Leone; Region: Africa; Age (years): 59.6",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 439.09090909090907,
+              "width": 557.3907692307693,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 557.3907692307693,
+              "description": "lifeExp: 58; country: Somalia; region: Africa; Country: Somalia; Region: Africa; Age (years): 57.6",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 57.27272727272724,
+              "width": 582.5507692307692,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 582.5507692307692,
+              "description": "lifeExp: 60; country: South Sudan; region: Africa; Country: South Sudan; Region: Africa; Age (years): 60.2",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 384.5454545454545,
+              "width": 563.1969230769231,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 563.1969230769231,
+              "description": "lifeExp: 58; country: Swaziland; region: Africa; Country: Swaziland; Region: Africa; Age (years): 58.2",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 275.45454545454544,
+              "width": 571.9061538461539,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 571.9061538461539,
+              "description": "lifeExp: 59; country: Zambia; region: Africa; Country: Zambia; Region: Africa; Age (years): 59.1",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 111.81818181818178,
+              "width": 578.68,
+              "height": 49.09090909090909,
+              "fill": "#08C5ED",
+              "x2": 578.68,
+              "description": "lifeExp: 60; country: Zimbabwe; region: Africa; Country: Zimbabwe; Region: Africa; Age (years): 59.8",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Countries with the lowest life expectancy, 2017",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 314.5,
+              "y": -23,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 629,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "transparent"
+    }
+  ],
+  "zindex": 0
+}

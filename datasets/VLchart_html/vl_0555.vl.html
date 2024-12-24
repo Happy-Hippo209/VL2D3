@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A simple bar chart with embedded data.", "data": {"url": "https://raw.githubusercontent.com/RDeconomist/data/main/e4e9/Nokia_Revenue.json"}, "config": {"style": {"cell": {"stroke": "transparent"}}}, "width": 500, "height": 350, "title": {"text": "Nokia's Decline", "subtitle": ["Revenue, Billions of USD, 2022 Prices", "Data: Nokia", ""], "fontSize": 16, "subtitleFontSize": 12, "subtitleFontStyle": "italic", "anchor": "start", "color": "black"}, "layer": [{"mark": {"type": "bar"}, "encoding": {"x": {"field": "Year", "scale": {"paddingInner": 0.09, "paddingOuter": 0}, "type": "nominal", "axis": {"labelAngle": 90, "labelFlush": false}, "sort": {"field": "Year"}, "title": null}, "y": {"field": "divRevenue", "scale": {"domainMax": 110}, "type": "quantitative", "axis": {"format": "2s", "titleFontWeight": "normal", "grid": false}, "title": "Billions USD"}, "color": {"value": "rgb(128,0,0)"}}, "transform": [{"filter": "datum.Series == 'Real_Revenue'"}]}, {"mark": {"type": "bar"}, "encoding": {"x": {"field": "Year", "scale": {"paddingInner": 0.09, "paddingOuter": 0}, "type": "nominal", "axis": {"labelAngle": 0, "labelFlush": false}, "sort": {"field": "Year"}, "title": null}, "y": {"field": "divRevenue", "scale": {"domainMax": 110}, "type": "quantitative", "axis": {"format": "2s", "titleFontWeight": "normal", "grid": false}, "title": "Billions USD"}, "color": {"value": "rgb(128,0,0)"}}, "transform": [{"filter": "datum.Series == 'Real_Revenue'"}]}, {"mark": {"type": "text", "dy": -10, "fontSize": 10, "fontWeight": 200}, "encoding": {"x": {"field": "Year", "scale": {"paddingInner": 0.09, "paddingOuter": 0}, "type": "nominal", "axis": {"labelAngle": 0, "labelFlush": false}, "sort": {"field": "Year"}, "title": null}, "y": {"field": "divRevenue", "type": "quantitative", "axis": {"format": "2s", "titleFontWeight": "normal"}, "title": "Billions USD"}, "color": {"value": "rgb(100,0,0)"}, "text": {"field": "divRevenue", "format": "0d"}}, "transform": [{"filter": "datum.Series == 'Real_Revenue'"}, {"calculate": "datum.Year == '2001' | datum.Year == '2022' ? datum.Year : ' \u2019' + substring(datum.Year, 2,4) ", "as": "shortYear"}, {"calculate": "datum.Revenue / 1000000000 ", "as": "divRevenue"}]}], "transform": [{"calculate": "datum.Year == '2001' | datum.Year == '2022' ? datum.Year : ' \u2019' + substring(datum.Year, 2,4) ", "as": "shortYear"}, {"calculate": "datum.Revenue / 1000000000 ", "as": "divRevenue"}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

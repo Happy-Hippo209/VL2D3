@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Tufte inspired chart, with white grid lines over the bars", "title": {"text": "US: top trade partners - goods", "subtitle": ["Total trade (imports plus exports). Annual to 2023. Million USD.", "Source: Census Bureau", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "view": {"stroke": "transparent"}, "width": 400, "height": 300, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/e4e/ch7_Trade/UStradePartnersGoods.csv"}, "transform": [{"filter": "datum.tradePartner<21"}], "mark": {"type": "bar", "color": "rgb(128,0,0)"}, "encoding": {"x": {"field": "tradeTotal", "type": "quantitative", "title": null, "axis": {"zindex": 1, "gridColor": "white", "gridWidth": 0.5, "labelAngle": 0, "format": "f"}}, "y": {"field": "Country", "title": null, "type": "nominal", "sort": "-x"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

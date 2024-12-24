@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Donut chart of UK debt", "title": {"text": "UK debt - by type", "subtitle": ["Source: DMO", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "view": {"stroke": "transparent"}, "height": 300, "width": 290, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/GiltsInIssueClean.csv"}, "mark": {"type": "arc", "innerRadius": 100}, "encoding": {"theta": {"field": "issueAmount", "type": "quantitative"}, "color": {"field": "giltType", "type": "nominal", "legend": {"title": null, "orient": "bottom"}, "scale": {"range": ["red", "purple", "orange", "green"]}, "sort": {"field": "name", "order": "descending", "op": "count"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

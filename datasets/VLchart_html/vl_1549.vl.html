@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "concat": [{"mark": "bar", "encoding": {"color": {"field": "species", "type": "nominal"}, "tooltip": [{"bin": true, "field": "value", "title": "x", "type": "quantitative"}, {"aggregate": "count", "title": "y", "type": "quantitative"}], "x": {"bin": true, "field": "value", "title": "", "type": "quantitative"}, "y": {"aggregate": "count", "title": "", "type": "quantitative"}}, "height": 150, "title": "petalLength", "transform": [{"calculate": "datum._source.ml.species_prediction", "as": "species_prediction"}, {"calculate": "datum._source.species", "as": "species"}, {"calculate": "datum._source.petalLength", "as": "petalLength"}, {"calculate": "datum._source.petalWidth", "as": "petalWidth"}, {"calculate": "datum._source.sepalLength", "as": "sepalLength"}, {"calculate": "datum._source.sepalWidth", "as": "sepalWidth"}, {"fold": ["petalLength", "petalWidth", "sepalLength", "sepalWidth"], "as": ["attribute", "value"]}, {"filter": "(datum.attribute === 'petalLength')"}], "width": 150}, {"mark": "bar", "encoding": {"color": {"field": "species", "type": "nominal"}, "tooltip": [{"bin": true, "field": "value", "title": "x", "type": "quantitative"}, {"aggregate": "count", "title": "y", "type": "quantitative"}], "x": {"bin": true, "field": "value", "title": "", "type": "quantitative"}, "y": {"aggregate": "count", "title": "", "type": "quantitative"}}, "height": 150, "title": "petalWidth", "transform": [{"calculate": "datum._source.ml.species_prediction", "as": "species_prediction"}, {"calculate": "datum._source.species", "as": "species"}, {"calculate": "datum._source.petalLength", "as": "petalLength"}, {"calculate": "datum._source.petalWidth", "as": "petalWidth"}, {"calculate": "datum._source.sepalLength", "as": "sepalLength"}, {"calculate": "datum._source.sepalWidth", "as": "sepalWidth"}, {"fold": ["petalLength", "petalWidth", "sepalLength", "sepalWidth"], "as": ["attribute", "value"]}, {"filter": "(datum.attribute === 'petalWidth')"}], "width": 150}, {"mark": "bar", "encoding": {"color": {"field": "species", "type": "nominal"}, "tooltip": [{"bin": true, "field": "value", "title": "x", "type": "quantitative"}, {"aggregate": "count", "title": "y", "type": "quantitative"}], "x": {"bin": true, "field": "value", "title": "", "type": "quantitative"}, "y": {"aggregate": "count", "title": "", "type": "quantitative"}}, "height": 150, "title": "sepalLength", "transform": [{"calculate": "datum._source.ml.species_prediction", "as": "species_prediction"}, {"calculate": "datum._source.species", "as": "species"}, {"calculate": "datum._source.petalLength", "as": "petalLength"}, {"calculate": "datum._source.petalWidth", "as": "petalWidth"}, {"calculate": "datum._source.sepalLength", "as": "sepalLength"}, {"calculate": "datum._source.sepalWidth", "as": "sepalWidth"}, {"fold": ["petalLength", "petalWidth", "sepalLength", "sepalWidth"], "as": ["attribute", "value"]}, {"filter": "(datum.attribute === 'sepalLength')"}], "width": 150}, {"mark": "bar", "encoding": {"color": {"field": "species", "type": "nominal"}, "tooltip": [{"bin": true, "field": "value", "title": "x", "type": "quantitative"}, {"aggregate": "count", "title": "y", "type": "quantitative"}], "x": {"bin": true, "field": "value", "title": "", "type": "quantitative"}, "y": {"aggregate": "count", "title": "", "type": "quantitative"}}, "height": 150, "title": "sepalWidth", "transform": [{"calculate": "datum._source.ml.species_prediction", "as": "species_prediction"}, {"calculate": "datum._source.species", "as": "species"}, {"calculate": "datum._source.petalLength", "as": "petalLength"}, {"calculate": "datum._source.petalWidth", "as": "petalWidth"}, {"calculate": "datum._source.sepalLength", "as": "sepalLength"}, {"calculate": "datum._source.sepalWidth", "as": "sepalWidth"}, {"fold": ["petalLength", "petalWidth", "sepalLength", "sepalWidth"], "as": ["attribute", "value"]}, {"filter": "(datum.attribute === 'sepalWidth')"}], "width": 150}], "columns": 2, "data": {"url": "https://walterra.github.io/jupyter2kibana/data/iris_classification.json", "format": {"property": "hits.hits", "type": "json"}}, "resolve": {"axis": {"x": "independent", "y": "independent"}, "scale": {"x": "independent", "y": "independent"}}, "$schema": "https://vega.github.io/schema/vega-lite/v5.json"};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

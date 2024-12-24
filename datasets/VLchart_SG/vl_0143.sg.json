@@ -1,0 +1,1127 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 550,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 500,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 400,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 2,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "$0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 30.541666666666664,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$5,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 61.08333333333333,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$10,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 91.625,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$15,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 122.16666666666666,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "$20,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 152.70833333333334,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$25,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 183.25,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$30,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 213.79166666666669,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$35,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 244.33333333333331,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "$40,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 274.875,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$45,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 305.4166666666667,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$50,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 335.9583333333333,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$55,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 366.5,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "$60,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 397.04166666666663,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$65,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 427.58333333333337,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$70,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 458.125,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$75,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 488.66666666666663,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "$80,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 519.2083333333334,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$85,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 549.75,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$90,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 580.2916666666666,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$95,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 610.8333333333334,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "$100,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 641.375,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$105,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 671.9166666666666,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$110,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 702.4583333333334,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "$115,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 733,
+                      "y": 2,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "$120,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 733
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 366.5,
+                      "y": 16,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "GDP per capita",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 550,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 500,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 400,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 550,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 500,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 450,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "15",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 400.00000000000006,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 349.99999999999994,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 249.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "35",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 200.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "45",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 99.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 50.00000000000002,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "55",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 1,
+              "y": 39.99999999999999,
+              "width": 29.541666666666664,
+              "height": 560,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 30.541666666666664,
+              "y2": 600,
+              "description": "gdpPercap (binned): $0 \u2013 $5,000; Count of Records: 56",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 62.08333333333333,
+              "y": 349.99999999999994,
+              "width": 29.54166666666667,
+              "height": 250.00000000000006,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 91.625,
+              "y2": 600,
+              "description": "gdpPercap (binned): $10,000 \u2013 $15,000; Count of Records: 25",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 275.875,
+              "y": 540,
+              "width": 29.541666666666686,
+              "height": 60,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 305.4166666666667,
+              "y2": 600,
+              "description": "gdpPercap (binned): $45,000 \u2013 $50,000; Count of Records: 6",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 31.541666666666664,
+              "y": 300,
+              "width": 29.541666666666664,
+              "height": 300,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 61.08333333333333,
+              "y2": 600,
+              "description": "gdpPercap (binned): $5,000 \u2013 $10,000; Count of Records: 30",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 123.16666666666666,
+              "y": 450,
+              "width": 29.541666666666686,
+              "height": 150,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 152.70833333333334,
+              "y2": 600,
+              "description": "gdpPercap (binned): $20,000 \u2013 $25,000; Count of Records: 15",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 92.625,
+              "y": 440.00000000000006,
+              "width": 29.541666666666657,
+              "height": 159.99999999999994,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 122.16666666666666,
+              "y2": 600,
+              "description": "gdpPercap (binned): $15,000 \u2013 $20,000; Count of Records: 16",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 245.33333333333331,
+              "y": 550,
+              "width": 29.541666666666686,
+              "height": 50,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 274.875,
+              "y2": 600,
+              "description": "gdpPercap (binned): $40,000 \u2013 $45,000; Count of Records: 5",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 428.58333333333337,
+              "y": 590,
+              "width": 29.54166666666663,
+              "height": 10,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 458.125,
+              "y2": 600,
+              "description": "gdpPercap (binned): $70,000 \u2013 $75,000; Count of Records: 1",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 184.25,
+              "y": 530,
+              "width": 29.541666666666686,
+              "height": 70,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 213.79166666666669,
+              "y2": 600,
+              "description": "gdpPercap (binned): $30,000 \u2013 $35,000; Count of Records: 7",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 153.70833333333334,
+              "y": 520,
+              "width": 29.541666666666657,
+              "height": 80,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 183.25,
+              "y2": 600,
+              "description": "gdpPercap (binned): $25,000 \u2013 $30,000; Count of Records: 8",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 214.79166666666669,
+              "y": 520,
+              "width": 29.54166666666663,
+              "height": 80,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 244.33333333333331,
+              "y2": 600,
+              "description": "gdpPercap (binned): $35,000 \u2013 $40,000; Count of Records: 8",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 367.5,
+              "y": 580,
+              "width": 29.54166666666663,
+              "height": 20,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 397.04166666666663,
+              "y2": 600,
+              "description": "gdpPercap (binned): $60,000 \u2013 $65,000; Count of Records: 2",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 398.04166666666663,
+              "y": 580,
+              "width": 29.541666666666742,
+              "height": 20,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 427.58333333333337,
+              "y2": 600,
+              "description": "gdpPercap (binned): $65,000 \u2013 $70,000; Count of Records: 2",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 581.2916666666666,
+              "y": 590,
+              "width": 29.541666666666742,
+              "height": 10,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 610.8333333333334,
+              "y2": 600,
+              "description": "gdpPercap (binned): $95,000 \u2013 $100,000; Count of Records: 1",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 703.4583333333334,
+              "y": 590,
+              "width": 29.54166666666663,
+              "height": 10,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 733,
+              "y2": 600,
+              "description": "gdpPercap (binned): $115,000 \u2013 $120,000; Count of Records: 1",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 306.4166666666667,
+              "y": 580,
+              "width": 29.54166666666663,
+              "height": 20,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 335.9583333333333,
+              "y2": 600,
+              "description": "gdpPercap (binned): $50,000 \u2013 $55,000; Count of Records: 2",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 489.66666666666663,
+              "y": 590,
+              "width": 29.541666666666742,
+              "height": 10,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 519.2083333333334,
+              "y2": 600,
+              "description": "gdpPercap (binned): $80,000 \u2013 $85,000; Count of Records: 1",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 336.9583333333333,
+              "y": 590,
+              "width": 29.541666666666686,
+              "height": 10,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "x2": 366.5,
+              "y2": 600,
+              "description": "gdpPercap (binned): $55,000 \u2013 $60,000; Count of Records: 1",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Distribution of income across countries, 2017",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 366.5,
+              "y": -22,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 733,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "transparent"
+    }
+  ],
+  "zindex": 0
+}

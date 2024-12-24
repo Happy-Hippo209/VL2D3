@@ -1,0 +1,3563 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 250,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            },
+                            {
+                              "x": 0,
+                              "y": 212,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            },
+                            {
+                              "x": 0,
+                              "y": 173,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            },
+                            {
+                              "x": 0,
+                              "y": 135,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            },
+                            {
+                              "x": 0,
+                              "y": 96,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            },
+                            {
+                              "x": 0,
+                              "y": 58,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            },
+                            {
+                              "x": 0,
+                              "y": 19,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 13,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 72,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 130,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 189,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 247,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 306,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 364,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 423,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 481,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 540,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 598,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 657,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 715,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 381,
+                              "y": 16,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": " ",
+                              "angle": 0,
+                              "font": "Roboto",
+                              "fontSize": 12,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 250.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -8,
+                              "y": 250,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": -8,
+                              "y": 211.53846153846155,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": -8,
+                              "y": 173.07692307692307,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": -8,
+                              "y": 134.6153846153846,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "3,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": -8,
+                              "y": 96.15384615384615,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "4,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": -8,
+                              "y": 57.69230769230768,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "5,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": -8,
+                              "y": 19.23076923076922,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "6,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": -10,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Daily number of cases",
+                              "angle": 0,
+                              "font": "Roboto",
+                              "fontSize": 12,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 2.0000000331243317,
+                      "y": 249.96153846153845,
+                      "width": 6,
+                      "height": 0.03846153846154721,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Feb 29, 2020; CASE_COUNT: 1; Area Name: New York City; Date: Feb 29, 2020; Daily new cases: 1; Total cases: 1",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 10.355555589018323,
+                      "y": 249.96153846153845,
+                      "width": 6,
+                      "height": 0.03846153846154721,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 01, 2020; CASE_COUNT: 1; Area Name: New York City; Date: Mar 01, 2020; Daily new cases: 1; Total cases: 2",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 18.711111144912312,
+                      "y": 250,
+                      "width": 6,
+                      "height": 0,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 02, 2020; CASE_COUNT: 0; Area Name: New York City; Date: Mar 02, 2020; Daily new cases: 0; Total cases: 2",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 27.0666667008063,
+                      "y": 249.9230769230769,
+                      "width": 6,
+                      "height": 0.07692307692309441,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 03, 2020; CASE_COUNT: 2; Area Name: New York City; Date: Mar 03, 2020; Daily new cases: 2; Total cases: 4",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 35.422222256700294,
+                      "y": 249.80769230769232,
+                      "width": 6,
+                      "height": 0.1923076923076792,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 04, 2020; CASE_COUNT: 5; Area Name: New York City; Date: Mar 04, 2020; Daily new cases: 5; Total cases: 9",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 43.77777781259428,
+                      "y": 249.88461538461536,
+                      "width": 6,
+                      "height": 0.11538461538464162,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 05, 2020; CASE_COUNT: 3; Area Name: New York City; Date: Mar 05, 2020; Daily new cases: 3; Total cases: 12",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 52.13333336848827,
+                      "y": 249.69230769230768,
+                      "width": 6,
+                      "height": 0.3076923076923208,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 06, 2020; CASE_COUNT: 8; Area Name: New York City; Date: Mar 06, 2020; Daily new cases: 8; Total cases: 20",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 60.48888892438227,
+                      "y": 249.73076923076923,
+                      "width": 6,
+                      "height": 0.2692307692307736,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 07, 2020; CASE_COUNT: 7; Area Name: New York City; Date: Mar 07, 2020; Daily new cases: 7; Total cases: 27",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 68.84444448027625,
+                      "y": 249.19230769230768,
+                      "width": 6,
+                      "height": 0.8076923076923208,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 08, 2020; CASE_COUNT: 21; Area Name: New York City; Date: Mar 08, 2020; Daily new cases: 21; Total cases: 48",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 77.20000003617025,
+                      "y": 247.76923076923077,
+                      "width": 6,
+                      "height": 2.2307692307692264,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 09, 2020; CASE_COUNT: 58; Area Name: New York City; Date: Mar 09, 2020; Daily new cases: 58; Total cases: 106",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 85.55555559206424,
+                      "y": 247.30769230769232,
+                      "width": 6,
+                      "height": 2.692307692307679,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 10, 2020; CASE_COUNT: 70; Area Name: New York City; Date: Mar 10, 2020; Daily new cases: 70; Total cases: 176",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 93.91111114795824,
+                      "y": 244.03846153846155,
+                      "width": 6,
+                      "height": 5.961538461538453,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 11, 2020; CASE_COUNT: 155; Area Name: New York City; Date: Mar 11, 2020; Daily new cases: 155; Total cases: 331",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 102.26666670385222,
+                      "y": 236.26923076923075,
+                      "width": 6,
+                      "height": 13.730769230769255,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 12, 2020; CASE_COUNT: 357; Area Name: New York City; Date: Mar 12, 2020; Daily new cases: 357; Total cases: 688",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 110.62222225974621,
+                      "y": 226.15384615384616,
+                      "width": 6,
+                      "height": 23.84615384615384,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 13, 2020; CASE_COUNT: 620; Area Name: New York City; Date: Mar 13, 2020; Daily new cases: 620; Total cases: 1308",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 118.9777778156402,
+                      "y": 225.30769230769232,
+                      "width": 6,
+                      "height": 24.69230769230768,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 14, 2020; CASE_COUNT: 642; Area Name: New York City; Date: Mar 14, 2020; Daily new cases: 642; Total cases: 1950",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 127.3333333715342,
+                      "y": 210.26923076923077,
+                      "width": 6,
+                      "height": 39.730769230769226,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 15, 2020; CASE_COUNT: 1033; Area Name: New York City; Date: Mar 15, 2020; Daily new cases: 1033; Total cases: 2983",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 135.6888889274282,
+                      "y": 168.3846153846154,
+                      "width": 6,
+                      "height": 81.61538461538461,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 16, 2020; CASE_COUNT: 2122; Area Name: New York City; Date: Mar 16, 2020; Daily new cases: 2122; Total cases: 5105",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.04444448332217,
+                      "y": 155.5,
+                      "width": 6,
+                      "height": 94.5,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 17, 2020; CASE_COUNT: 2457; Area Name: New York City; Date: Mar 17, 2020; Daily new cases: 2457; Total cases: 7562",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 152.40000003921617,
+                      "y": 135.3846153846154,
+                      "width": 6,
+                      "height": 114.61538461538461,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 18, 2020; CASE_COUNT: 2980; Area Name: New York City; Date: Mar 18, 2020; Daily new cases: 2980; Total cases: 10542",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 160.75555559511017,
+                      "y": 107.23076923076924,
+                      "width": 6,
+                      "height": 142.76923076923077,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 19, 2020; CASE_COUNT: 3712; Area Name: New York City; Date: Mar 19, 2020; Daily new cases: 3712; Total cases: 14254",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 169.11111115100414,
+                      "y": 95.65384615384615,
+                      "width": 6,
+                      "height": 154.34615384615387,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 20, 2020; CASE_COUNT: 4013; Area Name: New York City; Date: Mar 20, 2020; Daily new cases: 4013; Total cases: 18267",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 177.46666670689814,
+                      "y": 148.5,
+                      "width": 6,
+                      "height": 101.5,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 21, 2020; CASE_COUNT: 2639; Area Name: New York City; Date: Mar 21, 2020; Daily new cases: 2639; Total cases: 20906",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 185.82222226279214,
+                      "y": 150.76923076923077,
+                      "width": 6,
+                      "height": 99.23076923076923,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 22, 2020; CASE_COUNT: 2580; Area Name: New York City; Date: Mar 22, 2020; Daily new cases: 2580; Total cases: 23486",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 194.1777778186861,
+                      "y": 112.8076923076923,
+                      "width": 6,
+                      "height": 137.19230769230768,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 23, 2020; CASE_COUNT: 3567; Area Name: New York City; Date: Mar 23, 2020; Daily new cases: 3567; Total cases: 27053",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 202.5333333745801,
+                      "y": 77.03846153846153,
+                      "width": 6,
+                      "height": 172.96153846153845,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 24, 2020; CASE_COUNT: 4497; Area Name: New York City; Date: Mar 24, 2020; Daily new cases: 4497; Total cases: 31550",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 210.8888889304741,
+                      "y": 63.84615384615386,
+                      "width": 6,
+                      "height": 186.15384615384613,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 25, 2020; CASE_COUNT: 4840; Area Name: New York City; Date: Mar 25, 2020; Daily new cases: 4840; Total cases: 36390",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 219.24444448636808,
+                      "y": 56.730769230769226,
+                      "width": 6,
+                      "height": 193.26923076923077,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 26, 2020; CASE_COUNT: 5025; Area Name: New York City; Date: Mar 26, 2020; Daily new cases: 5025; Total cases: 41415",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 227.60000004226205,
+                      "y": 53.96153846153845,
+                      "width": 6,
+                      "height": 196.03846153846155,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 27, 2020; CASE_COUNT: 5097; Area Name: New York City; Date: Mar 27, 2020; Daily new cases: 5097; Total cases: 46512",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 235.95555559815608,
+                      "y": 117,
+                      "width": 6,
+                      "height": 133,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 28, 2020; CASE_COUNT: 3458; Area Name: New York City; Date: Mar 28, 2020; Daily new cases: 3458; Total cases: 49970",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 244.31111115405005,
+                      "y": 114.38461538461539,
+                      "width": 6,
+                      "height": 135.6153846153846,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 29, 2020; CASE_COUNT: 3526; Area Name: New York City; Date: Mar 29, 2020; Daily new cases: 3526; Total cases: 53496",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 252.66666670994402,
+                      "y": 14.846153846153843,
+                      "width": 6,
+                      "height": 235.15384615384616,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 30, 2020; CASE_COUNT: 6114; Area Name: New York City; Date: Mar 30, 2020; Daily new cases: 6114; Total cases: 59610",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 261.022222265838,
+                      "y": 41.038461538461554,
+                      "width": 6,
+                      "height": 208.96153846153845,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Mar 31, 2020; CASE_COUNT: 5433; Area Name: New York City; Date: Mar 31, 2020; Daily new cases: 5433; Total cases: 65043",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 269.377777821732,
+                      "y": 40.92307692307692,
+                      "width": 6,
+                      "height": 209.0769230769231,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 01, 2020; CASE_COUNT: 5436; Area Name: New York City; Date: Apr 01, 2020; Daily new cases: 5436; Total cases: 70479",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 277.733333377626,
+                      "y": 28.730769230769226,
+                      "width": 6,
+                      "height": 221.26923076923077,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 02, 2020; CASE_COUNT: 5753; Area Name: New York City; Date: Apr 02, 2020; Daily new cases: 5753; Total cases: 76232",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 286.08888893352,
+                      "y": 32.34615384615386,
+                      "width": 6,
+                      "height": 217.65384615384613,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 03, 2020; CASE_COUNT: 5659; Area Name: New York City; Date: Apr 03, 2020; Daily new cases: 5659; Total cases: 81891",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 294.44444448941397,
+                      "y": 101.6923076923077,
+                      "width": 6,
+                      "height": 148.30769230769232,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 04, 2020; CASE_COUNT: 3856; Area Name: New York City; Date: Apr 04, 2020; Daily new cases: 3856; Total cases: 85747",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 302.800000045308,
+                      "y": 104.76923076923079,
+                      "width": 6,
+                      "height": 145.23076923076923,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 05, 2020; CASE_COUNT: 3776; Area Name: New York City; Date: Apr 05, 2020; Daily new cases: 3776; Total cases: 89523",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 311.15555560120197,
+                      "y": 5.07692307692309,
+                      "width": 6,
+                      "height": 244.9230769230769,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 06, 2020; CASE_COUNT: 6368; Area Name: New York City; Date: Apr 06, 2020; Daily new cases: 6368; Total cases: 95891",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 319.51111115709597,
+                      "y": 17.1923076923077,
+                      "width": 6,
+                      "height": 232.8076923076923,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 07, 2020; CASE_COUNT: 6053; Area Name: New York City; Date: Apr 07, 2020; Daily new cases: 6053; Total cases: 101944",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 327.86666671298997,
+                      "y": 36.03846153846155,
+                      "width": 6,
+                      "height": 213.96153846153845,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 08, 2020; CASE_COUNT: 5563; Area Name: New York City; Date: Apr 08, 2020; Daily new cases: 5563; Total cases: 107507",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 336.22222226888397,
+                      "y": 56.19230769230768,
+                      "width": 6,
+                      "height": 193.80769230769232,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 09, 2020; CASE_COUNT: 5039; Area Name: New York City; Date: Apr 09, 2020; Daily new cases: 5039; Total cases: 112546",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 344.57777782477797,
+                      "y": 77.00000000000001,
+                      "width": 6,
+                      "height": 173,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 10, 2020; CASE_COUNT: 4498; Area Name: New York City; Date: Apr 10, 2020; Daily new cases: 4498; Total cases: 117044",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 352.93333338067197,
+                      "y": 107.30769230769229,
+                      "width": 6,
+                      "height": 142.6923076923077,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 11, 2020; CASE_COUNT: 3710; Area Name: New York City; Date: Apr 11, 2020; Daily new cases: 3710; Total cases: 120754",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 361.2888889365659,
+                      "y": 139.6153846153846,
+                      "width": 6,
+                      "height": 110.38461538461539,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 12, 2020; CASE_COUNT: 2870; Area Name: New York City; Date: Apr 12, 2020; Daily new cases: 2870; Total cases: 123624",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 369.6444444924599,
+                      "y": 123.07692307692308,
+                      "width": 6,
+                      "height": 126.92307692307692,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 13, 2020; CASE_COUNT: 3300; Area Name: New York City; Date: Apr 13, 2020; Daily new cases: 3300; Total cases: 126924",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 378.0000000483539,
+                      "y": 91.11538461538463,
+                      "width": 6,
+                      "height": 158.88461538461536,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 14, 2020; CASE_COUNT: 4131; Area Name: New York City; Date: Apr 14, 2020; Daily new cases: 4131; Total cases: 131055",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 386.3555556042479,
+                      "y": 101.30769230769232,
+                      "width": 6,
+                      "height": 148.69230769230768,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 15, 2020; CASE_COUNT: 3866; Area Name: New York City; Date: Apr 15, 2020; Daily new cases: 3866; Total cases: 134921",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 394.71111116014185,
+                      "y": 114.73076923076923,
+                      "width": 6,
+                      "height": 135.26923076923077,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 16, 2020; CASE_COUNT: 3517; Area Name: New York City; Date: Apr 16, 2020; Daily new cases: 3517; Total cases: 138438",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 403.0666667160359,
+                      "y": 112.53846153846153,
+                      "width": 6,
+                      "height": 137.46153846153845,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 17, 2020; CASE_COUNT: 3574; Area Name: New York City; Date: Apr 17, 2020; Daily new cases: 3574; Total cases: 142012",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 411.4222222719299,
+                      "y": 166.76923076923077,
+                      "width": 6,
+                      "height": 83.23076923076923,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 18, 2020; CASE_COUNT: 2164; Area Name: New York City; Date: Apr 18, 2020; Daily new cases: 2164; Total cases: 144176",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 419.77777782782385,
+                      "y": 159.65384615384613,
+                      "width": 6,
+                      "height": 90.34615384615387,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 19, 2020; CASE_COUNT: 2349; Area Name: New York City; Date: Apr 19, 2020; Daily new cases: 2349; Total cases: 146525",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 428.13333338371785,
+                      "y": 104.76923076923079,
+                      "width": 6,
+                      "height": 145.23076923076923,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 20, 2020; CASE_COUNT: 3776; Area Name: New York City; Date: Apr 20, 2020; Daily new cases: 3776; Total cases: 150301",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 436.4888889396118,
+                      "y": 132.5,
+                      "width": 6,
+                      "height": 117.5,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 21, 2020; CASE_COUNT: 3055; Area Name: New York City; Date: Apr 21, 2020; Daily new cases: 3055; Total cases: 153356",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 444.8444444955058,
+                      "y": 117,
+                      "width": 6,
+                      "height": 133,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 22, 2020; CASE_COUNT: 3458; Area Name: New York City; Date: Apr 22, 2020; Daily new cases: 3458; Total cases: 156814",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 453.20000005139985,
+                      "y": 140.6153846153846,
+                      "width": 6,
+                      "height": 109.38461538461539,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 23, 2020; CASE_COUNT: 2844; Area Name: New York City; Date: Apr 23, 2020; Daily new cases: 2844; Total cases: 159658",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 461.55555560729385,
+                      "y": 152.42307692307693,
+                      "width": 6,
+                      "height": 97.57692307692307,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 24, 2020; CASE_COUNT: 2537; Area Name: New York City; Date: Apr 24, 2020; Daily new cases: 2537; Total cases: 162195",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 469.9111111631878,
+                      "y": 188.73076923076923,
+                      "width": 6,
+                      "height": 61.269230769230774,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 25, 2020; CASE_COUNT: 1593; Area Name: New York City; Date: Apr 25, 2020; Daily new cases: 1593; Total cases: 163788",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 478.2666667190818,
+                      "y": 211.30769230769232,
+                      "width": 6,
+                      "height": 38.69230769230768,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 26, 2020; CASE_COUNT: 1006; Area Name: New York City; Date: Apr 26, 2020; Daily new cases: 1006; Total cases: 164794",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 486.62222227497574,
+                      "y": 161.26923076923077,
+                      "width": 6,
+                      "height": 88.73076923076923,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 27, 2020; CASE_COUNT: 2307; Area Name: New York City; Date: Apr 27, 2020; Daily new cases: 2307; Total cases: 167101",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 494.9777778308698,
+                      "y": 145.26923076923077,
+                      "width": 6,
+                      "height": 104.73076923076923,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 28, 2020; CASE_COUNT: 2723; Area Name: New York City; Date: Apr 28, 2020; Daily new cases: 2723; Total cases: 169824",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 503.3333333867638,
+                      "y": 159.96153846153845,
+                      "width": 6,
+                      "height": 90.03846153846155,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 29, 2020; CASE_COUNT: 2341; Area Name: New York City; Date: Apr 29, 2020; Daily new cases: 2341; Total cases: 172165",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 511.68888894265774,
+                      "y": 172.46153846153845,
+                      "width": 6,
+                      "height": 77.53846153846155,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: Apr 30, 2020; CASE_COUNT: 2016; Area Name: New York City; Date: Apr 30, 2020; Daily new cases: 2016; Total cases: 174181",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 520.0444444985517,
+                      "y": 177.65384615384616,
+                      "width": 6,
+                      "height": 72.34615384615384,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 01, 2020; CASE_COUNT: 1881; Area Name: New York City; Date: May 01, 2020; Daily new cases: 1881; Total cases: 176062",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 528.4000000544457,
+                      "y": 209.34615384615384,
+                      "width": 6,
+                      "height": 40.65384615384616,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 02, 2020; CASE_COUNT: 1057; Area Name: New York City; Date: May 02, 2020; Daily new cases: 1057; Total cases: 177119",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 536.7555556103398,
+                      "y": 219.9230769230769,
+                      "width": 6,
+                      "height": 30.076923076923094,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 03, 2020; CASE_COUNT: 782; Area Name: New York City; Date: May 03, 2020; Daily new cases: 782; Total cases: 177901",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 545.1111111662337,
+                      "y": 190.46153846153845,
+                      "width": 6,
+                      "height": 59.53846153846155,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 04, 2020; CASE_COUNT: 1548; Area Name: New York City; Date: May 04, 2020; Daily new cases: 1548; Total cases: 179449",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 553.4666667221277,
+                      "y": 192,
+                      "width": 6,
+                      "height": 58,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 05, 2020; CASE_COUNT: 1508; Area Name: New York City; Date: May 05, 2020; Daily new cases: 1508; Total cases: 180957",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 561.8222222780217,
+                      "y": 196.0769230769231,
+                      "width": 6,
+                      "height": 53.923076923076906,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 06, 2020; CASE_COUNT: 1402; Area Name: New York City; Date: May 06, 2020; Daily new cases: 1402; Total cases: 182359",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 570.1777778339157,
+                      "y": 202.3846153846154,
+                      "width": 6,
+                      "height": 47.61538461538461,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 07, 2020; CASE_COUNT: 1238; Area Name: New York City; Date: May 07, 2020; Daily new cases: 1238; Total cases: 183597",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 578.5333333898096,
+                      "y": 208.23076923076923,
+                      "width": 6,
+                      "height": 41.769230769230774,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 08, 2020; CASE_COUNT: 1086; Area Name: New York City; Date: May 08, 2020; Daily new cases: 1086; Total cases: 184683",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 586.8888889457037,
+                      "y": 224.19230769230768,
+                      "width": 6,
+                      "height": 25.80769230769232,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 09, 2020; CASE_COUNT: 671; Area Name: New York City; Date: May 09, 2020; Daily new cases: 671; Total cases: 185354",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 595.2444445015976,
+                      "y": 232.3076923076923,
+                      "width": 6,
+                      "height": 17.692307692307708,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 10, 2020; CASE_COUNT: 460; Area Name: New York City; Date: May 10, 2020; Daily new cases: 460; Total cases: 185814",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 603.6000000574917,
+                      "y": 202.6153846153846,
+                      "width": 6,
+                      "height": 47.38461538461539,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 11, 2020; CASE_COUNT: 1232; Area Name: New York City; Date: May 11, 2020; Daily new cases: 1232; Total cases: 187046",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 611.9555556133856,
+                      "y": 200.53846153846155,
+                      "width": 6,
+                      "height": 49.46153846153845,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 12, 2020; CASE_COUNT: 1286; Area Name: New York City; Date: May 12, 2020; Daily new cases: 1286; Total cases: 188332",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 620.3111111692796,
+                      "y": 198.76923076923075,
+                      "width": 6,
+                      "height": 51.230769230769255,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 13, 2020; CASE_COUNT: 1332; Area Name: New York City; Date: May 13, 2020; Daily new cases: 1332; Total cases: 189664",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 628.6666667251736,
+                      "y": 207.34615384615384,
+                      "width": 6,
+                      "height": 42.65384615384616,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 14, 2020; CASE_COUNT: 1109; Area Name: New York City; Date: May 14, 2020; Daily new cases: 1109; Total cases: 190773",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 637.0222222810677,
+                      "y": 216.5769230769231,
+                      "width": 6,
+                      "height": 33.423076923076906,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 15, 2020; CASE_COUNT: 869; Area Name: New York City; Date: May 15, 2020; Daily new cases: 869; Total cases: 191642",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 645.3777778369616,
+                      "y": 231.1923076923077,
+                      "width": 6,
+                      "height": 18.807692307692292,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 16, 2020; CASE_COUNT: 489; Area Name: New York City; Date: May 16, 2020; Daily new cases: 489; Total cases: 192131",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 653.7333333928556,
+                      "y": 236.03846153846152,
+                      "width": 6,
+                      "height": 13.961538461538481,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 17, 2020; CASE_COUNT: 363; Area Name: New York City; Date: May 17, 2020; Daily new cases: 363; Total cases: 192494",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 662.0888889487495,
+                      "y": 215.23076923076923,
+                      "width": 6,
+                      "height": 34.769230769230774,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 18, 2020; CASE_COUNT: 904; Area Name: New York City; Date: May 18, 2020; Daily new cases: 904; Total cases: 193398",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 670.4444445046436,
+                      "y": 211.73076923076923,
+                      "width": 6,
+                      "height": 38.269230769230774,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 19, 2020; CASE_COUNT: 995; Area Name: New York City; Date: May 19, 2020; Daily new cases: 995; Total cases: 194393",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 678.8000000605376,
+                      "y": 210.42307692307693,
+                      "width": 6,
+                      "height": 39.576923076923066,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 20, 2020; CASE_COUNT: 1029; Area Name: New York City; Date: May 20, 2020; Daily new cases: 1029; Total cases: 195422",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 687.1555556164316,
+                      "y": 210.69230769230768,
+                      "width": 6,
+                      "height": 39.30769230769232,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 21, 2020; CASE_COUNT: 1022; Area Name: New York City; Date: May 21, 2020; Daily new cases: 1022; Total cases: 196444",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 695.5111111723255,
+                      "y": 212.07692307692307,
+                      "width": 6,
+                      "height": 37.923076923076934,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 22, 2020; CASE_COUNT: 986; Area Name: New York City; Date: May 22, 2020; Daily new cases: 986; Total cases: 197430",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 703.8666667282196,
+                      "y": 232.92307692307693,
+                      "width": 6,
+                      "height": 17.076923076923066,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 23, 2020; CASE_COUNT: 444; Area Name: New York City; Date: May 23, 2020; Daily new cases: 444; Total cases: 197874",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 712.2222222841135,
+                      "y": 232.34615384615384,
+                      "width": 6,
+                      "height": 17.65384615384616,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 24, 2020; CASE_COUNT: 459; Area Name: New York City; Date: May 24, 2020; Daily new cases: 459; Total cases: 198333",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 720.5777778400076,
+                      "y": 233.15384615384616,
+                      "width": 6,
+                      "height": 16.84615384615384,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 25, 2020; CASE_COUNT: 438; Area Name: New York City; Date: May 25, 2020; Daily new cases: 438; Total cases: 198771",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 728.9333333959015,
+                      "y": 223.69230769230768,
+                      "width": 6,
+                      "height": 26.30769230769232,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 26, 2020; CASE_COUNT: 684; Area Name: New York City; Date: May 26, 2020; Daily new cases: 684; Total cases: 199455",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 737.2888889517955,
+                      "y": 237.53846153846152,
+                      "width": 6,
+                      "height": 12.461538461538481,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 27, 2020; CASE_COUNT: 324; Area Name: New York City; Date: May 27, 2020; Daily new cases: 324; Total cases: 199779",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 745.6444445076895,
+                      "y": 245.84615384615384,
+                      "width": 6,
+                      "height": 4.15384615384616,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 28, 2020; CASE_COUNT: 108; Area Name: New York City; Date: May 28, 2020; Daily new cases: 108; Total cases: 199887",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 754.0000000635835,
+                      "y": 249.76923076923077,
+                      "width": 6,
+                      "height": 0.2307692307692264,
+                      "fill": "#b1010f",
+                      "stroke": null,
+                      "y2": 250,
+                      "description": "DATE_OF_INTEREST: May 29, 2020; CASE_COUNT: 6; Area Name: New York City; Date: May 29, 2020; Daily new cases: 6; Total cases: 199893",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "path",
+                  "name": "concat_0_voronoi",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M0,96.35027187029196L6.177777811071328,106.47446165640619L6.177777811071328,250L0,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M6.177777811071328,250L6.177777811071328,106.47446165640619L15.130593111610866,120.22940781099047L14.533244845625777,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M14.533244845625777,250L15.130593111610866,120.22940781099047L21.782316626299757,129.7631965548511L22.88924300821747,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M29.732160990903882,140.3536558908022L31.24630342688365,250L22.88924300821747,250L21.782316626299757,129.7631965548511Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M40.486096792914275,153.5963548553384L39.598583693214636,250L31.24630342688365,250L29.732160990903882,140.3536558908022Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M45.88168752257873,159.68119827968633L47.960424264216016,250L39.598583693214636,250L40.486096792914275,153.5963548553384Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M56.64822904357669,176.4745481818214L56.30978332634216,250L47.960424264216016,250L45.88168752257873,159.68119827968633L52.716546334719744,166.70501618678162Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M60.489500240770376,184.64252365224803L64.70136706742915,250L56.30978332634216,250L56.64822904357669,176.4745481818214Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M62.891443312350134,188.99818966388128L73.28097013370062,250L64.70136706742915,250L60.489500240770376,184.64252365224803Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M79.88745317331035,220.5580658178715L81.51374659165171,250L73.28097013370062,250L62.891443312350134,188.99818966388128L71.5522440415278,202.3897259124966Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M81.51374659165171,250L79.88745317331035,220.5580658178715L79.93472829286519,220.62963555364954L91.42630398872652,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M91.42630398872652,250L79.93472829286519,220.62963555364954L107.24411994655927,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M107.24411994655927,250L79.93472829286519,220.62963555364954L79.88745317331035,220.5580658178715L71.5522440415278,202.3897259124966L116.16844317605677,239.24379965620787L123.22389885340672,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M113.44957880561552,212.3957005789245L116.16844317605677,239.24379965620787L71.5522440415278,202.3897259124966L62.891443312350134,188.99818966388128L60.489500240770376,184.64252365224803L56.64822904357669,176.4745481818214L52.716546334719744,166.70501618678162L82.16444579706807,179.48276430731323Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M123.22389885340672,250L116.16844317605677,239.24379965620787L113.44957880561552,212.3957005789245L181.13039389225867,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M227.25967736421842,250L181.13039389225867,250L113.44957880561552,212.3957005789245L82.16444579706807,179.48276430731323L174.2011903647966,197.84316048995905Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M0,78.9408966938102L54.19560148373877,106.38540330486899L166.44821733694909,179.1802008256272L171.01471186498026,188.7744519556166L174.2011903647966,197.84316048995905L82.16444579706807,179.48276430731323L52.716546334719744,166.70501618678162L45.88168752257873,159.68119827968633L40.486096792914275,153.5963548553384L29.732160990903882,140.3536558908022L21.782316626299757,129.7631965548511L15.130593111610866,120.22940781099047L6.177777811071328,106.47446165640619L0,96.35027187029196Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M54.19560148373877,106.38540330486899L160.44550497618735,150.51963133054352L166.44821733694909,179.1802008256272Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M0,74.83822187652684L173.15554517008562,126.22767572143653L160.44550497618735,150.51963133054352L54.19560148373877,106.38540330486899L0,78.9408966938102Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M174.87849708342733,125.53000241065634L173.15554517008562,126.22767572143653L0,74.83822187652684L0,0L24.381363483873542,0L177.3968326446666,110.43774282587643Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M129.2819916553098,0L160.7507276195182,41.332575950364365L189.439291846947,92.84027179952943L177.3968326446666,110.43774282587643L24.381363483873542,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M186.6890819565043,131.05970919819833L171.01471186498026,188.7744519556166L166.44821733694909,179.1802008256272L160.44550497618735,150.51963133054352L173.15554517008562,126.22767572143653L174.87849708342733,125.53000241065634Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M279.31926500735364,235.86406911804698L280.21784022558495,250L227.25967736421842,250L174.2011903647966,197.84316048995905L171.01471186498026,188.7744519556166L186.6890819565043,131.05970919819833L212.8672606411291,136.82167868668773L276.15762523723527,230.78167934220704Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M216.6430188827083,99.19495843064949L212.8672606411291,136.82167868668773L186.6890819565043,131.05970919819833L174.87849708342733,125.53000241065634L177.3968326446666,110.43774282587643L189.439291846947,92.84027179952943Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M231.16718892264802,87.04752724115517L216.6430188827083,99.19495843064949L189.439291846947,92.84027179952943L160.7507276195182,41.332575950364365L231.80392378541544,86.33523521476012Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M234.43923855734732,84.59244223580191L231.80392378541544,86.33523521476012L160.7507276195182,41.332575950364365L129.2819916553098,0L163.7265028083223,0L231.42779563062976,79.50124188080264Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M191.10557714016522,0L210.1034026999045,15.159493331662752L231.42779563062976,79.50124188080264L163.7265028083223,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M256.314064100653,78.54255767479992L234.43923855734732,84.59244223580191L231.42779563062976,79.50124188080264L210.1034026999045,15.159493331662752L238.95547863501457,33.64903081793353Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M231.16718892264802,87.04752724115517L276.15762523723527,230.78167934220704L212.8672606411291,136.82167868668773L216.6430188827083,99.19495843064949Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M287.8299513329973,196.40585186465688L279.31926500735364,235.86406911804698L276.15762523723527,230.78167934220704L231.16718892264802,87.04752724115517L231.80392378541544,86.33523521476012L234.43923855734732,84.59244223580191L256.314064100653,78.54255767479992L262.2528306887257,79.89564005357636L280.5708961255458,152.2501482223063Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M277.26879292696736,0L262.8530676257067,26.025508873653266L238.95547863501457,33.64903081793353L210.1034026999045,15.159493331662752L191.10557714016522,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M262.2528306887257,79.89564005357636L256.314064100653,78.54255767479992L238.95547863501457,33.64903081793353L262.8530676257067,26.025508873653266L265.0343774937318,28.987242939025133L265.71107319837654,77.99003707883016Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M293.1498384579429,66.67183584725272L265.71107319837654,77.99003707883016L265.0343774937318,28.987242939025133L278.5689154097819,38.26264726238054Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M282.4811174055161,0L290.32764309146205,11.086921063619123L278.5689154097819,38.26264726238054L265.0343774937318,28.987242939025133L262.8530676257067,26.025508873653266L277.26879292696736,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M300.9464929876936,65.73241272916644L293.1498384579429,66.67183584725272L278.5689154097819,38.26264726238054L290.32764309146205,11.086921063619123L301.0761714281407,20.96727959898595L306.99322667422933,34.017506804424315L304.930532962742,57.3565041705318Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M309.5289995805889,73.61280950342616L280.5708961255458,152.2501482223063L262.2528306887257,79.89564005357636L265.71107319837654,77.99003707883016L293.1498384579429,66.67183584725272L300.9464929876936,65.73241272916644Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M326.58471258562423,131.3564081033819L287.8299513329973,196.40585186465688L280.5708961255458,152.2501482223063L309.5289995805889,73.61280950342616L314.46658398294403,77.00999962355486L328.28393179326656,97.79768694260451Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M331.4782978912736,0L301.0761714281407,20.96727959898595L290.32764309146205,11.086921063619123L282.4811174055161,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M383.72052055794205,0L306.99322667422933,34.017506804424315L301.0761714281407,20.96727959898595L331.4782978912736,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M422.77950296112374,0L405.635144123531,15.605516946284482L304.930532962742,57.3565041705318L306.99322667422933,34.017506804424315L383.72052055794205,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M309.5289995805889,73.61280950342616L300.9464929876936,65.73241272916644L304.930532962742,57.3565041705318L405.635144123531,15.605516946284482L374.43574990225864,52.928727655965375L314.46658398294403,77.00999962355486Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M359.07062180769435,89.31007606857075L328.28393179326656,97.79768694260451L314.46658398294403,77.00999962355486L374.43574990225864,52.928727655965375Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M352.3153351363311,124.70184286354335L326.58471258562423,131.3564081033819L328.28393179326656,97.79768694260451L359.07062180769435,89.31007606857075L369.89703137012197,106.07000954229665Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M352.3153351363311,124.70184286354335L390.53796734897674,144.01266728348958L390.99504331273243,144.6265604137464L333.9213564687663,250L280.21784022558495,250L279.31926500735364,235.86406911804698L287.8299513329973,196.40585186465688L326.58471258562423,131.3564081033819Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M352.3153351363311,124.70184286354335L369.89703137012197,106.07000954229665L370.0904862353114,106.1205835431569L380.61029296540033,114.1960943870921L390.53796734897674,144.01266728348958Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M369.89703137012197,106.07000954229665L359.07062180769435,89.31007606857075L374.43574990225864,52.928727655965375L405.635144123531,15.605516946284482L422.77950296112374,0L429.74131833430584,0L409.6780380580698,73.66709032429218L370.0904862353114,106.1205835431569Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M380.61029296540033,114.1960943870921L370.0904862353114,106.1205835431569L409.6780380580698,73.66709032429218L408.6398188360605,86.19749910796337L396.4493186699341,104.33666647917786Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M380.61029296540033,114.1960943870921L396.4493186699341,104.33666647917786L405.3475976454083,138.2507309110529L397.8883927826719,142.41289910403603L390.99504331273243,144.6265604137464L390.53796734897674,144.01266728348958Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M405.3475976454083,138.2507309110529L396.4493186699341,104.33666647917786L408.6398188360605,86.19749910796337L419.8565805932199,122.38728885794097L411.73521710452286,135.9851393342789Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M333.9213564687663,250L390.99504331273243,144.6265604137464L397.8883927826719,142.41289910403603L436.78470145483203,188.088612448713L425.5614332516026,217.97889031267513L404.2257639372241,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M405.3475976454083,138.2507309110529L411.73521710452286,135.9851393342789L437.4401421657065,151.8045505655228L441.02225903370294,158.09299492071042L444.0467274483598,175.56770131721348L436.78470145483203,188.088612448713L397.8883927826719,142.41289910403603Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M409.6780380580698,73.66709032429218L429.74131833430584,0L517.6447219024585,0L430.39391302452594,119.2122861810225L419.8565805932199,122.38728885794097L408.6398188360605,86.19749910796337Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M419.8565805932199,122.38728885794097L430.39391302452594,119.2122861810225L448.52213497619647,128.98463235178122L437.4401421657065,151.8045505655228L411.73521710452286,135.9851393342789Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M430.39391302452594,119.2122861810225L517.6447219024585,0L543.8554204183445,0L476.7565291244742,118.99478663318746L448.52213497619647,128.98463235178122Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M437.4401421657065,151.8045505655228L448.52213497619647,128.98463235178122L476.7565291244742,118.99478663318746L475.0863572829607,133.9879913377765L441.02225903370294,158.09299492071042Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M441.02225903370294,158.09299492071042L475.0863572829607,133.9879913377765L477.7552785246395,146.45698730418465L469.55348308553596,169.69778504793067L444.0467274483598,175.56770131721348Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M444.0467274483598,175.56770131721348L469.55348308553596,169.69778504793067L491.8364174263812,183.2575712990932L495.30593706909127,192.1669550733268L425.5614332516026,217.97889031267513L436.78470145483203,188.088612448713Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M404.2257639372241,250L425.5614332516026,217.97889031267513L495.30593706909127,192.1669550733268L501.7756028070365,197.7332875051608L502.8949580428452,199.12285154144132L504.37364220923763,236.91531274729294L502.446274201552,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M469.55348308553596,169.69778504793067L477.7552785246395,146.45698730418465L494.55642813004425,155.2309209873626L496.0169271389262,173.8947619173074L491.8364174263812,183.2575712990932Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M476.7565291244742,118.99478663318746L543.8554204183445,0L631.072866141945,0L599.086831129205,74.93301660608944L568.5540563859128,113.14826747609598L494.55642813004425,155.2309209873626L477.7552785246395,146.45698730418465L475.0863572829607,133.9879913377765Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M496.0169271389262,173.8947619173074L494.55642813004425,155.2309209873626L568.5540563859128,113.14826747609598L565.413459360127,118.06262946494357L531.2065716433691,150.37243954538496Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M496.0169271389262,173.8947619173074L531.2065716433691,150.37243954538496L501.7756028070365,197.7332875051608L495.30593706909127,192.1669550733268L491.8364174263812,183.2575712990932Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M501.7756028070365,197.7332875051608L531.2065716433691,150.37243954538496L565.413459360127,118.06262946494357L560.7684157795558,128.88418348234094L528.3029915897955,192.4241207980473L502.8949580428452,199.12285154144132Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M502.8949580428452,199.12285154144132L528.3029915897955,192.4241207980473L543.5801454437504,205.9429672413434L504.37364220923763,236.91531274729294Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M502.446274201552,250L504.37364220923763,236.91531274729294L543.5801454437504,205.9429672413434L546.4311376381811,206.75153410220452L550.3089854869585,209.0723079357633L554.9152391046653,213.91432249151873L560.6660216502305,224.87331862557772L561.3686556227235,227.38389966189706L559.4427244104988,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M528.3029915897955,192.4241207980473L560.7684157795558,128.88418348234094L546.4311376381811,206.75153410220452L543.5801454437504,205.9429672413434Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M568.5540563859128,113.14826747609598L599.086831129205,74.93301660608944L596.0578627630163,104.8433143324139L593.8773376351137,119.78002059454342L550.3089854869585,209.0723079357633L546.4311376381811,206.75153410220452L560.7684157795558,128.88418348234094L565.413459360127,118.06262946494357Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M550.3089854869585,209.0723079357633L593.8773376351137,119.78002059454342L592.18172191652,138.83328411827122L587.1044907657295,171.27446825692408L554.9152391046653,213.91432249151873Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M554.9152391046653,213.91432249151873L587.1044907657295,171.27446825692408L586.9942264981962,187.24400128579154L560.6660216502305,224.87331862557772Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M560.6660216502305,224.87331862557772L586.9942264981962,187.24400128579154L592.352803931381,211.16429945425546L561.3686556227235,227.38389966189706Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M569.9418457343262,250L559.4427244104988,250L561.3686556227235,227.38389966189706L592.352803931381,211.16429945425546L601.0893683950553,217.93068124869714Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M569.9418457343262,250L601.0893683950553,217.93068124869714L612.6515512336384,221.18433408216194L613.1749749225297,221.45966311002357L616.8763527520274,226.41561855089134L620.4006720903067,235.7755060413595L620.717143800196,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M587.1044907657295,171.27446825692408L592.18172191652,138.83328411827122L612.6515512336384,221.18433408216194L601.0893683950553,217.93068124869714L592.352803931381,211.16429945425546L586.9942264981962,187.24400128579154Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M593.8773376351137,119.78002059454342L596.0578627630163,104.8433143324139L618.1596558524834,209.22357000940784L613.1749749225297,221.45966311002357L612.6515512336384,221.18433408216194L592.18172191652,138.83328411827122Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M599.086831129205,74.93301660608944L631.072866141945,0L690.2512628969158,0L689.6545201806753,3.345523609579601L663.0266719092622,136.98666134211726L653.1679245055453,175.11885308203398L618.1596558524834,209.22357000940784L596.0578627630163,104.8433143324139Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M618.1596558524834,209.22357000940784L653.1679245055453,175.11885308203398L652.5727981273566,180.78937498594112L648.5789693425886,197.71887968034684L616.8763527520274,226.41561855089134L613.1749749225297,221.45966311002357Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M616.8763527520274,226.41561855089134L648.5789693425886,197.71887968034684L649.7224910099201,219.01234219517534L620.4006720903067,235.7755060413595Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M640.0526127725389,250L620.717143800196,250L620.4006720903067,235.7755060413595L649.7224910099201,219.01234219517534L654.88834487572,224.4207906443433Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M640.0526127725389,250L654.88834487572,224.4207906443433L674.0769062953275,232.12616655092287L678.3794851638643,235.08411388007335L678.8671482814674,235.56133056054196L679.7643957941633,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M649.7224910099201,219.01234219517534L648.5789693425886,197.71887968034684L652.5727981273566,180.78937498594112L674.0769062953275,232.12616655092287L654.88834487572,224.4207906443433Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M653.1679245055453,175.11885308203398L663.0266719092622,136.98666134211726L678.3794851638643,235.08411388007335L674.0769062953275,232.12616655092287L652.5727981273566,180.78937498594112Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M678.3794851638643,235.08411388007335L663.0266719092622,136.98666134211726L689.6545201806753,3.345523609579601L682.2951737419493,231.74225626959867L678.8671482814674,235.56133056054196Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M690.2512628969158,0L726.3622897066954,0L688.7658669872914,226.87816575294914L682.2951737419493,231.74225626959867L689.6545201806753,3.345523609579601Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M762,74.65354696071022L713.4701194711331,214.29390371403466L707.1385129122459,219.51404166235335L688.7658669872914,226.87816575294914L726.3622897066954,0L762,0Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M682.2951737419493,231.74225626959867L688.7658669872914,226.87816575294914L707.1385129122459,219.51404166235335L709.2434660502449,250L679.7643957941633,250L678.8671482814674,235.56133056054196Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M709.2434660502449,250L707.1385129122459,219.51404166235335L713.4701194711331,214.29390371403466L717.4425448024683,221.96490224059374L714.7325235891329,250Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M725.0884975342922,250L714.7325235891329,250L717.4425448024683,221.96490224059374L729.6221627917799,232.7208142070194Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M762,213.1821884934158L729.6221627917799,232.7208142070194L717.4425448024683,221.96490224059374L713.4701194711331,214.29390371403466L762,74.65354696071022Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M762,221.04067538179638L733.2065634945237,250L725.0884975342922,250L729.6221627917799,232.7208142070194L762,213.1821884934158Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M762,221.8708829524768L748.7928961494575,250L733.2065634945237,250L762,221.04067538179638Z"
+                    },
+                    {
+                      "fill": "transparent",
+                      "stroke": "transparent",
+                      "strokeWidth": 0.35,
+                      "path": "M748.7928961494575,250L762,221.8708829524768L762,250Z"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "COVID-19 impact in New York City Area",
+                              "angle": 0,
+                              "font": "Lato",
+                              "fontSize": 32,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": -48.52734375,
+                      "y": -59,
+                      "align": "left",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 762,
+              "height": 250,
+              "fill": "transparent",
+              "stroke": "transparent"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 60,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            },
+                            {
+                              "x": 0,
+                              "y": 14,
+                              "opacity": 1,
+                              "stroke": "#DEDDDD",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 13,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 72,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 130,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 189,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 247,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 306,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 364,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 423,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 481,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 540,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 598,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 657,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 715,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 13.355555589018323,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "March",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 71.84444448027625,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Mar 08",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 130.3333333715342,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Mar 15",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 188.82222226279214,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Mar 22",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 247.31111115405005,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Mar 29",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 305.800000045308,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Apr 05",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 364.2888889365659,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Apr 12",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 422.77777782782385,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Apr 19",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 481.2666667190818,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Apr 26",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 539.7555556103398,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "May 03",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 598.2444445015976,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "May 10",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 656.7333333928556,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "May 17",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": 715.2222222841135,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "May 24",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#000000",
+                              "strokeWidth": 1,
+                              "x2": 762
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 381,
+                              "y": 28,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": " ",
+                              "angle": 0,
+                              "font": "Roboto",
+                              "fontSize": 12,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 60.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -8,
+                              "y": 60,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            },
+                            {
+                              "x": -8,
+                              "y": 13.846153846153843,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "5,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "Roboto",
+                              "fontSize": 12
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": -10,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": " ",
+                              "angle": 0,
+                              "font": "Roboto",
+                              "fontSize": 12,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector046_brush_bg",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "#333",
+                      "fillOpacity": 0.125,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 2.5000000331243317,
+                      "y": 59.99076923076923,
+                      "width": 5,
+                      "height": 0.009230769230768487,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Feb 29, 2020; CASE_COUNT: 1",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 10.855555589018323,
+                      "y": 59.99076923076923,
+                      "width": 5,
+                      "height": 0.009230769230768487,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 01, 2020; CASE_COUNT: 1",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 19.211111144912312,
+                      "y": 60,
+                      "width": 5,
+                      "height": 0,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 02, 2020; CASE_COUNT: 0",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 27.5666667008063,
+                      "y": 59.98153846153846,
+                      "width": 5,
+                      "height": 0.018461538461536975,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 03, 2020; CASE_COUNT: 2",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 35.922222256700294,
+                      "y": 59.95384615384616,
+                      "width": 5,
+                      "height": 0.04615384615384244,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 04, 2020; CASE_COUNT: 5",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 44.27777781259428,
+                      "y": 59.97230769230769,
+                      "width": 5,
+                      "height": 0.027692307692312568,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 05, 2020; CASE_COUNT: 3",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 52.63333336848827,
+                      "y": 59.926153846153845,
+                      "width": 5,
+                      "height": 0.073846153846155,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 06, 2020; CASE_COUNT: 8",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 60.98888892438227,
+                      "y": 59.93538461538461,
+                      "width": 5,
+                      "height": 0.06461538461538652,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 07, 2020; CASE_COUNT: 7",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 69.34444448027625,
+                      "y": 59.80615384615385,
+                      "width": 5,
+                      "height": 0.19384615384615245,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 08, 2020; CASE_COUNT: 21",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 77.70000003617025,
+                      "y": 59.464615384615385,
+                      "width": 5,
+                      "height": 0.5353846153846149,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 09, 2020; CASE_COUNT: 58",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 86.05555559206424,
+                      "y": 59.353846153846156,
+                      "width": 5,
+                      "height": 0.6461538461538439,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 10, 2020; CASE_COUNT: 70",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 94.41111114795824,
+                      "y": 58.56923076923077,
+                      "width": 5,
+                      "height": 1.4307692307692292,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 11, 2020; CASE_COUNT: 155",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 102.76666670385222,
+                      "y": 56.70461538461538,
+                      "width": 5,
+                      "height": 3.29538461538462,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 12, 2020; CASE_COUNT: 357",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 111.12222225974621,
+                      "y": 54.276923076923076,
+                      "width": 5,
+                      "height": 5.723076923076924,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 13, 2020; CASE_COUNT: 620",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 119.4777778156402,
+                      "y": 54.073846153846155,
+                      "width": 5,
+                      "height": 5.926153846153845,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 14, 2020; CASE_COUNT: 642",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 127.8333333715342,
+                      "y": 50.464615384615385,
+                      "width": 5,
+                      "height": 9.535384615384615,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 15, 2020; CASE_COUNT: 1033",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 136.1888889274282,
+                      "y": 40.41230769230769,
+                      "width": 5,
+                      "height": 19.587692307692308,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 16, 2020; CASE_COUNT: 2122",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.54444448332217,
+                      "y": 37.32,
+                      "width": 5,
+                      "height": 22.68,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 17, 2020; CASE_COUNT: 2457",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 152.90000003921617,
+                      "y": 32.49230769230769,
+                      "width": 5,
+                      "height": 27.50769230769231,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 18, 2020; CASE_COUNT: 2980",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 161.25555559511017,
+                      "y": 25.735384615384618,
+                      "width": 5,
+                      "height": 34.26461538461538,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 19, 2020; CASE_COUNT: 3712",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 169.61111115100414,
+                      "y": 22.956923076923076,
+                      "width": 5,
+                      "height": 37.043076923076924,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 20, 2020; CASE_COUNT: 4013",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 177.96666670689814,
+                      "y": 35.64,
+                      "width": 5,
+                      "height": 24.36,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 21, 2020; CASE_COUNT: 2639",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 186.32222226279214,
+                      "y": 36.184615384615384,
+                      "width": 5,
+                      "height": 23.815384615384616,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 22, 2020; CASE_COUNT: 2580",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 194.6777778186861,
+                      "y": 27.07384615384615,
+                      "width": 5,
+                      "height": 32.92615384615385,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 23, 2020; CASE_COUNT: 3567",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 203.0333333745801,
+                      "y": 18.489230769230765,
+                      "width": 5,
+                      "height": 41.510769230769235,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 24, 2020; CASE_COUNT: 4497",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 211.3888889304741,
+                      "y": 15.323076923076925,
+                      "width": 5,
+                      "height": 44.676923076923075,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 25, 2020; CASE_COUNT: 4840",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 219.74444448636808,
+                      "y": 13.615384615384613,
+                      "width": 5,
+                      "height": 46.38461538461539,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 26, 2020; CASE_COUNT: 5025",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 228.10000004226205,
+                      "y": 12.950769230769229,
+                      "width": 5,
+                      "height": 47.049230769230775,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 27, 2020; CASE_COUNT: 5097",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 236.45555559815608,
+                      "y": 28.08,
+                      "width": 5,
+                      "height": 31.92,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 28, 2020; CASE_COUNT: 3458",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 244.81111115405005,
+                      "y": 27.452307692307695,
+                      "width": 5,
+                      "height": 32.5476923076923,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 29, 2020; CASE_COUNT: 3526",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 253.16666670994402,
+                      "y": 3.563076923076922,
+                      "width": 5,
+                      "height": 56.43692307692308,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 30, 2020; CASE_COUNT: 6114",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 261.522222265838,
+                      "y": 9.849230769230772,
+                      "width": 5,
+                      "height": 50.15076923076923,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Mar 31, 2020; CASE_COUNT: 5433",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 269.877777821732,
+                      "y": 9.821538461538461,
+                      "width": 5,
+                      "height": 50.17846153846154,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 01, 2020; CASE_COUNT: 5436",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 278.233333377626,
+                      "y": 6.895384615384614,
+                      "width": 5,
+                      "height": 53.104615384615386,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 02, 2020; CASE_COUNT: 5753",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 286.58888893352,
+                      "y": 7.763076923076926,
+                      "width": 5,
+                      "height": 52.23692307692308,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 03, 2020; CASE_COUNT: 5659",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 294.94444448941397,
+                      "y": 24.406153846153845,
+                      "width": 5,
+                      "height": 35.59384615384616,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 04, 2020; CASE_COUNT: 3856",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 303.300000045308,
+                      "y": 25.14461538461539,
+                      "width": 5,
+                      "height": 34.85538461538461,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 05, 2020; CASE_COUNT: 3776",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 311.65555560120197,
+                      "y": 1.2184615384615416,
+                      "width": 5,
+                      "height": 58.78153846153846,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 06, 2020; CASE_COUNT: 6368",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 320.01111115709597,
+                      "y": 4.126153846153848,
+                      "width": 5,
+                      "height": 55.87384615384615,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 07, 2020; CASE_COUNT: 6053",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 328.36666671298997,
+                      "y": 8.64923076923077,
+                      "width": 5,
+                      "height": 51.35076923076923,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 08, 2020; CASE_COUNT: 5563",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 336.72222226888397,
+                      "y": 13.486153846153844,
+                      "width": 5,
+                      "height": 46.51384615384616,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 09, 2020; CASE_COUNT: 5039",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 345.07777782477797,
+                      "y": 18.480000000000004,
+                      "width": 5,
+                      "height": 41.519999999999996,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 10, 2020; CASE_COUNT: 4498",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 353.43333338067197,
+                      "y": 25.75384615384615,
+                      "width": 5,
+                      "height": 34.246153846153845,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 11, 2020; CASE_COUNT: 3710",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 361.7888889365659,
+                      "y": 33.50769230769231,
+                      "width": 5,
+                      "height": 26.49230769230769,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 12, 2020; CASE_COUNT: 2870",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 370.1444444924599,
+                      "y": 29.53846153846154,
+                      "width": 5,
+                      "height": 30.46153846153846,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 13, 2020; CASE_COUNT: 3300",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 378.5000000483539,
+                      "y": 21.86769230769231,
+                      "width": 5,
+                      "height": 38.13230769230769,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 14, 2020; CASE_COUNT: 4131",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 386.8555556042479,
+                      "y": 24.313846153846157,
+                      "width": 5,
+                      "height": 35.68615384615384,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 15, 2020; CASE_COUNT: 3866",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 395.21111116014185,
+                      "y": 27.53538461538461,
+                      "width": 5,
+                      "height": 32.464615384615385,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 16, 2020; CASE_COUNT: 3517",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 403.5666667160359,
+                      "y": 27.00923076923077,
+                      "width": 5,
+                      "height": 32.99076923076923,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 17, 2020; CASE_COUNT: 3574",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 411.9222222719299,
+                      "y": 40.02461538461539,
+                      "width": 5,
+                      "height": 19.975384615384613,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 18, 2020; CASE_COUNT: 2164",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 420.27777782782385,
+                      "y": 38.316923076923075,
+                      "width": 5,
+                      "height": 21.683076923076925,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 19, 2020; CASE_COUNT: 2349",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 428.63333338371785,
+                      "y": 25.14461538461539,
+                      "width": 5,
+                      "height": 34.85538461538461,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 20, 2020; CASE_COUNT: 3776",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 436.9888889396118,
+                      "y": 31.8,
+                      "width": 5,
+                      "height": 28.2,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 21, 2020; CASE_COUNT: 3055",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 445.3444444955058,
+                      "y": 28.08,
+                      "width": 5,
+                      "height": 31.92,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 22, 2020; CASE_COUNT: 3458",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 453.70000005139985,
+                      "y": 33.747692307692304,
+                      "width": 5,
+                      "height": 26.252307692307696,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 23, 2020; CASE_COUNT: 2844",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 462.05555560729385,
+                      "y": 36.581538461538464,
+                      "width": 5,
+                      "height": 23.418461538461536,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 24, 2020; CASE_COUNT: 2537",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 470.4111111631878,
+                      "y": 45.29538461538461,
+                      "width": 5,
+                      "height": 14.704615384615387,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 25, 2020; CASE_COUNT: 1593",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 478.7666667190818,
+                      "y": 50.713846153846156,
+                      "width": 5,
+                      "height": 9.286153846153844,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 26, 2020; CASE_COUNT: 1006",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 487.12222227497574,
+                      "y": 38.70461538461539,
+                      "width": 5,
+                      "height": 21.295384615384613,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 27, 2020; CASE_COUNT: 2307",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 495.4777778308698,
+                      "y": 34.864615384615384,
+                      "width": 5,
+                      "height": 25.135384615384616,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 28, 2020; CASE_COUNT: 2723",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 503.8333333867638,
+                      "y": 38.39076923076923,
+                      "width": 5,
+                      "height": 21.60923076923077,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 29, 2020; CASE_COUNT: 2341",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 512.1888889426577,
+                      "y": 41.39076923076922,
+                      "width": 5,
+                      "height": 18.609230769230777,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: Apr 30, 2020; CASE_COUNT: 2016",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 520.5444444985517,
+                      "y": 42.63692307692308,
+                      "width": 5,
+                      "height": 17.363076923076918,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 01, 2020; CASE_COUNT: 1881",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 528.9000000544457,
+                      "y": 50.24307692307693,
+                      "width": 5,
+                      "height": 9.756923076923073,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 02, 2020; CASE_COUNT: 1057",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 537.2555556103398,
+                      "y": 52.78153846153846,
+                      "width": 5,
+                      "height": 7.21846153846154,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 03, 2020; CASE_COUNT: 782",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 545.6111111662337,
+                      "y": 45.71076923076923,
+                      "width": 5,
+                      "height": 14.28923076923077,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 04, 2020; CASE_COUNT: 1548",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 553.9666667221277,
+                      "y": 46.08,
+                      "width": 5,
+                      "height": 13.920000000000002,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 05, 2020; CASE_COUNT: 1508",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 562.3222222780217,
+                      "y": 47.05846153846154,
+                      "width": 5,
+                      "height": 12.941538461538457,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 06, 2020; CASE_COUNT: 1402",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 570.6777778339157,
+                      "y": 48.57230769230769,
+                      "width": 5,
+                      "height": 11.427692307692311,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 07, 2020; CASE_COUNT: 1238",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 579.0333333898096,
+                      "y": 49.97538461538461,
+                      "width": 5,
+                      "height": 10.024615384615387,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 08, 2020; CASE_COUNT: 1086",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 587.3888889457037,
+                      "y": 53.80615384615385,
+                      "width": 5,
+                      "height": 6.1938461538461524,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 09, 2020; CASE_COUNT: 671",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 595.7444445015976,
+                      "y": 55.753846153846155,
+                      "width": 5,
+                      "height": 4.246153846153845,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 10, 2020; CASE_COUNT: 460",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 604.1000000574917,
+                      "y": 48.62769230769231,
+                      "width": 5,
+                      "height": 11.372307692307693,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 11, 2020; CASE_COUNT: 1232",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 612.4555556133856,
+                      "y": 48.12923076923077,
+                      "width": 5,
+                      "height": 11.870769230769227,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 12, 2020; CASE_COUNT: 1286",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 620.8111111692796,
+                      "y": 47.70461538461538,
+                      "width": 5,
+                      "height": 12.29538461538462,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 13, 2020; CASE_COUNT: 1332",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 629.1666667251736,
+                      "y": 49.76307692307692,
+                      "width": 5,
+                      "height": 10.236923076923077,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 14, 2020; CASE_COUNT: 1109",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 637.5222222810677,
+                      "y": 51.97846153846154,
+                      "width": 5,
+                      "height": 8.021538461538462,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 15, 2020; CASE_COUNT: 869",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 645.8777778369616,
+                      "y": 55.48615384615385,
+                      "width": 5,
+                      "height": 4.513846153846153,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 16, 2020; CASE_COUNT: 489",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 654.2333333928556,
+                      "y": 56.64923076923077,
+                      "width": 5,
+                      "height": 3.350769230769231,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 17, 2020; CASE_COUNT: 363",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 662.5888889487495,
+                      "y": 51.65538461538461,
+                      "width": 5,
+                      "height": 8.344615384615388,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 18, 2020; CASE_COUNT: 904",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 670.9444445046436,
+                      "y": 50.815384615384616,
+                      "width": 5,
+                      "height": 9.184615384615384,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 19, 2020; CASE_COUNT: 995",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 679.3000000605376,
+                      "y": 50.501538461538466,
+                      "width": 5,
+                      "height": 9.498461538461534,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 20, 2020; CASE_COUNT: 1029",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 687.6555556164316,
+                      "y": 50.566153846153846,
+                      "width": 5,
+                      "height": 9.433846153846154,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 21, 2020; CASE_COUNT: 1022",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 696.0111111723255,
+                      "y": 50.89846153846154,
+                      "width": 5,
+                      "height": 9.10153846153846,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 22, 2020; CASE_COUNT: 986",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 704.3666667282196,
+                      "y": 55.901538461538465,
+                      "width": 5,
+                      "height": 4.098461538461535,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 23, 2020; CASE_COUNT: 444",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 712.7222222841135,
+                      "y": 55.76307692307692,
+                      "width": 5,
+                      "height": 4.236923076923077,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 24, 2020; CASE_COUNT: 459",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 721.0777778400076,
+                      "y": 55.956923076923076,
+                      "width": 5,
+                      "height": 4.043076923076924,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 25, 2020; CASE_COUNT: 438",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 729.4333333959015,
+                      "y": 53.68615384615384,
+                      "width": 5,
+                      "height": 6.313846153846157,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 26, 2020; CASE_COUNT: 684",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 737.7888889517955,
+                      "y": 57.00923076923077,
+                      "width": 5,
+                      "height": 2.9907692307692315,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 27, 2020; CASE_COUNT: 324",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 746.1444445076895,
+                      "y": 59.003076923076925,
+                      "width": 5,
+                      "height": 0.9969230769230748,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 28, 2020; CASE_COUNT: 108",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 754.5000000635835,
+                      "y": 59.94461538461538,
+                      "width": 5,
+                      "height": 0.05538461538461803,
+                      "fill": "#1e88e5",
+                      "stroke": null,
+                      "y2": 60,
+                      "description": "DATE_OF_INTEREST: May 29, 2020; CASE_COUNT: 6",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector046_brush",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "transparent",
+                      "stroke": null,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 322,
+              "width": 762,
+              "height": 60,
+              "fill": "transparent",
+              "stroke": "transparent"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 762,
+      "height": 0
+    }
+  ],
+  "zindex": 0
+}

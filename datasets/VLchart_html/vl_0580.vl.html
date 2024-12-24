@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "example of vertical concatenation", "title": {"text": "US prices, 1900-1930", "subtitle": ["Consumer Price Index, and its annual change. Source: Minneapolis Fed", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "dx": 0, "dy": 0, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/e4e/US_MineapolisFed_CPI_longRun.csv"}, "transform": [{"filter": {"field": "year", "range": [{"year": 1900, "month": 1, "day": 1}, {"year": 1930, "month": 10, "day": 1}]}}], "vconcat": [{"mark": {"type": "line", "color": "rgb(128,0,0)", "strokeWidth": 2, "opacity": 1}, "width": 400, "height": 200, "encoding": {"x": {"field": "year", "type": "temporal", "title": null}, "y": {"field": "index", "type": "quantitative", "title": null}}}, {"mark": {"type": "bar", "color": "rgb(128,0,0)", "strokeWidth": 2, "opacity": 1}, "width": 400, "height": 100, "encoding": {"x": {"field": "year", "type": "temporal", "title": null}, "y": {"field": "change", "type": "quantitative", "axis": {"format": ".0%"}, "title": null}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

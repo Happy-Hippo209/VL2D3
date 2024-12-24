@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "Global primary energy consumption", "subtitle": "Global primary energy consumption by source, Source: Our World in Data", "subtitleFontSize": 10, "subtitleFontStyle": "italic", "anchor": "start"}, "height": 300, "width": 300, "data": {"url": "https://raw.githubusercontent.com/harrywright25/harrywright25.github.io/main/Project_chart1(1).csv"}, "mark": {"type": "line", "size": 2, "point": false}, "selection": {"Type": {"type": "single", "fields": ["Energy Source"], "bind": {"input": "select", "options": [null, "Biofuels ()", "Coal ()", "Gas ()", "Hydropower ()", "Solar ()", "Wind ()", "Oil ()", "Nuclear ()", "Other renewables ()", "Traditional biomass ()"], "name": "Source"}}}, "transform": [{"filter": {"selection": "Type"}}], "encoding": {"x": {"field": "Year", "type": "temporal", "axis": {"grid": false}, "title": null}, "y": {"field": "Values", "type": "quantitative", "title": "Energy Consumption (TWh)", "axis": {"grid": false}}, "color": {"field": "Energy Source", "type": "nominal", "scale": {"scheme": "darkmulti"}, "legend": {"orient": "top-left"}}, "tooltip": [{"field": "Energy Source", "type": "nominal"}, {"field": "Values", "title": "Energy cons"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

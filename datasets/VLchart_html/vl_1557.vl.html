@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://uiuc-ischool-dataviz.github.io/fall2019/data/govtrack-us-congress-legislators/data/legislators_historical_terms.csv"}, "transform": [{"lookup": "bioguide", "from": {"data": {"url": "https://uiuc-ischool-dataviz.github.io/fall2019/data/govtrack-us-congress-legislators/data/legislators_historical.csv"}, "key": "bioguide_id", "fields": ["gender_bio", "birthday_bio"]}}], "mark": "point", "encoding": {"x": {"field": "birthday_bio", "type": "temporal", "timeUnit": "year"}, "y": {"field": "party", "type": "nominal"}, "color": {"field": "gender_bio", "type": "nominal"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

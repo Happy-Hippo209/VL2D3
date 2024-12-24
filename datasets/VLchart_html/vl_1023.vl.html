@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Stock prices of four large companies as a small multiples of area charts.", "title": {"text": "Historical Volatilty of Bitcoin and FIAT currencies", "subtitle": ["Historical Volatility 30-day annualised, Source:Yahoo Finance. Calculations by author"], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start"}, "width": 400, "height": 50, "data": {"url": "https://raw.githubusercontent.com/GeorgeRobbin/GeorgeRobbin.github.io/main/Data/BTC_Volatility.csv"}, "mark": "line", "transform": [{"calculate": "timeParse(datum.date, '%d/%m/%Y')", "as": "date2"}], "encoding": {"x": {"field": "date2", "type": "temporal", "title": "Time", "timeUnit": "yearmonth", "axis": {"grid": false}}, "y": {"field": "price", "type": "quantitative", "title": "HV", "axis": {"grid": false}}, "color": {"field": "symbol", "type": "nominal", "legend": null}, "row": {"field": "symbol", "type": "nominal", "title": "Symbol"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

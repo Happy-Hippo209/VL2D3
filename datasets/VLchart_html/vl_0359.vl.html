@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Bar chart of UK debt outstanding. Demo of string and date functions", "title": {"text": "UK bonds - issue and duration dates", "subtitle": ["Source: DMO", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "view": {"stroke": "transparent"}, "height": 300, "width": 300, "transform": [{"calculate": "slice(datum.issueDate, -4)", "as": "Aissue"}, {"calculate": "slice(datum.redemptionDate, -4)", "as": "redemption"}, {"calculate": "datum.redemption - datum.Aissue", "as": "Bduration"}, {"calculate": "toNumber(datum.id)", "as": "id2"}, {"fold": ["Bduration", "Aissue"], "as": ["measure", "value"]}], "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/GiltsInIssueClean.csv"}, "mark": {"type": "bar", "clip": true, "color": "red"}, "encoding": {"x": {"field": "value", "type": "quantitative", "scale": {"domain": [1980, 2080]}, "axis": {"grid": false, "format": "f"}, "title": null}, "y": {"field": "id2", "type": "ordinal", "sort": "descending", "title": null, "axis": {"labels": false, "ticks": false}}, "color": {"field": "measure", "scale": {"range": ["white", "red"]}, "legend": null}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

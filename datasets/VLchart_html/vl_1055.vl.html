@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "mode": "vega-lite", "description": "Google's stock price over time.", "data": {"url": "https://vega.github.io/editor/data/stocks.csv"}, "transform": [{"filter": "datum.symbol==='GOOG'"}], "width": 500, "height": 300, "layer": [{"mark": {"type": "line", "opacity": 1, "strokeWidth": 1, "interpolate": "linear", "strokeDash": 0, "tooltip": true}, "encoding": {"x": {"field": "date", "type": "temporal", "axis": {"title": "Time", "orient": "bottom"}}, "y": {"field": "price", "type": "quantitative", "axis": {"title": "Count", "orient": "left"}}, "color": {"field": "symbol", "type": "nominal", "scale": {"range": ["#1f77b4"]}, "legend": {"title": "Time Series", "orient": "right", "symbolType": "circle", "fillColor": "#ffffff"}}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

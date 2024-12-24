@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "IMF Lending  outstanding as a % of World GDP", "subtitle": "Credit outstanding for all members, SDR as percentage", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/Jordanboi58/Jordanboi58.github.io/main/excel%20data%20for%20adjusting%20IMF%20lending%20chart_working.csv"}, "height": 300, "width": 300, "mark": {"type": "bar", "color": "green"}, "encoding": {"x": {"field": "Year", "type": "temporal", "axis": {"title": "Year", "grid": false, "ticks": false, "labelAngle": 45}}, "y": {"field": "Growth in Lending Relative to World GDP", "type": "quantitative", "title": "loans disbursed as % of world GDP", "axis": {"grid": false}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

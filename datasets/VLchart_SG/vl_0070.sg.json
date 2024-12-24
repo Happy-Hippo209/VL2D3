@@ -1,0 +1,3620 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 4,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 72,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 132,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 200,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 265,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 332,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 397,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 464,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 532,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 597,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 664,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 729,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 796,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 570,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 510,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 480,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 420,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 390,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 360,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 330,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 240,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 4,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 72,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 132,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 200,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 265,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 332,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 397,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 464,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 532,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 597,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 664,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 729,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 796,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 4.276556794936091,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2023",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 71.55677657416645,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "February",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 132.32600734250352,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "March",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 199.6062271217339,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "April",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 264.7161172306665,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "May",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 331.9963370098968,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "June",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 397.10622711882945,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "July",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 464.38644689805983,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "August",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 531.6666666772901,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "September",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 596.7765567862227,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "October",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 664.0567765654531,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "November",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 729.1666666743856,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "December",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 796.446886453616,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2024",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Datum",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 570,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 510,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 480,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 420,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 390,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 360,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 330,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 240,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 570,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 540,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 510,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "15",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 480,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 450,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 420,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 390,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "35",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 360,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 330,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "45",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 270,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "55",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 240,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 210,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "65",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 180.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "70",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "75",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 119.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "80",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 90.00000000000001,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "85",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 59.999999999999986,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "90",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 30.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "95",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -28.5927734375,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Vulniveau (%)",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 580,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 500,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 460,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 420,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 380,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 340,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 260,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 220,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 140,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    },
+                    {
+                      "x": 0,
+                      "y": 20,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 7,
+                      "y": 580,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221214,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 540,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221212,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 500,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221210,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 459.99999999999994,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u22128,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 420,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u22126,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 380,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u22124,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 340,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u22122,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 300,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 260,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 220.00000000000003,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "4,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 180.00000000000003,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "6,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 139.99999999999997,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "8,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 99.99999999999997,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 59.999999999999986,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "12,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 7,
+                      "y": 19.999999999999996,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "14,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 50.1455078125,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Gastoevoer (GWh/week)",
+                      "angle": 90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 800.5,
+              "y": 0.5,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [
+            {
+              "x": 4.276556794936091,
+              "y": 136.62,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 01, 2023; full: 77.23"
+            },
+            {
+              "x": 6.4468864652338445,
+              "y": 137.16000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 02, 2023; full: 77.14"
+            },
+            {
+              "x": 8.617216135531597,
+              "y": 137.52000000000004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 03, 2023; full: 77.08"
+            },
+            {
+              "x": 10.787545805829351,
+              "y": 137.94,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 04, 2023; full: 77.01"
+            },
+            {
+              "x": 12.957875476127104,
+              "y": 138.77999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 05, 2023; full: 76.87"
+            },
+            {
+              "x": 15.12820514642486,
+              "y": 139.2,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 06, 2023; full: 76.8"
+            },
+            {
+              "x": 17.29853481672261,
+              "y": 139.56000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 07, 2023; full: 76.74"
+            },
+            {
+              "x": 19.468864487020365,
+              "y": 139.85999999999999,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 08, 2023; full: 76.69"
+            },
+            {
+              "x": 21.639194157318116,
+              "y": 141.29999999999995,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 09, 2023; full: 76.45"
+            },
+            {
+              "x": 23.809523827615873,
+              "y": 142.14,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 10, 2023; full: 76.31"
+            },
+            {
+              "x": 25.979853497913624,
+              "y": 142.79999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 11, 2023; full: 76.2"
+            },
+            {
+              "x": 28.150183168211377,
+              "y": 143.51999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 12, 2023; full: 76.08"
+            },
+            {
+              "x": 30.320512838509128,
+              "y": 144.41999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 13, 2023; full: 75.93"
+            },
+            {
+              "x": 32.490842508806885,
+              "y": 145.14000000000001,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 14, 2023; full: 75.81"
+            },
+            {
+              "x": 34.66117217910464,
+              "y": 146.22000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 15, 2023; full: 75.63"
+            },
+            {
+              "x": 36.83150184940239,
+              "y": 148.32,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 16, 2023; full: 75.28"
+            },
+            {
+              "x": 39.00183151970014,
+              "y": 150.90000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 17, 2023; full: 74.85"
+            },
+            {
+              "x": 41.172161189997894,
+              "y": 153.95999999999995,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 18, 2023; full: 74.34"
+            },
+            {
+              "x": 43.342490860295655,
+              "y": 156.83999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 19, 2023; full: 73.86"
+            },
+            {
+              "x": 45.51282053059341,
+              "y": 160.14000000000001,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 20, 2023; full: 73.31"
+            },
+            {
+              "x": 47.683150200891156,
+              "y": 162.78,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 21, 2023; full: 72.87"
+            },
+            {
+              "x": 49.85347987118891,
+              "y": 165.36000000000004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 22, 2023; full: 72.44"
+            },
+            {
+              "x": 52.02380954148666,
+              "y": 168.29999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 23, 2023; full: 71.95"
+            },
+            {
+              "x": 54.19413921178442,
+              "y": 171.06,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 24, 2023; full: 71.49"
+            },
+            {
+              "x": 56.36446888208218,
+              "y": 174.54000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 25, 2023; full: 70.91"
+            },
+            {
+              "x": 58.53479855237992,
+              "y": 177.66000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 26, 2023; full: 70.39"
+            },
+            {
+              "x": 60.70512822267767,
+              "y": 180.00000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 27, 2023; full: 70"
+            },
+            {
+              "x": 62.875457892975426,
+              "y": 182.82,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 28, 2023; full: 69.53"
+            },
+            {
+              "x": 65.04578756327318,
+              "y": 185.33999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 29, 2023; full: 69.11"
+            },
+            {
+              "x": 67.21611723357094,
+              "y": 187.43999999999994,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 30, 2023; full: 68.76"
+            },
+            {
+              "x": 69.38644690386869,
+              "y": 189.06000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jan 31, 2023; full: 68.49"
+            },
+            {
+              "x": 71.55677657416645,
+              "y": 190.91999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 01, 2023; full: 68.18"
+            },
+            {
+              "x": 73.7271062444642,
+              "y": 192.3,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 02, 2023; full: 67.95"
+            },
+            {
+              "x": 75.89743591476194,
+              "y": 193.56,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 03, 2023; full: 67.74"
+            },
+            {
+              "x": 78.0677655850597,
+              "y": 194.58,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 04, 2023; full: 67.57"
+            },
+            {
+              "x": 80.23809525535745,
+              "y": 195.72000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 05, 2023; full: 67.38"
+            },
+            {
+              "x": 82.40842492565521,
+              "y": 198.06000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 06, 2023; full: 66.99"
+            },
+            {
+              "x": 84.57875459595297,
+              "y": 200.58,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 07, 2023; full: 66.57"
+            },
+            {
+              "x": 86.74908426625072,
+              "y": 203.40000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 08, 2023; full: 66.1"
+            },
+            {
+              "x": 88.91941393654848,
+              "y": 206.16,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 09, 2023; full: 65.64"
+            },
+            {
+              "x": 91.08974360684621,
+              "y": 207.84000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 10, 2023; full: 65.36"
+            },
+            {
+              "x": 93.26007327714397,
+              "y": 209.52000000000004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 11, 2023; full: 65.08"
+            },
+            {
+              "x": 95.43040294744173,
+              "y": 210.90000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 12, 2023; full: 64.85"
+            },
+            {
+              "x": 97.60073261773948,
+              "y": 212.28,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 13, 2023; full: 64.62"
+            },
+            {
+              "x": 99.77106228803724,
+              "y": 213.77999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 14, 2023; full: 64.37"
+            },
+            {
+              "x": 101.94139195833498,
+              "y": 214.97999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 15, 2023; full: 64.17"
+            },
+            {
+              "x": 104.11172162863274,
+              "y": 215.40000000000006,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 16, 2023; full: 64.1"
+            },
+            {
+              "x": 106.2820512989305,
+              "y": 215.09999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 17, 2023; full: 64.15"
+            },
+            {
+              "x": 108.45238096922824,
+              "y": 215.16000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 18, 2023; full: 64.14"
+            },
+            {
+              "x": 110.622710639526,
+              "y": 215.34,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 19, 2023; full: 64.11"
+            },
+            {
+              "x": 112.79304030982375,
+              "y": 216.12000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 20, 2023; full: 63.98"
+            },
+            {
+              "x": 114.96336998012151,
+              "y": 217.26,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 21, 2023; full: 63.79"
+            },
+            {
+              "x": 117.13369965041926,
+              "y": 217.62,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 22, 2023; full: 63.73"
+            },
+            {
+              "x": 119.30402932071702,
+              "y": 217.97999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 23, 2023; full: 63.67"
+            },
+            {
+              "x": 121.47435899101478,
+              "y": 218.57999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 24, 2023; full: 63.57"
+            },
+            {
+              "x": 123.64468866131253,
+              "y": 219.17999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 25, 2023; full: 63.47"
+            },
+            {
+              "x": 125.81501833161029,
+              "y": 220.2,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 26, 2023; full: 63.3"
+            },
+            {
+              "x": 127.98534800190804,
+              "y": 222.06,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 27, 2023; full: 62.99"
+            },
+            {
+              "x": 130.1556776722058,
+              "y": 223.68,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Feb 28, 2023; full: 62.72"
+            },
+            {
+              "x": 132.32600734250352,
+              "y": 226.2,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 01, 2023; full: 62.3"
+            },
+            {
+              "x": 134.4963370128013,
+              "y": 228.42000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 02, 2023; full: 61.93"
+            },
+            {
+              "x": 136.66666668309904,
+              "y": 230.57999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 03, 2023; full: 61.57"
+            },
+            {
+              "x": 138.83699635339678,
+              "y": 232.32,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 04, 2023; full: 61.28"
+            },
+            {
+              "x": 141.00732602369453,
+              "y": 241.98,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 05, 2023; full: 59.67"
+            },
+            {
+              "x": 143.1776556939923,
+              "y": 237.23999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 06, 2023; full: 60.46"
+            },
+            {
+              "x": 145.34798536429005,
+              "y": 239.64,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 07, 2023; full: 60.06"
+            },
+            {
+              "x": 147.5183150345878,
+              "y": 242.4,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 08, 2023; full: 59.6"
+            },
+            {
+              "x": 149.68864470488558,
+              "y": 244.13999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 09, 2023; full: 59.31"
+            },
+            {
+              "x": 151.85897437518332,
+              "y": 245.7,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 10, 2023; full: 59.05"
+            },
+            {
+              "x": 154.02930404548107,
+              "y": 246.60000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 11, 2023; full: 58.9"
+            },
+            {
+              "x": 156.19963371577882,
+              "y": 246.66000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 12, 2023; full: 58.89"
+            },
+            {
+              "x": 158.3699633860766,
+              "y": 245.87999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 13, 2023; full: 59.02"
+            },
+            {
+              "x": 160.54029305637434,
+              "y": 246.12,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 14, 2023; full: 58.98"
+            },
+            {
+              "x": 162.71062272667209,
+              "y": 247.86,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 15, 2023; full: 58.69"
+            },
+            {
+              "x": 164.88095239696983,
+              "y": 248.76,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 16, 2023; full: 58.54"
+            },
+            {
+              "x": 167.05128206726758,
+              "y": 248.45999999999995,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 17, 2023; full: 58.59"
+            },
+            {
+              "x": 169.22161173756533,
+              "y": 247.86,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 18, 2023; full: 58.69"
+            },
+            {
+              "x": 171.3919414078631,
+              "y": 247.44,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 19, 2023; full: 58.76"
+            },
+            {
+              "x": 173.56227107816085,
+              "y": 247.98,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 20, 2023; full: 58.67"
+            },
+            {
+              "x": 175.7326007484586,
+              "y": 248.40000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 21, 2023; full: 58.6"
+            },
+            {
+              "x": 177.90293041875634,
+              "y": 248.21999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 22, 2023; full: 58.63"
+            },
+            {
+              "x": 180.07326008905412,
+              "y": 247.98,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 23, 2023; full: 58.67"
+            },
+            {
+              "x": 182.24358975935186,
+              "y": 247.32,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 24, 2023; full: 58.78"
+            },
+            {
+              "x": 184.4139194296496,
+              "y": 246.66000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 25, 2023; full: 58.89"
+            },
+            {
+              "x": 186.58424909994739,
+              "y": 246.29999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 26, 2023; full: 58.95"
+            },
+            {
+              "x": 188.75457877024513,
+              "y": 246.72,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 27, 2023; full: 58.88"
+            },
+            {
+              "x": 190.92490844054288,
+              "y": 247.38,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 28, 2023; full: 58.77"
+            },
+            {
+              "x": 193.09523811084063,
+              "y": 247.55999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 29, 2023; full: 58.74"
+            },
+            {
+              "x": 195.26556778113837,
+              "y": 246.36000000000004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 30, 2023; full: 58.94"
+            },
+            {
+              "x": 197.43589745143612,
+              "y": 245.1,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Mar 31, 2023; full: 59.15"
+            },
+            {
+              "x": 199.6062271217339,
+              "y": 251.58,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 01, 2023; full: 58.07"
+            },
+            {
+              "x": 201.77655679203164,
+              "y": 250.13999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 02, 2023; full: 58.31"
+            },
+            {
+              "x": 203.94688646232942,
+              "y": 249.60000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 03, 2023; full: 58.4"
+            },
+            {
+              "x": 206.11721613262714,
+              "y": 249.12,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 04, 2023; full: 58.48"
+            },
+            {
+              "x": 208.2875458029249,
+              "y": 248.52,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 05, 2023; full: 58.58"
+            },
+            {
+              "x": 210.45787547322266,
+              "y": 248.34000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 06, 2023; full: 58.61"
+            },
+            {
+              "x": 212.62820514352038,
+              "y": 247.86,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 07, 2023; full: 58.69"
+            },
+            {
+              "x": 214.79853481381815,
+              "y": 246.95999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 08, 2023; full: 58.84"
+            },
+            {
+              "x": 216.9688644841159,
+              "y": 245.7,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 09, 2023; full: 59.05"
+            },
+            {
+              "x": 219.13919415441367,
+              "y": 244.44,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 10, 2023; full: 59.26"
+            },
+            {
+              "x": 221.30952382471142,
+              "y": 243.41999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 11, 2023; full: 59.43"
+            },
+            {
+              "x": 223.4798534950092,
+              "y": 243.12,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 12, 2023; full: 59.48"
+            },
+            {
+              "x": 225.6501831653069,
+              "y": 243.29999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 13, 2023; full: 59.45"
+            },
+            {
+              "x": 227.8205128356047,
+              "y": 242.87999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 14, 2023; full: 59.52"
+            },
+            {
+              "x": 229.99084250590244,
+              "y": 241.74,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 15, 2023; full: 59.71"
+            },
+            {
+              "x": 232.1611721762002,
+              "y": 240.83999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 16, 2023; full: 59.86"
+            },
+            {
+              "x": 234.33150184649793,
+              "y": 240.18,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 17, 2023; full: 59.97"
+            },
+            {
+              "x": 236.5018315167957,
+              "y": 239.75999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 18, 2023; full: 60.04"
+            },
+            {
+              "x": 238.67216118709345,
+              "y": 239.4,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 19, 2023; full: 60.1"
+            },
+            {
+              "x": 240.84249085739123,
+              "y": 239.4,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 20, 2023; full: 60.1"
+            },
+            {
+              "x": 243.01282052768894,
+              "y": 238.32,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 21, 2023; full: 60.28"
+            },
+            {
+              "x": 245.1831501979867,
+              "y": 237.29999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 22, 2023; full: 60.45"
+            },
+            {
+              "x": 247.35347986828447,
+              "y": 235.98,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 23, 2023; full: 60.67"
+            },
+            {
+              "x": 249.52380953858219,
+              "y": 235.43999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 24, 2023; full: 60.76"
+            },
+            {
+              "x": 251.69413920887996,
+              "y": 235.43999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 25, 2023; full: 60.76"
+            },
+            {
+              "x": 253.8644688791777,
+              "y": 235.8,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 26, 2023; full: 60.7"
+            },
+            {
+              "x": 256.0347985494755,
+              "y": 235.14000000000001,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 27, 2023; full: 60.81"
+            },
+            {
+              "x": 258.2051282197732,
+              "y": 234.29999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 28, 2023; full: 60.95"
+            },
+            {
+              "x": 260.375457890071,
+              "y": 232.8,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 29, 2023; full: 61.2"
+            },
+            {
+              "x": 262.54578756036875,
+              "y": 231.12,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Apr 30, 2023; full: 61.48"
+            },
+            {
+              "x": 264.7161172306665,
+              "y": 232.14000000000001,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 01, 2023; full: 61.31"
+            },
+            {
+              "x": 266.88644690096424,
+              "y": 231.36000000000004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 02, 2023; full: 61.44"
+            },
+            {
+              "x": 269.056776571262,
+              "y": 230.51999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 03, 2023; full: 61.58"
+            },
+            {
+              "x": 271.22710624155974,
+              "y": 229.20000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 04, 2023; full: 61.8"
+            },
+            {
+              "x": 273.39743591185754,
+              "y": 227.64,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 05, 2023; full: 62.06"
+            },
+            {
+              "x": 275.56776558215523,
+              "y": 226.14000000000001,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 06, 2023; full: 62.31"
+            },
+            {
+              "x": 277.738095252453,
+              "y": 224.76000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 07, 2023; full: 62.54"
+            },
+            {
+              "x": 279.9084249227508,
+              "y": 223.50000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 08, 2023; full: 62.75"
+            },
+            {
+              "x": 282.0787545930485,
+              "y": 222.42000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 09, 2023; full: 62.93"
+            },
+            {
+              "x": 284.2490842633463,
+              "y": 221.28,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 10, 2023; full: 63.12"
+            },
+            {
+              "x": 286.419413933644,
+              "y": 220.2,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 11, 2023; full: 63.3"
+            },
+            {
+              "x": 288.58974360394177,
+              "y": 218.45999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 12, 2023; full: 63.59"
+            },
+            {
+              "x": 290.7600732742395,
+              "y": 216.54,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 13, 2023; full: 63.91"
+            },
+            {
+              "x": 292.9304029445373,
+              "y": 214.74000000000007,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 14, 2023; full: 64.21"
+            },
+            {
+              "x": 295.100732614835,
+              "y": 213.54,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 15, 2023; full: 64.41"
+            },
+            {
+              "x": 297.2710622851328,
+              "y": 212.40000000000006,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 16, 2023; full: 64.6"
+            },
+            {
+              "x": 299.44139195543056,
+              "y": 210.84000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 17, 2023; full: 64.86"
+            },
+            {
+              "x": 301.6117216257283,
+              "y": 208.97999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 18, 2023; full: 65.17"
+            },
+            {
+              "x": 303.78205129602605,
+              "y": 206.88,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 19, 2023; full: 65.52"
+            },
+            {
+              "x": 305.9523809663238,
+              "y": 204.77999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 20, 2023; full: 65.87"
+            },
+            {
+              "x": 308.12271063662155,
+              "y": 202.86000000000004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 21, 2023; full: 66.19"
+            },
+            {
+              "x": 310.2930403069193,
+              "y": 201.24,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 22, 2023; full: 66.46"
+            },
+            {
+              "x": 312.46336997721704,
+              "y": 199.79999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 23, 2023; full: 66.7"
+            },
+            {
+              "x": 314.6336996475148,
+              "y": 199.02,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 24, 2023; full: 66.83"
+            },
+            {
+              "x": 316.8040293178126,
+              "y": 197.75999999999993,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 25, 2023; full: 67.04"
+            },
+            {
+              "x": 318.9743589881103,
+              "y": 196.25999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 26, 2023; full: 67.29"
+            },
+            {
+              "x": 321.1446886584081,
+              "y": 194.64000000000001,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 27, 2023; full: 67.56"
+            },
+            {
+              "x": 323.31501832870583,
+              "y": 192.84,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 28, 2023; full: 67.86"
+            },
+            {
+              "x": 325.4853479990036,
+              "y": 190.98000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 29, 2023; full: 68.17"
+            },
+            {
+              "x": 327.6556776693013,
+              "y": 190.14,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 30, 2023; full: 68.31"
+            },
+            {
+              "x": 329.82600733959913,
+              "y": 188.93999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: May 31, 2023; full: 68.51"
+            },
+            {
+              "x": 331.9963370098968,
+              "y": 187.14,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 01, 2023; full: 68.81"
+            },
+            {
+              "x": 334.1666666801946,
+              "y": 185.27999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 02, 2023; full: 69.12"
+            },
+            {
+              "x": 336.33699635049237,
+              "y": 183.29999999999998,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 03, 2023; full: 69.45"
+            },
+            {
+              "x": 338.5073260207901,
+              "y": 181.20000000000002,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 04, 2023; full: 69.8"
+            },
+            {
+              "x": 340.67765569108786,
+              "y": 179.82,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 05, 2023; full: 70.03"
+            },
+            {
+              "x": 342.8479853613856,
+              "y": 178.13999999999996,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 06, 2023; full: 70.31"
+            },
+            {
+              "x": 345.01831503168336,
+              "y": 176.22000000000006,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 07, 2023; full: 70.63"
+            },
+            {
+              "x": 347.1886447019811,
+              "y": 174.00000000000003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 08, 2023; full: 71"
+            },
+            {
+              "x": 349.35897437227885,
+              "y": 171.59999999999997,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "gasDayStart: Jun 09, 2023; full: 71.4"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [
+            {
+              "x": 1.7765567949360914,
+              "y": 296.32,
+              "width": 5,
+              "height": 3.680000000000007,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Jan 01, 2023; value: 184; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 16.968864487020365,
+              "y": 292.41999999999996,
+              "width": 5,
+              "height": 7.580000000000041,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Jan 08, 2023; value: 379; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 32.16117217910464,
+              "y": 294.54,
+              "width": 5,
+              "height": 5.4599999999999795,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Jan 15, 2023; value: 273; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 47.35347987118891,
+              "y": 295.1,
+              "width": 5,
+              "height": 4.899999999999977,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Jan 22, 2023; value: 245; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 62.54578756327318,
+              "y": 291.62,
+              "width": 5,
+              "height": 8.379999999999995,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Jan 29, 2023; value: 419; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 77.73809525535745,
+              "y": 294,
+              "width": 5,
+              "height": 6,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Feb 05, 2023; value: 300; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 92.93040294744173,
+              "y": 293.38,
+              "width": 5,
+              "height": 6.6200000000000045,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Feb 12, 2023; value: 331; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 108.122710639526,
+              "y": 290.76,
+              "width": 5,
+              "height": 9.240000000000009,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Feb 19, 2023; value: 462; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 123.31501833161029,
+              "y": 291.86,
+              "width": 5,
+              "height": 8.139999999999986,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Feb 26, 2023; value: 407; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 138.50732602369453,
+              "y": 291.64,
+              "width": 5,
+              "height": 8.360000000000014,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Mar 05, 2023; value: 418; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 153.69963371577882,
+              "y": 292.66,
+              "width": 5,
+              "height": 7.339999999999975,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Mar 12, 2023; value: 367; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 168.8919414078631,
+              "y": 281.66,
+              "width": 5,
+              "height": 18.339999999999975,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Mar 19, 2023; value: 917; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 184.08424909994739,
+              "y": 277.23999999999995,
+              "width": 5,
+              "height": 22.760000000000048,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Mar 26, 2023; value: 1138; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 199.27655679203164,
+              "y": 269.06,
+              "width": 5,
+              "height": 30.939999999999998,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Apr 02, 2023; value: 1547; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 214.4688644841159,
+              "y": 269.38,
+              "width": 5,
+              "height": 30.620000000000005,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Apr 09, 2023; value: 1531; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 229.6611721762002,
+              "y": 271.5,
+              "width": 5,
+              "height": 28.5,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Apr 16, 2023; value: 1425; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 244.85347986828447,
+              "y": 264.24,
+              "width": 5,
+              "height": 35.75999999999999,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Apr 23, 2023; value: 1788; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 260.04578756036875,
+              "y": 256.78000000000003,
+              "width": 5,
+              "height": 43.21999999999997,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Apr 30, 2023; value: 2161; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 275.238095252453,
+              "y": 252.43999999999997,
+              "width": 5,
+              "height": 47.56000000000003,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: May 07, 2023; value: 2378; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 290.4304029445373,
+              "y": 251.34000000000003,
+              "width": 5,
+              "height": 48.65999999999997,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: May 14, 2023; value: 2433; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 305.62271063662155,
+              "y": 240.64000000000001,
+              "width": 5,
+              "height": 59.359999999999985,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: May 21, 2023; value: 2968; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 320.81501832870583,
+              "y": 247.24,
+              "width": 5,
+              "height": 52.75999999999999,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: May 28, 2023; value: 2638; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 336.0073260207901,
+              "y": 239.34000000000003,
+              "width": 5,
+              "height": 60.65999999999997,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Jun 04, 2023; value: 3033; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 351.1996337128744,
+              "y": 251.21999999999997,
+              "width": 5,
+              "height": 48.78000000000003,
+              "fill": "#f58518",
+              "opacity": 0.6,
+              "y2": 300,
+              "description": "gasDayStart: Jun 11, 2023; value: 2439; variable: injectie",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 1.7765567949360914,
+              "y": 300,
+              "width": 5,
+              "height": 1.2799999999999727,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 301.28,
+              "description": "gasDayStart: Jan 01, 2023; value: \u221264; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 16.968864487020365,
+              "y": 300,
+              "width": 5,
+              "height": 22.760000000000048,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 322.76000000000005,
+              "description": "gasDayStart: Jan 08, 2023; value: \u22121138; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 32.16117217910464,
+              "y": 300,
+              "width": 5,
+              "height": 34.920000000000016,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 334.92,
+              "description": "gasDayStart: Jan 15, 2023; value: \u22121746; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 47.35347987118891,
+              "y": 300,
+              "width": 5,
+              "height": 93.25999999999999,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 393.26,
+              "description": "gasDayStart: Jan 22, 2023; value: \u22124663; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 62.54578756327318,
+              "y": 300,
+              "width": 5,
+              "height": 98.60000000000002,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 398.6,
+              "description": "gasDayStart: Jan 29, 2023; value: \u22124930; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 77.73809525535745,
+              "y": 300,
+              "width": 5,
+              "height": 53.81999999999999,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 353.82,
+              "description": "gasDayStart: Feb 05, 2023; value: \u22122691; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 92.93040294744173,
+              "y": 300,
+              "width": 5,
+              "height": 74.64000000000004,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 374.64000000000004,
+              "description": "gasDayStart: Feb 12, 2023; value: \u22123732; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 108.122710639526,
+              "y": 300,
+              "width": 5,
+              "height": 28.720000000000027,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 328.72,
+              "description": "gasDayStart: Feb 19, 2023; value: \u22121436; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 123.31501833161029,
+              "y": 300,
+              "width": 5,
+              "height": 30.74000000000001,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 330.74,
+              "description": "gasDayStart: Feb 26, 2023; value: \u22121537; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 138.50732602369453,
+              "y": 300,
+              "width": 5,
+              "height": 71.5,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 371.5,
+              "description": "gasDayStart: Mar 05, 2023; value: \u22123575; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 153.69963371577882,
+              "y": 300,
+              "width": 5,
+              "height": 61.60000000000002,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 361.6,
+              "description": "gasDayStart: Mar 12, 2023; value: \u22123080; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 168.8919414078631,
+              "y": 300,
+              "width": 5,
+              "height": 21.139999999999986,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 321.14,
+              "description": "gasDayStart: Mar 19, 2023; value: \u22121057; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 184.08424909994739,
+              "y": 300,
+              "width": 5,
+              "height": 22.939999999999998,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 322.94,
+              "description": "gasDayStart: Mar 26, 2023; value: \u22121147; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 199.27655679203164,
+              "y": 300,
+              "width": 5,
+              "height": 18.839999999999975,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 318.84,
+              "description": "gasDayStart: Apr 02, 2023; value: \u2212942; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 214.4688644841159,
+              "y": 300,
+              "width": 5,
+              "height": 9.180000000000007,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 309.18,
+              "description": "gasDayStart: Apr 09, 2023; value: \u2212459; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 229.6611721762002,
+              "y": 300,
+              "width": 5,
+              "height": 6.579999999999984,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 306.58,
+              "description": "gasDayStart: Apr 16, 2023; value: \u2212329; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 244.85347986828447,
+              "y": 300,
+              "width": 5,
+              "height": 13.220000000000027,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 313.22,
+              "description": "gasDayStart: Apr 23, 2023; value: \u2212661; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 260.04578756036875,
+              "y": 300,
+              "width": 5,
+              "height": 21.21999999999997,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 321.21999999999997,
+              "description": "gasDayStart: Apr 30, 2023; value: \u22121061; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 275.238095252453,
+              "y": 300,
+              "width": 5,
+              "height": 5.800000000000011,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 305.8,
+              "description": "gasDayStart: May 07, 2023; value: \u2212290; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 290.4304029445373,
+              "y": 300,
+              "width": 5,
+              "height": 0.9200000000000159,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 300.92,
+              "description": "gasDayStart: May 14, 2023; value: \u221246; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 305.62271063662155,
+              "y": 300,
+              "width": 5,
+              "height": 3.5200000000000387,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 303.52000000000004,
+              "description": "gasDayStart: May 21, 2023; value: \u2212176; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 320.81501832870583,
+              "y": 300,
+              "width": 5,
+              "height": 6.439999999999941,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 306.43999999999994,
+              "description": "gasDayStart: May 28, 2023; value: \u2212322; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 336.0073260207901,
+              "y": 300,
+              "width": 5,
+              "height": 6.600000000000023,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 306.6,
+              "description": "gasDayStart: Jun 04, 2023; value: \u2212330; variable: afname",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 351.1996337128744,
+              "y": 300,
+              "width": 5,
+              "height": 3.5600000000000023,
+              "fill": "#4c78a8",
+              "opacity": 0.6,
+              "y2": 303.56,
+              "description": "gasDayStart: Jun 11, 2023; value: \u2212178; variable: afname",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "opacity": 0.6,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "afname",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 51.7275390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f58518",
+                                      "opacity": 0.6,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "injectie",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 51.7275390625,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "variable",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 880,
+              "y": 0,
+              "width": 52,
+              "height": 40,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Gasvoorraad in Nederland 2023",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 400,
+              "y": -22,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

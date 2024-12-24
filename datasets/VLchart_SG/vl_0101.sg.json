@@ -1,0 +1,1098 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 540
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 540
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 540
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 540
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 540
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 540
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 11,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 33,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 56,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 78,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 101,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 123,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 146,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 168,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 191,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 213,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 236,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 258,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 281,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 303,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 326,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 348,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 371,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 393,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 416,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 438,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 461,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 483,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 506,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 528,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 10.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Austria",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 33.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Belgium",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 55.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Bulgaria",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 78.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Croatia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 100.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Cyprus",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 123.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Czechia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 145.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Denmark",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 168.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Estonia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 190.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Finland",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 213.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "France",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 235.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Germany",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 258.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Greece",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 280.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Hungary",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 303.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Italy",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 325.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Lithuania",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 348.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Luxemburg",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 370.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Malta",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 393.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Netherlands",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 415.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Poland",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 438.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Romania",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 460.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Slovakia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 483.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Spain",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 505.75,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Sweden",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 528.25,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "United Kingdom",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 540
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 250.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 250,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 200,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "200M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 100,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "300M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 49.999999999999986,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "400M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "500M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -38.36328125,
+                      "y": 125,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Ice-cream production (Liter)",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 203.625,
+              "y": 24.69996099999999,
+              "width": 20.25,
+              "height": 225.300039,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: France; Ice-cream production (Liter): 450.600M; Value: 450M; Country: France",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 383.625,
+              "y": 192.086,
+              "width": 20.25,
+              "height": 57.91399999999999,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Netherlands; Ice-cream production (Liter): 115.828M; Value: 120M; Country: Netherlands",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 226.125,
+              "y": 3.0271645000000125,
+              "width": 20.25,
+              "height": 246.97283549999997,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Germany; Ice-cream production (Liter): 493.946M; Value: 490M; Country: Germany",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 293.625,
+              "y": 32.26847299999999,
+              "width": 20.25,
+              "height": 217.731527,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Italy; Ice-cream production (Liter): 435.463M; Value: 440M; Country: Italy",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 518.625,
+              "y": 85.9724795,
+              "width": 20.25,
+              "height": 164.02752049999998,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: United Kingdom; Ice-cream production (Liter): 328.055M; Value: 330M; Country: United Kingdom",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 136.125,
+              "y": 241.00387800000001,
+              "width": 20.25,
+              "height": 8.996121999999986,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Denmark; Ice-cream production (Liter): 17.9922M; Value: 18M; Country: Denmark",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 248.625,
+              "y": 234.92352499999998,
+              "width": 20.25,
+              "height": 15.076475000000016,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Greece; Ice-cream production (Liter): 30.1530M; Value: 30M; Country: Greece",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 473.625,
+              "y": 96.46750000000002,
+              "width": 20.25,
+              "height": 153.53249999999997,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Spain; Ice-cream production (Liter): 307.065M; Value: 310M; Country: Spain",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 23.625,
+              "y": 145.349847,
+              "width": 20.25,
+              "height": 104.65015299999999,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Belgium; Ice-cream production (Liter): 209.300M; Value: 210M; Country: Belgium",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 338.625,
+              "y": 250,
+              "width": 20.25,
+              "height": 0,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Luxemburg; Ice-cream production (Liter): 0.00000; Value: 0.0; Country: Luxemburg",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 496.125,
+              "y": 200.42935,
+              "width": 20.25,
+              "height": 49.57065,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Sweden; Ice-cream production (Liter): 99.1413M; Value: 99M; Country: Sweden",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 181.125,
+              "y": 230.0513095,
+              "width": 20.25,
+              "height": 19.948690499999998,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Finland; Ice-cream production (Liter): 39.8974M; Value: 40M; Country: Finland",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 1.125,
+              "y": 248.621302,
+              "width": 20.25,
+              "height": 1.3786980000000142,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Austria; Ice-cream production (Liter): 2.75740M; Value: 2.8M; Country: Austria",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 361.125,
+              "y": 250,
+              "width": 20.25,
+              "height": 0,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Malta; Ice-cream production (Liter): 0.00000; Value: 0.0; Country: Malta",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 158.625,
+              "y": 239.82510000000002,
+              "width": 20.25,
+              "height": 10.17489999999998,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Estonia; Ice-cream production (Liter): 20.3498M; Value: 20M; Country: Estonia",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 316.125,
+              "y": 228.9438395,
+              "width": 20.25,
+              "height": 21.056160500000004,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Lithuania; Ice-cream production (Liter): 42.1123M; Value: 42M; Country: Lithuania",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 406.125,
+              "y": 131.1222,
+              "width": 20.25,
+              "height": 118.87780000000001,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Poland; Ice-cream production (Liter): 237.756M; Value: 240M; Country: Poland",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 113.625,
+              "y": 224.5475,
+              "width": 20.25,
+              "height": 25.452499999999986,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Czechia; Ice-cream production (Liter): 50.9050M; Value: 51M; Country: Czechia",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 451.125,
+              "y": 249.91194850000002,
+              "width": 20.25,
+              "height": 0.08805149999997752,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Slovakia; Ice-cream production (Liter): 176.103k; Value: 180k; Country: Slovakia",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 271.125,
+              "y": 217.49550000000002,
+              "width": 20.25,
+              "height": 32.50449999999998,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Hungary; Ice-cream production (Liter): 65.0090M; Value: 65M; Country: Hungary",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 428.625,
+              "y": 225.068999,
+              "width": 20.25,
+              "height": 24.93100100000001,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Romania; Ice-cream production (Liter): 49.8620M; Value: 50M; Country: Romania",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 46.125,
+              "y": 235.16301349999998,
+              "width": 20.25,
+              "height": 14.836986500000023,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Bulgaria; Ice-cream production (Liter): 29.6740M; Value: 30M; Country: Bulgaria",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 68.625,
+              "y": 232.5768,
+              "width": 20.25,
+              "height": 17.42320000000001,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Croatia; Ice-cream production (Liter): 34.8464M; Value: 35M; Country: Croatia",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 91.125,
+              "y": 250,
+              "width": 20.25,
+              "height": 0,
+              "fill": "#4c78a8",
+              "y2": 250,
+              "description": "DECL: Cyprus; Ice-cream production (Liter): 0.00000; Value: 0.0; Country: Cyprus",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 540,
+      "height": 250,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

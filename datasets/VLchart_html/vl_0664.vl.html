@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "IMF Lending as a percentage of Global GDP", "subtitle": ["Loans dispersed, % of Global GDP Source: IMF (2022 data up to September 30).", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "#cbc7cf", "subtitleColor": "#cbc7cf"}, "config": {"background": "#122b39", "view": {"stroke": "transparent"}}, "data": {"url": "https://raw.githubusercontent.com/PremWoods/PremWoods.github.io/main/IMF%20credit%20outstanding%20IMF.csv"}, "height": 300, "width": 450, "mark": {"type": "bar", "width": 8, "color": "#ff9a00"}, "encoding": {"x": {"field": "Year", "type": "temporal", "axis": {"title": null, "grid": false, "labelColor": "#cbc7cf", "ticks": false, "labelAngle": 45}}, "y": {"field": "IMF Credit/GDP", "type": "quantitative", "title": "", "axis": {"grid": false, "labelColor": "#cbc7cf"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

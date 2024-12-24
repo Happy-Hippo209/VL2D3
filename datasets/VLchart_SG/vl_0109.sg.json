@@ -1,0 +1,3346 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 31,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 62,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 92,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 123,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 154,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 185,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 215,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 246,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 277,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 308,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 338,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 369,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 400,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 350.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 321,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 292,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 233,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 204,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 146,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 117,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 88,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 58,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 29,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 31,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 62,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 92,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 123,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 154,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 185,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 215,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 246,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 277,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 308,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 338,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 369,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 400,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 30.76923076923077,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.05",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 61.53846153846154,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 92.3076923076923,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.15",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 123.07692307692308,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 153.84615384615384,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 184.6153846153846,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.30",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 215.3846153846154,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.35",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 246.15384615384616,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.40",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 276.9230769230769,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.45",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 307.6923076923077,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.50",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 338.46153846153845,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.55",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 369.2307692307692,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.60",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 400,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.65",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 200,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1 - HDI",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 350.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 321,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 292,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 233,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 204,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 146,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 117,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 88,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 58,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 29,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 350,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u22121,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 320.8333333333333,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 291.6666666666667,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 262.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 233.33333333333337,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "3,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 204.16666666666663,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "4,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 175,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 145.83333333333331,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "6,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 116.66666666666669,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "7,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 87.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "8,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 58.33333333333332,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "9,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 29.16666666666668,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "11,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -44.28125,
+                      "y": 175,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "ODA (millions US$)",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 138.46153846153845,
+              "y": 252.74199827916667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.225; ODA (millions US$): 2334.560059",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 318.15384615384613,
+              "y": 198.1390787833333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.517; ODA (millions US$): 4206.660156",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 126.76923076923077,
+              "y": 311.79312464416665,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.206; ODA (millions US$): 309.9500122",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 162.46153846153845,
+              "y": 314.72029177458336,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.264; ODA (millions US$): 209.5899963",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 252.3076923076923,
+              "y": 317.59962492125004,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.41; ODA (millions US$): 110.8700027",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130.46153846153845,
+              "y": 320.08141664654164,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.212; ODA (millions US$): 25.78000069",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 98.46153846153845,
+              "y": 317.87933336833333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.16; ODA (millions US$): 101.2799988",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 149.53846153846152,
+              "y": 317.75274992125003,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.243; ODA (millions US$): 105.6200027",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 166.15384615384616,
+              "y": 317.2962917658333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.27; ODA (millions US$): 121.2699966",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 212.30769230769226,
+              "y": 164.09603880833336,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.345; ODA (millions US$): 5373.850098",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 118.76923076923076,
+              "y": 296.8347084033333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.193; ODA (millions US$): 822.8099976",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190.76923076923075,
+              "y": 318.814124902,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.31; ODA (millions US$): 69.23000336",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 292.9230769230769,
+              "y": 290.23370818750004,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.476; ODA (millions US$): 1049.130005",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 204.3076923076923,
+              "y": 314.93554147125,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.332; ODA (millions US$): 202.2100067",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 134.76923076923077,
+              "y": 308.07379163166667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.219; ODA (millions US$): 437.4700012",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 176.61538461538458,
+              "y": 318.5376250268333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.287; ODA (millions US$): 78.70999908",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 148.9230769230769,
+              "y": 302.9707918795833,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.242; ODA (millions US$): 612.4299927",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 339.0769230769231,
+              "y": 270.35195719583334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.551; ODA (millions US$): 1730.790039",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 353.23076923076917,
+              "y": 306.86687482208333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.574; ODA (millions US$): 478.8500061",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 208,
+              "y": 316.2416252129167,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.338; ODA (millions US$): 157.4299927",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 248.61538461538464,
+              "y": 280.7813761375,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.404; ODA (millions US$): 1373.209961",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 259.6923076923077,
+              "y": 280.00553994583333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.422; ODA (millions US$): 1399.810059",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 364.9230769230769,
+              "y": 296.62558390208335,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.593; ODA (millions US$): 829.9799805",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 371.07692307692304,
+              "y": 290.5977076333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.603; ODA (millions US$): 1036.650024",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 145.2307692307692,
+              "y": 337.5636245741667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.236; ODA (millions US$): \u2212573.6099854",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150.15384615384616,
+              "y": 266.3290008458333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.244; ODA (millions US$): 1868.719971",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 269.53846153846155,
+              "y": 316.98595822541665,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.438; ODA (millions US$): 131.9100037",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 113.23076923076923,
+              "y": 314.7197083158333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.184; ODA (millions US$): 209.6100006",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 134.76923076923077,
+              "y": 315.74433345875,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.219; ODA (millions US$): 174.4799957",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 301.53846153846155,
+              "y": 313.3625829075,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.49; ODA (millions US$): 256.1400146",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 171.0769230769231,
+              "y": 318.96199989325,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.278; ODA (millions US$): 64.16000366",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 145.2307692307692,
+              "y": 304.6507911679167,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.236; ODA (millions US$): 554.8300171",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 165.53846153846155,
+              "y": 310.82449989208334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.269; ODA (millions US$): 343.1600037",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 201.84615384615384,
+              "y": 302.55545883208333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.328; ODA (millions US$): 626.6699829",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 246.76923076923077,
+              "y": 320.6597916722375,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.401; ODA (millions US$): 5.949999809",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 311.38461538461536,
+              "y": 319.06262502683336,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.506; ODA (millions US$): 60.70999908",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 308.9230769230769,
+              "y": 166.20157878333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.502; ODA (millions US$): 5301.660156",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 161.84615384615384,
+              "y": 315.1855000175,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.263; ODA (millions US$): 193.6399994",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 178.46153846153845,
+              "y": 319.2816666445,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.29; ODA (millions US$): 53.20000076",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 121.84615384615385,
+              "y": 290.47491710416665,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.198; ODA (millions US$): 1040.859985",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 226.46153846153845,
+              "y": 256.5453359,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.368; ODA (millions US$): 2204.159912",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 127.99999999999999,
+              "y": 318.8059582709167,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.208; ODA (millions US$): 69.51000214",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 224.6153846153846,
+              "y": 307.0561670925,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.365; ODA (millions US$): 472.3599854",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 328.61538461538464,
+              "y": 299.73212585458333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.534; ODA (millions US$): 723.4699707",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 318.15384615384613,
+              "y": 316.53883317291667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.517; ODA (millions US$): 147.2400055",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 171.6923076923077,
+              "y": 319.32045836454165,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.279; ODA (millions US$): 51.86999893",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 283.0769230769231,
+              "y": 294.96687571166666,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.46; ODA (millions US$): 886.8499756",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 233.23076923076923,
+              "y": 279.04829152083335,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.379; ODA (millions US$): 1432.630005",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 220.30769230769226,
+              "y": 268.5022094708333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.358; ODA (millions US$): 1794.209961",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 179.07692307692307,
+              "y": 284.8746251458333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.291; ODA (millions US$): 1232.869995",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 197.53846153846152,
+              "y": 252.024794525,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.321; ODA (millions US$): 2359.149902",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 176.61538461538458,
+              "y": 318.890541648875,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.287; ODA (millions US$): 66.61000061",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170.46153846153845,
+              "y": 230.00833333333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.277; ODA (millions US$): 3114",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 114.46153846153845,
+              "y": 318.779999955375,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.186; ODA (millions US$): 70.40000153",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 259.6923076923077,
+              "y": 204.5207468791667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.422; ODA (millions US$): 3987.860107",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 231.99999999999997,
+              "y": 319.1410833199167,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.377; ODA (millions US$): 58.02000046",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 168.61538461538464,
+              "y": 279.4872512833333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.274; ODA (millions US$): 1417.579956",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 294.7692307692308,
+              "y": 315.86070817291665,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.479; ODA (millions US$): 170.4900055",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 320,
+              "y": 301.81375071166667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.52; ODA (millions US$): 652.0999756",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 182.76923076923075,
+              "y": 312.2002919525,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.297; ODA (millions US$): 295.9899902",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 307.0769230769231,
+              "y": 283.22233275,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.499; ODA (millions US$): 1289.52002",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 297.8461538461538,
+              "y": 278.4503748541667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.484; ODA (millions US$): 1453.130005",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 119.38461538461537,
+              "y": 320.98558332720836,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.194; ODA (millions US$): \u22125.21999979",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 163.69230769230768,
+              "y": 311.7578332254167,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.266; ODA (millions US$): 311.1600037",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 352.6153846153845,
+              "y": 275.17262470833333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.573; ODA (millions US$): 1565.51001",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 222.15384615384613,
+              "y": 315.4940834033333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.361; ODA (millions US$): 183.0599976",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 273.2307692307692,
+              "y": 302.0365826916667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.444; ODA (millions US$): 644.460022",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 120.61538461538461,
+              "y": 311.06337496500004,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.196; ODA (millions US$): 334.9700012",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150.15384615384616,
+              "y": 293.53158340333334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.244; ODA (millions US$): 936.0599976",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 156.92307692307693,
+              "y": 300.44116745125,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.255; ODA (millions US$): 699.1599731",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 107.07692307692307,
+              "y": 314.88683319041667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.174; ODA (millions US$): 203.8800049",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 197.53846153846152,
+              "y": 267.50645903333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.321; ODA (millions US$): 1828.349976",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 336.61538461538464,
+              "y": 246.53708190416666,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.547; ODA (millions US$): 2547.300049",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 246.15384615384616,
+              "y": 237.11566468333334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.4; ODA (millions US$): 2870.320068",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 225.84615384615384,
+              "y": 315.58041648874996,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.367; ODA (millions US$): 180.1000061",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 243.6923076923077,
+              "y": 269.5466659666667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.396; ODA (millions US$): 1758.400024",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 212.9230769230769,
+              "y": 303.3359591179166,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.346; ODA (millions US$): 599.9099731",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 368.6153846153846,
+              "y": 264.58687642916664,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.599; ODA (millions US$): 1928.449951",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 286.15384615384613,
+              "y": 222.38183391666664,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.465; ODA (millions US$): 3375.47998",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 139.07692307692307,
+              "y": 312.60133361916667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.226; ODA (millions US$): 282.2399902",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 281.2307692307692,
+              "y": 245.2630839166667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.457; ODA (millions US$): 2590.97998",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 139.69230769230768,
+              "y": 318.901624902,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.227; ODA (millions US$): 66.23000336",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 122.46153846153847,
+              "y": 309.3221246091667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.199; ODA (millions US$): 394.6700134",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270.7692307692307,
+              "y": 290.0616241541667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.44; ODA (millions US$): 1055.030029",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 166.15384615384616,
+              "y": 311.9596669525,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.27; ODA (millions US$): 304.2399902",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 146.46153846153845,
+              "y": 306.57958297749997,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.238; ODA (millions US$): 488.7000122",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 178.46153846153845,
+              "y": 278.3602508458333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.29; ODA (millions US$): 1456.219971",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 288,
+              "y": 273.4535430958333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.468; ODA (millions US$): 1624.449951",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 177.23076923076923,
+              "y": 315.97387498250004,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.288; ODA (millions US$): 166.6100006",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 234.46153846153845,
+              "y": 318.154375044625,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.381; ODA (millions US$): 91.84999847",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 299.6923076923077,
+              "y": 273.8467091791667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.487; ODA (millions US$): 1610.969971",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 120.61538461538461,
+              "y": 306.83041648874996,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.196; ODA (millions US$): 480.1000061",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 323.0769230769231,
+              "y": 296.4266670225,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.525; ODA (millions US$): 836.7999878",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 267.6923076923077,
+              "y": 314.58408349375003,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.435; ODA (millions US$): 214.2599945",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 168.00000000000003,
+              "y": 285.74641725000004,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.273; ODA (millions US$): 1202.97998",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 377.8461538461538,
+              "y": 267.74066824166664,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.614; ODA (millions US$): 1820.319946",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 135.38461538461536,
+              "y": 314.48783340333335,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.22; ODA (millions US$): 217.5599976",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 301.53846153846155,
+              "y": 252.3581675125,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.49; ODA (millions US$): 2347.719971",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 158.15384615384616,
+              "y": 320.04320832895837,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.257; ODA (millions US$): 27.09000015",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 260.3076923076923,
+              "y": 28.992236320833324,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.423; ODA (millions US$): 10005.980469",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 206.76923076923077,
+              "y": 298.92245890208335,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.336; ODA (millions US$): 751.2299805",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 121.84615384615385,
+              "y": 315.06270815541666,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.198; ODA (millions US$): 197.8500061",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 237.53846153846152,
+              "y": 313.5510002129167,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.386; ODA (millions US$): 249.6799927",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 286.15384615384613,
+              "y": 304.4743331904167,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.465; ODA (millions US$): 560.8800049",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 156.92307692307693,
+              "y": 316.0823750175,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.255; ODA (millions US$): 162.8899994",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 161.84615384615384,
+              "y": 292.3984591179166,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.263; ODA (millions US$): 974.9099731",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 159.3846153846154,
+              "y": 319.800250053375,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.259; ODA (millions US$): 35.41999817",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 222.15384615384613,
+              "y": 319.581500053375,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.361; ODA (millions US$): 42.91999817",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 292.9230769230769,
+              "y": 230.92445576666668,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.476; ODA (millions US$): 3082.590088",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 171.6923076923077,
+              "y": 278.27216695833334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.279; ODA (millions US$): 1459.23999",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 241.23076923076923,
+              "y": 316.3416666666667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.392; ODA (millions US$): 154",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 264.6153846153846,
+              "y": 291.2037918125,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.43; ODA (millions US$): 1015.869995",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 246.15384615384616,
+              "y": 292.13129145375,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "darkblue",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "1 - HDI: 0.4; ODA (millions US$): 984.0700073",
+              "ariaRoleDescription": "point"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 98.46153846153845,
+              "y": 312.8945056353082,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.16; y2: 272.188378218"
+            },
+            {
+              "x": 107.07692307692307,
+              "y": 311.3164259649446,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.174; y2: 326.293966916"
+            },
+            {
+              "x": 113.23076923076923,
+              "y": 310.1892262003991,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.184; y2: 364.940815986"
+            },
+            {
+              "x": 114.46153846153845,
+              "y": 309.96378624749,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.186; y2: 372.6701858"
+            },
+            {
+              "x": 118.76923076923076,
+              "y": 309.1747464123082,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.193; y2: 399.722980149"
+            },
+            {
+              "x": 119.38461538461537,
+              "y": 309.0620264358537,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.194; y2: 403.587665056"
+            },
+            {
+              "x": 120.61538461538461,
+              "y": 308.8365864829446,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.196; y2: 411.31703487"
+            },
+            {
+              "x": 120.61538461538461,
+              "y": 308.8365864829446,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.196; y2: 411.31703487"
+            },
+            {
+              "x": 121.84615384615385,
+              "y": 308.6111465300355,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.198; y2: 419.046404684"
+            },
+            {
+              "x": 121.84615384615385,
+              "y": 308.6111465300355,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.198; y2: 419.046404684"
+            },
+            {
+              "x": 122.46153846153847,
+              "y": 308.49842655358094,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.199; y2: 422.911089592"
+            },
+            {
+              "x": 126.76923076923077,
+              "y": 307.7093867183991,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.206; y2: 449.963883941"
+            },
+            {
+              "x": 127.99999999999999,
+              "y": 307.48394676549003,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.208; y2: 457.693253755"
+            },
+            {
+              "x": 130.46153846153845,
+              "y": 307.03306685967186,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.212; y2: 473.151993383"
+            },
+            {
+              "x": 134.76923076923077,
+              "y": 306.24402702449004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.219; y2: 500.204787732"
+            },
+            {
+              "x": 134.76923076923077,
+              "y": 306.24402702449004,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.219; y2: 500.204787732"
+            },
+            {
+              "x": 135.38461538461536,
+              "y": 306.1313070480355,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.22; y2: 504.069472639"
+            },
+            {
+              "x": 138.46153846153845,
+              "y": 305.5677071657628,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.225; y2: 523.392897174"
+            },
+            {
+              "x": 139.07692307692307,
+              "y": 305.4549871893082,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.226; y2: 527.257582081"
+            },
+            {
+              "x": 139.69230769230768,
+              "y": 305.3422672128537,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.227; y2: 531.122266988"
+            },
+            {
+              "x": 145.2307692307692,
+              "y": 304.3277874247628,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.236; y2: 565.904431151"
+            },
+            {
+              "x": 145.2307692307692,
+              "y": 304.3277874247628,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.236; y2: 565.904431151"
+            },
+            {
+              "x": 146.46153846153845,
+              "y": 304.1023474718537,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.238; y2: 573.633800965"
+            },
+            {
+              "x": 148.9230769230769,
+              "y": 303.65146756603554,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.242; y2: 589.092540593"
+            },
+            {
+              "x": 149.53846153846152,
+              "y": 303.53874758958096,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.243; y2: 592.9572255"
+            },
+            {
+              "x": 150.15384615384616,
+              "y": 303.42602761312645,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.244; y2: 596.821910407"
+            },
+            {
+              "x": 150.15384615384616,
+              "y": 303.42602761312645,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.244; y2: 596.821910407"
+            },
+            {
+              "x": 156.92307692307693,
+              "y": 302.18610787212646,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.255; y2: 639.333444384"
+            },
+            {
+              "x": 156.92307692307693,
+              "y": 302.18610787212646,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.255; y2: 639.333444384"
+            },
+            {
+              "x": 158.15384615384616,
+              "y": 301.9606679192173,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.257; y2: 647.062814198"
+            },
+            {
+              "x": 159.3846153846154,
+              "y": 301.73522796630823,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.259; y2: 654.792184012"
+            },
+            {
+              "x": 161.84615384615384,
+              "y": 301.28434806049006,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.263; y2: 670.25092364"
+            },
+            {
+              "x": 161.84615384615384,
+              "y": 301.28434806049006,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.263; y2: 670.25092364"
+            },
+            {
+              "x": 162.46153846153845,
+              "y": 301.17162808403555,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.264; y2: 674.115608547"
+            },
+            {
+              "x": 163.69230769230768,
+              "y": 300.94618813112646,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.266; y2: 681.844978361"
+            },
+            {
+              "x": 165.53846153846155,
+              "y": 300.6080282017628,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.269; y2: 693.439033082"
+            },
+            {
+              "x": 166.15384615384616,
+              "y": 300.49530822530824,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.27; y2: 697.303717989"
+            },
+            {
+              "x": 166.15384615384616,
+              "y": 300.49530822530824,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.27; y2: 697.303717989"
+            },
+            {
+              "x": 168.00000000000003,
+              "y": 300.15714829594464,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.273; y2: 708.89777271"
+            },
+            {
+              "x": 168.61538461538464,
+              "y": 300.04442831949007,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.274; y2: 712.762457617"
+            },
+            {
+              "x": 170.46153846153845,
+              "y": 299.70626839012647,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.277; y2: 724.356512339"
+            },
+            {
+              "x": 171.0769230769231,
+              "y": 299.5935484136719,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.278; y2: 728.221197246"
+            },
+            {
+              "x": 171.6923076923077,
+              "y": 299.4808284372173,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.279; y2: 732.085882153"
+            },
+            {
+              "x": 171.6923076923077,
+              "y": 299.4808284372173,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.279; y2: 732.085882153"
+            },
+            {
+              "x": 176.61538461538458,
+              "y": 298.579068625581,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.287; y2: 763.003361409"
+            },
+            {
+              "x": 176.61538461538458,
+              "y": 298.579068625581,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.287; y2: 763.003361409"
+            },
+            {
+              "x": 177.23076923076923,
+              "y": 298.4663486491264,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.288; y2: 766.868046316"
+            },
+            {
+              "x": 178.46153846153845,
+              "y": 298.24090869621733,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.29; y2: 774.59741613"
+            },
+            {
+              "x": 178.46153846153845,
+              "y": 298.24090869621733,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.29; y2: 774.59741613"
+            },
+            {
+              "x": 179.07692307692307,
+              "y": 298.1281887197628,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.291; y2: 778.462101037"
+            },
+            {
+              "x": 182.76923076923075,
+              "y": 297.45186886103556,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.297; y2: 801.650210479"
+            },
+            {
+              "x": 190.76923076923075,
+              "y": 295.9865091671264,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.31; y2: 851.89111427"
+            },
+            {
+              "x": 197.53846153846152,
+              "y": 294.74658942612643,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.321; y2: 894.402648247"
+            },
+            {
+              "x": 197.53846153846152,
+              "y": 294.74658942612643,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.321; y2: 894.402648247"
+            },
+            {
+              "x": 201.84615384615384,
+              "y": 293.95754959094467,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.328; y2: 921.455442596"
+            },
+            {
+              "x": 204.3076923076923,
+              "y": 293.50666968512644,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.332; y2: 936.914182224"
+            },
+            {
+              "x": 206.76923076923077,
+              "y": 293.05578977930827,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.336; y2: 952.372921852"
+            },
+            {
+              "x": 208,
+              "y": 292.8303498263992,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.338; y2: 960.102291666"
+            },
+            {
+              "x": 212.30769230769226,
+              "y": 292.04130999121736,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.345; y2: 987.155086015"
+            },
+            {
+              "x": 212.9230769230769,
+              "y": 291.92859001476285,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.346; y2: 991.019770922"
+            },
+            {
+              "x": 220.30769230769226,
+              "y": 290.5759502973083,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.358; y2: 1037.39598981"
+            },
+            {
+              "x": 222.15384615384613,
+              "y": 290.2377903679447,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.361; y2: 1048.99004453"
+            },
+            {
+              "x": 222.15384615384613,
+              "y": 290.2377903679447,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.361; y2: 1048.99004453"
+            },
+            {
+              "x": 224.6153846153846,
+              "y": 289.78691046212646,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.365; y2: 1064.44878416"
+            },
+            {
+              "x": 225.84615384615384,
+              "y": 289.56147050921743,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.367; y2: 1072.17815397"
+            },
+            {
+              "x": 226.46153846153845,
+              "y": 289.44875053276286,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.368; y2: 1076.04283888"
+            },
+            {
+              "x": 231.99999999999997,
+              "y": 288.43427074467195,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.377; y2: 1110.82500304"
+            },
+            {
+              "x": 233.23076923076923,
+              "y": 288.20883079176286,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.379; y2: 1118.55437285"
+            },
+            {
+              "x": 234.46153846153845,
+              "y": 287.9833908388538,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.381; y2: 1126.28374267"
+            },
+            {
+              "x": 237.53846153846152,
+              "y": 287.4197909565811,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.386; y2: 1145.6071672"
+            },
+            {
+              "x": 241.23076923076923,
+              "y": 286.7434710978538,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.392; y2: 1168.79527665"
+            },
+            {
+              "x": 243.6923076923077,
+              "y": 286.2925911920356,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.396; y2: 1184.25401627"
+            },
+            {
+              "x": 246.15384615384616,
+              "y": 285.8417112862174,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.4; y2: 1199.7127559"
+            },
+            {
+              "x": 246.15384615384616,
+              "y": 285.8417112862174,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.4; y2: 1199.7127559"
+            },
+            {
+              "x": 246.76923076923077,
+              "y": 285.7289913097629,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.401; y2: 1203.57744081"
+            },
+            {
+              "x": 248.61538461538464,
+              "y": 285.3908313803993,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.404; y2: 1215.17149553"
+            },
+            {
+              "x": 252.3076923076923,
+              "y": 284.71451152167197,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.41; y2: 1238.35960497"
+            },
+            {
+              "x": 259.6923076923077,
+              "y": 283.36187180421746,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.422; y2: 1284.73582386"
+            },
+            {
+              "x": 259.6923076923077,
+              "y": 283.36187180421746,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.422; y2: 1284.73582386"
+            },
+            {
+              "x": 260.3076923076923,
+              "y": 283.2491518277629,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.423; y2: 1288.60050876"
+            },
+            {
+              "x": 264.6153846153846,
+              "y": 282.4601119925811,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.43; y2: 1315.65330311"
+            },
+            {
+              "x": 267.6923076923077,
+              "y": 281.8965121103084,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.435; y2: 1334.97672765"
+            },
+            {
+              "x": 269.53846153846155,
+              "y": 281.5583521809447,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.438; y2: 1346.57078237"
+            },
+            {
+              "x": 270.7692307692307,
+              "y": 281.33291222803564,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.44; y2: 1354.30015218"
+            },
+            {
+              "x": 273.2307692307692,
+              "y": 280.88203232221747,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.444; y2: 1369.75889181"
+            },
+            {
+              "x": 281.2307692307692,
+              "y": 279.4166726283084,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.457; y2: 1419.9997956"
+            },
+            {
+              "x": 283.0769230769231,
+              "y": 279.07851269894473,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.46; y2: 1431.59385032"
+            },
+            {
+              "x": 286.15384615384613,
+              "y": 278.514912816672,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.465; y2: 1450.91727486"
+            },
+            {
+              "x": 286.15384615384613,
+              "y": 278.514912816672,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.465; y2: 1450.91727486"
+            },
+            {
+              "x": 288,
+              "y": 278.1767528873084,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.468; y2: 1462.51132958"
+            },
+            {
+              "x": 292.9230769230769,
+              "y": 277.274993075672,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.476; y2: 1493.42880883"
+            },
+            {
+              "x": 292.9230769230769,
+              "y": 277.274993075672,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.476; y2: 1493.42880883"
+            },
+            {
+              "x": 294.7692307692308,
+              "y": 276.9368331463084,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.479; y2: 1505.02286356"
+            },
+            {
+              "x": 297.8461538461538,
+              "y": 276.3732332640357,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.484; y2: 1524.34628809"
+            },
+            {
+              "x": 299.6923076923077,
+              "y": 276.035073334672,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.487; y2: 1535.94034281"
+            },
+            {
+              "x": 301.53846153846155,
+              "y": 275.6969134053084,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.49; y2: 1547.53439753"
+            },
+            {
+              "x": 301.53846153846155,
+              "y": 275.6969134053084,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.49; y2: 1547.53439753"
+            },
+            {
+              "x": 307.0769230769231,
+              "y": 274.6824336172175,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.499; y2: 1582.3165617"
+            },
+            {
+              "x": 308.9230769230769,
+              "y": 274.3442736878539,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.502; y2: 1593.91061642"
+            },
+            {
+              "x": 311.38461538461536,
+              "y": 273.8933937820357,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.506; y2: 1609.36935604"
+            },
+            {
+              "x": 318.15384615384613,
+              "y": 272.6534740410357,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.517; y2: 1651.88089002"
+            },
+            {
+              "x": 318.15384615384613,
+              "y": 272.6534740410357,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.517; y2: 1651.88089002"
+            },
+            {
+              "x": 320,
+              "y": 272.3153141116721,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.52; y2: 1663.47494474"
+            },
+            {
+              "x": 323.0769230769231,
+              "y": 271.75171422939934,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.525; y2: 1682.79836928"
+            },
+            {
+              "x": 328.61538461538464,
+              "y": 270.73723444130843,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.534; y2: 1717.58053344"
+            },
+            {
+              "x": 336.61538461538464,
+              "y": 269.27187474739935,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.547; y2: 1767.82143723"
+            },
+            {
+              "x": 339.0769230769231,
+              "y": 268.8209948415812,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.551; y2: 1783.28017686"
+            },
+            {
+              "x": 352.6153846153845,
+              "y": 266.3411553595812,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.573; y2: 1868.30324481"
+            },
+            {
+              "x": 353.23076923076917,
+              "y": 266.2284353831266,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.574; y2: 1872.16792972"
+            },
+            {
+              "x": 364.9230769230769,
+              "y": 264.0867558304903,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.593; y2: 1945.59694295"
+            },
+            {
+              "x": 368.6153846153846,
+              "y": 263.41043597176304,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.599; y2: 1968.7850524"
+            },
+            {
+              "x": 371.07692307692304,
+              "y": 262.95955606594487,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.603; y2: 1984.24379202"
+            },
+            {
+              "x": 377.8461538461538,
+              "y": 261.7196363249449,
+              "stroke": "red",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "X: 0.614; y2: 2026.755326"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "black",
+                      "opacity": 1,
+                      "text": "Linear regression of % of population in Extreme poverty on Net ODA received",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "title-subtitle",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 16,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "black",
+                      "opacity": 1,
+                      "text": [
+                        "% of population given by value reported closest to year 2022",
+                        "Net ODA refers to Official Development Aid received (millions, in constant terms, 2020 US$)",
+                        "Source: World Bank and UNDP",
+                        "R Squared value = 0.11"
+                      ],
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontStyle": "italic"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -55.28125,
+              "y": -71,
+              "align": "left",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 350,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

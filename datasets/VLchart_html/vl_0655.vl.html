@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "Pyramid", "subtitle": "An example from the Vega Lite site", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"values": [{"category": "Sky", "value": 75, "order": 3}, {"category": "Shady", "value": 10, "order": 1}, {"category": "Sunny", "value": 15, "order": 2}]}, "mark": {"type": "arc", "outerRadius": 160}, "height": 350, "width": 250, "encoding": {"theta": {"field": "value", "type": "quantitative", "scale": {"range": [2.35619449, 8.639379797]}, "stack": true}, "color": {"field": "category", "type": "nominal", "scale": {"domain": ["Sky", "Shady", "Sunny"], "range": ["RGB(0, 0, 150)", "RGB(180, 180, 0)", "RGB(249, 240, 0)"]}, "legend": {"orient": "bottom", "title": "Segments", "columns": 3, "legendX": 200, "legendY": 80}}, "order": {"field": "order"}}, "view": {"stroke": null}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

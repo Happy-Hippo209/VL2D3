@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-f49d796d543ea7db9bf676fdb38e5682"}, "mark": "bar", "encoding": {"color": {"type": "nominal", "field": "org"}, "x": {"type": "nominal", "field": "repo", "sort": ["numpy", "numpy-tutorials"]}, "y": {"type": "quantitative", "field": "author"}}, "title": "Merged PRs in the last 10 days", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "datasets": {"data-f49d796d543ea7db9bf676fdb38e5682": [{"org": "numpy", "repo": "numpy", "author": 37}, {"org": "numpy", "repo": "numpy-tutorials", "author": 3}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

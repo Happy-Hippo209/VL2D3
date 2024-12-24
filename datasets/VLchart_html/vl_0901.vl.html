@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A scatterplot showing body mass and flipper lengths of penguins.", "data": {"url": "https://raw.githubusercontent.com/JamesFKean/JamesFKean.github.io/main/kmeans_engv2.csv"}, "title": {"text": "China and Everyone Else: 40 Years of Energy and GDP Growth", "subtitle": "Source World Bank & BP", "subtitleFontSize": 10, "anchor": "start"}, "height": 340, "width": 440, "background": "#fff0d8", "transform": [{"calculate": "{'1': 'High gorwth','2': 'Moderate less effecient growth', '0': 'Low growth', '3': 'China', '4': 'Moderate growth',}[datum.Cluster]", "as": "Growth Group"}], "layer": [{"mark": "point", "encoding": {"x": {"field": "eng_mean", "type": "quantitative", "title": "Mean Rate of % Change in Energy Consumption", "scale": {"zero": false}}, "y": {"field": "gdp_mean", "type": "quantitative", "title": "Mean Rate of % Change in GDP Growth", "scale": {"zero": false}}, "color": {"field": "Growth Group", "type": "nominal", "scale": {"range": ["red", "black", "purple", "orange", "darkblue"]}, "legend": {"orient": "bottom-left", "direction": "horizontal", "offset": -49}}, "tooltip": [{"field": "Country", "type": "nominal"}, {"field": "eng_mean", "type": "nominal", "title": "Mean rate of change in energy consumption", "format": ".2f"}, {"field": "gdp_mean", "type": "nominal", "title": "Mean rate of change in GDP Growth", "format": ".2f"}]}}, {"transform": [{"filter": "datum.Country == 'China'"}], "mark": {"type": "text", "yOffset": -8, "xOffset": -10, "fontSize": 10, "color": "darkred", "fontStyle": "bold"}, "encoding": {"x": {"field": "eng_mean", "type": "quantitative", "title": "Mean Rate of % Change in Energy Consumption", "scale": {"zero": false}}, "y": {"field": "gdp_mean", "type": "quantitative", "title": "Mean Rate of % Change in GDP Growth", "scale": {"zero": false}}, "text": {"field": "Country"}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

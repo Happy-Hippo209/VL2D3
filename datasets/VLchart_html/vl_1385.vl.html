@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"values": [{"weekday": "Mon", "total": 120}, {"weekday": "Tue", "total": 200}, {"weekday": "Wed", "total": 150}, {"weekday": "Thu", "total": 80}, {"weekday": "Fri", "total": 70}, {"weekday": "Sat", "total": 110}, {"weekday": "Sun", "total": 130}]}, "mark": "bar", "encoding": {"x": {"field": "weekday", "type": "ordinal", "title": null, "axis": {"labelAngle": 0}, "sort": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]}, "y": {"field": "total", "type": "quantitative", "title": null}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/elasComputacao/raio-x-dados/main/data/dados-processados/mulheres.csv"}, "mark": {"type": "bar", "color": "#F1C40F", "tooltip": true}, "title": {"text": "Idade de ingresso das ingressantes, de 2000.1 at\u00e9 2020.1", "fontSize": 15}, "transform": [{"filter": "datum.periodo_ingresso >= 2000.1"}, {"aggregate": [{"op": "count", "field": "idade_ingresso", "as": "count_idade"}], "groupby": ["idade_ingresso"]}], "width": 700, "height": 200, "encoding": {"x": {"field": "idade_ingresso", "title": "Idade de ingresso", "axis": {"labelAngle": 0}}, "y": {"field": "count_idade", "type": "quantitative", "title": "Quantidade"}, "tooltip": [{"field": "idade_ingresso", "type": "ordinal", "title": "Idade"}, {"field": "count_idade", "type": "quantitative", "title": "Quantidade"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

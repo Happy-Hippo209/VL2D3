@@ -1,0 +1,1301 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "rgb(38, 132, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 65.6; Country: Fiji; Region: Asia; Age (years): 65.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(40, 127, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 64.9; Country: Tanzania; Region: Africa; Age (years): 64.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(214, 227, 27)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82; Country: Canada; Region: Americas; Age (years): 82.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(154, 217, 61)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 79; Country: United States; Region: Americas; Age (years): 79.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(42, 176, 127)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 71.8; Country: Kazakhstan; Region: Asia; Age (years): 71.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 166, 133)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 70.4; Country: Uzbekistan; Region: Asia; Age (years): 70.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(52, 98, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 61; Country: Papua New Guinea; Region: Asia; Age (years): 61.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(43, 176, 127)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 71.9; Country: Indonesia; Region: Asia; Age (years): 71.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(112, 206, 87)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 76.8; Country: Argentina; Region: Americas; Age (years): 76.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(184, 222, 41)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 80.5; Country: Chile; Region: Americas; Age (years): 80.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(49, 105, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 62; Country: Congo, Dem. Rep.; Region: Africa; Age (years): 62.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(64, 69, 135)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 57.6; Country: Somalia; Region: Africa; Age (years): 57.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(34, 143, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 67.1; Country: Kenya; Region: Africa; Age (years): 67.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(31, 152, 139)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 68.5; Country: Sudan; Region: Africa; Age (years): 68.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(55, 91, 140)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 60.2; Country: Chad; Region: Africa; Age (years): 60.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(41, 122, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 64.3; Country: Haiti; Region: Americas; Age (years): 64.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(96, 202, 97)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.9; Country: Dominican Republic; Region: Americas; Age (years): 75.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(36, 170, 131)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 71; Country: Russia; Region: Europe; Age (years): 71.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(66, 191, 113)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 74; Country: Bahamas; Region: Americas; Age (years): 74.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 227, 27)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.2; Country: Norway; Region: Europe; Age (years): 82.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(54, 183, 121)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 73; Country: Timor-Leste; Region: Asia; Age (years): 73.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(45, 112, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 63; Country: South Africa; Region: Africa; Age (years): 63.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(68, 1, 84)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 50.8; Country: Lesotho; Region: Africa; Age (years): 50.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(108, 206, 89)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 76.6; Country: Mexico; Region: Americas; Age (years): 76.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(123, 209, 81)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.4; Country: Uruguay; Region: Americas; Age (years): 77.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(90, 199, 100)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.5; Country: Brazil; Region: Americas; Age (years): 75.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(61, 188, 116)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 73.6; Country: Bolivia; Region: Americas; Age (years): 73.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(174, 221, 48)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 80; Country: Peru; Region: Americas; Age (years): 80.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(142, 215, 69)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 78.4; Country: Colombia; Region: Americas; Age (years): 78.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(158, 218, 59)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 79.2; Country: Panama; Region: Americas; Age (years): 79.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(198, 224, 33)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.2; Country: Costa Rica; Region: Americas; Age (years): 81.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(144, 215, 68)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 78.5; Country: Nicaragua; Region: Americas; Age (years): 78.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(53, 183, 121)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 72.9; Country: Honduras; Region: Americas; Age (years): 72.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(90, 199, 100)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.5; Country: El Salvador; Region: Americas; Age (years): 75.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(54, 183, 121)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 73; Country: Guatemala; Region: Americas; Age (years): 73.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(46, 178, 125)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 72.2; Country: Belize; Region: Americas; Age (years): 72.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(93, 201, 98)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.7; Country: Venezuela; Region: Americas; Age (years): 75.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(32, 149, 140)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 68; Country: Guyana; Region: Americas; Age (years): 68.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(40, 174, 128)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 71.5; Country: Suriname; Region: Americas; Age (years): 71.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(225, 228, 26)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.5; Country: France; Region: Europe; Age (years): 82.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(136, 213, 72)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 78.1; Country: Ecuador; Region: Americas; Age (years): 78.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(82, 196, 105)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75; Country: Jamaica; Region: Americas; Age (years): 75.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(158, 218, 59)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 79.2; Country: Cuba; Region: Americas; Age (years): 79.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(56, 87, 140)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 59.8; Country: Zimbabwe; Region: Africa; Age (years): 59.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(35, 136, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 66.3; Country: Botswana; Region: Africa; Age (years): 66.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(39, 130, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 65.3; Country: Namibia; Region: Africa; Age (years): 65.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(35, 138, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 66.5; Country: Senegal; Region: Africa; Age (years): 66.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(47, 108, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 62.4; Country: Mali; Region: Africa; Age (years): 62.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 166, 133)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 70.4; Country: Mauritania; Region: Africa; Age (years): 70.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(40, 125, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 64.7; Country: Benin; Region: Africa; Age (years): 64.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(48, 106, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 62.1; Country: Niger; Region: Africa; Age (years): 62.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(38, 132, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 65.6; Country: Nigeria; Region: Africa; Age (years): 65.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(53, 95, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 60.7; Country: Cameroon; Region: Africa; Age (years): 60.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(45, 111, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 62.9; Country: Togo; Region: Africa; Age (years): 62.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(35, 136, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 66.3; Country: Ghana; Region: Africa; Age (years): 66.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(54, 95, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 60.6; Country: Cote d'Ivoire; Region: Africa; Age (years): 60.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(51, 100, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 61.3; Country: Guinea; Region: Africa; Age (years): 61.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(58, 83, 139)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 59.3; Country: Guinea-Bissau; Region: Africa; Age (years): 59.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(40, 127, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 64.9; Country: Liberia; Region: Africa; Age (years): 64.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(57, 86, 140)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 59.6; Country: Sierra Leone; Region: Africa; Age (years): 59.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(51, 99, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 61.2; Country: Burkina Faso; Region: Africa; Age (years): 61.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(68, 2, 85)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 50.9; Country: Central African Republic; Region: Africa; Age (years): 50.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(44, 115, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 63.4; Country: Congo, Rep.; Region: Africa; Age (years): 63.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(34, 142, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 67; Country: Gabon; Region: Africa; Age (years): 67.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(37, 133, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 65.8; Country: Equatorial Guinea; Region: Africa; Age (years): 65.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(59, 82, 139)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 59.1; Country: Zambia; Region: Africa; Age (years): 59.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(53, 95, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 60.7; Country: Malawi; Region: Africa; Age (years): 60.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(54, 94, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 60.5; Country: Mozambique; Region: Africa; Age (years): 60.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(62, 75, 137)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 58.2; Country: Swaziland; Region: Africa; Age (years): 58.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(40, 127, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 64.9; Country: Angola; Region: Africa; Age (years): 64.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(53, 96, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 60.8; Country: Burundi; Region: Africa; Age (years): 60.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(221, 227, 27)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.3; Country: Israel; Region: Asia; Age (years): 82.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(180, 222, 44)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 80.3; Country: Lebanon; Region: Asia; Age (years): 80.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(45, 112, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 63; Country: Madagascar; Region: Africa; Age (years): 63.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 146, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 67.6; Country: Gambia; Region: Africa; Age (years): 67.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(128, 211, 77)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.7; Country: Tunisia; Region: Africa; Age (years): 77.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(127, 210, 78)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.6; Country: Algeria; Region: Africa; Age (years): 77.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(106, 205, 90)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 76.5; Country: Jordan; Region: Asia; Age (years): 76.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(110, 206, 88)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 76.7; Country: United Arab Emirates; Region: Asia; Age (years): 76.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(186, 223, 40)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 80.6; Country: Qatar; Region: Asia; Age (years): 80.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(170, 220, 51)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 79.8; Country: Kuwait; Region: Asia; Age (years): 79.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(32, 148, 140)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 67.8; Country: Iraq; Region: Asia; Age (years): 67.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(130, 211, 76)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.8; Country: Oman; Region: Asia; Age (years): 77.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(42, 120, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 64.1; Country: Vanuatu; Region: Asia; Age (years): 64.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(31, 156, 138)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 69; Country: Cambodia; Region: Asia; Age (years): 69.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(134, 212, 73)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 78; Country: Thailand; Region: Asia; Age (years): 78.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 146, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 67.6; Country: Lao; Region: Asia; Age (years): 67.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 164, 134)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 70.2; Country: Myanmar; Region: Asia; Age (years): 70.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(77, 195, 108)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 74.7; Country: Vietnam; Region: Asia; Age (years): 74.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(35, 169, 131)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 70.9; Country: North Korea; Region: Asia; Age (years): 70.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(198, 224, 33)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.2; Country: South Korea; Region: Asia; Age (years): 81.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(31, 152, 139)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 68.5; Country: Mongolia; Region: Asia; Age (years): 68.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(31, 155, 138)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 68.9; Country: India; Region: Asia; Age (years): 68.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(55, 184, 120)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 73.1; Country: Bangladesh; Region: Asia; Age (years): 73.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(74, 193, 109)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 74.5; Country: Bhutan; Region: Asia; Age (years): 74.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(37, 171, 130)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 71.2; Country: Nepal; Region: Asia; Age (years): 71.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(32, 148, 140)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 67.8; Country: Pakistan; Region: Asia; Age (years): 67.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(62, 77, 138)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 58.4; Country: Afghanistan; Region: Asia; Age (years): 58.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(44, 177, 126)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 72; Country: Tajikistan; Region: Asia; Age (years): 72.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(38, 172, 129)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 71.3; Country: Kyrgyz Republic; Region: Asia; Age (years): 71.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 166, 133)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 70.4; Country: Turkmenistan; Region: Asia; Age (years): 70.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(103, 204, 92)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 76.3; Country: Iran; Region: Asia; Age (years): 76.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(31, 156, 138)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 69; Country: Syria; Region: Asia; Age (years): 69.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(95, 201, 98)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.8; Country: Armenia; Region: Europe; Age (years): 75.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 227, 27)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.2; Country: Sweden; Region: Europe; Age (years): 82.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(61, 188, 116)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 73.6; Country: Belarus; Region: Europe; Age (years): 73.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(46, 178, 125)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 72.2; Country: Ukraine; Region: Europe; Age (years): 72.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(134, 212, 73)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 78; Country: Poland; Region: Europe; Age (years): 78.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(208, 226, 28)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.7; Country: Austria; Region: Europe; Age (years): 81.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(95, 201, 98)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.8; Country: Hungary; Region: Europe; Age (years): 75.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(47, 179, 124)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 72.3; Country: Moldova; Region: Europe; Age (years): 72.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(88, 199, 101)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.4; Country: Romania; Region: Europe; Age (years): 75.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(85, 197, 103)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.2; Country: Lithuania; Region: Europe; Age (years): 75.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(82, 196, 105)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75; Country: Latvia; Region: Europe; Age (years): 75.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(125, 210, 79)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.5; Country: Estonia; Region: Europe; Age (years): 77.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(196, 224, 34)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.1; Country: Germany; Region: Europe; Age (years): 81.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(85, 197, 103)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.2; Country: Bulgaria; Region: Europe; Age (years): 75.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(198, 224, 33)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.2; Country: Greece; Region: Europe; Age (years): 81.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(160, 218, 57)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 79.3; Country: Turkey; Region: Europe; Age (years): 79.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(132, 212, 75)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.9; Country: Albania; Region: Europe; Age (years): 77.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(125, 210, 79)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.5; Country: Croatia; Region: Europe; Age (years): 77.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(240, 230, 30)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 83.3; Country: Switzerland; Region: Europe; Age (years): 83.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 227, 27)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.2; Country: Luxembourg; Region: Europe; Age (years): 82.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(196, 224, 34)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.1; Country: Belgium; Region: Europe; Age (years): 81.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(210, 226, 27)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.8; Country: Netherlands; Region: Europe; Age (years): 81.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(196, 224, 34)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.1; Country: Portugal; Region: Europe; Age (years): 81.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(237, 229, 28)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 83.1; Country: Spain; Region: Europe; Age (years): 83.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(200, 225, 32)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.3; Country: Ireland; Region: Europe; Age (years): 81.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(44, 114, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 63.3; Country: Solomon Islands; Region: Asia; Age (years): 63.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(206, 225, 29)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.6; Country: New Zealand; Region: Asia; Age (years): 81.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(229, 228, 26)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.7; Country: Australia; Region: Asia; Age (years): 82.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(127, 210, 78)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.6; Country: Sri Lanka; Region: Asia; Age (years): 77.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(112, 206, 87)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 76.8; Country: China; Region: Asia; Age (years): 76.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(225, 228, 26)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.5; Country: Italy; Region: Europe; Age (years): 82.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(194, 224, 36)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81; Country: Denmark; Region: Europe; Age (years): 81.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(194, 224, 36)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81; Country: United Kingdom; Region: Europe; Age (years): 81.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(223, 228, 26)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 82.4; Country: Iceland; Region: Europe; Age (years): 82.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(46, 178, 125)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 72.2; Country: Azerbaijan; Region: Europe; Age (years): 72.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(68, 191, 113)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 74.1; Country: Georgia; Region: Europe; Age (years): 74.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 166, 133)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 70.4; Country: Philippines; Region: Asia; Age (years): 70.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(95, 201, 98)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.8; Country: Malaysia; Region: Asia; Age (years): 75.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(119, 208, 83)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.2; Country: Brunei; Region: Asia; Age (years): 77.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(194, 224, 36)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81; Country: Slovenia; Region: Europe; Age (years): 81.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(212, 226, 27)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 81.9; Country: Finland; Region: Europe; Age (years): 81.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(115, 207, 85)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77; Country: Slovak Republic; Region: Europe; Age (years): 77.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(158, 218, 59)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 79.2; Country: Czech Republic; Region: Europe; Age (years): 79.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(42, 120, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 64.1; Country: Eritrea; Region: Africa; Age (years): 64.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(253, 231, 37)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 84; Country: Japan; Region: Asia; Age (years): 84.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(77, 195, 108)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 74.7; Country: Paraguay; Region: Americas; Age (years): 74.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(34, 141, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 66.9; Country: Yemen; Region: Asia; Age (years): 66.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(125, 210, 79)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.5; Country: Saudi Arabia; Region: Asia; Age (years): 77.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(186, 223, 40)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 80.6; Country: Cyprus; Region: Europe; Age (years): 80.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(85, 197, 103)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.2; Country: Morocco; Region: Africa; Age (years): 75.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(48, 180, 124)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 72.4; Country: Egypt; Region: Africa; Age (years): 72.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(86, 198, 102)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75.3; Country: Libya; Region: Africa; Age (years): 75.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(36, 134, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 66; Country: Ethiopia; Region: Africa; Age (years): 66.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(34, 141, 141)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 66.9; Country: Djibouti; Region: Africa; Age (years): 66.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(46, 109, 142)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 62.6; Country: Uganda; Region: Africa; Age (years): 62.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(32, 149, 140)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 68; Country: Rwanda; Region: Africa; Age (years): 68.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(130, 211, 76)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.8; Country: Bosnia and Herzegovina; Region: Europe; Age (years): 77.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(82, 196, 105)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 75; Country: Macedonia, FYR; Region: Europe; Age (years): 75.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(98, 202, 96)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 76; Country: Serbia; Region: Europe; Age (years): 76.0",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(119, 208, 83)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 77.2; Country: Montenegro; Region: Europe; Age (years): 77.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(58, 186, 118)",
+              "stroke": "white",
+              "strokeWidth": 1,
+              "description": "lifeExp: 73.3; Country: Trinidad and Tobago; Region: Americas; Age (years): 73.3",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 100,
+                              "height": 16,
+                              "fill": {
+                                "x2": 1,
+                                "y2": 0
+                              },
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 18,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "51",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 100,
+                              "y": 18,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "84",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 18,
+              "y": 254,
+              "width": 100,
+              "height": 28,
+              "orient": "bottom-left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Life expectancy, 2017",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 375,
+              "y": -17,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 750,
+      "height": 300,
+      "fill": "transparent"
+    }
+  ],
+  "zindex": 0
+}

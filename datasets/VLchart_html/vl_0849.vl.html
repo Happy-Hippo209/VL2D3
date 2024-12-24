@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "IMF Lending  outstanding ", "subtitle": "Credit outstanding for all members, SDR", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/Jordanboi58/Jordanboi58.github.io/main/DATA%20IMF%20outstanding%20credit%20yh.csv"}, "transform": [{"calculate": "datum.Totals/1000000000", "as": "billions"}], "height": 300, "width": 300, "mark": {"type": "bar", "color": "RGB(189,44,0"}, "encoding": {"x": {"field": "Year", "type": "temporal", "axis": {"title": "Year", "grid": false, "ticks": false, "labelAngle": 45}}, "y": {"field": "billions", "type": "quantitative", "title": "loans disbursed \u00a3bn's", "axis": {"grid": false}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "width": 700, "height": 600, "data": {"url": "https://raw.githubusercontent.com/declann/calculang-miscellaneous-models/080fc8d460470bcac643876d21e354ca8f4438c9/models/hearts/rotation-data.json"}, "encoding": {"x": {"field": "x1", "type": "quantitative", "axis": {"tickOpacity": 0.2, "tickCount": 3, "gridOpacity": 0.2, "labelOpacity": 0.2}, "scale": {"domain": [-12, 11]}}, "y": {"axis": {"tickOpacity": 0.2, "tickCount": 3, "gridOpacity": 0.2, "labelOpacity": 0.2}, "scale": {"domain": [-12, 11]}}}, "layer": [{"mark": {"type": "point", "tooltip": true}, "encoding": {"y": {"field": "y", "type": "quantitative"}, "color": {"value": "red"}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

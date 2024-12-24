@@ -1,0 +1,2552 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 34,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 76,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 118,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 160,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 202,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 244,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 286,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 328,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 371,
+                      "y": -350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 350.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 315,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 280,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 245,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 140,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 105,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 70,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 35,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 34,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 76,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 118,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 160,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 202,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 244,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 286,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 328,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 371,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 33.68012526777909,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1930",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 75.77932121002526,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1940",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 117.89004486200372,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1950",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 159.98924080424987,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1960",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 202.09996445622832,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1970",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 244.1991603984745,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1980",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 286.3098840504529,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1990",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 328.4090799926991,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 370.51980364467755,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2010",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 350.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 315,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 280,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 245,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 140,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 105,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 70,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 35,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 350,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221225",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 315,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221220",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 280,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221215",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 244.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221210",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 210,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u22125",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 175,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 140,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 105.00000000000001,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 69.99999999999999,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "15",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 34.99999999999999,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 350,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "area",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 350,
+              "height": -350,
+              "fill": "#e54753",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Jan 01, 1922; y: 0"
+            },
+            {
+              "x": 20.69223896942275,
+              "y": 350,
+              "height": -350,
+              "fill": "#e54753",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Dec 01, 1926; y: 0"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "area",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 21.049597971123088,
+              "y": 350,
+              "height": -350,
+              "fill": "#55373a",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Jan 01, 1927; y: 0"
+            },
+            {
+              "x": 239.63802991440676,
+              "y": 350,
+              "height": -350,
+              "fill": "#55373a",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Dec 01, 1978; y: 0"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "area",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 239.9953889161071,
+              "y": 350,
+              "height": -350,
+              "fill": "#e54753",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Jan 01, 1979; y: 0"
+            },
+            {
+              "x": 323.84794950863136,
+              "y": 350,
+              "height": -350,
+              "fill": "#e54753",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Dec 01, 1998; y: 0"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "area",
+          "name": "layer_3_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 324.2053085103317,
+              "y": 350,
+              "height": -350,
+              "fill": "#55373a",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Jan 01, 1999; y: 0"
+            },
+            {
+              "x": 400,
+              "y": 350,
+              "height": -350,
+              "fill": "#55373a",
+              "opacity": 0.2,
+              "orient": "vertical",
+              "defined": true,
+              "y2": "0",
+              "description": "x: Jan 01, 2017; y: 0"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_4_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 14.000000000000012,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#55373a",
+              "text": "\u27a1 Free currency era",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: Jan 01, 1922; y: 23; t: \u27a1 Free currency era"
+            },
+            {
+              "x": 21.049597971123088,
+              "y": 34.99999999999999,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#55373a",
+              "text": "\u27a1 Peg",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: Jan 01, 1927; y: 20; t: \u27a1 Peg"
+            },
+            {
+              "x": 239.9953889161071,
+              "y": 14.000000000000012,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#55373a",
+              "text": "\u27a1 Float",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: Jan 01, 1979; y: 23; t: \u27a1 Float"
+            },
+            {
+              "x": 324.2053085103317,
+              "y": 34.99999999999999,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#55373a",
+              "text": "\u27a1 Euro era",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: Jan 01, 1999; y: 20; t: \u27a1 Euro era"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "layer_5_pathgroup",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_5_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 315.87923899,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1922; value: \u221220.12560557; country: Ireland; Country: Ireland; Year: Jan 1922; Inflation rate (%): \u221220.12560557"
+                    },
+                    {
+                      "x": 4.2076140522781635,
+                      "y": 189.89361701799996,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1923; value: \u22122.127659574; country: Ireland; Country: Ireland; Year: Jan 1923; Inflation rate (%): \u22122.127659574"
+                    },
+                    {
+                      "x": 8.415228104556327,
+                      "y": 167.391304346,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1924; value: 1.086956522; country: Ireland; Country: Ireland; Year: Jan 1924; Inflation rate (%): 1.086956522"
+                    },
+                    {
+                      "x": 12.634369866566761,
+                      "y": 159.946236562,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1925; value: 2.150537634; country: Ireland; Country: Ireland; Year: Jan 1925; Inflation rate (%): 2.150537634"
+                    },
+                    {
+                      "x": 16.841983918844925,
+                      "y": 193.421052629,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1926; value: \u22122.631578947; country: Ireland; Country: Ireland; Year: Jan 1926; Inflation rate (%): \u22122.631578947"
+                    },
+                    {
+                      "x": 21.049597971123088,
+                      "y": 212.837837835,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1927; value: \u22125.405405405; country: Ireland; Country: Ireland; Year: Jan 1927; Inflation rate (%): \u22125.405405405"
+                    },
+                    {
+                      "x": 25.257212023401248,
+                      "y": 178.999999997,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1928; value: \u22120.571428571; country: Ireland; Country: Ireland; Year: Jan 1928; Inflation rate (%): \u22120.571428571"
+                    },
+                    {
+                      "x": 29.476353785411685,
+                      "y": 166.954022991,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1929; value: 1.149425287; country: Ireland; Country: Ireland; Year: Jan 1929; Inflation rate (%): 1.149425287"
+                    },
+                    {
+                      "x": 33.68396783768985,
+                      "y": 194.886363637,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1930; value: \u22122.840909091; country: Ireland; Country: Ireland; Year: Jan 1930; Inflation rate (%): \u22122.840909091"
+                    },
+                    {
+                      "x": 37.89158188996801,
+                      "y": 220.029239766,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1931; value: \u22126.432748538; country: Ireland; Country: Ireland; Year: Jan 1931; Inflation rate (%): \u22126.432748538"
+                    },
+                    {
+                      "x": 42.099195942246176,
+                      "y": 188.125,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1932; value: \u22121.875; country: Ireland; Country: Ireland; Year: Jan 1932; Inflation rate (%): \u22121.875"
+                    },
+                    {
+                      "x": 46.31833770425661,
+                      "y": 201.751592357,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1933; value: \u22123.821656051; country: Ireland; Country: Ireland; Year: Jan 1933; Inflation rate (%): \u22123.821656051"
+                    },
+                    {
+                      "x": 50.52595175653477,
+                      "y": 170.36423840799998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1934; value: 0.662251656; country: Ireland; Country: Ireland; Year: Jan 1934; Inflation rate (%): 0.662251656"
+                    },
+                    {
+                      "x": 54.73356580881293,
+                      "y": 156.578947371,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1935; value: 2.631578947; country: Ireland; Country: Ireland; Year: Jan 1935; Inflation rate (%): 2.631578947"
+                    },
+                    {
+                      "x": 58.9411798610911,
+                      "y": 157.051282052,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1936; value: 2.564102564; country: Ireland; Country: Ireland; Year: Jan 1936; Inflation rate (%): 2.564102564"
+                    },
+                    {
+                      "x": 63.16032162310153,
+                      "y": 131.25,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1937; value: 6.25; country: Ireland; Country: Ireland; Year: Jan 1937; Inflation rate (%): 6.25"
+                    },
+                    {
+                      "x": 67.3679356753797,
+                      "y": 162.647058826,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1938; value: 1.764705882; country: Ireland; Country: Ireland; Year: Jan 1938; Inflation rate (%): 1.764705882"
+                    },
+                    {
+                      "x": 71.57554972765786,
+                      "y": 154.76878613000002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1939; value: 2.89017341; country: Ireland; Country: Ireland; Year: Jan 1939; Inflation rate (%): 2.89017341"
+                    },
+                    {
+                      "x": 75.78316377993602,
+                      "y": 68.82022468999997,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1940; value: 15.16853933; country: Ireland; Country: Ireland; Year: Jan 1940; Inflation rate (%): 15.16853933"
+                    },
+                    {
+                      "x": 80.00230554194646,
+                      "y": 103.29268292000002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1941; value: 10.24390244; country: Ireland; Country: Ireland; Year: Jan 1941; Inflation rate (%): 10.24390244"
+                    },
+                    {
+                      "x": 84.20991959422462,
+                      "y": 100.66371679000004,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1942; value: 10.61946903; country: Ireland; Country: Ireland; Year: Jan 1942; Inflation rate (%): 10.61946903"
+                    },
+                    {
+                      "x": 88.41753364650278,
+                      "y": 88.2,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1943; value: 12.4; country: Ireland; Country: Ireland; Year: Jan 1943; Inflation rate (%): 12.4"
+                    },
+                    {
+                      "x": 92.62514769878094,
+                      "y": 140.124555158,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1944; value: 4.982206406; country: Ireland; Country: Ireland; Year: Jan 1944; Inflation rate (%): 4.982206406"
+                    },
+                    {
+                      "x": 96.84428946079137,
+                      "y": 177.37288135699998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1945; value: \u22120.338983051; country: Ireland; Country: Ireland; Year: Jan 1945; Inflation rate (%): \u22120.338983051"
+                    },
+                    {
+                      "x": 101.05190351306955,
+                      "y": 184.52380952600004,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1946; value: \u22121.360544218; country: Ireland; Country: Ireland; Year: Jan 1946; Inflation rate (%): \u22121.360544218"
+                    },
+                    {
+                      "x": 105.2595175653477,
+                      "y": 133.965517238,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1947; value: 5.862068966; country: Ireland; Country: Ireland; Year: Jan 1947; Inflation rate (%): 5.862068966"
+                    },
+                    {
+                      "x": 109.46713161762587,
+                      "y": 152.19869706999998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1948; value: 3.25732899; country: Ireland; Country: Ireland; Year: Jan 1948; Inflation rate (%): 3.25732899"
+                    },
+                    {
+                      "x": 113.6862733796363,
+                      "y": 172.79179810899998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1949; value: 0.315457413; country: Ireland; Country: Ireland; Year: Jan 1949; Inflation rate (%): 0.315457413"
+                    },
+                    {
+                      "x": 117.89388743191446,
+                      "y": 166.194968555,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1950; value: 1.257861635; country: Ireland; Country: Ireland; Year: Jan 1950; Inflation rate (%): 1.257861635"
+                    },
+                    {
+                      "x": 122.10150148419262,
+                      "y": 118.47826087299998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1951; value: 8.074534161; country: Ireland; Country: Ireland; Year: Jan 1951; Inflation rate (%): 8.074534161"
+                    },
+                    {
+                      "x": 126.3091155364708,
+                      "y": 114.65517241499998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1952; value: 8.620689655; country: Ireland; Country: Ireland; Year: Jan 1952; Inflation rate (%): 8.620689655"
+                    },
+                    {
+                      "x": 130.52825729848124,
+                      "y": 137.962962963,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1953; value: 5.291005291; country: Ireland; Country: Ireland; Year: Jan 1953; Inflation rate (%): 5.291005291"
+                    },
+                    {
+                      "x": 134.7358713507594,
+                      "y": 172.889447234,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1954; value: 0.301507538; country: Ireland; Country: Ireland; Year: Jan 1954; Inflation rate (%): 0.301507538"
+                    },
+                    {
+                      "x": 138.94348540303756,
+                      "y": 156.76352705300002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1955; value: 2.605210421; country: Ireland; Country: Ireland; Year: Jan 1955; Inflation rate (%): 2.605210421"
+                    },
+                    {
+                      "x": 143.15109945531572,
+                      "y": 145.263671875,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1956; value: 4.248046875; country: Ireland; Country: Ireland; Year: Jan 1956; Inflation rate (%): 4.248046875"
+                    },
+                    {
+                      "x": 147.37024121732614,
+                      "y": 146.14754098699999,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1957; value: 4.121779859; country: Ireland; Country: Ireland; Year: Jan 1957; Inflation rate (%): 4.121779859"
+                    },
+                    {
+                      "x": 151.57785526960433,
+                      "y": 143.983355824,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1958; value: 4.430949168; country: Ireland; Country: Ireland; Year: Jan 1958; Inflation rate (%): 4.430949168"
+                    },
+                    {
+                      "x": 155.7854693218825,
+                      "y": 174.849235407,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1959; value: 0.021537799; country: Ireland; Country: Ireland; Year: Jan 1959; Inflation rate (%): 0.021537799"
+                    },
+                    {
+                      "x": 159.99308337416065,
+                      "y": 171.985357453,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1960; value: 0.430663221; country: Ireland; Country: Ireland; Year: Jan 1960; Inflation rate (%): 0.430663221"
+                    },
+                    {
+                      "x": 164.21222513617107,
+                      "y": 155.638936537,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1961; value: 2.765866209; country: Ireland; Country: Ireland; Year: Jan 1961; Inflation rate (%): 2.765866209"
+                    },
+                    {
+                      "x": 168.41983918844923,
+                      "y": 145.206551224,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1962; value: 4.256206968; country: Ireland; Country: Ireland; Year: Jan 1962; Inflation rate (%): 4.256206968"
+                    },
+                    {
+                      "x": 172.6274532407274,
+                      "y": 157.769661798,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1963; value: 2.461476886; country: Ireland; Country: Ireland; Year: Jan 1963; Inflation rate (%): 2.461476886"
+                    },
+                    {
+                      "x": 176.83506729300555,
+                      "y": 127.96874999999999,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1964; value: 6.71875; country: Ireland; Country: Ireland; Year: Jan 1964; Inflation rate (%): 6.71875"
+                    },
+                    {
+                      "x": 181.054209055016,
+                      "y": 139.76939970700002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1965; value: 5.032942899; country: Ireland; Country: Ireland; Year: Jan 1965; Inflation rate (%): 5.032942899"
+                    },
+                    {
+                      "x": 185.26182310729416,
+                      "y": 154.14270778899999,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1966; value: 2.979613173; country: Ireland; Country: Ireland; Year: Jan 1966; Inflation rate (%): 2.979613173"
+                    },
+                    {
+                      "x": 189.46943715957232,
+                      "y": 153.08798646399998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1967; value: 3.130287648; country: Ireland; Country: Ireland; Year: Jan 1967; Inflation rate (%): 3.130287648"
+                    },
+                    {
+                      "x": 193.67705121185048,
+                      "y": 141.694011487,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1968; value: 4.757998359; country: Ireland; Country: Ireland; Year: Jan 1968; Inflation rate (%): 4.757998359"
+                    },
+                    {
+                      "x": 197.8961929738609,
+                      "y": 123.14408770300001,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1969; value: 7.407987471; country: Ireland; Country: Ireland; Year: Jan 1969; Inflation rate (%): 7.407987471"
+                    },
+                    {
+                      "x": 202.1038070261391,
+                      "y": 117.63633712600003,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1970; value: 8.194808982; country: Ireland; Country: Ireland; Year: Jan 1970; Inflation rate (%): 8.194808982"
+                    },
+                    {
+                      "x": 206.31142107841725,
+                      "y": 112.264150943,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1971; value: 8.962264151; country: Ireland; Country: Ireland; Year: Jan 1971; Inflation rate (%): 8.962264151"
+                    },
+                    {
+                      "x": 210.5190351306954,
+                      "y": 114.740259739,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1972; value: 8.608534323; country: Ireland; Country: Ireland; Year: Jan 1972; Inflation rate (%): 8.608534323"
+                    },
+                    {
+                      "x": 214.73817689270584,
+                      "y": 95.04327524999998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1973; value: 11.42238925; country: Ireland; Country: Ireland; Year: Jan 1973; Inflation rate (%): 11.42238925"
+                    },
+                    {
+                      "x": 218.945790944984,
+                      "y": 56.234668839999976,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1974; value: 16.96647588; country: Ireland; Country: Ireland; Year: Jan 1974; Inflation rate (%): 16.96647588"
+                    },
+                    {
+                      "x": 223.15340499726216,
+                      "y": 28.871024140000014,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1975; value: 20.87556798; country: Ireland; Country: Ireland; Year: Jan 1975; Inflation rate (%): 20.87556798"
+                    },
+                    {
+                      "x": 227.36101904954032,
+                      "y": 49.098171009999994,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1976; value: 17.98597557; country: Ireland; Country: Ireland; Year: Jan 1976; Inflation rate (%): 17.98597557"
+                    },
+                    {
+                      "x": 231.58016081155077,
+                      "y": 79.57079837,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1977; value: 13.63274309; country: Ireland; Country: Ireland; Year: Jan 1977; Inflation rate (%): 13.63274309"
+                    },
+                    {
+                      "x": 235.78777486382893,
+                      "y": 121.55451310099998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1978; value: 7.635069557; country: Ireland; Country: Ireland; Year: Jan 1978; Inflation rate (%): 7.635069557"
+                    },
+                    {
+                      "x": 239.9953889161071,
+                      "y": 82.3189059,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1979; value: 13.2401563; country: Ireland; Country: Ireland; Year: Jan 1979; Inflation rate (%): 13.2401563"
+                    },
+                    {
+                      "x": 244.20300296838525,
+                      "y": 47.44857333999998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1980; value: 18.22163238; country: Ireland; Country: Ireland; Year: Jan 1980; Inflation rate (%): 18.22163238"
+                    },
+                    {
+                      "x": 248.42214473039567,
+                      "y": 32.13964978000001,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1981; value: 20.40862146; country: Ireland; Country: Ireland; Year: Jan 1981; Inflation rate (%): 20.40862146"
+                    },
+                    {
+                      "x": 252.62975878267383,
+                      "y": 55.135496289999985,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1982; value: 17.12350053; country: Ireland; Country: Ireland; Year: Jan 1982; Inflation rate (%): 17.12350053"
+                    },
+                    {
+                      "x": 256.837372834952,
+                      "y": 101.59732541000001,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1983; value: 10.48609637; country: Ireland; Country: Ireland; Year: Jan 1983; Inflation rate (%): 10.48609637"
+                    },
+                    {
+                      "x": 261.04498688723015,
+                      "y": 114.91834773999999,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1984; value: 8.58309318; country: Ireland; Country: Ireland; Year: Jan 1984; Inflation rate (%): 8.58309318"
+                    },
+                    {
+                      "x": 265.2641286492406,
+                      "y": 136.898969347,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1985; value: 5.443004379; country: Ireland; Country: Ireland; Year: Jan 1985; Inflation rate (%): 5.443004379"
+                    },
+                    {
+                      "x": 269.4717427015188,
+                      "y": 148.336130047,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1986; value: 3.809124279; country: Ireland; Country: Ireland; Year: Jan 1986; Inflation rate (%): 3.809124279"
+                    },
+                    {
+                      "x": 273.679356753797,
+                      "y": 153.034390089,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1987; value: 3.137944273; country: Ireland; Country: Ireland; Year: Jan 1987; Inflation rate (%): 3.137944273"
+                    },
+                    {
+                      "x": 277.8869708060751,
+                      "y": 160.010970924,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1988; value: 2.141289868; country: Ireland; Country: Ireland; Year: Jan 1988; Inflation rate (%): 2.141289868"
+                    },
+                    {
+                      "x": 282.1061125680855,
+                      "y": 146.41569327000002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1989; value: 4.08347239; country: Ireland; Country: Ireland; Year: Jan 1989; Inflation rate (%): 4.08347239"
+                    },
+                    {
+                      "x": 286.3137266203637,
+                      "y": 151.78104153799998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1990; value: 3.316994066; country: Ireland; Country: Ireland; Year: Jan 1990; Inflation rate (%): 3.316994066"
+                    },
+                    {
+                      "x": 290.5213406726419,
+                      "y": 152.626368923,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1991; value: 3.196233011; country: Ireland; Country: Ireland; Year: Jan 1991; Inflation rate (%): 3.196233011"
+                    },
+                    {
+                      "x": 294.72895472492,
+                      "y": 153.162051917,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1992; value: 3.119706869; country: Ireland; Country: Ireland; Year: Jan 1992; Inflation rate (%): 3.119706869"
+                    },
+                    {
+                      "x": 298.9480964869304,
+                      "y": 165.144645757,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1993; value: 1.407907749; country: Ireland; Country: Ireland; Year: Jan 1993; Inflation rate (%): 1.407907749"
+                    },
+                    {
+                      "x": 303.15571053920866,
+                      "y": 158.58263226399998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1994; value: 2.345338248; country: Ireland; Country: Ireland; Year: Jan 1994; Inflation rate (%): 2.345338248"
+                    },
+                    {
+                      "x": 307.3633245914868,
+                      "y": 157.387519786,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1995; value: 2.516068602; country: Ireland; Country: Ireland; Year: Jan 1995; Inflation rate (%): 2.516068602"
+                    },
+                    {
+                      "x": 311.570938643765,
+                      "y": 163.156899808,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1996; value: 1.691871456; country: Ireland; Country: Ireland; Year: Jan 1996; Inflation rate (%): 1.691871456"
+                    },
+                    {
+                      "x": 315.79008040577537,
+                      "y": 164.83951420300002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1997; value: 1.451497971; country: Ireland; Country: Ireland; Year: Jan 1997; Inflation rate (%): 1.451497971"
+                    },
+                    {
+                      "x": 319.99769445805356,
+                      "y": 158.080117881,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1998; value: 2.417126017; country: Ireland; Country: Ireland; Year: Jan 1998; Inflation rate (%): 2.417126017"
+                    },
+                    {
+                      "x": 324.2053085103317,
+                      "y": 163.520141932,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1999; value: 1.639979724; country: Ireland; Country: Ireland; Year: Jan 1999; Inflation rate (%): 1.639979724"
+                    },
+                    {
+                      "x": 328.4129225626099,
+                      "y": 136.04379968900002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2000; value: 5.565171473; country: Ireland; Country: Ireland; Year: Jan 2000; Inflation rate (%): 5.565171473"
+                    },
+                    {
+                      "x": 332.6320643246203,
+                      "y": 140.89873277200002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2001; value: 4.871609604; country: Ireland; Country: Ireland; Year: Jan 2001; Inflation rate (%): 4.871609604"
+                    },
+                    {
+                      "x": 336.83967837689846,
+                      "y": 142.53849007300002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2002; value: 4.637358561; country: Ireland; Country: Ireland; Year: Jan 2002; Inflation rate (%): 4.637358561"
+                    },
+                    {
+                      "x": 341.0472924291766,
+                      "y": 150.633752878,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2003; value: 3.480892446; country: Ireland; Country: Ireland; Year: Jan 2003; Inflation rate (%): 3.480892446"
+                    },
+                    {
+                      "x": 345.2549064814548,
+                      "y": 159.64202244199998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2004; value: 2.193996794; country: Ireland; Country: Ireland; Year: Jan 2004; Inflation rate (%): 2.193996794"
+                    },
+                    {
+                      "x": 349.47404824346523,
+                      "y": 157.976914606,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2005; value: 2.431869342; country: Ireland; Country: Ireland; Year: Jan 2005; Inflation rate (%): 2.431869342"
+                    },
+                    {
+                      "x": 353.6816622957434,
+                      "y": 147.42451518200002,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2006; value: 3.939354974; country: Ireland; Country: Ireland; Year: Jan 2006; Inflation rate (%): 3.939354974"
+                    },
+                    {
+                      "x": 357.88927634802155,
+                      "y": 140.951392869,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2007; value: 4.864086733; country: Ireland; Country: Ireland; Year: Jan 2007; Inflation rate (%): 4.864086733"
+                    },
+                    {
+                      "x": 362.09689040029974,
+                      "y": 146.622230328,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2008; value: 4.053967096; country: Ireland; Country: Ireland; Year: Jan 2008; Inflation rate (%): 4.053967096"
+                    },
+                    {
+                      "x": 366.31603216231014,
+                      "y": 206.36298984,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2009; value: \u22124.48042712; country: Ireland; Country: Ireland; Year: Jan 2009; Inflation rate (%): \u22124.48042712"
+                    },
+                    {
+                      "x": 370.5236462145883,
+                      "y": 181.61667116599997,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2010; value: \u22120.945238738; country: Ireland; Country: Ireland; Year: Jan 2010; Inflation rate (%): \u22120.945238738"
+                    },
+                    {
+                      "x": 374.73126026686646,
+                      "y": 156.905031647,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2011; value: 2.584995479; country: Ireland; Country: Ireland; Year: Jan 2011; Inflation rate (%): 2.584995479"
+                    },
+                    {
+                      "x": 378.93887431914465,
+                      "y": 163.151467528,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2012; value: 1.692647496; country: Ireland; Country: Ireland; Year: Jan 2012; Inflation rate (%): 1.692647496"
+                    },
+                    {
+                      "x": 383.1580160811551,
+                      "y": 171.47682893599998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2013; value: 0.503310152; country: Ireland; Country: Ireland; Year: Jan 2013; Inflation rate (%): 0.503310152"
+                    },
+                    {
+                      "x": 387.3656301334333,
+                      "y": 173.62542598099998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2014; value: 0.196367717; country: Ireland; Country: Ireland; Year: Jan 2014; Inflation rate (%): 0.196367717"
+                    },
+                    {
+                      "x": 391.5732441857114,
+                      "y": 177.06144944599998,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2015; value: \u22120.294492778; country: Ireland; Country: Ireland; Year: Jan 2015; Inflation rate (%): \u22120.294492778"
+                    },
+                    {
+                      "x": 395.7808582379896,
+                      "y": 175,
+                      "stroke": "#36b7b4",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2016; value: 0; country: Ireland; Country: Ireland; Year: Jan 2016; Inflation rate (%): 0"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 350
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_5_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 273,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1922; value: \u221214; country: UK; Country: UK; Year: Jan 1922; Inflation rate (%): \u221214"
+                    },
+                    {
+                      "x": 4.2076140522781635,
+                      "y": 217,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1923; value: \u22126; country: UK; Country: UK; Year: Jan 1923; Inflation rate (%): \u22126"
+                    },
+                    {
+                      "x": 8.415228104556327,
+                      "y": 179.9,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1924; value: \u22120.7; country: UK; Country: UK; Year: Jan 1924; Inflation rate (%): \u22120.7"
+                    },
+                    {
+                      "x": 12.634369866566761,
+                      "y": 172.9,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1925; value: 0.3; country: UK; Country: UK; Year: Jan 1925; Inflation rate (%): 0.3"
+                    },
+                    {
+                      "x": 16.841983918844925,
+                      "y": 180.6,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1926; value: \u22120.8; country: UK; Country: UK; Year: Jan 1926; Inflation rate (%): \u22120.8"
+                    },
+                    {
+                      "x": 21.049597971123088,
+                      "y": 191.8,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1927; value: \u22122.4; country: UK; Country: UK; Year: Jan 1927; Inflation rate (%): \u22122.4"
+                    },
+                    {
+                      "x": 25.257212023401248,
+                      "y": 177.1,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1928; value: \u22120.3; country: UK; Country: UK; Year: Jan 1928; Inflation rate (%): \u22120.3"
+                    },
+                    {
+                      "x": 29.476353785411685,
+                      "y": 181.3,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1929; value: \u22120.9; country: UK; Country: UK; Year: Jan 1929; Inflation rate (%): \u22120.9"
+                    },
+                    {
+                      "x": 33.68396783768985,
+                      "y": 194.60000000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1930; value: \u22122.8; country: UK; Country: UK; Year: Jan 1930; Inflation rate (%): \u22122.8"
+                    },
+                    {
+                      "x": 37.89158188996801,
+                      "y": 205.10000000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1931; value: \u22124.3; country: UK; Country: UK; Year: Jan 1931; Inflation rate (%): \u22124.3"
+                    },
+                    {
+                      "x": 42.099195942246176,
+                      "y": 193.20000000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1932; value: \u22122.6; country: UK; Country: UK; Year: Jan 1932; Inflation rate (%): \u22122.6"
+                    },
+                    {
+                      "x": 46.31833770425661,
+                      "y": 189.70000000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1933; value: \u22122.1; country: UK; Country: UK; Year: Jan 1933; Inflation rate (%): \u22122.1"
+                    },
+                    {
+                      "x": 50.52595175653477,
+                      "y": 175,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1934; value: 0; country: UK; Country: UK; Year: Jan 1934; Inflation rate (%): 0"
+                    },
+                    {
+                      "x": 54.73356580881293,
+                      "y": 170.1,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1935; value: 0.7; country: UK; Country: UK; Year: Jan 1935; Inflation rate (%): 0.7"
+                    },
+                    {
+                      "x": 58.9411798610911,
+                      "y": 170.1,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1936; value: 0.7; country: UK; Country: UK; Year: Jan 1936; Inflation rate (%): 0.7"
+                    },
+                    {
+                      "x": 63.16032162310153,
+                      "y": 151.20000000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1937; value: 3.4; country: UK; Country: UK; Year: Jan 1937; Inflation rate (%): 3.4"
+                    },
+                    {
+                      "x": 67.3679356753797,
+                      "y": 163.79999999999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1938; value: 1.6; country: UK; Country: UK; Year: Jan 1938; Inflation rate (%): 1.6"
+                    },
+                    {
+                      "x": 71.57554972765786,
+                      "y": 155.39999999999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1939; value: 2.8; country: UK; Country: UK; Year: Jan 1939; Inflation rate (%): 2.8"
+                    },
+                    {
+                      "x": 75.78316377993602,
+                      "y": 57.40000000000001,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1940; value: 16.8; country: UK; Country: UK; Year: Jan 1940; Inflation rate (%): 16.8"
+                    },
+                    {
+                      "x": 80.00230554194646,
+                      "y": 99.4,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1941; value: 10.8; country: UK; Country: UK; Year: Jan 1941; Inflation rate (%): 10.8"
+                    },
+                    {
+                      "x": 84.20991959422462,
+                      "y": 125.3,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1942; value: 7.1; country: UK; Country: UK; Year: Jan 1942; Inflation rate (%): 7.1"
+                    },
+                    {
+                      "x": 88.41753364650278,
+                      "y": 151.20000000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1943; value: 3.4; country: UK; Country: UK; Year: Jan 1943; Inflation rate (%): 3.4"
+                    },
+                    {
+                      "x": 92.62514769878094,
+                      "y": 156.10000000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1944; value: 2.7; country: UK; Country: UK; Year: Jan 1944; Inflation rate (%): 2.7"
+                    },
+                    {
+                      "x": 96.84428946079137,
+                      "y": 155.39999999999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1945; value: 2.8; country: UK; Country: UK; Year: Jan 1945; Inflation rate (%): 2.8"
+                    },
+                    {
+                      "x": 101.05190351306955,
+                      "y": 153.29999999999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1946; value: 3.1; country: UK; Country: UK; Year: Jan 1946; Inflation rate (%): 3.1"
+                    },
+                    {
+                      "x": 105.2595175653477,
+                      "y": 126,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1947; value: 7; country: UK; Country: UK; Year: Jan 1947; Inflation rate (%): 7"
+                    },
+                    {
+                      "x": 109.46713161762587,
+                      "y": 121.1,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1948; value: 7.7; country: UK; Country: UK; Year: Jan 1948; Inflation rate (%): 7.7"
+                    },
+                    {
+                      "x": 113.6862733796363,
+                      "y": 155.39999999999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1949; value: 2.8; country: UK; Country: UK; Year: Jan 1949; Inflation rate (%): 2.8"
+                    },
+                    {
+                      "x": 117.89388743191446,
+                      "y": 147.570535,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1950; value: 3.918495; country: UK; Country: UK; Year: Jan 1950; Inflation rate (%): 3.918495"
+                    },
+                    {
+                      "x": 122.10150148419262,
+                      "y": 111.651582,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1951; value: 9.049774; country: UK; Country: UK; Year: Jan 1951; Inflation rate (%): 9.049774"
+                    },
+                    {
+                      "x": 126.3091155364708,
+                      "y": 100.44951,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1952; value: 10.65007; country: UK; Country: UK; Year: Jan 1952; Inflation rate (%): 10.65007"
+                    },
+                    {
+                      "x": 130.52825729848124,
+                      "y": 149.625,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1953; value: 3.625; country: UK; Country: UK; Year: Jan 1953; Inflation rate (%): 3.625"
+                    },
+                    {
+                      "x": 134.7358713507594,
+                      "y": 158.95657400000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1954; value: 2.291918; country: UK; Country: UK; Year: Jan 1954; Inflation rate (%): 2.291918"
+                    },
+                    {
+                      "x": 138.94348540303756,
+                      "y": 139.504715,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1955; value: 5.070755; country: UK; Country: UK; Year: Jan 1955; Inflation rate (%): 5.070755"
+                    },
+                    {
+                      "x": 143.15109945531572,
+                      "y": 138.860834,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1956; value: 5.162738; country: UK; Country: UK; Year: Jan 1956; Inflation rate (%): 5.162738"
+                    },
+                    {
+                      "x": 147.37024121732614,
+                      "y": 148.105657,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1957; value: 3.842049; country: UK; Country: UK; Year: Jan 1957; Inflation rate (%): 3.842049"
+                    },
+                    {
+                      "x": 151.57785526960433,
+                      "y": 154.856114,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1958; value: 2.877698; country: UK; Country: UK; Year: Jan 1958; Inflation rate (%): 2.877698"
+                    },
+                    {
+                      "x": 155.7854693218825,
+                      "y": 170.804193,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1959; value: 0.599401; country: UK; Country: UK; Year: Jan 1959; Inflation rate (%): 0.599401"
+                    },
+                    {
+                      "x": 159.99308337416065,
+                      "y": 169.43892699999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1960; value: 0.794439; country: UK; Country: UK; Year: Jan 1960; Inflation rate (%): 0.794439"
+                    },
+                    {
+                      "x": 164.21222513617107,
+                      "y": 152.24137599999997,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1961; value: 3.251232; country: UK; Country: UK; Year: Jan 1961; Inflation rate (%): 3.251232"
+                    },
+                    {
+                      "x": 168.41983918844923,
+                      "y": 145.61068899999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1962; value: 4.198473; country: UK; Country: UK; Year: Jan 1962; Inflation rate (%): 4.198473"
+                    },
+                    {
+                      "x": 172.6274532407274,
+                      "y": 160.256411,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1963; value: 2.106227; country: UK; Country: UK; Year: Jan 1963; Inflation rate (%): 2.106227"
+                    },
+                    {
+                      "x": 176.83506729300555,
+                      "y": 152.3991,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1964; value: 3.2287; country: UK; Country: UK; Year: Jan 1964; Inflation rate (%): 3.2287"
+                    },
+                    {
+                      "x": 181.054209055016,
+                      "y": 145.199824,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1965; value: 4.257168; country: UK; Country: UK; Year: Jan 1965; Inflation rate (%): 4.257168"
+                    },
+                    {
+                      "x": 185.26182310729416,
+                      "y": 147,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1966; value: 4; country: UK; Country: UK; Year: Jan 1966; Inflation rate (%): 4"
+                    },
+                    {
+                      "x": 189.46943715957232,
+                      "y": 159.29487,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1967; value: 2.24359; country: UK; Country: UK; Year: Jan 1967; Inflation rate (%): 2.24359"
+                    },
+                    {
+                      "x": 193.67705121185048,
+                      "y": 147.02194500000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1968; value: 3.996865; country: UK; Country: UK; Year: Jan 1968; Inflation rate (%): 3.996865"
+                    },
+                    {
+                      "x": 197.8961929738609,
+                      "y": 138.60210700000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1969; value: 5.199699; country: UK; Country: UK; Year: Jan 1969; Inflation rate (%): 5.199699"
+                    },
+                    {
+                      "x": 202.1038070261391,
+                      "y": 129.36962499999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1970; value: 6.518625; country: UK; Country: UK; Year: Jan 1970; Inflation rate (%): 6.518625"
+                    },
+                    {
+                      "x": 206.31142107841725,
+                      "y": 109.09549700000001,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1971; value: 9.414929; country: UK; Country: UK; Year: Jan 1971; Inflation rate (%): 9.414929"
+                    },
+                    {
+                      "x": 210.5190351306954,
+                      "y": 124.66195699999999,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1972; value: 7.191149; country: UK; Country: UK; Year: Jan 1972; Inflation rate (%): 7.191149"
+                    },
+                    {
+                      "x": 214.73817689270584,
+                      "y": 109.57568999999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1973; value: 9.34633; country: UK; Country: UK; Year: Jan 1973; Inflation rate (%): 9.34633"
+                    },
+                    {
+                      "x": 218.945790944984,
+                      "y": 64.87935999999996,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1974; value: 15.73152; country: UK; Country: UK; Year: Jan 1974; Inflation rate (%): 15.73152"
+                    },
+                    {
+                      "x": 223.15340499726216,
+                      "y": 16.096499999999953,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1975; value: 22.7005; country: UK; Country: UK; Year: Jan 1975; Inflation rate (%): 22.7005"
+                    },
+                    {
+                      "x": 227.36101904954032,
+                      "y": 65.39882999999999,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1976; value: 15.65731; country: UK; Country: UK; Year: Jan 1976; Inflation rate (%): 15.65731"
+                    },
+                    {
+                      "x": 231.58016081155077,
+                      "y": 70.40229000000001,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1977; value: 14.94253; country: UK; Country: UK; Year: Jan 1977; Inflation rate (%): 14.94253"
+                    },
+                    {
+                      "x": 235.78777486382893,
+                      "y": 122.694446,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1978; value: 7.472222; country: UK; Country: UK; Year: Jan 1978; Inflation rate (%): 7.472222"
+                    },
+                    {
+                      "x": 239.9953889161071,
+                      "y": 95.39285,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1979; value: 11.37245; country: UK; Country: UK; Year: Jan 1979; Inflation rate (%): 11.37245"
+                    },
+                    {
+                      "x": 244.20300296838525,
+                      "y": 68.91969,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1980; value: 15.15433; country: UK; Country: UK; Year: Jan 1980; Inflation rate (%): 15.15433"
+                    },
+                    {
+                      "x": 248.42214473039567,
+                      "y": 92.33174999999999,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1981; value: 11.80975; country: UK; Country: UK; Year: Jan 1981; Inflation rate (%): 11.80975"
+                    },
+                    {
+                      "x": 252.62975878267383,
+                      "y": 118.22278300000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1982; value: 8.111031; country: UK; Country: UK; Year: Jan 1982; Inflation rate (%): 8.111031"
+                    },
+                    {
+                      "x": 256.837372834952,
+                      "y": 140.455154,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1983; value: 4.934978; country: UK; Country: UK; Year: Jan 1983; Inflation rate (%): 4.934978"
+                    },
+                    {
+                      "x": 261.04498688723015,
+                      "y": 145.19383200000001,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1984; value: 4.258024; country: UK; Country: UK; Year: Jan 1984; Inflation rate (%): 4.258024"
+                    },
+                    {
+                      "x": 265.2641286492406,
+                      "y": 140.54404,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1985; value: 4.92228; country: UK; Country: UK; Year: Jan 1985; Inflation rate (%): 4.92228"
+                    },
+                    {
+                      "x": 269.4717427015188,
+                      "y": 151.71750300000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1986; value: 3.326071; country: UK; Country: UK; Year: Jan 1986; Inflation rate (%): 3.326071"
+                    },
+                    {
+                      "x": 273.679356753797,
+                      "y": 152.565364,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1987; value: 3.204948; country: UK; Country: UK; Year: Jan 1987; Inflation rate (%): 3.204948"
+                    },
+                    {
+                      "x": 277.8869708060751,
+                      "y": 148.685642,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1988; value: 3.759194; country: UK; Country: UK; Year: Jan 1988; Inflation rate (%): 3.759194"
+                    },
+                    {
+                      "x": 282.1061125680855,
+                      "y": 138.336835,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1989; value: 5.237595; country: UK; Country: UK; Year: Jan 1989; Inflation rate (%): 5.237595"
+                    },
+                    {
+                      "x": 286.3137266203637,
+                      "y": 126.19121899999999,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1990; value: 6.972683; country: UK; Country: UK; Year: Jan 1990; Inflation rate (%): 6.972683"
+                    },
+                    {
+                      "x": 290.5213406726419,
+                      "y": 122.27145700000003,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1991; value: 7.532649; country: UK; Country: UK; Year: Jan 1991; Inflation rate (%): 7.532649"
+                    },
+                    {
+                      "x": 294.72895472492,
+                      "y": 145.16916399999997,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1992; value: 4.261548; country: UK; Country: UK; Year: Jan 1992; Inflation rate (%): 4.261548"
+                    },
+                    {
+                      "x": 298.9480964869304,
+                      "y": 157.4545,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1993; value: 2.5065; country: UK; Country: UK; Year: Jan 1993; Inflation rate (%): 2.5065"
+                    },
+                    {
+                      "x": 303.15571053920866,
+                      "y": 161.15057000000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1994; value: 1.97849; country: UK; Country: UK; Year: Jan 1994; Inflation rate (%): 1.97849"
+                    },
+                    {
+                      "x": 307.3633245914868,
+                      "y": 156.404836,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1995; value: 2.656452; country: UK; Country: UK; Year: Jan 1995; Inflation rate (%): 2.656452"
+                    },
+                    {
+                      "x": 311.570938643765,
+                      "y": 158.197844,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1996; value: 2.400308; country: UK; Country: UK; Year: Jan 1996; Inflation rate (%): 2.400308"
+                    },
+                    {
+                      "x": 315.79008040577537,
+                      "y": 162.227758,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1997; value: 1.824606; country: UK; Country: UK; Year: Jan 1997; Inflation rate (%): 1.824606"
+                    },
+                    {
+                      "x": 319.99769445805356,
+                      "y": 164.098214,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1998; value: 1.557398; country: UK; Country: UK; Year: Jan 1998; Inflation rate (%): 1.557398"
+                    },
+                    {
+                      "x": 324.2053085103317,
+                      "y": 165.69903,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 1999; value: 1.32871; country: UK; Country: UK; Year: Jan 1999; Inflation rate (%): 1.32871"
+                    },
+                    {
+                      "x": 328.4129225626099,
+                      "y": 169.42480799999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2000; value: 0.796456; country: UK; Country: UK; Year: Jan 2000; Inflation rate (%): 0.796456"
+                    },
+                    {
+                      "x": 332.6320643246203,
+                      "y": 166.36541599999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2001; value: 1.233512; country: UK; Country: UK; Year: Jan 2001; Inflation rate (%): 1.233512"
+                    },
+                    {
+                      "x": 336.83967837689846,
+                      "y": 166.187609,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2002; value: 1.258913; country: UK; Country: UK; Year: Jan 2002; Inflation rate (%): 1.258913"
+                    },
+                    {
+                      "x": 341.0472924291766,
+                      "y": 165.468849,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2003; value: 1.361593; country: UK; Country: UK; Year: Jan 2003; Inflation rate (%): 1.361593"
+                    },
+                    {
+                      "x": 345.2549064814548,
+                      "y": 165.595339,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2004; value: 1.343523; country: UK; Country: UK; Year: Jan 2004; Inflation rate (%): 1.343523"
+                    },
+                    {
+                      "x": 349.47404824346523,
+                      "y": 160.601392,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2005; value: 2.056944; country: UK; Country: UK; Year: Jan 2005; Inflation rate (%): 2.056944"
+                    },
+                    {
+                      "x": 353.6816622957434,
+                      "y": 158.699016,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2006; value: 2.328712; country: UK; Country: UK; Year: Jan 2006; Inflation rate (%): 2.328712"
+                    },
+                    {
+                      "x": 357.88927634802155,
+                      "y": 158.74010599999997,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2007; value: 2.322842; country: UK; Country: UK; Year: Jan 2007; Inflation rate (%): 2.322842"
+                    },
+                    {
+                      "x": 362.09689040029974,
+                      "y": 149.786588,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2008; value: 3.601916; country: UK; Country: UK; Year: Jan 2008; Inflation rate (%): 3.601916"
+                    },
+                    {
+                      "x": 366.31603216231014,
+                      "y": 159.84275999999997,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2009; value: 2.16532; country: UK; Country: UK; Year: Jan 2009; Inflation rate (%): 2.16532"
+                    },
+                    {
+                      "x": 370.5236462145883,
+                      "y": 151.91279600000001,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2010; value: 3.298172; country: UK; Country: UK; Year: Jan 2010; Inflation rate (%): 3.298172"
+                    },
+                    {
+                      "x": 374.73126026686646,
+                      "y": 143.75414899999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2011; value: 4.463693; country: UK; Country: UK; Year: Jan 2011; Inflation rate (%): 4.463693"
+                    },
+                    {
+                      "x": 378.93887431914465,
+                      "y": 155.20230600000002,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2012; value: 2.828242; country: UK; Country: UK; Year: Jan 2012; Inflation rate (%): 2.828242"
+                    },
+                    {
+                      "x": 383.1580160811551,
+                      "y": 157.046407,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2013; value: 2.564799; country: UK; Country: UK; Year: Jan 2013; Inflation rate (%): 2.564799"
+                    },
+                    {
+                      "x": 387.3656301334333,
+                      "y": 164.77278300000003,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2014; value: 1.461031; country: UK; Country: UK; Year: Jan 2014; Inflation rate (%): 1.461031"
+                    },
+                    {
+                      "x": 391.5732441857114,
+                      "y": 174.71930700000001,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2015; value: 0.040099; country: UK; Country: UK; Year: Jan 2015; Inflation rate (%): 0.040099"
+                    },
+                    {
+                      "x": 395.7808582379896,
+                      "y": 170.38233799999998,
+                      "stroke": "#122b39",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "date: Jan 01, 2016; value: 0.659666; country: UK; Country: UK; Year: Jan 2016; Inflation rate (%): 0.659666"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 350
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_6_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 383.1580160811551,
+              "y": 171.47682893599998,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#36b7b4",
+              "text": "Ireland",
+              "dx": 20,
+              "dy": 10,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "date: Jan 01, 2013; value: 0.503310152; country: Ireland; Country: Ireland; Year: Jan 2013; Inflation rate (%): 0.503310152"
+            },
+            {
+              "x": 383.1580160811551,
+              "y": 157.046407,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#122b39",
+              "text": "UK",
+              "dx": 20,
+              "dy": 10,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "date: Jan 01, 2013; value: 2.564799; country: UK; Country: UK; Year: Jan 2013; Inflation rate (%): 2.564799"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rule",
+          "name": "layer_7_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 239.9953889161071,
+              "y": 0,
+              "stroke": "#e54753",
+              "strokeWidth": 1.5,
+              "y2": 350,
+              "description": "line: Jan 01, 1979"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 350,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

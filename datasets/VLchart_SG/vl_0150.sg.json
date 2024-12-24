@@ -1,0 +1,1585 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 25,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 75,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 125,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 175,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 225,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 275,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 325,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 375,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 240,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 25,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 75,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 125,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 175,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 225,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 275,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 325,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 375,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 24.982888432580424,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2002",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 74.94866529774127,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2004",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 124.98288843258042,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2006",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 174.94866529774126,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2008",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 224.9828884325804,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2010",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 274.9486652977413,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2012",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 324.9828884325804,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2014",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 374.9486652977413,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2016",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 200,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Year",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 240,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 270,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 240,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 210,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 180,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 120,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 90.00000000000001,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "70%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 59.999999999999986,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "80%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 29.999999999999993,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "90%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100%",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -37.4892578125,
+                      "y": 150,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Share of net generation",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "pathgroup",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "area",
+                  "name": "marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "height": 260.96036997859835,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 260.96036997859835,
+                      "description": "year (year): 2001; net_generation: 87%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 24.982888432580424,
+                      "y": 0,
+                      "height": 253.88685101580134,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 253.88685101580134,
+                      "description": "year (year): 2002; net_generation: 85%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 49.96577686516085,
+                      "y": 0,
+                      "height": 258.1566010402071,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 258.1566010402071,
+                      "description": "year (year): 2003; net_generation: 86%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 74.94866529774127,
+                      "y": 0,
+                      "height": 251.2142658895365,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 251.2142658895365,
+                      "description": "year (year): 2004; net_generation: 84%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 100,
+                      "y": 0,
+                      "height": 250.64899762147468,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 250.64899762147468,
+                      "description": "year (year): 2005; net_generation: 84%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 124.98288843258042,
+                      "y": 0,
+                      "height": 244.19325753743982,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 244.19325753743982,
+                      "description": "year (year): 2006; net_generation: 81%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 149.96577686516085,
+                      "y": 0,
+                      "height": 249.44152035035557,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 249.44152035035557,
+                      "description": "year (year): 2007; net_generation: 83%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 174.94866529774126,
+                      "y": 0,
+                      "height": 241.49870022228083,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 241.49870022228083,
+                      "description": "year (year): 2008; net_generation: 80%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 200,
+                      "y": 0,
+                      "height": 223.41348656935153,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 223.41348656935153,
+                      "description": "year (year): 2009; net_generation: 74%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 224.9828884325804,
+                      "y": 0,
+                      "height": 223.00857257124972,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 223.00857257124972,
+                      "description": "year (year): 2010; net_generation: 74%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 249.96577686516085,
+                      "y": 0,
+                      "height": 209.47472991431766,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 209.47472991431766,
+                      "description": "year (year): 2011; net_generation: 70%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 274.9486652977413,
+                      "y": 0,
+                      "height": 197.85972651080723,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 197.85972651080723,
+                      "description": "year (year): 2012; net_generation: 66%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 300,
+                      "y": 0,
+                      "height": 184.6109052408682,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 184.6109052408682,
+                      "description": "year (year): 2013; net_generation: 62%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 324.9828884325804,
+                      "y": 0,
+                      "height": 186.00274387026417,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 186.00274387026417,
+                      "description": "year (year): 2014; net_generation: 62%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 349.9657768651609,
+                      "y": 0,
+                      "height": 171.1418636259333,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 171.1418636259333,
+                      "description": "year (year): 2015; net_generation: 57%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 374.9486652977413,
+                      "y": 0,
+                      "height": 156.876482595024,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 156.876482595024,
+                      "description": "year (year): 2016; net_generation: 52%; source: Fossil Fuels"
+                    },
+                    {
+                      "x": 400,
+                      "y": 0,
+                      "height": 155.79538210921453,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 155.79538210921453,
+                      "description": "year (year): 2017; net_generation: 52%; source: Fossil Fuels"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            },
+            {
+              "items": [
+                {
+                  "marktype": "area",
+                  "name": "marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 260.96036997859835,
+                      "height": 28.434724853017087,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 289.39509483161544,
+                      "description": "year (year): 2001; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 24.982888432580424,
+                      "y": 253.88685101580134,
+                      "height": 32.265801354401816,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 286.15265237020316,
+                      "description": "year (year): 2002; net_generation: 11%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 49.96577686516085,
+                      "y": 258.1566010402071,
+                      "height": 28.413327950222083,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 286.56992899042916,
+                      "description": "year (year): 2003; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 74.94866529774127,
+                      "y": 251.2142658895365,
+                      "height": 34.20066611157367,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 285.4149320011102,
+                      "description": "year (year): 2004; net_generation: 11%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 100,
+                      "y": 250.64899762147468,
+                      "height": 30.839279646619104,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 281.4882772680938,
+                      "description": "year (year): 2005; net_generation: 10%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 124.98288843258042,
+                      "y": 244.19325753743982,
+                      "height": 33.613352978690614,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 277.80661051613043,
+                      "description": "year (year): 2006; net_generation: 11%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 149.96577686516085,
+                      "y": 249.44152035035557,
+                      "height": 27.234923058379195,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 276.67644340873477,
+                      "description": "year (year): 2007; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 174.94866529774126,
+                      "y": 241.49870022228083,
+                      "height": 29.849677881173932,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 271.34837810345476,
+                      "description": "year (year): 2008; net_generation: 10%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 200,
+                      "y": 223.41348656935153,
+                      "height": 27.067625677317324,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 250.48111224666886,
+                      "description": "year (year): 2009; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 224.9828884325804,
+                      "y": 223.00857257124972,
+                      "height": 23.218974421394904,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 246.22754699264462,
+                      "description": "year (year): 2010; net_generation: 8%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 249.96577686516085,
+                      "y": 209.47472991431766,
+                      "height": 27.7536321867627,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 237.22836210108036,
+                      "description": "year (year): 2011; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 274.9486652977413,
+                      "y": 197.85972651080723,
+                      "height": 23.010145566828385,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 220.86987207763562,
+                      "description": "year (year): 2012; net_generation: 8%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 300,
+                      "y": 184.6109052408682,
+                      "height": 28.168343038644764,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 212.77924827951296,
+                      "description": "year (year): 2013; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 324.9828884325804,
+                      "y": 186.00274387026417,
+                      "height": 21.9087487248039,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 207.91149259506807,
+                      "description": "year (year): 2014; net_generation: 7%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 349.9657768651609,
+                      "y": 171.1418636259333,
+                      "height": 27.76375478791948,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 198.90561841385278,
+                      "description": "year (year): 2015; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 374.9486652977413,
+                      "y": 156.876482595024,
+                      "height": 25.94472334087274,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 182.82120593589673,
+                      "description": "year (year): 2016; net_generation: 9%; source: Nuclear Energy"
+                    },
+                    {
+                      "x": 400,
+                      "y": 155.79538210921453,
+                      "height": 27.696720730929968,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 183.4921028401445,
+                      "description": "year (year): 2017; net_generation: 9%; source: Nuclear Energy"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            },
+            {
+              "items": [
+                {
+                  "marktype": "area",
+                  "name": "marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 289.39509483161544,
+                      "height": 10.604905168384562,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2001; net_generation: 4%; source: Renewables"
+                    },
+                    {
+                      "x": 24.982888432580424,
+                      "y": 286.15265237020316,
+                      "height": 13.847347629796843,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2002; net_generation: 5%; source: Renewables"
+                    },
+                    {
+                      "x": 49.96577686516085,
+                      "y": 286.56992899042916,
+                      "height": 13.430071009570838,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2003; net_generation: 4%; source: Renewables"
+                    },
+                    {
+                      "x": 74.94866529774127,
+                      "y": 285.4149320011102,
+                      "height": 14.585067998889826,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2004; net_generation: 5%; source: Renewables"
+                    },
+                    {
+                      "x": 100,
+                      "y": 281.4882772680938,
+                      "height": 18.511722731906218,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2005; net_generation: 6%; source: Renewables"
+                    },
+                    {
+                      "x": 124.98288843258042,
+                      "y": 277.80661051613043,
+                      "height": 22.193389483869566,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2006; net_generation: 7%; source: Renewables"
+                    },
+                    {
+                      "x": 149.96577686516085,
+                      "y": 276.67644340873477,
+                      "height": 23.32355659126523,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2007; net_generation: 8%; source: Renewables"
+                    },
+                    {
+                      "x": 174.94866529774126,
+                      "y": 271.34837810345476,
+                      "height": 28.651621896545237,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2008; net_generation: 10%; source: Renewables"
+                    },
+                    {
+                      "x": 200,
+                      "y": 250.48111224666886,
+                      "height": 49.51888775333114,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2009; net_generation: 17%; source: Renewables"
+                    },
+                    {
+                      "x": 224.9828884325804,
+                      "y": 246.22754699264462,
+                      "height": 53.77245300735538,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2010; net_generation: 18%; source: Renewables"
+                    },
+                    {
+                      "x": 249.96577686516085,
+                      "y": 237.22836210108036,
+                      "height": 62.771637898919636,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2011; net_generation: 21%; source: Renewables"
+                    },
+                    {
+                      "x": 274.9486652977413,
+                      "y": 220.86987207763562,
+                      "height": 79.13012792236438,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2012; net_generation: 26%; source: Renewables"
+                    },
+                    {
+                      "x": 300,
+                      "y": 212.77924827951296,
+                      "height": 87.22075172048704,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2013; net_generation: 29%; source: Renewables"
+                    },
+                    {
+                      "x": 324.9828884325804,
+                      "y": 207.91149259506807,
+                      "height": 92.08850740493193,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2014; net_generation: 31%; source: Renewables"
+                    },
+                    {
+                      "x": 349.9657768651609,
+                      "y": 198.90561841385278,
+                      "height": 101.09438158614722,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2015; net_generation: 34%; source: Renewables"
+                    },
+                    {
+                      "x": 374.9486652977413,
+                      "y": 182.82120593589673,
+                      "height": 117.17879406410327,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2016; net_generation: 39%; source: Renewables"
+                    },
+                    {
+                      "x": 400,
+                      "y": 183.4921028401445,
+                      "height": 116.5078971598555,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 300,
+                      "description": "year (year): 2017; net_generation: 39%; source: Renewables"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Fossil Fuels",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 88.646484375,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f58518",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Nuclear Energy",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 88.646484375,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#e45756",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Renewables",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 88.646484375,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Electricity source",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 418,
+              "y": 0,
+              "width": 94,
+              "height": 53,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Iowa's renewable energy boom",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 200,
+              "y": -22,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

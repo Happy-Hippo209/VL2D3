@@ -1,0 +1,3782 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 40,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 80,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 120,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 160,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 200,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 240,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 280,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 320,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 360,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 400,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "8.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 40,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 80,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "12.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 120,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "14.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 160,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "16.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 200,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "18.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 240,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "20.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 280,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "22.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 320,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "24.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 360,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "26.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 400,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "28.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 200,
+                              "y": 21,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Student_teacher_ratio (binned)",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 400.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 1
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 3,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 11,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 19,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 27,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 35,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 43,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 50,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 58,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 66,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 74,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 82,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 90,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 98,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 105,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 113,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 121,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 129,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 137,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 145,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 152,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 160,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 168,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 176,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 184,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 192,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 199,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 207,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 215,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 223,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 231,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 239,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 247,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 254,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 262,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 270,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 278,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 286,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 294,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 301,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 309,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 317,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 325,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 333,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 341,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 349,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 356,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 364,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 372,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 380,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 388,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 396,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 3.4215686274509802,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "AK",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 11.26470588235294,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "AL",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 19.1078431372549,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "AR",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 26.95098039215686,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "AZ",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 34.79411764705882,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "CA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 42.63725490196078,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "CO",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 50.48039215686274,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "CT",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 58.3235294117647,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "DC",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 66.16666666666666,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "DE",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 74.00980392156862,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "FL",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 81.85294117647058,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "GA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 89.69607843137254,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "HI",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 97.5392156862745,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "IA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 105.38235294117646,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "ID",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 113.22549019607843,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "IL",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 121.06862745098039,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "IN",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 128.91176470588235,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "KS",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 136.75490196078428,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "KY",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 144.59803921568624,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "LA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 152.4411764705882,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "MA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 160.28431372549016,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "MD",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 168.12745098039213,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "ME",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 175.9705882352941,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "MI",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 183.81372549019605,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "MN",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 191.656862745098,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "MO",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 199.49999999999997,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "MS",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 207.34313725490193,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "MT",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 215.1862745098039,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "NC",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 223.02941176470586,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "ND",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 230.87254901960782,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "NE",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 238.71568627450978,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "NH",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 246.55882352941174,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "NJ",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 254.4019607843137,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "NM",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 262.2450980392157,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "NV",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 270.0882352941176,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "NY",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 277.9313725490196,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "OH",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 285.77450980392155,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "OK",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 293.61764705882354,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "OR",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 301.46078431372547,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "PA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 309.30392156862746,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "RI",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 317.1470588235294,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "SC",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 324.9901960784314,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "SD",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 332.8333333333333,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "TN",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 340.6764705882353,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "TX",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 348.51960784313724,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "UT",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 356.3627450980392,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "VA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 364.20588235294116,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "VT",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 372.04901960784315,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "WA",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 379.8921568627451,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "WI",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 387.7352941176471,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "WV",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 395.578431372549,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "WY",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 400
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -28.919921875,
+                              "y": 200,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "State",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 1
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector006_brush_bg",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "#333",
+                      "fillOpacity": 0.125,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 120.5,
+                      "y": 329.4117647058823,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: TN; Count of Records: 2"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 211.76470588235293,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: NC; Count of Records: 7"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 211.76470588235293,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(111, 199, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: NC; Count of Records: 13"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 352.94117647058823,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: VA; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 313.7254901960784,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: SC; Count of Records: 5"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 211.76470588235293,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: NC; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 352.94117647058823,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: VA; Count of Records: 3"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 196.078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(138, 209, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: MS; Count of Records: 11"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 196.078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: MS; Count of Records: 7"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 196.078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: MS; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 141.17647058823528,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(138, 209, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: LA; Count of Records: 11"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 15.686274509803921,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(111, 199, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: AR; Count of Records: 13"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 141.17647058823528,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: LA; Count of Records: 1"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 15.686274509803921,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: AR; Count of Records: 2"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 15.686274509803921,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: AR; Count of Records: 3"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 133.33333333333331,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(138, 209, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: KY; Count of Records: 11"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 133.33333333333331,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(178, 225, 182)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: KY; Count of Records: 8"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 329.4117647058823,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: TN; Count of Records: 2"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 329.4117647058823,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: TN; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 7.8431372549019605,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(98, 194, 191)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: AL; Count of Records: 14"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 78.4313725490196,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(39, 145, 188)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: GA; Count of Records: 21"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 70.58823529411764,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(124, 204, 188)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: FL; Count of Records: 12"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 70.58823529411764,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: FL; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 70.58823529411764,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: FL; Count of Records: 3"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 313.7254901960784,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: SC; Count of Records: 3"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 78.4313725490196,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: GA; Count of Records: 3"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 78.4313725490196,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: GA; Count of Records: 4"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 384.3137254901961,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: WV; Count of Records: 5"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 156.8627450980392,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: MD; Count of Records: 1"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 54.90196078431372,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: DC; Count of Records: 1"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 172.54901960784312,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(124, 204, 188)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: MI; Count of Records: 12"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 172.54901960784312,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: MI; Count of Records: 2"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 172.54901960784312,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: MI; Count of Records: 3"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 274.5098039215686,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(111, 199, 189)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: OH; Count of Records: 13"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 274.5098039215686,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: OH; Count of Records: 2"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 117.6470588235294,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(138, 209, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: IN; Count of Records: 11"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 133.33333333333331,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: KY; Count of Records: 2"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 117.6470588235294,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: IN; Count of Records: 5"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 109.80392156862744,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: IL; Count of Records: 1"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 117.6470588235294,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: IN; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 384.3137254901961,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: WV; Count of Records: 5"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 274.5098039215686,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: OH; Count of Records: 2"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 298.0392156862745,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(201, 234, 181)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: PA; Count of Records: 6"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 298.0392156862745,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: PA; Count of Records: 7"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 352.94117647058823,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: VA; Count of Records: 2"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 156.8627450980392,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: MD; Count of Records: 2"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 266.66666666666663,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(178, 225, 182)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: NY; Count of Records: 8"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 266.66666666666663,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: NY; Count of Records: 3"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 266.66666666666663,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: NY; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 243.13725490196077,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: NJ; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 62.745098039215684,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: DE; Count of Records: 2"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 164.70588235294116,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: ME; Count of Records: 3"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 164.70588235294116,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: ME; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 360.78431372549016,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: VT; Count of Records: 2"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 360.78431372549016,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: VT; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 305.88235294117646,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: RI; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 235.2941176470588,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: NH; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 235.2941176470588,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: NH; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 47.05882352941176,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: CT; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 149.01960784313724,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: MA; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 376.4705882352941,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(152, 215, 185)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: WI; Count of Records: 10"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 172.54901960784312,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: MI; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 376.4705882352941,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: WI; Count of Records: 5"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 180.39215686274508,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: MN; Count of Records: 5"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 180.39215686274508,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: MN; Count of Records: 5"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 180.39215686274508,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(111, 199, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: MN; Count of Records: 13"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 94.11764705882352,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(75, 183, 193)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: IA; Count of Records: 16"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 94.11764705882352,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: IA; Count of Records: 3"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 109.80392156862744,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(201, 234, 181)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: IL; Count of Records: 6"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 109.80392156862744,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(152, 215, 185)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: IL; Count of Records: 10"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 188.23529411764704,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(138, 209, 186)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: MO; Count of Records: 11"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 188.23529411764704,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: MO; Count of Records: 7"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 109.80392156862744,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: IL; Count of Records: 1"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 188.23529411764704,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(201, 234, 181)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: MO; Count of Records: 6"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 94.11764705882352,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: IA; Count of Records: 3"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 219.6078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: ND; Count of Records: 2"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 219.6078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: ND; Count of Records: 1"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 219.6078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: ND; Count of Records: 7"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 219.6078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: ND; Count of Records: 3"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 219.6078431372549,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: ND; Count of Records: 7"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 321.5686274509804,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: SD; Count of Records: 1"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 203.92156862745097,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: MT; Count of Records: 5"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 203.92156862745097,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: MT; Count of Records: 2"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 203.92156862745097,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: MT; Count of Records: 5"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 321.5686274509804,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(152, 215, 185)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: SD; Count of Records: 10"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 321.5686274509804,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: SD; Count of Records: 7"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 321.5686274509804,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(201, 234, 181)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: SD; Count of Records: 6"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 227.45098039215685,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(178, 225, 182)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: NE; Count of Records: 8"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 227.45098039215685,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: NE; Count of Records: 4"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 227.45098039215685,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(165, 220, 183)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: NE; Count of Records: 9"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 392.156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: WY; Count of Records: 5"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 392.156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: WY; Count of Records: 3"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 227.45098039215685,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: NE; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 39.2156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(201, 234, 181)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: CO; Count of Records: 6"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 39.2156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: CO; Count of Records: 4"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 39.2156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: CO; Count of Records: 4"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 39.2156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: CO; Count of Records: 1"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 39.2156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: CO; Count of Records: 1"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 125.49019607843137,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: KS; Count of Records: 5"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 125.49019607843137,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(152, 215, 185)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: KS; Count of Records: 10"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 392.156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: WY; Count of Records: 5"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 39.2156862745098,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: CO; Count of Records: 1"
+                    },
+                    {
+                      "x": 0.5,
+                      "y": 125.49019607843137,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 40.5,
+                      "description": "Student_teacher_ratio (binned): 8 \u2013 10; State: KS; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 125.49019607843137,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(201, 234, 181)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: KS; Count of Records: 6"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 125.49019607843137,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(152, 215, 185)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: KS; Count of Records: 10"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 282.35294117647055,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(152, 215, 185)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: OK; Count of Records: 10"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 282.35294117647055,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: OK; Count of Records: 5"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 337.2549019607843,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(165, 220, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: TX; Count of Records: 9"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 250.98039215686273,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(165, 220, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: NM; Count of Records: 9"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 250.98039215686273,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: NM; Count of Records: 2"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 337.2549019607843,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(75, 183, 193)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: TX; Count of Records: 16"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 250.98039215686273,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: NM; Count of Records: 2"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 337.2549019607843,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(28, 49, 133)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: TX; Count of Records: 32"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 337.2549019607843,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: TX; Count of Records: 7"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 282.35294117647055,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: OK; Count of Records: 1"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 0,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: AK; Count of Records: 1"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 0,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: AK; Count of Records: 3"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 0,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: AK; Count of Records: 4"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 0,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: AK; Count of Records: 4"
+                    },
+                    {
+                      "x": 360.5,
+                      "y": 0,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 400.5,
+                      "description": "Student_teacher_ratio (binned): 26 \u2013 28; State: AK; Count of Records: 1"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 0,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: AK; Count of Records: 2"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 203.92156862745097,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(178, 225, 182)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: MT; Count of Records: 8"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 203.92156862745097,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: MT; Count of Records: 2"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 101.96078431372548,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(201, 234, 181)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: ID; Count of Records: 6"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 86.27450980392156,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: HI; Count of Records: 4"
+                    },
+                    {
+                      "x": 80.5,
+                      "y": 250.98039215686273,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 120.5,
+                      "description": "Student_teacher_ratio (binned): 12 \u2013 14; State: NM; Count of Records: 1"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 23.52941176470588,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: AZ; Count of Records: 2"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 23.52941176470588,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: AZ; Count of Records: 2"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 23.52941176470588,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: AZ; Count of Records: 1"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 290.19607843137254,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: OR; Count of Records: 5"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 101.96078431372548,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: ID; Count of Records: 3"
+                    },
+                    {
+                      "x": 280.5,
+                      "y": 345.09803921568624,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 320.5,
+                      "description": "Student_teacher_ratio (binned): 22 \u2013 24; State: UT; Count of Records: 3"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 345.09803921568624,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: UT; Count of Records: 4"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 345.09803921568624,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: UT; Count of Records: 1"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 345.09803921568624,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: UT; Count of Records: 1"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 31.372549019607842,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(210, 238, 180)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: CA; Count of Records: 5"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 290.19607843137254,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: OR; Count of Records: 2"
+                    },
+                    {
+                      "x": 280.5,
+                      "y": 31.372549019607842,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(138, 209, 186)",
+                      "x2": 320.5,
+                      "description": "Student_teacher_ratio (binned): 22 \u2013 24; State: CA; Count of Records: 11"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 290.19607843137254,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(220, 241, 180)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: OR; Count of Records: 4"
+                    },
+                    {
+                      "x": 320.5,
+                      "y": 31.372549019607842,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 360.5,
+                      "description": "Student_teacher_ratio (binned): 24 \u2013 26; State: CA; Count of Records: 2"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 258.8235294117647,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: NV; Count of Records: 3"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 258.8235294117647,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: NV; Count of Records: 1"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 258.8235294117647,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: NV; Count of Records: 1"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 368.62745098039215,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 200.5,
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: WA; Count of Records: 1"
+                    },
+                    {
+                      "x": 240.5,
+                      "y": 368.62745098039215,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(178, 225, 182)",
+                      "x2": 280.5,
+                      "description": "Student_teacher_ratio (binned): 20 \u2013 22; State: WA; Count of Records: 8"
+                    },
+                    {
+                      "x": 200.5,
+                      "y": 368.62745098039215,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(226, 244, 183)",
+                      "x2": 240.5,
+                      "description": "Student_teacher_ratio (binned): 18 \u2013 20; State: WA; Count of Records: 3"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 290.19607843137254,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "x2": 160.5,
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: OR; Count of Records: 2"
+                    },
+                    {
+                      "x": 40.5,
+                      "y": 290.19607843137254,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(239, 249, 189)",
+                      "x2": 80.5,
+                      "description": "Student_teacher_ratio (binned): 10 \u2013 12; State: OR; Count of Records: 1"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector006_brush",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": true,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "transparent",
+                      "stroke": null,
+                      "x2": 0,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 400,
+              "height": 400,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 263,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 225,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 188,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 150,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 113,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 75,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 38,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 40,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 80,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 120,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 160,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 200,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 240,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 280,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 320,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 360,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 400,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.00",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 40,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.05",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 80,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.10",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 120.00000000000001,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.15",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 160,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.20",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 200,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.25",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 240.00000000000003,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.30",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 280,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.35",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 320,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.40",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 360,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.45",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 400,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.50",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 400
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 200,
+                              "y": 21,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Mobility Score",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 300.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 263,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 225,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 188,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 150,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 113,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 75,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 38,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 300,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 262.5,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "50",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 225,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "100",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 187.5,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "150",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 150,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "200",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 112.5,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "250",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 75,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "300",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 37.5,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "350",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 0,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "400",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -28.5927734375,
+                              "y": 150,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Mobility Score Distribution",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_marks",
+                  "role": "mark",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 41,
+                      "y": 33.750000000000014,
+                      "width": 39,
+                      "height": 266.25,
+                      "fill": "#4c78a8",
+                      "x2": 80,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.05 \u2013 0.1; Count of Records: 355",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 1,
+                      "y": 236.25,
+                      "width": 39,
+                      "height": 63.75,
+                      "fill": "#4c78a8",
+                      "x2": 40,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0 \u2013 0.05; Count of Records: 85",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 81,
+                      "y": 163.49999999999997,
+                      "width": 39.000000000000014,
+                      "height": 136.50000000000003,
+                      "fill": "#4c78a8",
+                      "x2": 120.00000000000001,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.1 \u2013 0.15; Count of Records: 182",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 121.00000000000001,
+                      "y": 244.49999999999997,
+                      "width": 38.999999999999986,
+                      "height": 55.50000000000003,
+                      "fill": "#4c78a8",
+                      "x2": 160,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.15 \u2013 0.2; Count of Records: 74",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 201,
+                      "y": 296.25,
+                      "width": 39.00000000000003,
+                      "height": 3.75,
+                      "fill": "#4c78a8",
+                      "x2": 240.00000000000003,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.25 \u2013 0.3; Count of Records: 5",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 241.00000000000003,
+                      "y": 295.5,
+                      "width": 39.00000000000003,
+                      "height": 4.5,
+                      "fill": "#4c78a8",
+                      "x2": 280.00000000000006,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.3 \u2013 0.35; Count of Records: 6",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 161,
+                      "y": 285,
+                      "width": 39,
+                      "height": 15,
+                      "fill": "#4c78a8",
+                      "x2": 200,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.2 \u2013 0.25; Count of Records: 20",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 361,
+                      "y": 299.25,
+                      "width": 39,
+                      "height": 0.75,
+                      "fill": "#4c78a8",
+                      "x2": 400,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.45 \u2013 0.5; Count of Records: 1",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 281,
+                      "y": 299.25,
+                      "width": 39,
+                      "height": 0.75,
+                      "fill": "#4c78a8",
+                      "x2": 320,
+                      "y2": 300,
+                      "description": "Mobility (binned): 0.35 \u2013 0.4; Count of Records: 1",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 463,
+              "y": 0,
+              "width": 400,
+              "height": 300,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {
+                                "x2": 0,
+                                "y2": 0
+                              },
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 141.93548387096774,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 77.41935483870968,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "20",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 12.903225806451623,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "30",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Count of Records",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 883,
+              "y": 0,
+              "width": 96,
+              "height": 216,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  ],
+  "zindex": 0
+}

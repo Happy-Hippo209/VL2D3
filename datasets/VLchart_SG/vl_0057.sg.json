@@ -1,0 +1,753 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 14.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83d\uded2",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 44.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83c\udfe2",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 74.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83d\udce6",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 104.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83d\udc8a",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 134.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83d\udcde",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 164.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83d\udccc",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 194.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83d\udecd",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 224.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83d\udcbb",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 254.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83c\udfe5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 284.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "\ud83c\udf71",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 150,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "Sector",
+                      "angle": 0,
+                      "font": "Roboto",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$0.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 262.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$10M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 225,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$20M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 187.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$30M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$40M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 112.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$50M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 75,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$60M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 37.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$70M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "$80M",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "Roboto",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#44475a",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -38.36328125,
+                      "y": 150,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "Amount",
+                      "angle": -90,
+                      "font": "Roboto",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "Amount_Bar_Chart_layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 1.5,
+              "y": 26.625,
+              "width": 27,
+              "height": 273.375,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83d\uded2; amount: $73M; Sector: Hypermarkets and Supermarkets; Amount: $72,900,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 31.5,
+              "y": 177.75,
+              "width": 27,
+              "height": 122.25,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83c\udfe2; amount: $33M; Sector: Public administration services; Amount: $32,600,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 61.5,
+              "y": 257.625,
+              "width": 27,
+              "height": 42.375,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83d\udce6; amount: $11M; Sector: Other Services; Amount: $11,300,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 91.5,
+              "y": 258.75,
+              "width": 27,
+              "height": 41.25,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83d\udc8a; amount: $11M; Sector: Pharmacies and drug stores; Amount: $11,000,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 121.5,
+              "y": 262.5,
+              "width": 27,
+              "height": 37.5,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83d\udcde; amount: $10M; Sector: Telecommunications and utilities; Amount: $10,000,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 151.5,
+              "y": 264.75,
+              "width": 27,
+              "height": 35.25,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83d\udccc; amount: $9.4M; Sector: Traditional trade; Amount: $9,400,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 181.5,
+              "y": 267.375,
+              "width": 27,
+              "height": 32.625,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83d\udecd; amount: $8.7M; Sector: Consumer Goods; Amount: $8,700,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 211.5,
+              "y": 273,
+              "width": 27,
+              "height": 27,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83d\udcbb; amount: $7.2M; Sector: Technology, Culture and Entertainment; Amount: $7,200,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 241.5,
+              "y": 273.375,
+              "width": 27,
+              "height": 26.625,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83c\udfe5; amount: $7.1M; Sector: Health care services; Amount: $7,100,000",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 271.5,
+              "y": 274.5,
+              "width": 27,
+              "height": 25.5,
+              "fill": "#f2af29",
+              "fillOpacity": 1,
+              "y2": 300,
+              "description": "emoji: \ud83c\udf71; amount: $6.8M; Sector: Catering services, restaurants and similar establishments; Amount: $6,800,000",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "Top 10 sectors w/ payment operations in ATM and POS terminals",
+                      "angle": 0,
+                      "font": "Roboto",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "title-subtitle",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 16,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#44475a",
+                      "opacity": 1,
+                      "text": "Lisbon (Municipality) | April 2020 | Source: SIBS Analytics",
+                      "angle": 0,
+                      "font": "Roboto",
+                      "fontSize": 12
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -49.36328125,
+              "y": -47,
+              "align": "left",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

@@ -1,0 +1,4153 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "column-title",
+          "role": "column-title",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "year (year)",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": -21,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1473,
+              "y": -31
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "row_header",
+          "role": "row-header",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 600,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 573,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 547,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 520,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 493,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 467,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 440,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 413,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 387,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 360,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 333,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 307,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 280,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 253,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 227,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 173,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 147,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 120,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 93,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 67,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 40,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 13,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 600,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 573.3333333333334,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "200,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 546.6666666666666,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "400,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 520,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "600,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 493.3333333333333,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "800,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 466.6666666666667,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,000,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 440.00000000000006,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,200,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 413.3333333333333,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,400,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 386.66666666666663,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,600,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 360,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,800,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 333.33333333333337,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2,000,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 306.66666666666663,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2,200,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 280,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2,400,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 253.33333333333337,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2,600,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 226.66666666666666,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2,800,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 200.00000000000003,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "3,000,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 173.33333333333331,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "3,200,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 146.66666666666669,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "3,400,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 119.99999999999997,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "3,600,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 93.33333333333333,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "3,800,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 66.6666666666667,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "4,000,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 39.99999999999999,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "4,200,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 13.333333333333353,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "4,400,000,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 600,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -1,
+              "y": 0,
+              "height": 600
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "column_header",
+          "role": "column-header",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1952",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1957",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 212,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1962",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 424,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1967",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 636,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1972",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 848,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1977",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1060,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1982",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1272,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1987",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1484,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1992",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1696,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1997",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1908,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2002",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2120,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2007",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2332,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2012",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2544,
+              "y": -1,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2017",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 95,
+                      "y": -20,
+                      "align": "center",
+                      "orient": "top",
+                      "angle": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2756,
+              "y": -1,
+              "width": 190
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "column_footer",
+          "role": "column-footer",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 212,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 424,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 636,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 848,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1060,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1272,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1484,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1696,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1908,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2120,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2332,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2544,
+              "y": 601,
+              "width": 190
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 71,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 166,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 23.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Africa",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 70.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Americas",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 118.25,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Asia",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 165.75,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Europe",
+                              "angle": 270,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 190
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2756,
+              "y": 601,
+              "width": 190
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "cell",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 408.68216,
+                      "width": 42.75,
+                      "height": 191.31784,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 1434883800; Year: 1952; Continent: Asia; Total population: 1,434,883,800",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 521.2179666666666,
+                      "width": 42.75,
+                      "height": 78.7820333333334,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 590865250; Year: 1952; Continent: Europe; Total population: 590,865,250",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 568.3019066666667,
+                      "width": 42.75,
+                      "height": 31.698093333333304,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 237735700; Year: 1952; Continent: Africa; Total population: 237,735,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 552.9544933333333,
+                      "width": 42.75,
+                      "height": 47.04550666666671,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 352841300; Year: 1952; Continent: Americas; Total population: 352,841,300",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 390.4976933333333,
+                      "width": 42.75,
+                      "height": 209.5023066666667,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 1571267300; Year: 1957; Continent: Asia; Total population: 1,571,267,300",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 516.8522933333334,
+                      "width": 42.75,
+                      "height": 83.14770666666664,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 623607800; Year: 1957; Continent: Europe; Total population: 623,607,800",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 564.6123333333334,
+                      "width": 42.75,
+                      "height": 35.38766666666663,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 265407500; Year: 1957; Continent: Africa; Total population: 265,407,500",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 547.2963466666666,
+                      "width": 42.75,
+                      "height": 52.703653333333364,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 395277400; Year: 1957; Continent: Americas; Total population: 395,277,400",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 212,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 368.9574666666666,
+                      "width": 42.75,
+                      "height": 231.04253333333338,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 1732819000; Year: 1962; Continent: Asia; Total population: 1,732,819,000",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 512.2983466666666,
+                      "width": 42.75,
+                      "height": 87.70165333333341,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 657762400; Year: 1962; Continent: Europe; Total population: 657,762,400",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 560.1605333333333,
+                      "width": 42.75,
+                      "height": 39.83946666666668,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 298796000; Year: 1962; Continent: Africa; Total population: 298,796,000",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 541.2146399999999,
+                      "width": 42.75,
+                      "height": 58.78536000000008,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 440890200; Year: 1962; Continent: Americas; Total population: 440,890,200",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 424,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 341.13613333333336,
+                      "width": 42.75,
+                      "height": 258.86386666666664,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 1941479000; Year: 1967; Continent: Asia; Total population: 1,941,479,000",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 508.11136,
+                      "width": 42.75,
+                      "height": 91.88864000000001,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 689164800; Year: 1967; Continent: Europe; Total population: 689,164,800",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 554.8308266666667,
+                      "width": 42.75,
+                      "height": 45.16917333333333,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 338768800; Year: 1967; Continent: Africa; Total population: 338,768,800",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 534.97876,
+                      "width": 42.75,
+                      "height": 65.02124000000003,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 487659300; Year: 1967; Continent: Americas; Total population: 487,659,300",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 636,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 307.8383333333333,
+                      "width": 42.75,
+                      "height": 292.1616666666667,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 2191212500; Year: 1972; Continent: Asia; Total population: 2,191,212,500",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 504.55081333333334,
+                      "width": 42.75,
+                      "height": 95.44918666666666,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 715868900; Year: 1972; Continent: Europe; Total population: 715,868,900",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 548.61032,
+                      "width": 42.75,
+                      "height": 51.38968,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 385422600; Year: 1972; Continent: Africa; Total population: 385,422,600",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 528.8131599999999,
+                      "width": 42.75,
+                      "height": 71.18684000000007,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 533901300; Year: 1972; Continent: Americas; Total population: 533,901,300",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 848,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 275.02724,
+                      "width": 42.75,
+                      "height": 324.97276,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 2437295700; Year: 1977; Continent: Asia; Total population: 2,437,295,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 501.4050933333333,
+                      "width": 42.75,
+                      "height": 98.5949066666667,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 739461800; Year: 1977; Continent: Europe; Total population: 739,461,800",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 541.2604133333334,
+                      "width": 42.75,
+                      "height": 58.73958666666658,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 440546900; Year: 1977; Continent: Africa; Total population: 440,546,900",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 522.2235866666666,
+                      "width": 42.75,
+                      "height": 77.77641333333338,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 583323100; Year: 1977; Continent: Americas; Total population: 583,323,100",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1060,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 242.11039999999997,
+                      "width": 42.75,
+                      "height": 357.88960000000003,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 2684172000; Year: 1982; Continent: Asia; Total population: 2,684,172,000",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 498.5542533333333,
+                      "width": 42.75,
+                      "height": 101.44574666666671,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 760843100; Year: 1982; Continent: Europe; Total population: 760,843,100",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 532.3729466666666,
+                      "width": 42.75,
+                      "height": 67.62705333333338,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 507202900; Year: 1982; Continent: Africa; Total population: 507,202,900",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 515.3287066666667,
+                      "width": 42.75,
+                      "height": 84.67129333333332,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 635034700; Year: 1982; Continent: Americas; Total population: 635,034,700",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1272,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 204.1184133333333,
+                      "width": 42.75,
+                      "height": 395.8815866666667,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 2969111900; Year: 1987; Continent: Asia; Total population: 2,969,111,900",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 495.85046666666665,
+                      "width": 42.75,
+                      "height": 104.14953333333335,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 781121500; Year: 1987; Continent: Europe; Total population: 781,121,500",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 522.1905333333333,
+                      "width": 42.75,
+                      "height": 77.80946666666671,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 583571000; Year: 1987; Continent: Africa; Total population: 583,571,000",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 508.26618666666667,
+                      "width": 42.75,
+                      "height": 91.73381333333333,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 688003600; Year: 1987; Continent: Americas; Total population: 688,003,600",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1484,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 165.73297333333335,
+                      "width": 42.75,
+                      "height": 434.26702666666665,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 3257002700; Year: 1992; Continent: Asia; Total population: 3,257,002,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 493.67081333333334,
+                      "width": 42.75,
+                      "height": 106.32918666666666,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 797468900; Year: 1992; Continent: Europe; Total population: 797,468,900",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 510.9129733333333,
+                      "width": 42.75,
+                      "height": 89.0870266666667,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 668152700; Year: 1992; Continent: Africa; Total population: 668,152,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 500.89471999999995,
+                      "width": 42.75,
+                      "height": 99.10528000000005,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 743289600; Year: 1992; Continent: Americas; Total population: 743,289,600",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1696,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 131.63938666666664,
+                      "width": 42.75,
+                      "height": 468.3606133333334,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 3512704600; Year: 1997; Continent: Asia; Total population: 3,512,704,600",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 492.66622666666666,
+                      "width": 42.75,
+                      "height": 107.33377333333334,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 805003300; Year: 1997; Continent: Europe; Total population: 805,003,300",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 498.7726,
+                      "width": 42.75,
+                      "height": 101.22739999999999,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 759205500; Year: 1997; Continent: Africa; Total population: 759,205,500",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 493.3571333333333,
+                      "width": 42.75,
+                      "height": 106.64286666666669,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 799821500; Year: 1997; Continent: Americas; Total population: 799,821,500",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 1908,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 100.37737333333337,
+                      "width": 42.75,
+                      "height": 499.62262666666663,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 3747169700; Year: 2002; Continent: Asia; Total population: 3,747,169,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 492.104,
+                      "width": 42.75,
+                      "height": 107.89600000000002,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 809220000; Year: 2002; Continent: Europe; Total population: 809,220,000",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 485.65970666666664,
+                      "width": 42.75,
+                      "height": 114.34029333333336,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 857552200; Year: 2002; Continent: Africa; Total population: 857,552,200",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 486.15825333333333,
+                      "width": 42.75,
+                      "height": 113.84174666666667,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 853813100; Year: 2002; Continent: Americas; Total population: 853,813,100",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2120,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 69.71154666666666,
+                      "width": 42.75,
+                      "height": 530.2884533333333,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 3977163400; Year: 2007; Continent: Asia; Total population: 3,977,163,400",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 490.79710666666665,
+                      "width": 42.75,
+                      "height": 109.20289333333335,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 819021700; Year: 2007; Continent: Europe; Total population: 819,021,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 470.61875999999995,
+                      "width": 42.75,
+                      "height": 129.38124000000005,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 970359300; Year: 2007; Continent: Africa; Total population: 970,359,300",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 479.35381333333333,
+                      "width": 42.75,
+                      "height": 120.64618666666667,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 904846400; Year: 2007; Continent: Americas; Total population: 904,846,400",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2332,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 39.73870666666666,
+                      "width": 42.75,
+                      "height": 560.2612933333334,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 4201959700; Year: 2012; Continent: Asia; Total population: 4,201,959,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 489.30568,
+                      "width": 42.75,
+                      "height": 110.69432,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 830207400; Year: 2012; Continent: Europe; Total population: 830,207,400",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 452.88742666666667,
+                      "width": 42.75,
+                      "height": 147.11257333333333,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 1103344300; Year: 2012; Continent: Africa; Total population: 1,103,344,300",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 472.67616,
+                      "width": 42.75,
+                      "height": 127.32384000000002,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 954928800; Year: 2012; Continent: Americas; Total population: 954,928,800",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2544,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "child_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 97.375,
+                      "y": 11.291319999999994,
+                      "width": 42.75,
+                      "height": 588.70868,
+                      "fill": "#FF6973",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Asia; total_pop: 4415315100; Year: 2017; Continent: Asia; Total population: 4,415,315,100",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 144.875,
+                      "y": 487.966,
+                      "width": 42.75,
+                      "height": 112.03399999999999,
+                      "fill": "#FFDC25",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Europe; total_pop: 840255000; Year: 2017; Continent: Europe; Total population: 840,255,000",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 2.375,
+                      "y": 432.7019066666667,
+                      "width": 42.75,
+                      "height": 167.29809333333333,
+                      "fill": "#08C5ED",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Africa; total_pop: 1254735700; Year: 2017; Continent: Africa; Total population: 1,254,735,700",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 49.875,
+                      "y": 466.58934666666664,
+                      "width": 42.75,
+                      "height": 133.41065333333336,
+                      "fill": "#80D322",
+                      "opacity": 0.8,
+                      "y2": 600,
+                      "description": "region: Americas; total_pop: 1000579900; Year: 2017; Continent: Americas; Total population: 1,000,579,900",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 2756,
+              "y": 0,
+              "width": 190,
+              "height": 600,
+              "fill": "transparent",
+              "stroke": "transparent"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  ],
+  "zindex": 0
+}

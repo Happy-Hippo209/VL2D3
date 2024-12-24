@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "UK Weekly rent vs price rise", "title": {"text": "UK Weekly rent vs price rise 2020-21", "subtitle": ["Source: 0NS and own calculations"], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/Emilysquires02/Emilysquires02.github.io/main/rent%20cleaned.csv"}, "selection": {"paintbrush": {"type": "multi", "on": "mouseover", "nearest": true}, "grid": {"type": "interval", "bind": "scales"}, "divisionSelect": {"type": "multi", "fields": ["Area"], "bind": "legend"}}, "height": 300, "width": 300, "mark": "circle", "encoding": {"x": {"field": "Price rise ", "type": "quantitative", "title": "% price rise from previous year"}, "y": {"field": "2020-21", "type": "quantitative", "title": "Weekly private rent"}, "color": {"field": "Area", "type": "ordinal", "title": null, "scale": {"scheme": "turbo"}}, "opacity": {"condition": {"selection": "divisionSelect", "value": 0.7}, "value": 0}, "size": {"condition": {"selection": "paintbrush", "value": 800}, "field": "up_ch12_longRunMean", "type": "nominal", "legend": null}, "tooltip": [{"field": "Area", "type": "ordinal", "title": "Area"}, {"field": "Lower and Single Tier Authority Data", "type": "ordinal", "title": "Local area"}, {"field": "2020-21", "type": "quantitative", "title": " Weekly private rent"}, {"field": "Price rise ", "type": "quantitative", "title": "% price rise from previous year"}]}, "config": {}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

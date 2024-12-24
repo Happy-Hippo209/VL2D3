@@ -1,0 +1,2699 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 21,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 84,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 148,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 212,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 274,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 337,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 401,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 464,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 527,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 590,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 653,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 717,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 779,
+                      "y": -200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 200.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 160,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 80,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 40,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 21,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 84,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 148,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 212,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 274,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 337,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 401,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 464,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 527,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 590,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 653,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 717,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 779,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 21.453287197231834,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "April",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 84.42906574394463,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "July",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 148.0968858131488,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "October",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 211.76470588235296,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2021",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 274.0484429065744,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "April",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 337.0242214532872,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "July",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 400.6920415224913,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "October",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 464.35986159169545,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2022",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 526.643598615917,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "April",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 589.6193771626297,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "July",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 653.2871972318338,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "October",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 716.9550173010381,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2023",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 779.2387543252596,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "April",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Date",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 200.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 160,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 80,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 40,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 200,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 160,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 120,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "200,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 80,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "300,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 39.99999999999999,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "400,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "500,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -48.5927734375,
+                      "y": 100,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Downloads",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "pathgroup",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "area",
+                  "name": "marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 199.29479999999998,
+                      "height": 0.7052000000000191,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2020; Downloads: 1763; Major Release: 0; Num Downloads: 1,763; Major release: 0"
+                    },
+                    {
+                      "x": 21.453287197231834,
+                      "y": 199.7868,
+                      "height": 0.2132000000000005,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2020; Downloads: 533; Major Release: 0; Num Downloads: 533; Major release: 0"
+                    },
+                    {
+                      "x": 42.21453287197232,
+                      "y": 199.056,
+                      "height": 0.9439999999999884,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2020; Downloads: 2360; Major Release: 0; Num Downloads: 2,360; Major release: 0"
+                    },
+                    {
+                      "x": 63.667820069204154,
+                      "y": 197.7268,
+                      "height": 2.2732000000000028,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2020; Downloads: 5683; Major Release: 0; Num Downloads: 5,683; Major release: 0"
+                    },
+                    {
+                      "x": 84.42906574394463,
+                      "y": 194.8092,
+                      "height": 5.190799999999996,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2020; Downloads: 12977; Major Release: 0; Num Downloads: 12,977; Major release: 0"
+                    },
+                    {
+                      "x": 105.88235294117648,
+                      "y": 186.28560000000002,
+                      "height": 13.714399999999983,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2020; Downloads: 34286; Major Release: 0; Num Downloads: 34,286; Major release: 0"
+                    },
+                    {
+                      "x": 127.33564013840831,
+                      "y": 187.036,
+                      "height": 12.963999999999999,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2020; Downloads: 32410; Major Release: 0; Num Downloads: 32,410; Major release: 0"
+                    },
+                    {
+                      "x": 148.0968858131488,
+                      "y": 185.412,
+                      "height": 14.587999999999994,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2020; Downloads: 36470; Major Release: 0; Num Downloads: 36,470; Major release: 0"
+                    },
+                    {
+                      "x": 169.55017301038063,
+                      "y": 183.0792,
+                      "height": 16.920800000000014,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Nov 01, 2020; Downloads: 42302; Major Release: 0; Num Downloads: 42,302; Major release: 0"
+                    },
+                    {
+                      "x": 190.3114186851211,
+                      "y": 182.3984,
+                      "height": 17.60159999999999,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Dec 01, 2020; Downloads: 44004; Major Release: 0; Num Downloads: 44,004; Major release: 0"
+                    },
+                    {
+                      "x": 211.76470588235296,
+                      "y": 181.6684,
+                      "height": 16.821600000000018,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 198.49,
+                      "description": "Date: Jan 01, 2021; Downloads: 42054; Major Release: 0; Num Downloads: 42,054; Major release: 0"
+                    },
+                    {
+                      "x": 233.2179930795848,
+                      "y": 177.156,
+                      "height": 13.187999999999988,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 190.344,
+                      "description": "Date: Feb 01, 2021; Downloads: 32970; Major Release: 0; Num Downloads: 32,970; Major release: 0"
+                    },
+                    {
+                      "x": 252.59515570934258,
+                      "y": 166.86520000000002,
+                      "height": 14.011599999999987,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 180.8768,
+                      "description": "Date: Mar 01, 2021; Downloads: 35029; Major Release: 0; Num Downloads: 35,029; Major release: 0"
+                    },
+                    {
+                      "x": 274.0484429065744,
+                      "y": 173.4088,
+                      "height": 15.08759999999998,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 188.4964,
+                      "description": "Date: Apr 01, 2021; Downloads: 37719; Major Release: 0; Num Downloads: 37,719; Major release: 0"
+                    },
+                    {
+                      "x": 294.80968858131484,
+                      "y": 172.57799999999997,
+                      "height": 14.76920000000004,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 187.34720000000002,
+                      "description": "Date: May 01, 2021; Downloads: 36923; Major Release: 0; Num Downloads: 36,923; Major release: 0"
+                    },
+                    {
+                      "x": 316.2629757785467,
+                      "y": 172.2204,
+                      "height": 13.922799999999995,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 186.1432,
+                      "description": "Date: Jun 01, 2021; Downloads: 34807; Major Release: 0; Num Downloads: 34,807; Major release: 0"
+                    },
+                    {
+                      "x": 337.0242214532872,
+                      "y": 174.9072,
+                      "height": 9.338400000000007,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 184.2456,
+                      "description": "Date: Jul 01, 2021; Downloads: 23346; Major Release: 0; Num Downloads: 23,346; Major release: 0"
+                    },
+                    {
+                      "x": 358.47750865051904,
+                      "y": 166.89880000000002,
+                      "height": 15.29479999999998,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 182.1936,
+                      "description": "Date: Aug 01, 2021; Downloads: 38237; Major Release: 0; Num Downloads: 38,237; Major release: 0"
+                    },
+                    {
+                      "x": 379.93079584775086,
+                      "y": 143.9696,
+                      "height": 11.14439999999999,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 155.114,
+                      "description": "Date: Sep 01, 2021; Downloads: 27861; Major Release: 0; Num Downloads: 27,861; Major release: 0"
+                    },
+                    {
+                      "x": 400.6920415224913,
+                      "y": 98.54119999999999,
+                      "height": 18.43640000000002,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 116.97760000000001,
+                      "description": "Date: Oct 01, 2021; Downloads: 46091; Major Release: 0; Num Downloads: 46,091; Major release: 0"
+                    },
+                    {
+                      "x": 422.1453287197232,
+                      "y": 119.1716,
+                      "height": 18.582799999999978,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 137.75439999999998,
+                      "description": "Date: Nov 01, 2021; Downloads: 46457; Major Release: 0; Num Downloads: 46,457; Major release: 0"
+                    },
+                    {
+                      "x": 442.9065743944637,
+                      "y": 127.34239999999998,
+                      "height": 19.243999999999986,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 146.58639999999997,
+                      "description": "Date: Dec 01, 2021; Downloads: 48110; Major Release: 0; Num Downloads: 48,110; Major release: 0"
+                    },
+                    {
+                      "x": 464.35986159169545,
+                      "y": 127.0108,
+                      "height": 20.1588,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 147.1696,
+                      "description": "Date: Jan 01, 2022; Downloads: 50397; Major Release: 0; Num Downloads: 50,397; Major release: 0"
+                    },
+                    {
+                      "x": 485.8131487889273,
+                      "y": 131.7288,
+                      "height": 16.411200000000008,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 148.14000000000001,
+                      "description": "Date: Feb 01, 2022; Downloads: 41028; Major Release: 0; Num Downloads: 41,028; Major release: 0"
+                    },
+                    {
+                      "x": 505.19031141868516,
+                      "y": 96.8108,
+                      "height": 17.239199999999983,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 114.04999999999998,
+                      "description": "Date: Mar 01, 2022; Downloads: 43098; Major Release: 0; Num Downloads: 43,098; Major release: 0"
+                    },
+                    {
+                      "x": 526.643598615917,
+                      "y": 93.76960000000001,
+                      "height": 16.616799999999984,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 110.3864,
+                      "description": "Date: Apr 01, 2022; Downloads: 41542; Major Release: 0; Num Downloads: 41,542; Major release: 0"
+                    },
+                    {
+                      "x": 547.4048442906575,
+                      "y": 92.8352,
+                      "height": 17.239199999999997,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 110.0744,
+                      "description": "Date: May 01, 2022; Downloads: 43098; Major Release: 0; Num Downloads: 43,098; Major release: 0"
+                    },
+                    {
+                      "x": 568.8581314878893,
+                      "y": 98.5792,
+                      "height": 17.290800000000004,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 115.87,
+                      "description": "Date: Jun 01, 2022; Downloads: 43227; Major Release: 0; Num Downloads: 43,227; Major release: 0"
+                    },
+                    {
+                      "x": 589.6193771626297,
+                      "y": 96.7404,
+                      "height": 15.795600000000022,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 112.53600000000002,
+                      "description": "Date: Jul 01, 2022; Downloads: 39489; Major Release: 0; Num Downloads: 39,489; Major release: 0"
+                    },
+                    {
+                      "x": 611.0726643598616,
+                      "y": 92.9612,
+                      "height": 14.4936,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 107.4548,
+                      "description": "Date: Aug 01, 2022; Downloads: 36234; Major Release: 0; Num Downloads: 36,234; Major release: 0"
+                    },
+                    {
+                      "x": 632.5259515570934,
+                      "y": 103.278,
+                      "height": 15.159199999999998,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 118.4372,
+                      "description": "Date: Sep 01, 2022; Downloads: 37898; Major Release: 0; Num Downloads: 37,898; Major release: 0"
+                    },
+                    {
+                      "x": 653.2871972318338,
+                      "y": 82.99799999999999,
+                      "height": 15.448800000000006,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 98.4468,
+                      "description": "Date: Oct 01, 2022; Downloads: 38622; Major Release: 0; Num Downloads: 38,622; Major release: 0"
+                    },
+                    {
+                      "x": 674.7404844290658,
+                      "y": 90.6056,
+                      "height": 15.234400000000008,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 105.84,
+                      "description": "Date: Nov 01, 2022; Downloads: 38086; Major Release: 0; Num Downloads: 38,086; Major release: 0"
+                    },
+                    {
+                      "x": 695.5017301038063,
+                      "y": 97.9732,
+                      "height": 13.36999999999999,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 111.3432,
+                      "description": "Date: Dec 01, 2022; Downloads: 33425; Major Release: 0; Num Downloads: 33,425; Major release: 0"
+                    },
+                    {
+                      "x": 716.9550173010381,
+                      "y": 75.5948,
+                      "height": 15.173599999999993,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 90.7684,
+                      "description": "Date: Jan 01, 2023; Downloads: 37934; Major Release: 0; Num Downloads: 37,934; Major release: 0"
+                    },
+                    {
+                      "x": 738.4083044982699,
+                      "y": 81.9812,
+                      "height": 16.218400000000003,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 98.1996,
+                      "description": "Date: Feb 01, 2023; Downloads: 40546; Major Release: 0; Num Downloads: 40,546; Major release: 0"
+                    },
+                    {
+                      "x": 757.7854671280277,
+                      "y": 49.5336,
+                      "height": 18.2048,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 67.7384,
+                      "description": "Date: Mar 01, 2023; Downloads: 45512; Major Release: 0; Num Downloads: 45,512; Major release: 0"
+                    },
+                    {
+                      "x": 779.2387543252596,
+                      "y": 12.384400000000007,
+                      "height": 15.867999999999995,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 28.2524,
+                      "description": "Date: Apr 01, 2023; Downloads: 39670; Major Release: 0; Num Downloads: 39,670; Major release: 0"
+                    },
+                    {
+                      "x": 800,
+                      "y": 37.09640000000001,
+                      "height": 16.186799999999984,
+                      "fill": "#4c78a8",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 53.283199999999994,
+                      "description": "Date: May 01, 2023; Downloads: 40467; Major Release: 0; Num Downloads: 40,467; Major release: 0"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 800,
+              "height": 200
+            },
+            {
+              "items": [
+                {
+                  "marktype": "area",
+                  "name": "marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 21.453287197231834,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 42.21453287197232,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 63.667820069204154,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 84.42906574394463,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 105.88235294117648,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 127.33564013840831,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 148.0968858131488,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 169.55017301038063,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Nov 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 190.3114186851211,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Dec 01, 2020; Downloads: 0; Major Release: 1; Num Downloads: 0; Major release: 1"
+                    },
+                    {
+                      "x": 211.76470588235296,
+                      "y": 198.49,
+                      "height": 1.509999999999991,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jan 01, 2021; Downloads: 3775; Major Release: 1; Num Downloads: 3,775; Major release: 1"
+                    },
+                    {
+                      "x": 233.2179930795848,
+                      "y": 190.344,
+                      "height": 9.656000000000006,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Feb 01, 2021; Downloads: 24140; Major Release: 1; Num Downloads: 24,140; Major release: 1"
+                    },
+                    {
+                      "x": 252.59515570934258,
+                      "y": 180.8768,
+                      "height": 19.123199999999997,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2021; Downloads: 47808; Major Release: 1; Num Downloads: 47,808; Major release: 1"
+                    },
+                    {
+                      "x": 274.0484429065744,
+                      "y": 188.4964,
+                      "height": 11.503600000000006,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2021; Downloads: 28759; Major Release: 1; Num Downloads: 28,759; Major release: 1"
+                    },
+                    {
+                      "x": 294.80968858131484,
+                      "y": 187.34720000000002,
+                      "height": 12.652799999999985,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2021; Downloads: 31632; Major Release: 1; Num Downloads: 31,632; Major release: 1"
+                    },
+                    {
+                      "x": 316.2629757785467,
+                      "y": 186.1432,
+                      "height": 13.856799999999993,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2021; Downloads: 34642; Major Release: 1; Num Downloads: 34,642; Major release: 1"
+                    },
+                    {
+                      "x": 337.0242214532872,
+                      "y": 184.2456,
+                      "height": 15.754400000000004,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2021; Downloads: 39386; Major Release: 1; Num Downloads: 39,386; Major release: 1"
+                    },
+                    {
+                      "x": 358.47750865051904,
+                      "y": 182.1936,
+                      "height": 17.806399999999996,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2021; Downloads: 44516; Major Release: 1; Num Downloads: 44,516; Major release: 1"
+                    },
+                    {
+                      "x": 379.93079584775086,
+                      "y": 155.114,
+                      "height": 44.885999999999996,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2021; Downloads: 112215; Major Release: 1; Num Downloads: 112,215; Major release: 1"
+                    },
+                    {
+                      "x": 400.6920415224913,
+                      "y": 116.97760000000001,
+                      "height": 83.02239999999999,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2021; Downloads: 207556; Major Release: 1; Num Downloads: 207,556; Major release: 1"
+                    },
+                    {
+                      "x": 422.1453287197232,
+                      "y": 137.75439999999998,
+                      "height": 18.19440000000003,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 155.9488,
+                      "description": "Date: Nov 01, 2021; Downloads: 45486; Major Release: 1; Num Downloads: 45,486; Major release: 1"
+                    },
+                    {
+                      "x": 442.9065743944637,
+                      "y": 146.58639999999997,
+                      "height": 2.8532000000000437,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 149.4396,
+                      "description": "Date: Dec 01, 2021; Downloads: 7133; Major Release: 1; Num Downloads: 7,133; Major release: 1"
+                    },
+                    {
+                      "x": 464.35986159169545,
+                      "y": 147.1696,
+                      "height": 3.323599999999999,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 150.4932,
+                      "description": "Date: Jan 01, 2022; Downloads: 8309; Major Release: 1; Num Downloads: 8,309; Major release: 1"
+                    },
+                    {
+                      "x": 485.8131487889273,
+                      "y": 148.14000000000001,
+                      "height": 2.7843999999999767,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 150.9244,
+                      "description": "Date: Feb 01, 2022; Downloads: 6961; Major Release: 1; Num Downloads: 6,961; Major release: 1"
+                    },
+                    {
+                      "x": 505.19031141868516,
+                      "y": 114.04999999999998,
+                      "height": 3.307200000000023,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 117.3572,
+                      "description": "Date: Mar 01, 2022; Downloads: 8268; Major Release: 1; Num Downloads: 8,268; Major release: 1"
+                    },
+                    {
+                      "x": 526.643598615917,
+                      "y": 110.3864,
+                      "height": 2.877599999999987,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 113.26399999999998,
+                      "description": "Date: Apr 01, 2022; Downloads: 7194; Major Release: 1; Num Downloads: 7,194; Major release: 1"
+                    },
+                    {
+                      "x": 547.4048442906575,
+                      "y": 110.0744,
+                      "height": 2.4579999999999984,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 112.5324,
+                      "description": "Date: May 01, 2022; Downloads: 6145; Major Release: 1; Num Downloads: 6,145; Major release: 1"
+                    },
+                    {
+                      "x": 568.8581314878893,
+                      "y": 115.87,
+                      "height": 1.9984000000000037,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 117.86840000000001,
+                      "description": "Date: Jun 01, 2022; Downloads: 4996; Major Release: 1; Num Downloads: 4,996; Major release: 1"
+                    },
+                    {
+                      "x": 589.6193771626297,
+                      "y": 112.53600000000002,
+                      "height": 1.2075999999999993,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 113.74360000000001,
+                      "description": "Date: Jul 01, 2022; Downloads: 3019; Major Release: 1; Num Downloads: 3,019; Major release: 1"
+                    },
+                    {
+                      "x": 611.0726643598616,
+                      "y": 107.4548,
+                      "height": 1.1659999999999968,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 108.6208,
+                      "description": "Date: Aug 01, 2022; Downloads: 2915; Major Release: 1; Num Downloads: 2,915; Major release: 1"
+                    },
+                    {
+                      "x": 632.5259515570934,
+                      "y": 118.4372,
+                      "height": 1.2012000000000143,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 119.63840000000002,
+                      "description": "Date: Sep 01, 2022; Downloads: 3003; Major Release: 1; Num Downloads: 3,003; Major release: 1"
+                    },
+                    {
+                      "x": 653.2871972318338,
+                      "y": 98.4468,
+                      "height": 1.259600000000006,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 99.7064,
+                      "description": "Date: Oct 01, 2022; Downloads: 3149; Major Release: 1; Num Downloads: 3,149; Major release: 1"
+                    },
+                    {
+                      "x": 674.7404844290658,
+                      "y": 105.84,
+                      "height": 1.1136000000000053,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 106.95360000000001,
+                      "description": "Date: Nov 01, 2022; Downloads: 2784; Major Release: 1; Num Downloads: 2,784; Major release: 1"
+                    },
+                    {
+                      "x": 695.5017301038063,
+                      "y": 111.3432,
+                      "height": 1.2439999999999998,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 112.5872,
+                      "description": "Date: Dec 01, 2022; Downloads: 3110; Major Release: 1; Num Downloads: 3,110; Major release: 1"
+                    },
+                    {
+                      "x": 716.9550173010381,
+                      "y": 90.7684,
+                      "height": 0.9416000000000082,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 91.71000000000001,
+                      "description": "Date: Jan 01, 2023; Downloads: 2354; Major Release: 1; Num Downloads: 2,354; Major release: 1"
+                    },
+                    {
+                      "x": 738.4083044982699,
+                      "y": 98.1996,
+                      "height": 0.9823999999999842,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 99.18199999999999,
+                      "description": "Date: Feb 01, 2023; Downloads: 2456; Major Release: 1; Num Downloads: 2,456; Major release: 1"
+                    },
+                    {
+                      "x": 757.7854671280277,
+                      "y": 67.7384,
+                      "height": 1.2172000000000054,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 68.9556,
+                      "description": "Date: Mar 01, 2023; Downloads: 3043; Major Release: 1; Num Downloads: 3,043; Major release: 1"
+                    },
+                    {
+                      "x": 779.2387543252596,
+                      "y": 28.2524,
+                      "height": 0.7327999999999975,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 28.9852,
+                      "description": "Date: Apr 01, 2023; Downloads: 1832; Major Release: 1; Num Downloads: 1,832; Major release: 1"
+                    },
+                    {
+                      "x": 800,
+                      "y": 53.283199999999994,
+                      "height": 1.3392000000000124,
+                      "fill": "#f58518",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 54.622400000000006,
+                      "description": "Date: May 01, 2023; Downloads: 3348; Major Release: 1; Num Downloads: 3,348; Major release: 1"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 800,
+              "height": 200
+            },
+            {
+              "items": [
+                {
+                  "marktype": "area",
+                  "name": "marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 21.453287197231834,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 42.21453287197232,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 63.667820069204154,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 84.42906574394463,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 105.88235294117648,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 127.33564013840831,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 148.0968858131488,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 169.55017301038063,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Nov 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 190.3114186851211,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Dec 01, 2020; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 211.76470588235296,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jan 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 233.2179930795848,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Feb 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 252.59515570934258,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 274.0484429065744,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 294.80968858131484,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 316.2629757785467,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 337.0242214532872,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 358.47750865051904,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 379.93079584775086,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 400.6920415224913,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2021; Downloads: 0; Major Release: 2; Num Downloads: 0; Major release: 2"
+                    },
+                    {
+                      "x": 422.1453287197232,
+                      "y": 155.9488,
+                      "height": 44.051199999999994,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Nov 01, 2021; Downloads: 110128; Major Release: 2; Num Downloads: 110,128; Major release: 2"
+                    },
+                    {
+                      "x": 442.9065743944637,
+                      "y": 149.4396,
+                      "height": 50.56039999999999,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Dec 01, 2021; Downloads: 126401; Major Release: 2; Num Downloads: 126,401; Major release: 2"
+                    },
+                    {
+                      "x": 464.35986159169545,
+                      "y": 150.4932,
+                      "height": 49.5068,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jan 01, 2022; Downloads: 123767; Major Release: 2; Num Downloads: 123,767; Major release: 2"
+                    },
+                    {
+                      "x": 485.8131487889273,
+                      "y": 150.9244,
+                      "height": 49.07560000000001,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Feb 01, 2022; Downloads: 122689; Major Release: 2; Num Downloads: 122,689; Major release: 2"
+                    },
+                    {
+                      "x": 505.19031141868516,
+                      "y": 117.3572,
+                      "height": 82.2704,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 199.6276,
+                      "description": "Date: Mar 01, 2022; Downloads: 205676; Major Release: 2; Num Downloads: 205,676; Major release: 2"
+                    },
+                    {
+                      "x": 526.643598615917,
+                      "y": 113.26399999999998,
+                      "height": 85.68280000000001,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 198.9468,
+                      "description": "Date: Apr 01, 2022; Downloads: 214207; Major Release: 2; Num Downloads: 214,207; Major release: 2"
+                    },
+                    {
+                      "x": 547.4048442906575,
+                      "y": 112.5324,
+                      "height": 86.55880000000002,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 199.09120000000001,
+                      "description": "Date: May 01, 2022; Downloads: 216397; Major Release: 2; Num Downloads: 216,397; Major release: 2"
+                    },
+                    {
+                      "x": 568.8581314878893,
+                      "y": 117.86840000000001,
+                      "height": 80.708,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 198.5764,
+                      "description": "Date: Jun 01, 2022; Downloads: 201770; Major Release: 2; Num Downloads: 201,770; Major release: 2"
+                    },
+                    {
+                      "x": 589.6193771626297,
+                      "y": 113.74360000000001,
+                      "height": 41.27719999999999,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 155.0208,
+                      "description": "Date: Jul 01, 2022; Downloads: 103193; Major Release: 2; Num Downloads: 103,193; Major release: 2"
+                    },
+                    {
+                      "x": 611.0726643598616,
+                      "y": 108.6208,
+                      "height": 17.49239999999999,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 126.11319999999999,
+                      "description": "Date: Aug 01, 2022; Downloads: 43731; Major Release: 2; Num Downloads: 43,731; Major release: 2"
+                    },
+                    {
+                      "x": 632.5259515570934,
+                      "y": 119.63840000000002,
+                      "height": 12.131199999999978,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 131.7696,
+                      "description": "Date: Sep 01, 2022; Downloads: 30328; Major Release: 2; Num Downloads: 30,328; Major release: 2"
+                    },
+                    {
+                      "x": 653.2871972318338,
+                      "y": 99.7064,
+                      "height": 18.746799999999993,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 118.4532,
+                      "description": "Date: Oct 01, 2022; Downloads: 46867; Major Release: 2; Num Downloads: 46,867; Major release: 2"
+                    },
+                    {
+                      "x": 674.7404844290658,
+                      "y": 106.95360000000001,
+                      "height": 14.543199999999999,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 121.49680000000001,
+                      "description": "Date: Nov 01, 2022; Downloads: 36358; Major Release: 2; Num Downloads: 36,358; Major release: 2"
+                    },
+                    {
+                      "x": 695.5017301038063,
+                      "y": 112.5872,
+                      "height": 5.348399999999984,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 117.93559999999998,
+                      "description": "Date: Dec 01, 2022; Downloads: 13371; Major Release: 2; Num Downloads: 13,371; Major release: 2"
+                    },
+                    {
+                      "x": 716.9550173010381,
+                      "y": 91.71000000000001,
+                      "height": 11.009599999999992,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 102.7196,
+                      "description": "Date: Jan 01, 2023; Downloads: 27524; Major Release: 2; Num Downloads: 27,524; Major release: 2"
+                    },
+                    {
+                      "x": 738.4083044982699,
+                      "y": 99.18199999999999,
+                      "height": 9.454400000000021,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 108.63640000000001,
+                      "description": "Date: Feb 01, 2023; Downloads: 23636; Major Release: 2; Num Downloads: 23,636; Major release: 2"
+                    },
+                    {
+                      "x": 757.7854671280277,
+                      "y": 68.9556,
+                      "height": 4.538399999999996,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 73.494,
+                      "description": "Date: Mar 01, 2023; Downloads: 11346; Major Release: 2; Num Downloads: 11,346; Major release: 2"
+                    },
+                    {
+                      "x": 779.2387543252596,
+                      "y": 28.9852,
+                      "height": 5.741199999999999,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 34.7264,
+                      "description": "Date: Apr 01, 2023; Downloads: 14353; Major Release: 2; Num Downloads: 14,353; Major release: 2"
+                    },
+                    {
+                      "x": 800,
+                      "y": 54.622400000000006,
+                      "height": 5.903999999999996,
+                      "fill": "#e45756",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 60.5264,
+                      "description": "Date: May 01, 2023; Downloads: 14760; Major Release: 2; Num Downloads: 14,760; Major release: 2"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 800,
+              "height": 200
+            },
+            {
+              "items": [
+                {
+                  "marktype": "area",
+                  "name": "marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 21.453287197231834,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 42.21453287197232,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 63.667820069204154,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 84.42906574394463,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 105.88235294117648,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 127.33564013840831,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 148.0968858131488,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 169.55017301038063,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Nov 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 190.3114186851211,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Dec 01, 2020; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 211.76470588235296,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jan 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 233.2179930795848,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Feb 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 252.59515570934258,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 274.0484429065744,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 294.80968858131484,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 316.2629757785467,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 337.0242214532872,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 358.47750865051904,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 379.93079584775086,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 400.6920415224913,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 422.1453287197232,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Nov 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 442.9065743944637,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Dec 01, 2021; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 464.35986159169545,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jan 01, 2022; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 485.8131487889273,
+                      "y": 200,
+                      "height": 0,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Feb 01, 2022; Downloads: 0; Major Release: 3; Num Downloads: 0; Major release: 3"
+                    },
+                    {
+                      "x": 505.19031141868516,
+                      "y": 199.6276,
+                      "height": 0.37239999999999895,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2022; Downloads: 931; Major Release: 3; Num Downloads: 931; Major release: 3"
+                    },
+                    {
+                      "x": 526.643598615917,
+                      "y": 198.9468,
+                      "height": 1.053200000000004,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2022; Downloads: 2633; Major Release: 3; Num Downloads: 2,633; Major release: 3"
+                    },
+                    {
+                      "x": 547.4048442906575,
+                      "y": 199.09120000000001,
+                      "height": 0.9087999999999852,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2022; Downloads: 2272; Major Release: 3; Num Downloads: 2,272; Major release: 3"
+                    },
+                    {
+                      "x": 568.8581314878893,
+                      "y": 198.5764,
+                      "height": 1.4235999999999933,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jun 01, 2022; Downloads: 3559; Major Release: 3; Num Downloads: 3,559; Major release: 3"
+                    },
+                    {
+                      "x": 589.6193771626297,
+                      "y": 155.0208,
+                      "height": 44.97919999999999,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jul 01, 2022; Downloads: 112448; Major Release: 3; Num Downloads: 112,448; Major release: 3"
+                    },
+                    {
+                      "x": 611.0726643598616,
+                      "y": 126.11319999999999,
+                      "height": 73.88680000000001,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Aug 01, 2022; Downloads: 184717; Major Release: 3; Num Downloads: 184,717; Major release: 3"
+                    },
+                    {
+                      "x": 632.5259515570934,
+                      "y": 131.7696,
+                      "height": 68.2304,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Sep 01, 2022; Downloads: 170576; Major Release: 3; Num Downloads: 170,576; Major release: 3"
+                    },
+                    {
+                      "x": 653.2871972318338,
+                      "y": 118.4532,
+                      "height": 81.5468,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Oct 01, 2022; Downloads: 203867; Major Release: 3; Num Downloads: 203,867; Major release: 3"
+                    },
+                    {
+                      "x": 674.7404844290658,
+                      "y": 121.49680000000001,
+                      "height": 78.50319999999999,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Nov 01, 2022; Downloads: 196258; Major Release: 3; Num Downloads: 196,258; Major release: 3"
+                    },
+                    {
+                      "x": 695.5017301038063,
+                      "y": 117.93559999999998,
+                      "height": 82.06440000000002,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Dec 01, 2022; Downloads: 205161; Major Release: 3; Num Downloads: 205,161; Major release: 3"
+                    },
+                    {
+                      "x": 716.9550173010381,
+                      "y": 102.7196,
+                      "height": 97.2804,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Jan 01, 2023; Downloads: 243201; Major Release: 3; Num Downloads: 243,201; Major release: 3"
+                    },
+                    {
+                      "x": 738.4083044982699,
+                      "y": 108.63640000000001,
+                      "height": 91.36359999999999,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Feb 01, 2023; Downloads: 228409; Major Release: 3; Num Downloads: 228,409; Major release: 3"
+                    },
+                    {
+                      "x": 757.7854671280277,
+                      "y": 73.494,
+                      "height": 126.506,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Mar 01, 2023; Downloads: 316265; Major Release: 3; Num Downloads: 316,265; Major release: 3"
+                    },
+                    {
+                      "x": 779.2387543252596,
+                      "y": 34.7264,
+                      "height": 165.2736,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: Apr 01, 2023; Downloads: 413184; Major Release: 3; Num Downloads: 413,184; Major release: 3"
+                    },
+                    {
+                      "x": 800,
+                      "y": 60.5264,
+                      "height": 139.4736,
+                      "fill": "#72b7b2",
+                      "orient": "vertical",
+                      "defined": true,
+                      "y2": 200,
+                      "description": "Date: May 01, 2023; Downloads: 348684; Major Release: 3; Num Downloads: 348,684; Major release: 3"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 800,
+              "height": 200
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "0",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 21.8642578125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f58518",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "1",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 21.8642578125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#e45756",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "2",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 21.8642578125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#72b7b2",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "3",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 39,
+                              "width": 21.8642578125,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Major Release",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 818,
+              "y": 0,
+              "width": 78,
+              "height": 66,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Monthly downloads by Major Release",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 400,
+              "y": -22,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 200,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

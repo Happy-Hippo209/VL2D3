@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "mode": "vega-lite", "description": "A population pyramid for the US in 2000, created using stack. See https://vega.github.io/vega-lite/examples/concat_population_pyramid.html for a variant of this created using concat.", "data": {"url": "https://vega.github.io/editor/data/population.json"}, "transform": [{"filter": "datum.year == 2000"}, {"calculate": "datum.sex == 2 ? 'Female' : 'Male'", "as": "gender"}, {"calculate": "datum.sex == 2 ? -datum.people : datum.people", "as": "signed_people"}], "width": 500, "height": 400, "layer": [{"mark": {"type": "bar"}, "encoding": {"opacity": {"value": 1}, "y": {"field": "age", "type": "ordinal", "axis": null, "sort": "descending"}, "x": {"aggregate": "sum", "field": "signed_people", "type": "quantitative", "axis": {"title": "population", "format": "s"}}, "color": {"field": "gender", "type": "nominal", "scale": {"range": ["#675193", "#ca8861"]}, "legend": {"orient": "top", "title": null}}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

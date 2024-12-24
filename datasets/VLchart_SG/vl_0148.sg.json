@@ -1,0 +1,923 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [
+            {
+              "fill": "transparent",
+              "stroke": "lightgray",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [],
+          "zindex": 0
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [
+            {
+              "fill": "rgb(28, 49, 133)",
+              "description": "population: 8416535; name: London",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(119, 202, 188)",
+              "description": "population: 3090508; name: \u0391\u03b8\u03ae\u03bd\u03b1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(233, 246, 186)",
+              "description": "population: 272000; name: Ljubljana",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(224, 243, 182)",
+              "description": "population: 613288; name: K\u00f8benhavn",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(179, 225, 182)",
+              "description": "population: 1897481; name: Wien",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(164, 219, 183)",
+              "description": "population: 2187526; name: Paris",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(236, 248, 188)",
+              "description": "population: 128848; name: Bern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(212, 238, 180)",
+              "description": "population: 1036059; name: Oslo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(112, 200, 189)",
+              "description": "population: 3233527; name: Madrid",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(65, 177, 194)",
+              "description": "population: 4338620; name: Ankara",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 241, 180)",
+              "description": "population: 829417; name: Stockholm",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(128, 206, 187)",
+              "description": "population: 2909697; name: \u041a\u0438\u0457\u0432",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(173, 223, 183)",
+              "description": "population: 2020600; name: \u041c\u0438\u043d\u0441\u043a",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(222, 242, 182)",
+              "description": "population: 698529; name: R\u012bga",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(227, 244, 183)",
+              "description": "population: 526356; name: Vilnius",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(222, 242, 181)",
+              "description": "population: 728453; name: \u062a\u0648\u0646\u0633",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 249, 189)",
+              "description": "population: 12620; name: T\u00f3rshavn",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(228, 245, 184)",
+              "description": "population: 444563; name: Tallinn",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(236, 248, 188)",
+              "description": "population: 122273; name: Luxembourg",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 249, 189)",
+              "description": "population: 24678; name: Andorra la Vella",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(207, 236, 180)",
+              "description": "population: 1166763; name: \u0411\u0435\u043e\u0433\u0440\u0430\u0434",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(131, 207, 187)",
+              "description": "population: 2864731; name: Roma",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(185, 228, 181)",
+              "description": "population: 1759407; name: Budapest",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(179, 225, 182)",
+              "description": "population: 1883425; name: Bucure\u0219ti",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 249, 189)",
+              "description": "population: 18207; name: St Peter Port",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(235, 248, 187)",
+              "description": "population: 150799; name: Podgorica",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(221, 242, 181)",
+              "description": "population: 750000; name: Chi\u0219in\u0103u",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(223, 243, 182)",
+              "description": "population: 668500; name: \u0421\u043a\u043e\u043f\u0458\u0435",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(95, 192, 191)",
+              "description": "population: 3600000; name: Berlin",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(226, 244, 183)",
+              "description": "population: 552700; name: Lisboa",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 249, 189)",
+              "description": "population: 32577; name: Gibraltar",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 241, 180)",
+              "description": "population: 841282; name: Amsterdam",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 249, 189)",
+              "description": "population: 4211; name: Citt\u00e0 di San Marino",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(190, 229, 181)",
+              "description": "population: 1650000; name: Rabat \u2d54\u2d31\u2d30\u2d5f \u0627\u0644\u0631\u0628\u0627\u0637",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(103, 196, 190)",
+              "description": "population: 3415811; name: Alger \u2d37\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 249, 189)",
+              "description": "population: 824; name: Citt\u00e0 del Vaticano",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(186, 228, 181)",
+              "description": "population: 1744351; name: Warszawa",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(229, 245, 184)",
+              "description": "population: 432801; name: Bratislava",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(223, 243, 182)",
+              "description": "population: 657291; name: Helsinki",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 249, 189)",
+              "description": "population: 5721; name: Valletta",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(223, 242, 182)",
+              "description": "population: 688163; name: Zagreb",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(202, 234, 181)",
+              "description": "population: 1324277; name: Praha",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(235, 248, 187)",
+              "description": "population: 153377; name: Bruxelles - Brussel",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(203, 235, 181)",
+              "description": "population: 1286383; name: \u0421\u043e\u0444\u0438\u044f",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 249, 189)",
+              "description": "population: 36371; name: Monaco",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(226, 244, 183)",
+              "description": "population: 557422; name: Tiran\u00eb",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(232, 246, 186)",
+              "description": "population: 310355; name: \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 249, 189)",
+              "description": "population: 5229; name: Vaduz",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(233, 246, 186)",
+              "description": "population: 271194; name: Sarajevo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(236, 248, 188)",
+              "description": "population: 127333; name: Reykjav\u00edk",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 249, 189)",
+              "description": "population: 27938; name: Douglas",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 249, 189)",
+              "description": "population: 32522; name: St. Helier",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(236, 248, 187)",
+              "description": "population: 145149; name: Prishtin\u00eb",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(226, 244, 183)",
+              "description": "population: 554554; name: Dublin",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_3_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [
+            {
+              "x": 162.12495947080808,
+              "y": 189.88487610927987,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "London",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: \u22120.1276474; latitude: 51.5073219; name:en: London; name: London; population: 8416535"
+            },
+            {
+              "x": 330.6118193872788,
+              "y": 339.1760537626464,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Athens",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 23.7283052; latitude: 37.9839412; name:en: Athens; name: \u0391\u03b8\u03ae\u03bd\u03b1; population: 3090508"
+            },
+            {
+              "x": 237.61913132622897,
+              "y": 165.53795718905323,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Copenhagen",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 12.5700724; latitude: 55.6867243; name:en: Copenhagen; name: K\u00f8benhavn; population: 613288"
+            },
+            {
+              "x": 259.1524846843855,
+              "y": 236.79320223395592,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Vienna",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 16.3725042; latitude: 48.2083537; name:en: Vienna; name: Wien; population: 1897481"
+            },
+            {
+              "x": 168.89667389913402,
+              "y": 218.8057295578191,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Paris",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 2.3514616; latitude: 48.8566969; name:en: Paris; name: Paris; population: 2187526"
+            },
+            {
+              "x": 231.6527574953304,
+              "y": 127.78207047143333,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Oslo",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 10.7389701; latitude: 59.9133301; name:en: Oslo; name: Oslo; population: 1036059"
+            },
+            {
+              "x": 95.65587784380523,
+              "y": 284.2098390629963,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Madrid",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: \u22123.7035825; latitude: 40.4167047; name:en: Madrid; name: Madrid; population: 3233527"
+            },
+            {
+              "x": 400.22372642087345,
+              "y": 292.2395027288922,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Ankara",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 32.8540093; latitude: 39.9207486; name:en: Ankara; name: Ankara; population: 4338620"
+            },
+            {
+              "x": 263.5569601201488,
+              "y": 133.23608271451485,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Stockholm",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 18.0710935; latitude: 59.3251172; name:en: Stockholm; name: Stockholm; population: 829417"
+            },
+            {
+              "x": 343.44872825213577,
+              "y": 198.5553895479602,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Kyiv",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 30.5241361; latitude: 50.4500336; name:en: Kyiv; name: \u041a\u0438\u0457\u0432; population: 2909697"
+            },
+            {
+              "x": 317.4366086382393,
+              "y": 172.94426397062833,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Minsk",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 27.5618791; latitude: 53.902334; name:en: Minsk; name: \u041c\u0438\u043d\u0441\u043a; population: 2020600"
+            },
+            {
+              "x": 293.88980356279177,
+              "y": 150.2840420095751,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Riga",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 24.1051846; latitude: 56.9493977; name:en: Riga; name: R\u012bga; population: 698529"
+            },
+            {
+              "x": 303.89373619997457,
+              "y": 168.96022560773574,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Vilnius",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 25.2829111; latitude: 54.6870458; name:en: Vilnius; name: Vilnius; population: 526356"
+            },
+            {
+              "x": 203.49127274217938,
+              "y": 359.35938564356763,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Tunis",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 10.1857757; latitude: 36.8002068; name:en: Tunis; name: \u062a\u0648\u0646\u0633; population: 728453"
+            },
+            {
+              "x": 292.51164848019306,
+              "y": 128.38051323895465,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Tallinn",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 24.7453688; latitude: 59.4372155; name:en: Tallinn; name: Tallinn; population: 444563"
+            },
+            {
+              "x": 290.65677581845983,
+              "y": 269.14109736429714,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Belgrade",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 20.4568974; latitude: 44.8178131; name:en: Belgrade; name: \u0411\u0435\u043e\u0433\u0440\u0430\u0434; population: 1166763"
+            },
+            {
+              "x": 229.30069532153402,
+              "y": 302.688514303289,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Rome",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 12.4829321; latitude: 41.8933203; name:en: Rome; name: Roma; population: 2864731"
+            },
+            {
+              "x": 277.55998329972823,
+              "y": 242.80059470650147,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Budapest",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 19.0404707; latitude: 47.4983815; name:en: Budapest; name: Budapest; population: 1759407"
+            },
+            {
+              "x": 332.8479592374299,
+              "y": 264.9019375951945,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Bucharest",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 26.1027202; latitude: 44.4361414; name:en: Bucharest; name: Bucure\u0219ti; population: 1883425"
+            },
+            {
+              "x": 344.02518131847285,
+              "y": 233.83954331937798,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Chi\u0219in\u0103u",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 28.8322923; latitude: 47.0245117; name:en: Chi\u0219in\u0103u; name: Chi\u0219in\u0103u; population: 750000"
+            },
+            {
+              "x": 302.4822389161266,
+              "y": 298.10049852223824,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Skopje",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 21.4316495; latitude: 41.9960924; name:en: Skopje; name: \u0421\u043a\u043e\u043f\u0458\u0435; population: 668500"
+            },
+            {
+              "x": 240.7659152675733,
+              "y": 194.94851681990167,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Berlin",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 13.3888599; latitude: 52.5170365; name:en: Berlin; name: Berlin; population: 3600000"
+            },
+            {
+              "x": 46.24695638853703,
+              "y": 277.53627769122266,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Lisbon",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: \u22129.1365919; latitude: 38.7077507; name:en: Lisbon; name: Lisboa; population: 552700"
+            },
+            {
+              "x": 192.3461258457176,
+              "y": 190.04618606767804,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Amsterdam",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 4.8936041; latitude: 52.3727598; name:en: Amsterdam; name: Amsterdam; population: 841282"
+            },
+            {
+              "x": 34.77746201167787,
+              "y": 334.66241065859225,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Rabat",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: \u22126.834543; latitude: 34.022405; name:en: Rabat; name: Rabat \u2d54\u2d31\u2d30\u2d5f \u0627\u0644\u0631\u0628\u0627\u0637; population: 1650000"
+            },
+            {
+              "x": 136.50951291905545,
+              "y": 345.210012256819,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Algiers",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 3.0601882; latitude: 36.7753606; name:en: Algiers; name: Alger \u2d37\u2d63\u2d30\u2d62\u2d3b\u2d54 \u0627\u0644\u062c\u0632\u0627\u0626\u0631; population: 3415811"
+            },
+            {
+              "x": 284.6666316642986,
+              "y": 195.5065010117207,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Warsaw",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 21.0067249; latitude: 52.2319581; name:en: Warsaw; name: Warszawa; population: 1744351"
+            },
+            {
+              "x": 264.0891644520461,
+              "y": 237.16450563995207,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Bratislava",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 17.1093063; latitude: 48.1516988; name:en: Bratislava; name: Bratislava; population: 432801"
+            },
+            {
+              "x": 292.0767262026808,
+              "y": 122.07165617379144,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Helsinki",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 24.9427473; latitude: 60.1674881; name:en: Helsinki; name: Helsinki; population: 657291"
+            },
+            {
+              "x": 257.0670438835941,
+              "y": 261.2629792150012,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Zagreb",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 15.9771774; latitude: 45.8131847; name:en: Zagreb; name: Zagreb; population: 688163"
+            },
+            {
+              "x": 246.38301285125615,
+              "y": 218.36038228757744,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Prague",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 14.4212535; latitude: 50.0874654; name:en: Prague; name: Praha; population: 1324277"
+            },
+            {
+              "x": 316.14999207368896,
+              "y": 287.8659376438424,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Sofia",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 23.3221789; latitude: 42.6978634; name:en: Sofia; name: \u0421\u043e\u0444\u0438\u044f; population: 1286383"
+            },
+            {
+              "x": 290.2751903029803,
+              "y": 307.24956255678836,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Tirana",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 19.8187913; latitude: 41.3268733; name:en: Tirana; name: Tiran\u00eb; population: 557422"
+            },
+            {
+              "x": 428.3927710030507,
+              "y": 339.53791899035457,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Nicosia",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: 33.364726; latitude: 35.1739302; name:en: Nicosia; name: \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1; population: 310355"
+            },
+            {
+              "x": 136.7814147716573,
+              "y": 160.79380977209442,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Dublin",
+              "dy": 10,
+              "font": "Ubuntu",
+              "fontSize": 12,
+              "description": "longitude: \u22126.2602732; latitude: 53.3497645; name:en: Dublin; name: Dublin; population: 554554"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {
+                                "x2": 0,
+                                "y2": 0
+                              },
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 152.48943315662814,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "2,000,000",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 104.9592838917591,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "4,000,000",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 57.42913462689012,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "6,000,000",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 9.898985362021095,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "8,000,000",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "population",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 518,
+              "y": 0,
+              "width": 64,
+              "height": 216,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "European (major) Capitals",
+                      "angle": 0,
+                      "font": "Fira Sans",
+                      "fontSize": 16,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": -20,
+              "align": "left",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 400,
+      "fill": "transparent"
+    }
+  ],
+  "zindex": 0
+}

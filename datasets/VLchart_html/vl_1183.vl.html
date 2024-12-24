@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Stock prices of 5 Tech Companies over Time.", "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/series-060123.csv"}, "title": {"text": "CPI Inflation Rate (2015-2022)", "subtitle": ["Source: ONS"], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start"}, "transform": [{"filter": {"timeUnit": "year", "field": "Date", "gte": "2010"}}], "height": 300, "width": 300, "mark": "line", "encoding": {"x": {"field": "Date", "type": "temporal", "axis": {"grid": false}, "title": null}, "y": {"field": "Rate", "type": "quantitative", "scale": {"zero": false}, "title": null}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,2292 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -10,
+                      "y": 5.000000000000004,
+                      "width": 10,
+                      "height": 320.55555555555554,
+                      "fill": "#4c78a8",
+                      "y2": 325.55555555555554,
+                      "description": "s: 314; s_end: 891; Sex: male",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": -10,
+                      "y": 325.55555555555554,
+                      "width": 10,
+                      "height": 174.44444444444446,
+                      "fill": "#bab0ac",
+                      "y2": 500,
+                      "description": "s: 0; s_end: 314; Sex: female",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_layer_1_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 200,
+                      "y": 195,
+                      "width": 10,
+                      "height": 305,
+                      "fill": "#eeca3b",
+                      "y2": 500,
+                      "description": "s: 0; s_end: 549; Survived: Died",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 200,
+                      "y": 5.000000000000004,
+                      "width": 10,
+                      "height": 190,
+                      "fill": "#9d755d",
+                      "y2": 195,
+                      "description": "s: 549; s_end: 891; Survived: Survived",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "name": "concat_0_layer_2_pathgroup",
+                  "role": "scope",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_0_layer_2_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 325.55555555555554,
+                              "height": -260,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 65.55555555555553,
+                              "description": "x: 0; y: 314; y2: 782; g: male and Died"
+                            },
+                            {
+                              "x": 20,
+                              "y": 325.55555555555554,
+                              "height": -260,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 65.55555555555553,
+                              "description": "x: 0.1; y: 314; y2: 782; g: male and Died"
+                            },
+                            {
+                              "x": 180,
+                              "y": 455,
+                              "height": -260,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 195,
+                              "description": "x: 0.9; y: 81; y2: 549; g: male and Died"
+                            },
+                            {
+                              "x": 200,
+                              "y": 455,
+                              "height": -260,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 195,
+                              "description": "x: 1; y: 81; y2: 549; g: male and Died"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_0_layer_2_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 455,
+                              "height": -129.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 325.55555555555554,
+                              "description": "x: 0; y: 81; y2: 314; g: female and Survived"
+                            },
+                            {
+                              "x": 20,
+                              "y": 455,
+                              "height": -129.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 325.55555555555554,
+                              "description": "x: 0.1; y: 81; y2: 314; g: female and Survived"
+                            },
+                            {
+                              "x": 180,
+                              "y": 195,
+                              "height": -129.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 65.55555555555553,
+                              "description": "x: 0.9; y: 549; y2: 782; g: female and Survived"
+                            },
+                            {
+                              "x": 200,
+                              "y": 195,
+                              "height": -129.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 65.55555555555553,
+                              "description": "x: 1; y: 549; y2: 782; g: female and Survived"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_0_layer_2_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 500,
+                              "height": -45,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455,
+                              "description": "x: 0; y: 0; y2: 81; g: female and Died"
+                            },
+                            {
+                              "x": 20,
+                              "y": 500,
+                              "height": -45,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455,
+                              "description": "x: 0.1; y: 0; y2: 81; g: female and Died"
+                            },
+                            {
+                              "x": 180,
+                              "y": 500,
+                              "height": -45,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455,
+                              "description": "x: 0.9; y: 0; y2: 81; g: female and Died"
+                            },
+                            {
+                              "x": 200,
+                              "y": 500,
+                              "height": -45,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455,
+                              "description": "x: 1; y: 0; y2: 81; g: female and Died"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_0_layer_2_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 65.55555555555553,
+                              "height": -60.55555555555552,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0; y: 782; y2: 891; g: male and Survived"
+                            },
+                            {
+                              "x": 20,
+                              "y": 65.55555555555553,
+                              "height": -60.55555555555552,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0.1; y: 782; y2: 891; g: male and Survived"
+                            },
+                            {
+                              "x": 180,
+                              "y": 65.55555555555553,
+                              "height": -60.55555555555552,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0.9; y: 782; y2: 891; g: male and Survived"
+                            },
+                            {
+                              "x": 200,
+                              "y": 65.55555555555553,
+                              "height": -60.55555555555552,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 1; y: 782; y2: 891; g: male and Survived"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 200,
+              "height": 500,
+              "fill": "transparent",
+              "stroke": null
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 200,
+                      "y": 5.000000000000004,
+                      "width": 10,
+                      "height": 272.77777777777777,
+                      "fill": "#54a24b",
+                      "y2": 277.77777777777777,
+                      "description": "s: 400; s_end: 891; Pclass: Class 3",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 200,
+                      "y": 380,
+                      "width": 10,
+                      "height": 120,
+                      "fill": "#e45756",
+                      "y2": 500,
+                      "description": "s: 0; s_end: 216; Pclass: Class 1",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 200,
+                      "y": 277.77777777777777,
+                      "width": 10,
+                      "height": 102.22222222222223,
+                      "fill": "#72b7b2",
+                      "y2": 380,
+                      "description": "s: 216; s_end: 400; Pclass: Class 2",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "name": "concat_1_layer_1_pathgroup",
+                  "role": "scope",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_1_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 401.6666666666667,
+                              "height": -206.66666666666669,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 195,
+                              "description": "x: 0; y: 177; y2: 549; g: Died and Class 3"
+                            },
+                            {
+                              "x": 20,
+                              "y": 401.6666666666667,
+                              "height": -206.66666666666669,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 195,
+                              "description": "x: 0.1; y: 177; y2: 549; g: Died and Class 3"
+                            },
+                            {
+                              "x": 180,
+                              "y": 277.77777777777777,
+                              "height": -206.66666666666663,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 71.11111111111113,
+                              "description": "x: 0.9; y: 400; y2: 772; g: Died and Class 3"
+                            },
+                            {
+                              "x": 200,
+                              "y": 277.77777777777777,
+                              "height": -206.66666666666663,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 71.11111111111113,
+                              "description": "x: 1; y: 400; y2: 772; g: Died and Class 3"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_1_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 195,
+                              "height": -75.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 119.44444444444446,
+                              "description": "x: 0; y: 549; y2: 685; g: Survived and Class 1"
+                            },
+                            {
+                              "x": 20,
+                              "y": 195,
+                              "height": -75.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 119.44444444444446,
+                              "description": "x: 0.1; y: 549; y2: 685; g: Survived and Class 1"
+                            },
+                            {
+                              "x": 180,
+                              "y": 455.55555555555554,
+                              "height": -75.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 380,
+                              "description": "x: 0.9; y: 80; y2: 216; g: Survived and Class 1"
+                            },
+                            {
+                              "x": 200,
+                              "y": 455.55555555555554,
+                              "height": -75.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 380,
+                              "description": "x: 1; y: 80; y2: 216; g: Survived and Class 1"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_1_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 71.11111111111113,
+                              "height": -66.11111111111113,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0; y: 772; y2: 891; g: Survived and Class 3"
+                            },
+                            {
+                              "x": 20,
+                              "y": 71.11111111111113,
+                              "height": -66.11111111111113,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0.1; y: 772; y2: 891; g: Survived and Class 3"
+                            },
+                            {
+                              "x": 180,
+                              "y": 71.11111111111113,
+                              "height": -66.11111111111113,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0.9; y: 772; y2: 891; g: Survived and Class 3"
+                            },
+                            {
+                              "x": 200,
+                              "y": 71.11111111111113,
+                              "height": -66.11111111111113,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 1; y: 772; y2: 891; g: Survived and Class 3"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_1_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 500,
+                              "height": -44.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455.55555555555554,
+                              "description": "x: 0; y: 0; y2: 80; g: Died and Class 1"
+                            },
+                            {
+                              "x": 20,
+                              "y": 500,
+                              "height": -44.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455.55555555555554,
+                              "description": "x: 0.1; y: 0; y2: 80; g: Died and Class 1"
+                            },
+                            {
+                              "x": 180,
+                              "y": 500,
+                              "height": -44.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455.55555555555554,
+                              "description": "x: 0.9; y: 0; y2: 80; g: Died and Class 1"
+                            },
+                            {
+                              "x": 200,
+                              "y": 500,
+                              "height": -44.44444444444446,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 455.55555555555554,
+                              "description": "x: 1; y: 0; y2: 80; g: Died and Class 1"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_1_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 119.44444444444446,
+                              "height": -48.33333333333333,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 71.11111111111113,
+                              "description": "x: 0; y: 685; y2: 772; g: Survived and Class 2"
+                            },
+                            {
+                              "x": 20,
+                              "y": 119.44444444444446,
+                              "height": -48.33333333333333,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 71.11111111111113,
+                              "description": "x: 0.1; y: 685; y2: 772; g: Survived and Class 2"
+                            },
+                            {
+                              "x": 180,
+                              "y": 326.11111111111114,
+                              "height": -48.33333333333337,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 277.77777777777777,
+                              "description": "x: 0.9; y: 313; y2: 400; g: Survived and Class 2"
+                            },
+                            {
+                              "x": 200,
+                              "y": 326.11111111111114,
+                              "height": -48.33333333333337,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 277.77777777777777,
+                              "description": "x: 1; y: 313; y2: 400; g: Survived and Class 2"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_1_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 455.55555555555554,
+                              "height": -53.88888888888886,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 401.6666666666667,
+                              "description": "x: 0; y: 80; y2: 177; g: Died and Class 2"
+                            },
+                            {
+                              "x": 20,
+                              "y": 455.55555555555554,
+                              "height": -53.88888888888886,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 401.6666666666667,
+                              "description": "x: 0.1; y: 80; y2: 177; g: Died and Class 2"
+                            },
+                            {
+                              "x": 180,
+                              "y": 380,
+                              "height": -53.88888888888886,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 326.11111111111114,
+                              "description": "x: 0.9; y: 216; y2: 313; g: Died and Class 2"
+                            },
+                            {
+                              "x": 200,
+                              "y": 380,
+                              "height": -53.88888888888886,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 326.11111111111114,
+                              "description": "x: 1; y: 216; y2: 313; g: Died and Class 2"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 211,
+              "y": 0,
+              "width": 200,
+              "height": 500,
+              "fill": "transparent",
+              "stroke": null
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "concat_2_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rect",
+                  "name": "concat_2_layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 200,
+                      "y": 5.000000000000004,
+                      "width": 10,
+                      "height": 357.77777777777777,
+                      "fill": "#ff9da6",
+                      "y2": 362.77777777777777,
+                      "description": "s: 247; s_end: 891; Embarked: S",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 200,
+                      "y": 405.55555555555554,
+                      "width": 10,
+                      "height": 93.33333333333331,
+                      "fill": "#f58518",
+                      "y2": 498.88888888888886,
+                      "description": "s: 2; s_end: 170; Embarked: C",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 200,
+                      "y": 362.77777777777777,
+                      "width": 10,
+                      "height": 42.77777777777777,
+                      "fill": "#b279a2",
+                      "y2": 405.55555555555554,
+                      "description": "s: 170; s_end: 247; Embarked: Q",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 200,
+                      "y": 498.88888888888886,
+                      "width": 10,
+                      "height": 1.1111111111111427,
+                      "fill": "#4c78a8",
+                      "y2": 500,
+                      "description": "s: 0; s_end: 2; Embarked: ",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "name": "concat_2_layer_1_pathgroup",
+                  "role": "scope",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 201.11111111111114,
+                              "height": -196.11111111111114,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0; y: 538; y2: 891; g: Class 3 and S"
+                            },
+                            {
+                              "x": 20,
+                              "y": 201.11111111111114,
+                              "height": -196.11111111111114,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0.1; y: 538; y2: 891; g: Class 3 and S"
+                            },
+                            {
+                              "x": 180,
+                              "y": 201.11111111111114,
+                              "height": -196.11111111111114,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 0.9; y: 538; y2: 891; g: Class 3 and S"
+                            },
+                            {
+                              "x": 200,
+                              "y": 201.11111111111114,
+                              "height": -196.11111111111114,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 5.000000000000004,
+                              "description": "x: 1; y: 538; y2: 891; g: Class 3 and S"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 498.88888888888886,
+                              "height": -47.22222222222217,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 451.6666666666667,
+                              "description": "x: 0; y: 2; y2: 87; g: Class 1 and C"
+                            },
+                            {
+                              "x": 20,
+                              "y": 498.88888888888886,
+                              "height": -47.22222222222217,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 451.6666666666667,
+                              "description": "x: 0.1; y: 2; y2: 87; g: Class 1 and C"
+                            },
+                            {
+                              "x": 180,
+                              "y": 498.88888888888886,
+                              "height": -47.22222222222217,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 451.6666666666667,
+                              "description": "x: 0.9; y: 2; y2: 87; g: Class 1 and C"
+                            },
+                            {
+                              "x": 200,
+                              "y": 498.88888888888886,
+                              "height": -47.22222222222217,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 451.6666666666667,
+                              "description": "x: 1; y: 2; y2: 87; g: Class 1 and C"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 450.55555555555554,
+                              "height": -70.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 380,
+                              "description": "x: 0; y: 89; y2: 216; g: Class 1 and S"
+                            },
+                            {
+                              "x": 20,
+                              "y": 450.55555555555554,
+                              "height": -70.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 380,
+                              "description": "x: 0.1; y: 89; y2: 216; g: Class 1 and S"
+                            },
+                            {
+                              "x": 180,
+                              "y": 362.77777777777777,
+                              "height": -70.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 292.22222222222223,
+                              "description": "x: 0.9; y: 247; y2: 374; g: Class 1 and S"
+                            },
+                            {
+                              "x": 200,
+                              "y": 362.77777777777777,
+                              "height": -70.55555555555554,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 292.22222222222223,
+                              "description": "x: 1; y: 247; y2: 374; g: Class 1 and S"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 241.11111111111111,
+                              "height": -39.99999999999997,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 201.11111111111114,
+                              "description": "x: 0; y: 466; y2: 538; g: Class 3 and Q"
+                            },
+                            {
+                              "x": 20,
+                              "y": 241.11111111111111,
+                              "height": -39.99999999999997,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 201.11111111111114,
+                              "description": "x: 0.1; y: 466; y2: 538; g: Class 3 and Q"
+                            },
+                            {
+                              "x": 180,
+                              "y": 402.77777777777777,
+                              "height": -40,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 362.77777777777777,
+                              "description": "x: 0.9; y: 175; y2: 247; g: Class 3 and Q"
+                            },
+                            {
+                              "x": 200,
+                              "y": 402.77777777777777,
+                              "height": -40,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 362.77777777777777,
+                              "description": "x: 1; y: 175; y2: 247; g: Class 3 and Q"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 380,
+                              "height": -9.444444444444457,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 370.55555555555554,
+                              "description": "x: 0; y: 216; y2: 233; g: Class 2 and C"
+                            },
+                            {
+                              "x": 20,
+                              "y": 380,
+                              "height": -9.444444444444457,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 370.55555555555554,
+                              "description": "x: 0.1; y: 216; y2: 233; g: Class 2 and C"
+                            },
+                            {
+                              "x": 180,
+                              "y": 451.6666666666667,
+                              "height": -9.444444444444457,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 442.22222222222223,
+                              "description": "x: 0.9; y: 87; y2: 104; g: Class 2 and C"
+                            },
+                            {
+                              "x": 200,
+                              "y": 451.6666666666667,
+                              "height": -9.444444444444457,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 442.22222222222223,
+                              "description": "x: 1; y: 87; y2: 104; g: Class 2 and C"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 368.88888888888886,
+                              "height": -91.11111111111109,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 277.77777777777777,
+                              "description": "x: 0; y: 236; y2: 400; g: Class 2 and S"
+                            },
+                            {
+                              "x": 20,
+                              "y": 368.88888888888886,
+                              "height": -91.11111111111109,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 277.77777777777777,
+                              "description": "x: 0.1; y: 236; y2: 400; g: Class 2 and S"
+                            },
+                            {
+                              "x": 180,
+                              "y": 292.22222222222223,
+                              "height": -91.11111111111109,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 201.11111111111114,
+                              "description": "x: 0.9; y: 374; y2: 538; g: Class 2 and S"
+                            },
+                            {
+                              "x": 200,
+                              "y": 292.22222222222223,
+                              "height": -91.11111111111109,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 201.11111111111114,
+                              "description": "x: 1; y: 374; y2: 538; g: Class 2 and S"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 277.77777777777777,
+                              "height": -36.66666666666666,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 241.11111111111111,
+                              "description": "x: 0; y: 400; y2: 466; g: Class 3 and C"
+                            },
+                            {
+                              "x": 20,
+                              "y": 277.77777777777777,
+                              "height": -36.66666666666666,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 241.11111111111111,
+                              "description": "x: 0.1; y: 400; y2: 466; g: Class 3 and C"
+                            },
+                            {
+                              "x": 180,
+                              "y": 442.22222222222223,
+                              "height": -36.666666666666686,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 405.55555555555554,
+                              "description": "x: 0.9; y: 104; y2: 170; g: Class 3 and C"
+                            },
+                            {
+                              "x": 200,
+                              "y": 442.22222222222223,
+                              "height": -36.666666666666686,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 405.55555555555554,
+                              "description": "x: 1; y: 104; y2: 170; g: Class 3 and C"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 500,
+                              "height": -1.1111111111111427,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 498.88888888888886,
+                              "description": "x: 0; y: 0; y2: 2; g: Class 1 and "
+                            },
+                            {
+                              "x": 20,
+                              "y": 500,
+                              "height": -1.1111111111111427,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 498.88888888888886,
+                              "description": "x: 0.1; y: 0; y2: 2; g: Class 1 and "
+                            },
+                            {
+                              "x": 180,
+                              "y": 500,
+                              "height": -1.1111111111111427,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 498.88888888888886,
+                              "description": "x: 0.9; y: 0; y2: 2; g: Class 1 and "
+                            },
+                            {
+                              "x": 200,
+                              "y": 500,
+                              "height": -1.1111111111111427,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 498.88888888888886,
+                              "description": "x: 1; y: 0; y2: 2; g: Class 1 and "
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 451.6666666666667,
+                              "height": -1.1111111111111427,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 450.55555555555554,
+                              "description": "x: 0; y: 87; y2: 89; g: Class 1 and Q"
+                            },
+                            {
+                              "x": 20,
+                              "y": 451.6666666666667,
+                              "height": -1.1111111111111427,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 450.55555555555554,
+                              "description": "x: 0.1; y: 87; y2: 89; g: Class 1 and Q"
+                            },
+                            {
+                              "x": 180,
+                              "y": 405.55555555555554,
+                              "height": -1.1111111111110858,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 404.44444444444446,
+                              "description": "x: 0.9; y: 170; y2: 172; g: Class 1 and Q"
+                            },
+                            {
+                              "x": 200,
+                              "y": 405.55555555555554,
+                              "height": -1.1111111111110858,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 404.44444444444446,
+                              "description": "x: 1; y: 170; y2: 172; g: Class 1 and Q"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    },
+                    {
+                      "items": [
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_layer_1_marks",
+                          "role": "mark",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 370.55555555555554,
+                              "height": -1.6666666666666856,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 368.88888888888886,
+                              "description": "x: 0; y: 233; y2: 236; g: Class 2 and Q"
+                            },
+                            {
+                              "x": 20,
+                              "y": 370.55555555555554,
+                              "height": -1.6666666666666856,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 368.88888888888886,
+                              "description": "x: 0.1; y: 233; y2: 236; g: Class 2 and Q"
+                            },
+                            {
+                              "x": 180,
+                              "y": 404.44444444444446,
+                              "height": -1.6666666666666856,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 402.77777777777777,
+                              "description": "x: 0.9; y: 172; y2: 175; g: Class 2 and Q"
+                            },
+                            {
+                              "x": 200,
+                              "y": 404.44444444444446,
+                              "height": -1.6666666666666856,
+                              "fill": "lightgrey",
+                              "fillOpacity": 0.25,
+                              "stroke": "grey",
+                              "strokeWidth": 0.5,
+                              "interpolate": "basis",
+                              "orient": "vertical",
+                              "defined": true,
+                              "y2": 402.77777777777777,
+                              "description": "x: 1; y: 172; y2: 175; g: Class 2 and Q"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "width": 200,
+                      "height": 500
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 422,
+              "y": 0,
+              "width": 200,
+              "height": 500,
+              "fill": "transparent",
+              "stroke": null
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f58518",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "C",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#e45756",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Class 1",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#72b7b2",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Class 2",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 39,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#54a24b",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Class 3",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 52,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#eeca3b",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Died",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 65,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#b279a2",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Q",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 78,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#ff9da6",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "S",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 91,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#9d755d",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Survived",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 104,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#bab0ac",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "female",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 117,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "male",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 130,
+                              "width": 57.3525390625,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Sex, Survived, Pclass, Embarked",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 672,
+              "y": 0,
+              "width": 176,
+              "height": 157,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 500
+    }
+  ],
+  "zindex": 0
+}

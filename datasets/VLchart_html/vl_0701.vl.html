@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "width": "container", "data": {"url": "https://raw.githubusercontent.com/matsim-scenarios/matsim-duesseldorf/b160620ef3d645969b5060b436391be3bc378cb6/src/main/simwrapper/scenarios/rel_tt.csv"}, "mark": "line", "transform": [{"timeUnit": "seconds", "field": "t", "as": "d"}], "encoding": {"x": {"timeUnit": "hoursminutes", "scale": {"domainMin": {"hours": 0}, "domainMax": {"hours": 23, "minutes": 45}}, "field": "t", "type": "quantitative", "title": "Time", "axis": {"values": [{"hours": 4}, {"hours": 8}, {"hours": 12}, {"hours": 16}, {"hours": 20}]}}, "y": {"field": "y", "type": "quantitative", "title": "Rel. travel time", "scale": {"domain": [0.88, 1]}}, "color": {"field": "scenario", "type": "nominal", "sort": {}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

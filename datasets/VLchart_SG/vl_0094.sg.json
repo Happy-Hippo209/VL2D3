@@ -1,0 +1,2278 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "rgb(211, 44, 145)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43714.78; ZIP Code: 10001, 10118; Neighborhood: Chelsea/NoMad/West Chelsea; Case Count: 12071; Rate per 100,000: 43714.78; Percent of people tested who tested positive: NaN; Deaths: 70; Death rate per 100,000: 253.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(234, 79, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40603.96; ZIP Code: 10002; Neighborhood: Chinatown/Lower East Side; Case Count: 30584; Rate per 100,000: 40603.96; Percent of people tested who tested positive: NaN; Deaths: 486; Death rate per 100,000: 645.22",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(241, 99, 161)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38856.71; ZIP Code: 10003; Neighborhood: East Village/Gramercy/Greenwich Village; Case Count: 20974; Rate per 100,000: 38856.71; Percent of people tested who tested positive: NaN; Deaths: 111; Death rate per 100,000: 205.64",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(162, 6, 126)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 48483.98; ZIP Code: 10004; Neighborhood: Financial District; Case Count: 1441; Rate per 100,000: 48483.98; Percent of people tested who tested positive: NaN; Deaths: 3; Death rate per 100,000: 100.94",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(234, 80, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40549.37; ZIP Code: 10005; Neighborhood: Financial District; Case Count: 3551; Rate per 100,000: 40549.37; Percent of people tested who tested positive: NaN; Deaths: 1; Death rate per 100,000: 11.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(168, 8, 128)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 47962.63; ZIP Code: 10006; Neighborhood: Financial District; Case Count: 1622; Rate per 100,000: 47962.63; Percent of people tested who tested positive: NaN; Deaths: 2; Death rate per 100,000: 59.14",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(237, 88, 158)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39834.37; ZIP Code: 10007; Neighborhood: TriBeCa; Case Count: 2785; Rate per 100,000: 39834.37; Percent of people tested who tested positive: NaN; Deaths: 8; Death rate per 100,000: 114.43",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(222, 59, 150)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42366.62; ZIP Code: 10009; Neighborhood: Alphabet City/East Village/Stuyvesant Town-Cooper Village; Case Count: 24213; Rate per 100,000: 42366.62; Percent of people tested who tested positive: NaN; Deaths: 213; Death rate per 100,000: 372.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(228, 70, 153)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41426.56; ZIP Code: 10010; Neighborhood: Flatiron/Gramercy/Kips Bay; Case Count: 13817; Rate per 100,000: 41426.56; Percent of people tested who tested positive: NaN; Deaths: 76; Death rate per 100,000: 227.87",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(235, 81, 157)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40399.24; ZIP Code: 10011; Neighborhood: Chelsea; Case Count: 20097; Rate per 100,000: 40399.24; Percent of people tested who tested positive: NaN; Deaths: 123; Death rate per 100,000: 247.26",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(247, 128, 170)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 36441.67; ZIP Code: 10012; Neighborhood: Greenwich Village/SoHo; Case Count: 8437; Rate per 100,000: 36441.67; Percent of people tested who tested positive: NaN; Deaths: 38; Death rate per 100,000: 164.13",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(237, 87, 158)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39894.01; ZIP Code: 10013; Neighborhood: Hudson Square/Little Italy/SoHo/TriBeCa; Case Count: 11497; Rate per 100,000: 39894.01; Percent of people tested who tested positive: NaN; Deaths: 77; Death rate per 100,000: 267.19",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(249, 149, 177)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 34625.47; ZIP Code: 10014; Neighborhood: Hudson Square/Meatpacking District/West Village; Case Count: 10504; Rate per 100,000: 34625.47; Percent of people tested who tested positive: NaN; Deaths: 55; Death rate per 100,000: 181.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(199, 31, 140)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44944.12; ZIP Code: 10016; Neighborhood: Kips Bay/Murray Hill/NoMad; Case Count: 22882; Rate per 100,000: 44944.12; Percent of people tested who tested positive: NaN; Deaths: 121; Death rate per 100,000: 237.66",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(161, 6, 126)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 48593.29; ZIP Code: 10017; Neighborhood: East Midtown/Murray Hill; Case Count: 7587; Rate per 100,000: 48593.29; Percent of people tested who tested positive: NaN; Deaths: 51; Death rate per 100,000: 326.65",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(181, 16, 132)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 46766.28; ZIP Code: 10018; Neighborhood: Hell's Kitchen/Midtown Manhattan; Case Count: 5514; Rate per 100,000: 46766.28; Percent of people tested who tested positive: NaN; Deaths: 16; Death rate per 100,000: 135.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(163, 6, 126)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 48430.23; ZIP Code: 10019, 10020; Neighborhood: Hell's Kitchen/Midtown Manhattan; Case Count: 21078; Rate per 100,000: 48430.23; Percent of people tested who tested positive: NaN; Deaths: 126; Death rate per 100,000: 289.51",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(250, 172, 185)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 32221.96; ZIP Code: 10021; Neighborhood: Lenox Hill/Upper East Side; Case Count: 14782; Rate per 100,000: 32221.96; Percent of people tested who tested positive: NaN; Deaths: 139; Death rate per 100,000: 302.99",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(241, 98, 161)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38946.57; ZIP Code: 10022; Neighborhood: East Midtown; Case Count: 12033; Rate per 100,000: 38946.57; Percent of people tested who tested positive: NaN; Deaths: 96; Death rate per 100,000: 310.72",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 115, 166)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37578.61; ZIP Code: 10023; Neighborhood: Lincoln Square; Case Count: 23217; Rate per 100,000: 37578.61; Percent of people tested who tested positive: NaN; Deaths: 165; Death rate per 100,000: 267.07",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(249, 144, 175)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 35112.62; ZIP Code: 10024; Neighborhood: Upper West Side; Case Count: 20510; Rate per 100,000: 35112.62; Percent of people tested who tested positive: NaN; Deaths: 193; Death rate per 100,000: 330.41",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 89, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39740.26; ZIP Code: 10025; Neighborhood: Manhattan Valley/Morningside Heights/Upper West Side; Case Count: 36410; Rate per 100,000: 39740.26; Percent of people tested who tested positive: NaN; Deaths: 487; Death rate per 100,000: 531.54",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(240, 96, 160)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39167.85; ZIP Code: 10026; Neighborhood: Central Harlem (South); Case Count: 15144; Rate per 100,000: 39167.85; Percent of people tested who tested positive: NaN; Deaths: 152; Death rate per 100,000: 393.13",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(243, 106, 163)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38282.47; ZIP Code: 10027; Neighborhood: Central Harlem (South)/Morningside Heights/West Harlem; Case Count: 24269; Rate per 100,000: 38282.47; Percent of people tested who tested positive: NaN; Deaths: 247; Death rate per 100,000: 389.62",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(246, 124, 169)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 36797.33; ZIP Code: 10028; Neighborhood: Upper East Side/Yorkville; Case Count: 17431; Rate per 100,000: 36797.33; Percent of people tested who tested positive: NaN; Deaths: 113; Death rate per 100,000: 238.55",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(213, 46, 146)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43495.14; ZIP Code: 10029; Neighborhood: East Harlem; Case Count: 34024; Rate per 100,000: 43495.14; Percent of people tested who tested positive: NaN; Deaths: 492; Death rate per 100,000: 628.96",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 113, 165)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37694.05; ZIP Code: 10030; Neighborhood: Central Harlem (North); Case Count: 11033; Rate per 100,000: 37694.05; Percent of people tested who tested positive: NaN; Deaths: 133; Death rate per 100,000: 454.39",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 113, 165)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37701.91; ZIP Code: 10031; Neighborhood: Hamilton Heights/West Harlem; Case Count: 22253; Rate per 100,000: 37701.91; Percent of people tested who tested positive: NaN; Deaths: 281; Death rate per 100,000: 476.08",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(249, 149, 177)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 34584.64; ZIP Code: 10032; Neighborhood: Washington Heights (South); Case Count: 21806; Rate per 100,000: 34584.64; Percent of people tested who tested positive: NaN; Deaths: 343; Death rate per 100,000: 544",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(248, 136, 173)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 35772.01; ZIP Code: 10033; Neighborhood: Washington Heights (North)/Washington Heights (South); Case Count: 20933; Rate per 100,000: 35772.01; Percent of people tested who tested positive: NaN; Deaths: 237; Death rate per 100,000: 405",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(248, 138, 173)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 35569; ZIP Code: 10034; Neighborhood: Inwood/Washington Heights (North); Case Count: 15025; Rate per 100,000: 35569; Percent of people tested who tested positive: NaN; Deaths: 166; Death rate per 100,000: 392.98",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(217, 52, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43016.43; ZIP Code: 10035; Neighborhood: East Harlem; Case Count: 15159; Rate per 100,000: 43016.43; Percent of people tested who tested positive: NaN; Deaths: 287; Death rate per 100,000: 814.41",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 1, 91)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 65622.56; ZIP Code: 10036; Neighborhood: Hell's Kitchen/Midtown Manhattan; Case Count: 17877; Rate per 100,000: 65622.56; Percent of people tested who tested positive: NaN; Deaths: 95; Death rate per 100,000: 348.72",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(228, 69, 153)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41465.15; ZIP Code: 10037; Neighborhood: Central Harlem (North)/East Harlem; Case Count: 8622; Rate per 100,000: 41465.15; Percent of people tested who tested positive: NaN; Deaths: 151; Death rate per 100,000: 726.19",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(246, 118, 167)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37262.88; ZIP Code: 10038; Neighborhood: Chinatown/Financial District; Case Count: 8520; Rate per 100,000: 37262.88; Percent of people tested who tested positive: NaN; Deaths: 81; Death rate per 100,000: 354.26",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(246, 123, 168)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 36893.73; ZIP Code: 10039; Neighborhood: Central Harlem (North)/Washington Heights (South); Case Count: 10028; Rate per 100,000: 36893.73; Percent of people tested who tested positive: NaN; Deaths: 142; Death rate per 100,000: 522.43",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 111, 165)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37842.6; ZIP Code: 10040; Neighborhood: Washington Heights (North); Case Count: 16638; Rate per 100,000: 37842.6; Percent of people tested who tested positive: NaN; Deaths: 293; Death rate per 100,000: 666.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(250, 160, 181)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 33490.85; ZIP Code: 10044; Neighborhood: Roosevelt Island; Case Count: 3909; Rate per 100,000: 33490.85; Percent of people tested who tested positive: NaN; Deaths: 64; Death rate per 100,000: 548.33",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(205, 38, 143)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44281; ZIP Code: 10065; Neighborhood: Lenox Hill/Upper East Side; Case Count: 12354; Rate per 100,000: 44281; Percent of people tested who tested positive: NaN; Deaths: 71; Death rate per 100,000: 254.49",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(168, 8, 128)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 47990.59; ZIP Code: 10069; Neighborhood: Lincoln Square; Case Count: 3016; Rate per 100,000: 47990.59; Percent of people tested who tested positive: NaN; Deaths: 5; Death rate per 100,000: 79.56",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(227, 68, 153)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41606.46; ZIP Code: 10075, 10162; Neighborhood: Lenox Hill/Upper East Side; Case Count: 9588; Rate per 100,000: 41606.46; Percent of people tested who tested positive: NaN; Deaths: 107; Death rate per 100,000: 464.32",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 90, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39655.87; ZIP Code: 10128; Neighborhood: Upper East Side/Yorkville; Case Count: 23222; Rate per 100,000: 39655.87; Percent of people tested who tested positive: NaN; Deaths: 153; Death rate per 100,000: 261.28",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(252, 204, 202)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 28011.34; ZIP Code: 10280; Neighborhood: Battery Park City; Case Count: 2618; Rate per 100,000: 28011.34; Percent of people tested who tested positive: NaN; Deaths: 10; Death rate per 100,000: 107",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(252, 207, 204)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 27566.68; ZIP Code: 10282; Neighborhood: Battery Park City; Case Count: 1536; Rate per 100,000: 27566.68; Percent of people tested who tested positive: NaN; Deaths: 3; Death rate per 100,000: 53.84",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(166, 7, 127)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 48127.54; ZIP Code: 10301; Neighborhood: Silver Lake/St. George; Case Count: 18724; Rate per 100,000: 48127.54; Percent of people tested who tested positive: NaN; Deaths: 281; Death rate per 100,000: 722.27",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(94, 1, 113)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 54541.61; ZIP Code: 10302; Neighborhood: Elm Park; Case Count: 10082; Rate per 100,000: 54541.61; Percent of people tested who tested positive: NaN; Deaths: 93; Death rate per 100,000: 503.11",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(109, 1, 115)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 53242.63; ZIP Code: 10303; Neighborhood: Graniteville/Mariner's Harbor/Port Ivory; Case Count: 14116; Rate per 100,000: 53242.63; Percent of people tested who tested positive: NaN; Deaths: 122; Death rate per 100,000: 460.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(142, 1, 121)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 50304.55; ZIP Code: 10304; Neighborhood: New Dorp/Todt Hill; Case Count: 21071; Rate per 100,000: 50304.55; Percent of people tested who tested positive: NaN; Deaths: 392; Death rate per 100,000: 935.85",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(126, 1, 118)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 51682.15; ZIP Code: 10305; Neighborhood: Arrochar/Midland Beach/Shore Acres/South Beach Ocean Breeze; Case Count: 22149; Rate per 100,000: 51682.15; Percent of people tested who tested positive: NaN; Deaths: 217; Death rate per 100,000: 506.34",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(19, 1, 100)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 61054.62; ZIP Code: 10306; Neighborhood: Lighthouse Hill/Midland Beach/New Dorp/Oakwood; Case Count: 32241; Rate per 100,000: 61054.62; Percent of people tested who tested positive: NaN; Deaths: 389; Death rate per 100,000: 736.65",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(128, 1, 119)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 51515.01; ZIP Code: 10307; Neighborhood: Tottenville; Case Count: 7682; Rate per 100,000: 51515.01; Percent of people tested who tested positive: NaN; Deaths: 58; Death rate per 100,000: 388.94",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(95, 1, 113)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 54418.5; ZIP Code: 10308; Neighborhood: Great Kills; Case Count: 16228; Rate per 100,000: 54418.5; Percent of people tested who tested positive: NaN; Deaths: 132; Death rate per 100,000: 442.64",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(88, 1, 112)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 55006.8; ZIP Code: 10309; Neighborhood: Charleston/Prince's Bay/Woodrow; Case Count: 18119; Rate per 100,000: 55006.8; Percent of people tested who tested positive: NaN; Deaths: 128; Death rate per 100,000: 388.59",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(86, 1, 111)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 55248.06; ZIP Code: 10310; Neighborhood: Port Richmond/Randall Manor/West Brighton; Case Count: 12951; Rate per 100,000: 55248.06; Percent of people tested who tested positive: NaN; Deaths: 100; Death rate per 100,000: 426.59",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(89, 1, 112)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 54978.7; ZIP Code: 10312; Neighborhood: Annadale/Rossville; Case Count: 33566; Rate per 100,000: 54978.7; Percent of people tested who tested positive: NaN; Deaths: 266; Death rate per 100,000: 435.69",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(135, 1, 120)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 50902.54; ZIP Code: 10314; Neighborhood: Bloomfield/Freshkills Park; Case Count: 47097; Rate per 100,000: 50902.54; Percent of people tested who tested positive: NaN; Deaths: 625; Death rate per 100,000: 675.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(148, 3, 123)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 49770.81; ZIP Code: 10451; Neighborhood: Concourse/Melrose; Case Count: 23575; Rate per 100,000: 49770.81; Percent of people tested who tested positive: NaN; Deaths: 318; Death rate per 100,000: 671.35",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(234, 80, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40480.02; ZIP Code: 10452; Neighborhood: Concourse/Highbridge; Case Count: 30446; Rate per 100,000: 40480.02; Percent of people tested who tested positive: NaN; Deaths: 395; Death rate per 100,000: 525.18",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(240, 95, 160)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39260.23; ZIP Code: 10453; Neighborhood: Morris Heights/Mount Hope/University Heights; Case Count: 30889; Rate per 100,000: 39260.23; Percent of people tested who tested positive: NaN; Deaths: 392; Death rate per 100,000: 498.24",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(180, 16, 132)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 46820.33; ZIP Code: 10454; Neighborhood: Mott Haven/Port Morris; Case Count: 17712; Rate per 100,000: 46820.33; Percent of people tested who tested positive: NaN; Deaths: 247; Death rate per 100,000: 652.93",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(204, 37, 142)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44405.16; ZIP Code: 10455; Neighborhood: Mott Haven; Case Count: 18603; Rate per 100,000: 44405.16; Percent of people tested who tested positive: NaN; Deaths: 249; Death rate per 100,000: 594.36",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 114, 165)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37602.68; ZIP Code: 10456; Neighborhood: Claremont/Morrisania; Case Count: 35043; Rate per 100,000: 37602.68; Percent of people tested who tested positive: NaN; Deaths: 563; Death rate per 100,000: 604.12",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(240, 98, 161)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38984.52; ZIP Code: 10457; Neighborhood: Belmont/Claremont/Mount Hope/Tremont; Case Count: 28740; Rate per 100,000: 38984.52; Percent of people tested who tested positive: NaN; Deaths: 372; Death rate per 100,000: 504.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(242, 102, 162)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38672.75; ZIP Code: 10458; Neighborhood: Belmont/Fordham University/Kingsbridge; Case Count: 31998; Rate per 100,000: 38672.75; Percent of people tested who tested positive: NaN; Deaths: 327; Death rate per 100,000: 395.21",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(208, 41, 144)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43983.15; ZIP Code: 10459; Neighborhood: Charlotte Gardens/Hunts Point; Case Count: 21056; Rate per 100,000: 43983.15; Percent of people tested who tested positive: NaN; Deaths: 333; Death rate per 100,000: 695.59",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(205, 38, 142)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44297.47; ZIP Code: 10460; Neighborhood: Charlotte Gardens/Tremont/Van Nest/West Farms; Case Count: 26080; Rate per 100,000: 44297.47; Percent of people tested who tested positive: NaN; Deaths: 316; Death rate per 100,000: 536.73",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(128, 1, 119)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 51568.47; ZIP Code: 10461; Neighborhood: Morris Park/Pelham Bay/Westchester Square; Case Count: 25319; Rate per 100,000: 51568.47; Percent of people tested who tested positive: NaN; Deaths: 317; Death rate per 100,000: 645.65",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(152, 4, 124)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 49441.14; ZIP Code: 10462; Neighborhood: Parkchester/Pelham Parkway/Van Nest/Westchester Square; Case Count: 37237; Rate per 100,000: 49441.14; Percent of people tested who tested positive: NaN; Deaths: 390; Death rate per 100,000: 517.82",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(216, 51, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43068.5; ZIP Code: 10463; Neighborhood: Kingsbridge/Marble Hill/Riverdale/Spuyten Duyvil; Case Count: 30141; Rate per 100,000: 43068.5; Percent of people tested who tested positive: NaN; Deaths: 516; Death rate per 100,000: 737.31",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 115, 166)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37522.79; ZIP Code: 10464; Neighborhood: City Island; Case Count: 1608; Rate per 100,000: 37522.79; Percent of people tested who tested positive: NaN; Deaths: 22; Death rate per 100,000: 513.37",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(159, 5, 125)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 48791.53; ZIP Code: 10465; Neighborhood: Country Club/Throgs Neck; Case Count: 21040; Rate per 100,000: 48791.53; Percent of people tested who tested positive: NaN; Deaths: 286; Death rate per 100,000: 663.23",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 114, 165)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37667.87; ZIP Code: 10466; Neighborhood: Edenwald/Wakefield; Case Count: 26861; Rate per 100,000: 37667.87; Percent of people tested who tested positive: NaN; Deaths: 355; Death rate per 100,000: 497.83",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(207, 40, 143)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44145.24; ZIP Code: 10467; Neighborhood: Allerton/Norwood/Pelham Parkway/Williamsbridge; Case Count: 45054; Rate per 100,000: 44145.24; Percent of people tested who tested positive: NaN; Deaths: 699; Death rate per 100,000: 684.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(234, 79, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40609.73; ZIP Code: 10468; Neighborhood: Fordham/Kingsbridge/University Heights; Case Count: 31599; Rate per 100,000: 40609.73; Percent of people tested who tested positive: NaN; Deaths: 424; Death rate per 100,000: 544.91",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(234, 80, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40504.31; ZIP Code: 10469; Neighborhood: Allerton/Baychester/Pelham Gardens/Williamsbridge; Case Count: 29413; Rate per 100,000: 40504.31; Percent of people tested who tested positive: NaN; Deaths: 666; Death rate per 100,000: 917.14",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(211, 44, 145)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43690.6; ZIP Code: 10470; Neighborhood: Wakefield/Woodlawn; Case Count: 6550; Rate per 100,000: 43690.6; Percent of people tested who tested positive: NaN; Deaths: 69; Death rate per 100,000: 460.25",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(218, 53, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42912.17; ZIP Code: 10471; Neighborhood: Fieldston/North Riverdale/Riverdale; Case Count: 9115; Rate per 100,000: 42912.17; Percent of people tested who tested positive: NaN; Deaths: 191; Death rate per 100,000: 899.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(220, 55, 149)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42696.93; ZIP Code: 10472; Neighborhood: Soundview; Case Count: 29025; Rate per 100,000: 42696.93; Percent of people tested who tested positive: NaN; Deaths: 380; Death rate per 100,000: 559",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(161, 6, 126)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 48624.16; ZIP Code: 10473; Neighborhood: Castle Hill/Clason Point/Soundview; Case Count: 28742; Rate per 100,000: 48624.16; Percent of people tested who tested positive: NaN; Deaths: 341; Death rate per 100,000: 576.89",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 116, 166)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37492.95; ZIP Code: 10474; Neighborhood: Hunts Point; Case Count: 4490; Rate per 100,000: 37492.95; Percent of people tested who tested positive: NaN; Deaths: 54; Death rate per 100,000: 450.92",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(205, 38, 142)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44291.54; ZIP Code: 10475; Neighborhood: Co-op City/Edenwald; Case Count: 18929; Rate per 100,000: 44291.54; Percent of people tested who tested positive: NaN; Deaths: 376; Death rate per 100,000: 879.79",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 93, 160)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39399.46; ZIP Code: 11004, 11005; Neighborhood: Bellerose/Douglaston-Little Neck; Case Count: 7466; Rate per 100,000: 39399.46; Percent of people tested who tested positive: NaN; Deaths: 184; Death rate per 100,000: 971",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(99, 1, 114)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 54059.2; ZIP Code: 11101; Neighborhood: Astoria (South)/Long Island City/Sunnyside; Case Count: 19913; Rate per 100,000: 54059.2; Percent of people tested who tested positive: NaN; Deaths: 116; Death rate per 100,000: 314.91",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(145, 2, 122)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 50002.08; ZIP Code: 11102; Neighborhood: Astoria (North); Case Count: 15023; Rate per 100,000: 50002.08; Percent of people tested who tested positive: NaN; Deaths: 216; Death rate per 100,000: 718.93",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(146, 2, 122)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 49989.43; ZIP Code: 11103; Neighborhood: Astoria (North)/Astoria (South); Case Count: 17465; Rate per 100,000: 49989.43; Percent of people tested who tested positive: NaN; Deaths: 146; Death rate per 100,000: 417.89",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(217, 52, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42956.98; ZIP Code: 11104; Neighborhood: Sunnyside; Case Count: 10927; Rate per 100,000: 42956.98; Percent of people tested who tested positive: NaN; Deaths: 109; Death rate per 100,000: 428.51",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(204, 36, 142)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44454.45; ZIP Code: 11105; Neighborhood: Ditmars Steinway; Case Count: 16088; Rate per 100,000: 44454.45; Percent of people tested who tested positive: NaN; Deaths: 169; Death rate per 100,000: 466.98",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(208, 41, 144)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43982.38; ZIP Code: 11106; Neighborhood: Astoria (South); Case Count: 16462; Rate per 100,000: 43982.38; Percent of people tested who tested positive: NaN; Deaths: 172; Death rate per 100,000: 459.54",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(226, 66, 152)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41716.15; ZIP Code: 11109; Neighborhood: Long Island City; Case Count: 2404; Rate per 100,000: 41716.15; Percent of people tested who tested positive: NaN; Deaths: 3; Death rate per 100,000: 52.06",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 94, 160)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39310.33; ZIP Code: 11201; Neighborhood: Brooklyn Heights/DUMBO/Downtown Brooklyn; Case Count: 24488; Rate per 100,000: 39310.33; Percent of people tested who tested positive: NaN; Deaths: 262; Death rate per 100,000: 420.59",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(246, 118, 167)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37306.46; ZIP Code: 11203; Neighborhood: East Flatbush (North)/East Flatbush (South); Case Count: 27351; Rate per 100,000: 37306.46; Percent of people tested who tested positive: NaN; Deaths: 511; Death rate per 100,000: 697",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 90, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39665.32; ZIP Code: 11204; Neighborhood: Bensonhurst/Mapleton; Case Count: 30577; Rate per 100,000: 39665.32; Percent of people tested who tested positive: NaN; Deaths: 375; Death rate per 100,000: 486.46",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(246, 121, 168)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37079.44; ZIP Code: 11205; Neighborhood: Bedford-Stuyvesant (West)/Clinton Hill/Fort Greene; Case Count: 16809; Rate per 100,000: 37079.44; Percent of people tested who tested positive: NaN; Deaths: 134; Death rate per 100,000: 295.59",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(228, 70, 153)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41431.24; ZIP Code: 11206; Neighborhood: Williamsburg (South); Case Count: 35925; Rate per 100,000: 41431.24; Percent of people tested who tested positive: NaN; Deaths: 392; Death rate per 100,000: 452.08",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(218, 53, 149)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42900.39; ZIP Code: 11207; Neighborhood: Cypress Hills/East New York; Case Count: 38195; Rate per 100,000: 42900.39; Percent of people tested who tested positive: NaN; Deaths: 560; Death rate per 100,000: 628.99",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(206, 38, 143)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44267.17; ZIP Code: 11208; Neighborhood: Cypress Hills/East New York; Case Count: 42304; Rate per 100,000: 44267.17; Percent of people tested who tested positive: NaN; Deaths: 560; Death rate per 100,000: 585.99",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(211, 45, 145)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43641.03; ZIP Code: 11209; Neighborhood: Bay Ridge/Fort Hamilton; Case Count: 29464; Rate per 100,000: 43641.03; Percent of people tested who tested positive: NaN; Deaths: 335; Death rate per 100,000: 496.19",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(248, 132, 171)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 36115.21; ZIP Code: 11210; Neighborhood: Flatlands/Midwood; Case Count: 23723; Rate per 100,000: 36115.21; Percent of people tested who tested positive: NaN; Deaths: 331; Death rate per 100,000: 503.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(234, 80, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40488.06; ZIP Code: 11211, 11249; Neighborhood: East Williamsburg/Williamsburg (North)/Williamsburg (South); Case Count: 41163; Rate per 100,000: 40488.06; Percent of people tested who tested positive: NaN; Deaths: 307; Death rate per 100,000: 301.97",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(200, 32, 140)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44899.76; ZIP Code: 11212; Neighborhood: Ocean Hill-Brownsville; Case Count: 33211; Rate per 100,000: 44899.76; Percent of people tested who tested positive: NaN; Deaths: 603; Death rate per 100,000: 815.23",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(233, 78, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40708.18; ZIP Code: 11213; Neighborhood: Crown Heights (East); Case Count: 26298; Rate per 100,000: 40708.18; Percent of people tested who tested positive: NaN; Deaths: 436; Death rate per 100,000: 674.91",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 91, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39583.4; ZIP Code: 11214; Neighborhood: Bath Beach/Bensonhurst/Gravesend; Case Count: 36739; Rate per 100,000: 39583.4; Percent of people tested who tested positive: NaN; Deaths: 636; Death rate per 100,000: 685.24",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(249, 154, 179)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 34061.35; ZIP Code: 11215; Neighborhood: Gowanus/Park Slope/Windsor Terrace; Case Count: 23715; Rate per 100,000: 34061.35; Percent of people tested who tested positive: NaN; Deaths: 142; Death rate per 100,000: 203.95",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 92, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39509.09; ZIP Code: 11216; Neighborhood: Bedford-Stuyvesant (West)/Crown Heights (West); Case Count: 21661; Rate per 100,000: 39509.09; Percent of people tested who tested positive: NaN; Deaths: 202; Death rate per 100,000: 368.44",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 90, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39700.79; ZIP Code: 11217, 11243; Neighborhood: Boerum Hill/Park Slope; Case Count: 16226; Rate per 100,000: 39700.79; Percent of people tested who tested positive: NaN; Deaths: 199; Death rate per 100,000: 486.9",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(242, 104, 163)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38498.07; ZIP Code: 11218; Neighborhood: Kensington/Windsor Terrace; Case Count: 28487; Rate per 100,000: 38498.07; Percent of people tested who tested positive: NaN; Deaths: 396; Death rate per 100,000: 535.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 116, 166)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37431.23; ZIP Code: 11219; Neighborhood: Borough Park; Case Count: 33719; Rate per 100,000: 37431.23; Percent of people tested who tested positive: NaN; Deaths: 457; Death rate per 100,000: 507.31",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(217, 51, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43029.57; ZIP Code: 11220; Neighborhood: Sunset Park; Case Count: 40702; Rate per 100,000: 43029.57; Percent of people tested who tested positive: NaN; Deaths: 429; Death rate per 100,000: 453.53",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(236, 83, 157)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40264.86; ZIP Code: 11221; Neighborhood: Bedford-Stuyvesant (East)/Bushwick; Case Count: 32792; Rate per 100,000: 40264.86; Percent of people tested who tested positive: NaN; Deaths: 393; Death rate per 100,000: 482.56",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(201, 33, 140)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44765.98; ZIP Code: 11222; Neighborhood: Greenpoint; Case Count: 16171; Rate per 100,000: 44765.98; Percent of people tested who tested positive: NaN; Deaths: 92; Death rate per 100,000: 254.68",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(217, 51, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43063.31; ZIP Code: 11223; Neighborhood: Gravesend/Homecrest; Case Count: 35093; Rate per 100,000: 43063.31; Percent of people tested who tested positive: NaN; Deaths: 412; Death rate per 100,000: 505.57",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(147, 2, 122)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 49871.62; ZIP Code: 11224; Neighborhood: Brighton Beach/Coney Island/Seagate; Case Count: 23076; Rate per 100,000: 49871.62; Percent of people tested who tested positive: NaN; Deaths: 627; Death rate per 100,000: 1355.07",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(249, 151, 178)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 34426.59; ZIP Code: 11225; Neighborhood: Crown Heights (West)/Prospect Lefferts Gardens; Case Count: 19800; Rate per 100,000: 34426.59; Percent of people tested who tested positive: NaN; Deaths: 302; Death rate per 100,000: 525.09",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(243, 107, 163)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38210.64; ZIP Code: 11226; Neighborhood: Flatbush/Prospect Lefferts Gardens; Case Count: 37200; Rate per 100,000: 38210.64; Percent of people tested who tested positive: NaN; Deaths: 645; Death rate per 100,000: 662.52",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(239, 93, 160)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39403.76; ZIP Code: 11228; Neighborhood: Bath Beach/Dyker Heights; Case Count: 17725; Rate per 100,000: 39403.76; Percent of people tested who tested positive: NaN; Deaths: 255; Death rate per 100,000: 566.88",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 54, 149)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42775.49; ZIP Code: 11229; Neighborhood: Gerritsen Beach/Homecrest/Sheepshead Bay; Case Count: 35731; Rate per 100,000: 42775.49; Percent of people tested who tested positive: NaN; Deaths: 500; Death rate per 100,000: 598.58",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(208, 41, 144)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43968.22; ZIP Code: 11230; Neighborhood: Midwood; Case Count: 39083; Rate per 100,000: 43968.22; Percent of people tested who tested positive: NaN; Deaths: 587; Death rate per 100,000: 660.37",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(247, 128, 170)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 36488.04; ZIP Code: 11231; Neighborhood: Carroll Gardens/Cobble Hill/Red Hook; Case Count: 13638; Rate per 100,000: 36488.04; Percent of people tested who tested positive: NaN; Deaths: 103; Death rate per 100,000: 275.57",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(224, 63, 151)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41996.29; ZIP Code: 11232; Neighborhood: Sunset Park; Case Count: 11375; Rate per 100,000: 41996.29; Percent of people tested who tested positive: NaN; Deaths: 103; Death rate per 100,000: 380.27",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(246, 119, 167)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37194.21; ZIP Code: 11233; Neighborhood: Bedford-Stuyvesant (East)/Ocean Hill-Brownsville; Case Count: 27644; Rate per 100,000: 37194.21; Percent of people tested who tested positive: NaN; Deaths: 395; Death rate per 100,000: 531.46",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(244, 109, 164)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38083.66; ZIP Code: 11234; Neighborhood: Bergen Beach/Flatlands/Marine Park/Mill Basin; Case Count: 35820; Rate per 100,000: 38083.66; Percent of people tested who tested positive: NaN; Deaths: 492; Death rate per 100,000: 523.09",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(150, 3, 123)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 49629.39; ZIP Code: 11235; Neighborhood: Brighton Beach/Manhattan Beach/Sheepshead Bay; Case Count: 38809; Rate per 100,000: 49629.39; Percent of people tested who tested positive: NaN; Deaths: 912; Death rate per 100,000: 1166.28",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(244, 110, 164)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37930.46; ZIP Code: 11236; Neighborhood: Canarsie; Case Count: 36837; Rate per 100,000: 37930.46; Percent of people tested who tested positive: NaN; Deaths: 620; Death rate per 100,000: 638.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(229, 71, 154)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41314.08; ZIP Code: 11237; Neighborhood: Bushwick/East Williamsburg; Case Count: 19831; Rate per 100,000: 41314.08; Percent of people tested who tested positive: NaN; Deaths: 198; Death rate per 100,000: 412.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 91, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39593.93; ZIP Code: 11238; Neighborhood: Clinton Hill/Prospect Heights; Case Count: 21202; Rate per 100,000: 39593.93; Percent of people tested who tested positive: NaN; Deaths: 244; Death rate per 100,000: 455.66",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(76, 1, 110)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 56073.04; ZIP Code: 11239; Neighborhood: East New York; Case Count: 7302; Rate per 100,000: 56073.04; Percent of people tested who tested positive: NaN; Deaths: 208; Death rate per 100,000: 1597.26",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(232, 76, 155)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40907.78; ZIP Code: 11354; Neighborhood: Flushing/Murray Hill; Case Count: 22057; Rate per 100,000: 40907.78; Percent of people tested who tested positive: NaN; Deaths: 629; Death rate per 100,000: 1166.57",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(226, 66, 152)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41779.06; ZIP Code: 11355; Neighborhood: Flushing/Murray Hill/Queensboro Hill; Case Count: 32944; Rate per 100,000: 41779.06; Percent of people tested who tested positive: NaN; Deaths: 530; Death rate per 100,000: 672.14",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(171, 10, 129)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 47646.15; ZIP Code: 11356; Neighborhood: College Point; Case Count: 10870; Rate per 100,000: 47646.15; Percent of people tested who tested positive: NaN; Deaths: 94; Death rate per 100,000: 412.03",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(213, 47, 146)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 43433.04; ZIP Code: 11357; Neighborhood: Whitestone; Case Count: 16815; Rate per 100,000: 43433.04; Percent of people tested who tested positive: NaN; Deaths: 280; Death rate per 100,000: 723.24",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(229, 71, 154)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41277.33; ZIP Code: 11358; Neighborhood: Auburndale/Murray Hill; Case Count: 14870; Rate per 100,000: 41277.33; Percent of people tested who tested positive: NaN; Deaths: 157; Death rate per 100,000: 435.81",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(238, 89, 159)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39715.65; ZIP Code: 11360; Neighborhood: Bayside (North); Case Count: 7564; Rate per 100,000: 39715.65; Percent of people tested who tested positive: NaN; Deaths: 131; Death rate per 100,000: 687.83",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(218, 52, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42934.18; ZIP Code: 11361; Neighborhood: Bayside (North)/Bayside (South); Case Count: 11322; Rate per 100,000: 42934.18; Percent of people tested who tested positive: NaN; Deaths: 179; Death rate per 100,000: 678.79",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(242, 102, 162)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38609.6; ZIP Code: 11362; Neighborhood: Douglaston-Little Neck; Case Count: 6989; Rate per 100,000: 38609.6; Percent of people tested who tested positive: NaN; Deaths: 128; Death rate per 100,000: 707.12",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(245, 117, 166)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37414.74; ZIP Code: 11363; Neighborhood: Douglaston-Little Neck; Case Count: 2520; Rate per 100,000: 37414.74; Percent of people tested who tested positive: NaN; Deaths: 25; Death rate per 100,000: 371.18",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(247, 130, 171)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 36317.23; ZIP Code: 11364; Neighborhood: Bayside (South)/Oakland Gardens; Case Count: 12961; Rate per 100,000: 36317.23; Percent of people tested who tested positive: NaN; Deaths: 119; Death rate per 100,000: 333.44",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(236, 82, 157)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40305.76; ZIP Code: 11365; Neighborhood: Auburndale/Fresh Meadows/Pomonok/Utopia; Case Count: 17660; Rate per 100,000: 40305.76; Percent of people tested who tested positive: NaN; Deaths: 214; Death rate per 100,000: 488.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(244, 111, 164)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37900.81; ZIP Code: 11366; Neighborhood: Fresh Meadows/Hillcrest; Case Count: 5385; Rate per 100,000: 37900.81; Percent of people tested who tested positive: NaN; Deaths: 74; Death rate per 100,000: 520.83",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(223, 61, 151)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42157.5; ZIP Code: 11367; Neighborhood: Kew Gardens Hills/Pomonok; Case Count: 17148; Rate per 100,000: 42157.5; Percent of people tested who tested positive: NaN; Deaths: 185; Death rate per 100,000: 454.81",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(236, 83, 157)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40239.28; ZIP Code: 11368; Neighborhood: Corona/North Corona; Case Count: 44412; Rate per 100,000: 40239.28; Percent of people tested who tested positive: NaN; Deaths: 701; Death rate per 100,000: 635.14",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(132, 1, 120)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 51160.14; ZIP Code: 11369; Neighborhood: Airport/East Elmhurst; Case Count: 17204; Rate per 100,000: 51160.14; Percent of people tested who tested positive: NaN; Deaths: 316; Death rate per 100,000: 939.7",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(220, 55, 149)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42662.48; ZIP Code: 11370; Neighborhood: Jackson Heights/Rikers Island; Case Count: 13557; Rate per 100,000: 42662.48; Percent of people tested who tested positive: NaN; Deaths: 141; Death rate per 100,000: 443.71",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(170, 9, 128)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 47761.54; ZIP Code: 11372; Neighborhood: Jackson Heights; Case Count: 28983; Rate per 100,000: 47761.54; Percent of people tested who tested positive: NaN; Deaths: 463; Death rate per 100,000: 762.98",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(190, 23, 136)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 45916.4; ZIP Code: 11373; Neighborhood: Elmhurst; Case Count: 42085; Rate per 100,000: 45916.4; Percent of people tested who tested positive: NaN; Deaths: 539; Death rate per 100,000: 588.07",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(174, 12, 130)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 47374.31; ZIP Code: 11374; Neighborhood: Rego Park; Case Count: 19610; Rate per 100,000: 47374.31; Percent of people tested who tested positive: NaN; Deaths: 250; Death rate per 100,000: 603.96",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(234, 80, 156)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40542.18; ZIP Code: 11375; Neighborhood: Forest Hills; Case Count: 28893; Rate per 100,000: 40542.18; Percent of people tested who tested positive: NaN; Deaths: 450; Death rate per 100,000: 631.43",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(173, 11, 130)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 47470.43; ZIP Code: 11377; Neighborhood: Woodside; Case Count: 39898; Rate per 100,000: 47470.43; Percent of people tested who tested positive: NaN; Deaths: 471; Death rate per 100,000: 560.39",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(191, 23, 136)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 45803.83; ZIP Code: 11378; Neighborhood: Maspeth; Case Count: 16556; Rate per 100,000: 45803.83; Percent of people tested who tested positive: NaN; Deaths: 171; Death rate per 100,000: 473.09",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(203, 35, 141)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44543.02; ZIP Code: 11379; Neighborhood: Middle Village; Case Count: 16319; Rate per 100,000: 44543.02; Percent of people tested who tested positive: NaN; Deaths: 285; Death rate per 100,000: 777.91",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(226, 65, 152)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41810.47; ZIP Code: 11385; Neighborhood: Glendale/Ridgewood; Case Count: 43322; Rate per 100,000: 41810.47; Percent of people tested who tested positive: NaN; Deaths: 368; Death rate per 100,000: 355.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(244, 111, 164)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 37903.27; ZIP Code: 11411; Neighborhood: Cambria Heights; Case Count: 8103; Rate per 100,000: 37903.27; Percent of people tested who tested positive: NaN; Deaths: 105; Death rate per 100,000: 491.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(221, 57, 150)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42490.89; ZIP Code: 11412; Neighborhood: St. Albans; Case Count: 16188; Rate per 100,000: 42490.89; Percent of people tested who tested positive: NaN; Deaths: 193; Death rate per 100,000: 506.59",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(240, 95, 160)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 39202.09; ZIP Code: 11413; Neighborhood: Laurelton/Rosedale; Case Count: 16938; Rate per 100,000: 39202.09; Percent of people tested who tested positive: NaN; Deaths: 242; Death rate per 100,000: 560.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(144, 2, 122)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 50140.35; ZIP Code: 11414; Neighborhood: Hamilton Beach/Howard Beach/Lindenwood; Case Count: 14219; Rate per 100,000: 50140.35; Percent of people tested who tested positive: NaN; Deaths: 211; Death rate per 100,000: 744.05",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(207, 40, 143)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 44089.37; ZIP Code: 11415; Neighborhood: Kew Gardens; Case Count: 8321; Rate per 100,000: 44089.37; Percent of people tested who tested positive: NaN; Deaths: 120; Death rate per 100,000: 635.83",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(183, 18, 133)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 46575.13; ZIP Code: 11416; Neighborhood: Ozone Park; Case Count: 12291; Rate per 100,000: 46575.13; Percent of people tested who tested positive: NaN; Deaths: 143; Death rate per 100,000: 541.88",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(158, 5, 125)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 48828.44; ZIP Code: 11417; Neighborhood: Ozone Park; Case Count: 15157; Rate per 100,000: 48828.44; Percent of people tested who tested positive: NaN; Deaths: 145; Death rate per 100,000: 467.12",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(217, 52, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42957.94; ZIP Code: 11418; Neighborhood: Richmond Hill; Case Count: 16146; Rate per 100,000: 42957.94; Percent of people tested who tested positive: NaN; Deaths: 191; Death rate per 100,000: 508.17",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(231, 74, 155)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41008.21; ZIP Code: 11419; Neighborhood: Richmond Hill/South Ozone Park; Case Count: 19891; Rate per 100,000: 41008.21; Percent of people tested who tested positive: NaN; Deaths: 251; Death rate per 100,000: 517.47",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(224, 62, 151)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42082.11; ZIP Code: 11420; Neighborhood: South Ozone Park; Case Count: 20130; Rate per 100,000: 42082.11; Percent of people tested who tested positive: NaN; Deaths: 250; Death rate per 100,000: 522.63",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(154, 4, 124)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 49199.12; ZIP Code: 11421; Neighborhood: Woodhaven; Case Count: 19704; Rate per 100,000: 49199.12; Percent of people tested who tested positive: NaN; Deaths: 225; Death rate per 100,000: 561.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(232, 76, 155)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40899.61; ZIP Code: 11422; Neighborhood: Rosedale; Case Count: 13247; Rate per 100,000: 40899.61; Percent of people tested who tested positive: NaN; Deaths: 164; Death rate per 100,000: 506.34",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 54, 149)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42802.45; ZIP Code: 11423; Neighborhood: Hollis/Holliswood; Case Count: 13328; Rate per 100,000: 42802.45; Percent of people tested who tested positive: NaN; Deaths: 242; Death rate per 100,000: 777.18",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(226, 65, 152)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41808.05; ZIP Code: 11426; Neighborhood: Bellerose; Case Count: 8430; Rate per 100,000: 41808.05; Percent of people tested who tested positive: NaN; Deaths: 86; Death rate per 100,000: 426.51",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(222, 58, 150)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42413.25; ZIP Code: 11427; Neighborhood: Bellerose/Hollis Hills/Holliswood; Case Count: 9998; Rate per 100,000: 42413.25; Percent of people tested who tested positive: NaN; Deaths: 119; Death rate per 100,000: 504.82",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(178, 14, 131)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 46999.82; ZIP Code: 11428; Neighborhood: Queens Village; Case Count: 8733; Rate per 100,000: 46999.82; Percent of people tested who tested positive: NaN; Deaths: 117; Death rate per 100,000: 629.68",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(219, 54, 149)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42780.53; ZIP Code: 11429; Neighborhood: Queens Village; Case Count: 11897; Rate per 100,000: 42780.53; Percent of people tested who tested positive: NaN; Deaths: 174; Death rate per 100,000: 625.69",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(228, 70, 153)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41376.22; ZIP Code: 11432; Neighborhood: Hillcrest/Jamaica Estates/Jamaica Hills; Case Count: 25138; Rate per 100,000: 41376.22; Percent of people tested who tested positive: NaN; Deaths: 495; Death rate per 100,000: 814.75",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(225, 65, 152)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41859.79; ZIP Code: 11433; Neighborhood: Jamaica; Case Count: 15288; Rate per 100,000: 41859.79; Percent of people tested who tested positive: NaN; Deaths: 220; Death rate per 100,000: 602.38",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(230, 73, 154)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41143.82; ZIP Code: 11434; Neighborhood: Airport/South Jamaica/Springfield Gardens/St. Albans; Case Count: 27469; Rate per 100,000: 41143.82; Percent of people tested who tested positive: NaN; Deaths: 434; Death rate per 100,000: 650.06",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(229, 71, 154)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 41307.85; ZIP Code: 11435; Neighborhood: Briarwood/Jamaica; Case Count: 24130; Rate per 100,000: 41307.85; Percent of people tested who tested positive: NaN; Deaths: 343; Death rate per 100,000: 587.18",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(231, 75, 155)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40947.9; ZIP Code: 11436; Neighborhood: South Jamaica/South Ozone Park; Case Count: 8207; Rate per 100,000: 40947.9; Percent of people tested who tested positive: NaN; Deaths: 102; Death rate per 100,000: 508.92",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(231, 74, 155)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40996.88; ZIP Code: 11691; Neighborhood: Edgemere/Far Rockaway; Case Count: 27409; Rate per 100,000: 40996.88; Percent of people tested who tested positive: NaN; Deaths: 686; Death rate per 100,000: 1026.08",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(242, 102, 162)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 38646.4; ZIP Code: 11692; Neighborhood: Arverne/Edgemere; Case Count: 8127; Rate per 100,000: 38646.4; Percent of people tested who tested positive: NaN; Deaths: 166; Death rate per 100,000: 789.38",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(237, 86, 158)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 40009.03; ZIP Code: 11693; Neighborhood: Arverne/Broad Channel; Case Count: 5070; Rate per 100,000: 40009.03; Percent of people tested who tested positive: NaN; Deaths: 74; Death rate per 100,000: 583.96",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(217, 52, 148)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 42975.26; ZIP Code: 11694; Neighborhood: Belle Harbor-Neponsit/Rockaway Park; Case Count: 8930; Rate per 100,000: 42975.26; Percent of people tested who tested positive: NaN; Deaths: 154; Death rate per 100,000: 741.12",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(1, 1, 97)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "COVID_CASE_RATE: 62665.49; ZIP Code: 11697; Neighborhood: Breezy Point; Case Count: 2126; Rate per 100,000: 62665.49; Percent of people tested who tested positive: NaN; Deaths: 23; Death rate per 100,000: 677.94",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 100,
+                              "height": 16,
+                              "fill": {
+                                "x2": 1,
+                                "y2": 0
+                              },
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 18,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "27,567",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 100,
+                              "y": 18,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "65,623",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 15
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Case Rate per 100k",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 18,
+              "y": 18,
+              "width": 100,
+              "height": 43,
+              "orient": "top-left"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 752,
+      "height": 588,
+      "fill": "transparent"
+    }
+  ],
+  "zindex": 0
+}

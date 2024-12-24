@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://vega.github.io/vega-datasets/data/seattle-weather.csv"}, "title": "2010 Daily Max Temperature in Seattle", "config": {"view": {"strokeWidth": 0}, "axis": {"domain": false}}, "mark": {"type": "rect", "tooltip": true}, "encoding": {"x": {"field": "date", "timeUnit": "date", "type": "ordinal", "title": "Day", "axis": {"labelAngle": 0, "format": "%e"}}, "y": {"field": "date", "timeUnit": "month", "type": "ordinal", "title": "Month"}, "color": {"field": "temp_max", "aggregate": "max", "type": "quantitative", "legend": {"title": null}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

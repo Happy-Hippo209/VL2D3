@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A simple bar chart with ranged data (aka Gantt Chart).", "data": {"values": [{"Test": "AMC 8", "Start difficulty": 0.25, "End difficulty": 2, "Level": "Introductory"}, {"Test": "AMC 10", "Start difficulty": 1, "End difficulty": 4.5, "Level": "Intermediate"}, {"Test": "AMC 12", "Start difficulty": 1.25, "End difficulty": 5.5, "Level": "Intermediate"}, {"Test": "AHSME", "Start difficulty": 1, "End difficulty": 5.5, "Level": "Intermediate"}, {"Test": "AIME", "Start difficulty": 3, "End difficulty": 6.5, "Level": "Intermediate"}, {"Test": "USAJMO", "Start difficulty": 4, "End difficulty": 7, "Level": "Olympiad"}, {"Test": "USAMO", "Start difficulty": 4, "End difficulty": 8.5, "Level": "Olympiad"}, {"Test": "IMO", "Start difficulty": 4, "End difficulty": 9.5, "Level": "Olympiad"}]}, "mark": "bar", "encoding": {"y": {"field": "Test", "type": "ordinal", "sort": {"order": null}, "axis": {"titleFontSize": 14, "labelFontSize": 13}}, "x": {"field": "Start difficulty", "type": "quantitative", "axis": {"tickMinStep": 1, "titleFontSize": 14, "labelFontSize": 13, "title": "Difficulty"}}, "x2": {"field": "End difficulty"}, "color": {"type": "nominal", "field": "Level", "scale": {"domain": ["Introductory", "Intermediate", "Olympiad"], "range": ["#f58518", "#4c78a8", "#e45756"]}, "sort": {"order": null}, "legend": {"titleFontSize": 14, "labelFontSize": 13}}}, "width": "container", "height": 200, "background": null, "config": {"font": "'Latin Modern Sans', sans-serif"}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

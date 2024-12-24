@@ -1,0 +1,3909 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 35,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 70,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 105,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 140,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 175,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 210,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 245,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 280,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 315,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 350,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,970",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 35,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "1,975",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 70,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,980",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 105,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "1,985",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 140,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,990",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 175,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "1,995",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 210,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "2,005",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 280,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,010",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 315,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "2,015",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 350,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,020",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 350
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 175,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Year",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 323.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 323,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 283,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 242,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 202,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 162,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 121,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 81,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 40,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 323,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 282.625,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 242.25,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "4,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 201.875,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "6,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 161.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "8,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 121.125,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 80.75,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "12,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 40.375,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "14,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "16,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 323,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "layer_0_pathgroup",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 317.52098128125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1970; Value1: 271.4065; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 7,
+                      "y": 317.248783125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1971; Value1: 284.89; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 14,
+                      "y": 316.80102235625,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1972; Value1: 307.0701; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 21,
+                      "y": 315.93271155,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1973; Value1: 350.0824; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 28,
+                      "y": 315.34814615,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1974; Value1: 379.0392; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 35,
+                      "y": 315.55692729375,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1975; Value1: 368.6971; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 42,
+                      "y": 315.04847482499997,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1976; Value1: 393.8836; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 49.00000000000001,
+                      "y": 315.23177126875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1977; Value1: 384.8039; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 56,
+                      "y": 315.5757359875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1978; Value1: 367.7654; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 63,
+                      "y": 314.84072526250003,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1979; Value1: 404.1746; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 70,
+                      "y": 314.68754453125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1980; Value1: 411.7625; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 77,
+                      "y": 314.7747202125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1981; Value1: 407.4442; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 84,
+                      "y": 314.77166382499996,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1982; Value1: 407.5956; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 91,
+                      "y": 314.67682496875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1983; Value1: 412.2935; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 98.00000000000001,
+                      "y": 314.28738386875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1984; Value1: 431.5847; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 105,
+                      "y": 314.03950963125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1985; Value1: 443.8633; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 112,
+                      "y": 314.07482968125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1986; Value1: 442.1137; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 119.00000000000001,
+                      "y": 313.71427285625,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1987; Value1: 459.9741; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 126,
+                      "y": 313.4369672625,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1988; Value1: 473.7106; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 133,
+                      "y": 313.413755675,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1989; Value1: 474.8604; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 140,
+                      "y": 313.3177479625,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1990; Value1: 479.6162; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 147,
+                      "y": 313.35983082499996,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1991; Value1: 477.5316; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 154,
+                      "y": 313.32297046875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1992; Value1: 479.3575; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 161,
+                      "y": 313.3648252125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1993; Value1: 477.2842; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 168,
+                      "y": 313.174186575,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1994; Value1: 486.7276; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 175,
+                      "y": 312.5746460875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1995; Value1: 516.4262; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 182,
+                      "y": 311.9055435125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1996; Value1: 549.5706; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 189,
+                      "y": 311.5319051875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1997; Value1: 568.079; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 196.00000000000003,
+                      "y": 311.51190341250003,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1998; Value1: 569.0698; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 203,
+                      "y": 311.74421914375,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1999; Value1: 557.5619; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 210,
+                      "y": 311.42636291875004,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2000; Value1: 573.3071; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 217,
+                      "y": 311.025655175,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2001; Value1: 593.1564; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 224,
+                      "y": 310.956743125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2002; Value1: 596.57; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 231,
+                      "y": 310.248468725,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2003; Value1: 631.6548; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 238.00000000000003,
+                      "y": 309.5952739,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2004; Value1: 664.0112; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 309.27545746875,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2005; Value1: 679.8535; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 252,
+                      "y": 309.26088815,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2006; Value1: 680.5752; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 259,
+                      "y": 308.90841843749996,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2007; Value1: 698.035; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 266,
+                      "y": 308.0521131375,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2008; Value1: 740.4526; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 273,
+                      "y": 308.7619985,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2009; Value1: 705.288; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 280,
+                      "y": 308.04178925,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2010; Value1: 740.964; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 287,
+                      "y": 308.1100674125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2011; Value1: 737.5818; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 294,
+                      "y": 307.49247728125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2012; Value1: 768.1745; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 301,
+                      "y": 307.01877355625004,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2013; Value1: 791.6397; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 308,
+                      "y": 306.62824233125,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2014; Value1: 810.9849; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 315,
+                      "y": 306.406125325,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2015; Value1: 821.9876; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 322,
+                      "y": 305.94900563125003,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2016; Value1: 844.6313; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 329,
+                      "y": 305.79242128749996,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2017; Value1: 852.3878; Region: Sub Saharan Africa"
+                    },
+                    {
+                      "x": 336,
+                      "y": 305.53867450625,
+                      "stroke": "rgb(212, 238, 180)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2018; Value1: 864.9573; Region: Sub Saharan Africa"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 350,
+              "height": 323
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 312.26901945,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1970; Value1: 531.5656; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 7,
+                      "y": 312.22502483125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1971; Value1: 533.7449; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 14,
+                      "y": 311.559380375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1972; Value1: 566.718; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 21,
+                      "y": 310.57388113125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1973; Value1: 615.5353; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 28,
+                      "y": 310.02558863125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1974; Value1: 642.6953; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 35,
+                      "y": 309.79140151875004,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1975; Value1: 654.2959; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 42,
+                      "y": 308.8737888,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1976; Value1: 699.7504; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 49.00000000000001,
+                      "y": 308.32989717500004,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1977; Value1: 726.6924; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 56,
+                      "y": 307.28440270000004,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1978; Value1: 778.4816; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 63,
+                      "y": 306.40299020625,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1979; Value1: 822.1429; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 70,
+                      "y": 305.78498219375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1980; Value1: 852.7563; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 77,
+                      "y": 305.79054990624996,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1981; Value1: 852.4805; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 84,
+                      "y": 305.57466881875,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1982; Value1: 863.1743; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 91,
+                      "y": 306.07957434375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1983; Value1: 838.1635; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 98.00000000000001,
+                      "y": 305.79332165,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1984; Value1: 852.3432; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 105,
+                      "y": 305.628292875,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1985; Value1: 860.518; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 112,
+                      "y": 304.92836600625,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1986; Value1: 895.1893; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 119.00000000000001,
+                      "y": 304.32219594375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1987; Value1: 925.2163; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 126,
+                      "y": 303.9145114,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1988; Value1: 945.4112; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 133,
+                      "y": 303.29473294375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1989; Value1: 976.1123; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 140,
+                      "y": 303.46111024375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1990; Value1: 967.8707; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 147,
+                      "y": 303.0296852,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1991; Value1: 989.2416; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 154,
+                      "y": 302.6433893125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1992; Value1: 1008.377; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 161,
+                      "y": 302.000760625,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1993; Value1: 1040.21; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 168,
+                      "y": 300.8606715625,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1994; Value1: 1096.685; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 175,
+                      "y": 300.3278426875,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1995; Value1: 1123.079; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 182,
+                      "y": 298.8237528125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1996; Value1: 1197.585; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 189,
+                      "y": 297.390420125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1997; Value1: 1268.586; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 196.00000000000003,
+                      "y": 296.4460085,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1998; Value1: 1315.368; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 203,
+                      "y": 296.6930833125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1999; Value1: 1303.129; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 210,
+                      "y": 295.5678320625,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2000; Value1: 1358.869; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 217,
+                      "y": 295.60097993750003,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2001; Value1: 1357.227; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 224,
+                      "y": 295.63192737500003,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2002; Value1: 1355.694; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 231,
+                      "y": 294.92750475,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2003; Value1: 1390.588; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 238.00000000000003,
+                      "y": 293.616084375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2004; Value1: 1455.55; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 292.7489706875,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2005; Value1: 1498.503; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 252,
+                      "y": 291.9521296875,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2006; Value1: 1537.975; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 259,
+                      "y": 290.9801015625,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2007; Value1: 1586.125; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 266,
+                      "y": 289.5037896875,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2008; Value1: 1659.255; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 273,
+                      "y": 290.3092709375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2009; Value1: 1619.355; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 280,
+                      "y": 288.1971739375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2010; Value1: 1723.979; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 287,
+                      "y": 287.40663143750004,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2011; Value1: 1763.139; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 294,
+                      "y": 285.68068093750003,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2012; Value1: 1848.635; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 301,
+                      "y": 285.21152343750003,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2013; Value1: 1871.875; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 308,
+                      "y": 284.629538,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2014; Value1: 1900.704; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 315,
+                      "y": 285.19325375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2015; Value1: 1872.78; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 322,
+                      "y": 285.5019004375,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2016; Value1: 1857.491; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 329,
+                      "y": 285.42183681250003,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2017; Value1: 1861.457; Region: Latin America and Caribbean"
+                    },
+                    {
+                      "x": 336,
+                      "y": 285.76900125,
+                      "stroke": "rgb(169, 221, 183)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2018; Value1: 1844.26; Region: Latin America and Caribbean"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 350,
+              "height": 323
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 221.04674575,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1970; Value1: 5050.316; Region: North America"
+                    },
+                    {
+                      "x": 7,
+                      "y": 223.500173,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1971; Value1: 4928.784; Region: North America"
+                    },
+                    {
+                      "x": 14,
+                      "y": 218.12177887500002,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1972; Value1: 5195.206; Region: North America"
+                    },
+                    {
+                      "x": 21,
+                      "y": 213.94928506249997,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1973; Value1: 5401.893; Region: North America"
+                    },
+                    {
+                      "x": 28,
+                      "y": 217.1607529375,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1974; Value1: 5242.811; Region: North America"
+                    },
+                    {
+                      "x": 35,
+                      "y": 221.71321587499997,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1975; Value1: 5017.302; Region: North America"
+                    },
+                    {
+                      "x": 42,
+                      "y": 215.50931450000002,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1976; Value1: 5324.616; Region: North America"
+                    },
+                    {
+                      "x": 49.00000000000001,
+                      "y": 211.9029589375,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1977; Value1: 5503.259; Region: North America"
+                    },
+                    {
+                      "x": 56,
+                      "y": 211.9493498125,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1978; Value1: 5500.961; Region: North America"
+                    },
+                    {
+                      "x": 63,
+                      "y": 210.8494944375,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1979; Value1: 5555.443; Region: North America"
+                    },
+                    {
+                      "x": 70,
+                      "y": 215.35253837500002,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1980; Value1: 5332.382; Region: North America"
+                    },
+                    {
+                      "x": 77,
+                      "y": 217.152536625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1981; Value1: 5243.218; Region: North America"
+                    },
+                    {
+                      "x": 84,
+                      "y": 222.51619387499997,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1982; Value1: 4977.526; Region: North America"
+                    },
+                    {
+                      "x": 91,
+                      "y": 223.01979124999997,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1983; Value1: 4952.58; Region: North America"
+                    },
+                    {
+                      "x": 98.00000000000001,
+                      "y": 218.37541462500002,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1984; Value1: 5182.642; Region: North America"
+                    },
+                    {
+                      "x": 105,
+                      "y": 217.8538301875,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1985; Value1: 5208.479; Region: North America"
+                    },
+                    {
+                      "x": 112,
+                      "y": 218.87772,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1986; Value1: 5157.76; Region: North America"
+                    },
+                    {
+                      "x": 119.00000000000001,
+                      "y": 215.4697671875,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1987; Value1: 5326.575; Region: North America"
+                    },
+                    {
+                      "x": 126,
+                      "y": 210.3682648125,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1988; Value1: 5579.281; Region: North America"
+                    },
+                    {
+                      "x": 133,
+                      "y": 208.8941331875,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1989; Value1: 5652.303; Region: North America"
+                    },
+                    {
+                      "x": 140,
+                      "y": 211.5844405625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1990; Value1: 5519.037; Region: North America"
+                    },
+                    {
+                      "x": 147,
+                      "y": 212.567390125,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1991; Value1: 5470.346; Region: North America"
+                    },
+                    {
+                      "x": 154,
+                      "y": 210.6787081875,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1992; Value1: 5563.903; Region: North America"
+                    },
+                    {
+                      "x": 161,
+                      "y": 208.29325224999997,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1993; Value1: 5682.068; Region: North America"
+                    },
+                    {
+                      "x": 168,
+                      "y": 206.268446,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1994; Value1: 5782.368; Region: North America"
+                    },
+                    {
+                      "x": 175,
+                      "y": 204.97392256249998,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1995; Value1: 5846.493; Region: North America"
+                    },
+                    {
+                      "x": 182,
+                      "y": 201.7176788125,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1996; Value1: 6007.793; Region: North America"
+                    },
+                    {
+                      "x": 189,
+                      "y": 197.873353,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1997; Value1: 6198.224; Region: North America"
+                    },
+                    {
+                      "x": 196.00000000000003,
+                      "y": 197.46821006250002,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1998; Value1: 6218.293; Region: North America"
+                    },
+                    {
+                      "x": 203,
+                      "y": 196.85188568749996,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1999; Value1: 6248.823; Region: North America"
+                    },
+                    {
+                      "x": 210,
+                      "y": 192.31280706249999,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2000; Value1: 6473.669; Region: North America"
+                    },
+                    {
+                      "x": 217,
+                      "y": 193.67437318749998,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2001; Value1: 6406.223; Region: North America"
+                    },
+                    {
+                      "x": 224,
+                      "y": 195.14281193749997,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2002; Value1: 6333.483; Region: North America"
+                    },
+                    {
+                      "x": 231,
+                      "y": 193.21496625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2003; Value1: 6428.98; Region: North America"
+                    },
+                    {
+                      "x": 238.00000000000003,
+                      "y": 191.6861870625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2004; Value1: 6504.709; Region: North America"
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 191.2455545,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2005; Value1: 6526.536; Region: North America"
+                    },
+                    {
+                      "x": 252,
+                      "y": 193.5063728125,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2006; Value1: 6414.545; Region: North America"
+                    },
+                    {
+                      "x": 259,
+                      "y": 191.27119262500003,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2007; Value1: 6525.266; Region: North America"
+                    },
+                    {
+                      "x": 266,
+                      "y": 195.50327993750003,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2008; Value1: 6315.627; Region: North America"
+                    },
+                    {
+                      "x": 273,
+                      "y": 204.6023110625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2009; Value1: 5864.901; Region: North America"
+                    },
+                    {
+                      "x": 280,
+                      "y": 199.4184033125,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2010; Value1: 6121.689; Region: North America"
+                    },
+                    {
+                      "x": 287,
+                      "y": 201.83983337499998,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2011; Value1: 6001.742; Region: North America"
+                    },
+                    {
+                      "x": 294,
+                      "y": 205.4630656875,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2012; Value1: 5822.263; Region: North America"
+                    },
+                    {
+                      "x": 301,
+                      "y": 203.72506325,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2013; Value1: 5908.356; Region: North America"
+                    },
+                    {
+                      "x": 308,
+                      "y": 202.1778730625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2014; Value1: 5984.997; Region: North America"
+                    },
+                    {
+                      "x": 315,
+                      "y": 205.596000375,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2015; Value1: 5815.678; Region: North America"
+                    },
+                    {
+                      "x": 322,
+                      "y": 206.9435765625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2016; Value1: 5748.925; Region: North America"
+                    },
+                    {
+                      "x": 329,
+                      "y": 207.4472950625,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2017; Value1: 5723.973; Region: North America"
+                    },
+                    {
+                      "x": 336,
+                      "y": 204.4954384375,
+                      "stroke": "rgb(116, 201, 189)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2018; Value1: 5870.195; Region: North America"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 350,
+              "height": 323
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 278.664495125,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1970; Value1: 2196.186; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 7,
+                      "y": 278.572843875,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1971; Value1: 2200.726; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 14,
+                      "y": 275.82754575,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1972; Value1: 2336.716; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 21,
+                      "y": 271.80748775,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1973; Value1: 2535.852; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 28,
+                      "y": 271.1086570625,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1974; Value1: 2570.469; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 35,
+                      "y": 268.7541081875,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1975; Value1: 2687.103; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 42,
+                      "y": 266.51036849999997,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1976; Value1: 2798.248; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 49.00000000000001,
+                      "y": 261.652004375,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1977; Value1: 3038.91; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 56,
+                      "y": 255.51982918750002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1978; Value1: 3342.671; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 63,
+                      "y": 253.30303981249997,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1979; Value1: 3452.481; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 70,
+                      "y": 253.9308710625,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1980; Value1: 3421.381; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 77,
+                      "y": 254.4989876875,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1981; Value1: 3393.239; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 84,
+                      "y": 253.57544993749997,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1982; Value1: 3438.987; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 91,
+                      "y": 251.2954535,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1983; Value1: 3551.928; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 98.00000000000001,
+                      "y": 246.08768412499998,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1984; Value1: 3809.898; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 105,
+                      "y": 245.35895575,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1985; Value1: 3845.996; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 112,
+                      "y": 242.590724625,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1986; Value1: 3983.122; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 119.00000000000001,
+                      "y": 238.81842781249998,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1987; Value1: 4169.985; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 126,
+                      "y": 232.41382231249997,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1988; Value1: 4487.241; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 133,
+                      "y": 228.94217793750002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1989; Value1: 4659.211; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 140,
+                      "y": 225.10828906249998,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1990; Value1: 4849.125; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 147,
+                      "y": 220.824764,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1991; Value1: 5061.312; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 154,
+                      "y": 217.0419696875,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1992; Value1: 5248.695; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 161,
+                      "y": 210.897682,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1993; Value1: 5553.056; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 168,
+                      "y": 204.71146487500002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1994; Value1: 5859.494; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 175,
+                      "y": 195.8050023125,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1995; Value1: 6300.681; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 182,
+                      "y": 194.047418,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1996; Value1: 6387.744; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 189,
+                      "y": 191.09206893750002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1997; Value1: 6534.139; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 196.00000000000003,
+                      "y": 191.43214756250003,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1998; Value1: 6517.293; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 203,
+                      "y": 190.043873375,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1999; Value1: 6586.062; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 210,
+                      "y": 182.8376424375,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2000; Value1: 6943.027; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 217,
+                      "y": 178.2005333125,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2001; Value1: 7172.729; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 224,
+                      "y": 170.29886318750002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2002; Value1: 7564.143; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 231,
+                      "y": 155.21932556250002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2003; Value1: 8311.117; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 238.00000000000003,
+                      "y": 138.29422649999998,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2004; Value1: 9149.512; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 122.84620643750002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2005; Value1: 9914.739; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 252,
+                      "y": 107.87957749999997,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2006; Value1: 10656.12; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 259,
+                      "y": 92.08447374999997,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2007; Value1: 11438.54; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 266,
+                      "y": 89.79723,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2008; Value1: 11551.84; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 273,
+                      "y": 80.20675437500002,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2009; Value1: 12026.91; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 280,
+                      "y": 61.35243687499997,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2010; Value1: 12960.87; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 287,
+                      "y": 41.42152000000001,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2011; Value1: 13948.16; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 294,
+                      "y": 35.15491624999999,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2012; Value1: 14258.58; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 301,
+                      "y": 24.760170625000022,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2013; Value1: 14773.49; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 308,
+                      "y": 21.89657374999999,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2014; Value1: 14915.34; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 315,
+                      "y": 21.84105812500001,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2015; Value1: 14918.09; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 322,
+                      "y": 16.668213125000012,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2016; Value1: 15174.33; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 329,
+                      "y": 12.610929375000023,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2017; Value1: 15375.31; Region: East Asia and Pacific"
+                    },
+                    {
+                      "x": 336,
+                      "y": 7.575763125000009,
+                      "stroke": "rgb(69, 180, 194)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2018; Value1: 15624.73; Region: East Asia and Pacific"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 350,
+              "height": 323
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 190.061275,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1970; Value1: 6585.2; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 7,
+                      "y": 189.97283356250003,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1971; Value1: 6589.581; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 14,
+                      "y": 184.8772259375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1972; Value1: 6841.995; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 21,
+                      "y": 177.125003875,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1973; Value1: 7226.006; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 28,
+                      "y": 176.5448353125,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1974; Value1: 7254.745; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 35,
+                      "y": 175.60960899999998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1975; Value1: 7301.072; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 42,
+                      "y": 167.7140556875,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1976; Value1: 7692.183; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 49.00000000000001,
+                      "y": 166.442021125,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1977; Value1: 7755.194; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 56,
+                      "y": 159.4173969375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1978; Value1: 8103.163; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 63,
+                      "y": 154.79930443749996,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1979; Value1: 8331.923; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 70,
+                      "y": 155.57658375000003,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1980; Value1: 8293.42; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 77,
+                      "y": 160.34971625,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1981; Value1: 8056.98; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 84,
+                      "y": 161.7611253125,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1982; Value1: 7987.065; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 91,
+                      "y": 161.3563659375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1983; Value1: 8007.115; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 98.00000000000001,
+                      "y": 160.411772625,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1984; Value1: 8053.906; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 105,
+                      "y": 158.6269755625,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1985; Value1: 8142.317; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 112,
+                      "y": 155.9888730625,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1986; Value1: 8272.997; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 119.00000000000001,
+                      "y": 152.62420225000002,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1987; Value1: 8439.668; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 126,
+                      "y": 151.3895549375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1988; Value1: 8500.827; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 133,
+                      "y": 151.20944206250002,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1989; Value1: 8509.749; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 140,
+                      "y": 149.3639411875,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1990; Value1: 8601.167; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 147,
+                      "y": 152.63056131250002,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1991; Value1: 8439.353; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 154,
+                      "y": 162.6907596875,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1992; Value1: 7941.015; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 161,
+                      "y": 171.62457631249998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1993; Value1: 7498.473; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 168,
+                      "y": 179.95305056249998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1994; Value1: 7085.917; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 175,
+                      "y": 180.5614614375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1995; Value1: 7055.779; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 182,
+                      "y": 180.51670575000003,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1996; Value1: 7057.996; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 189,
+                      "y": 184.96031768749998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1997; Value1: 6837.879; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 196.00000000000003,
+                      "y": 185.06099274999997,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1998; Value1: 6832.892; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 203,
+                      "y": 185.96313175,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1999; Value1: 6788.204; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 210,
+                      "y": 184.3228368125,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2000; Value1: 6869.457; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 217,
+                      "y": 183.32331331249998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2001; Value1: 6918.969; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 224,
+                      "y": 183.49375637499998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2002; Value1: 6910.526; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 231,
+                      "y": 179.1213659375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2003; Value1: 7127.115; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 238.00000000000003,
+                      "y": 178.6400959375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2004; Value1: 7150.955; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 179.2704304375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2005; Value1: 7119.731; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 252,
+                      "y": 176.597787125,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2006; Value1: 7252.122; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 259,
+                      "y": 176.59104449999998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2007; Value1: 7252.456; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 266,
+                      "y": 177.70303256250003,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2008; Value1: 7197.373; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 273,
+                      "y": 189.19926875,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2009; Value1: 6627.9; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 280,
+                      "y": 183.25511993750004,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2010; Value1: 6922.347; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 287,
+                      "y": 183.206286375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2011; Value1: 6924.766; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 294,
+                      "y": 183.42889393750002,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2012; Value1: 6913.739; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 301,
+                      "y": 186.68515787500002,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2013; Value1: 6752.438; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 308,
+                      "y": 191.3976673125,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2014; Value1: 6519.001; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 315,
+                      "y": 191.4011799375,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2015; Value1: 6518.827; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 322,
+                      "y": 190.81547999999998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2016; Value1: 6547.84; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 329,
+                      "y": 189.62926249999998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2017; Value1: 6606.6; Region: Europe and Central Asia"
+                    },
+                    {
+                      "x": 336,
+                      "y": 188.76067512499998,
+                      "stroke": "rgb(41, 151, 190)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2018; Value1: 6649.626; Region: Europe and Central Asia"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 350,
+              "height": 323
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 317.72241619375,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1970; Value1: 261.4283; Region: South Asia"
+                    },
+                    {
+                      "x": 7,
+                      "y": 317.68206541875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1971; Value1: 263.4271; Region: South Asia"
+                    },
+                    {
+                      "x": 14,
+                      "y": 317.47038535,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1972; Value1: 273.9128; Region: South Asia"
+                    },
+                    {
+                      "x": 21,
+                      "y": 317.46618836875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1973; Value1: 274.1207; Region: South Asia"
+                    },
+                    {
+                      "x": 28,
+                      "y": 317.0794867125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1974; Value1: 293.2762; Region: South Asia"
+                    },
+                    {
+                      "x": 35,
+                      "y": 316.66826733749997,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1975; Value1: 313.6462; Region: South Asia"
+                    },
+                    {
+                      "x": 42,
+                      "y": 316.286065475,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1976; Value1: 332.5788; Region: South Asia"
+                    },
+                    {
+                      "x": 49.00000000000001,
+                      "y": 316.1418823125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1977; Value1: 339.721; Region: South Asia"
+                    },
+                    {
+                      "x": 56,
+                      "y": 316.735092,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1978; Value1: 310.336; Region: South Asia"
+                    },
+                    {
+                      "x": 63,
+                      "y": 316.2529943125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1979; Value1: 334.217; Region: South Asia"
+                    },
+                    {
+                      "x": 70,
+                      "y": 315.94495325,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1980; Value1: 349.476; Region: South Asia"
+                    },
+                    {
+                      "x": 77,
+                      "y": 315.28492495625,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1981; Value1: 382.1709; Region: South Asia"
+                    },
+                    {
+                      "x": 84,
+                      "y": 314.748214025,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1982; Value1: 408.7572; Region: South Asia"
+                    },
+                    {
+                      "x": 91,
+                      "y": 314.24383539375003,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1983; Value1: 433.7419; Region: South Asia"
+                    },
+                    {
+                      "x": 98.00000000000001,
+                      "y": 313.4860471125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1984; Value1: 471.2794; Region: South Asia"
+                    },
+                    {
+                      "x": 105,
+                      "y": 312.98357014375,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1985; Value1: 496.1699; Region: South Asia"
+                    },
+                    {
+                      "x": 112,
+                      "y": 312.32737949375,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1986; Value1: 528.6747; Region: South Asia"
+                    },
+                    {
+                      "x": 119.00000000000001,
+                      "y": 311.46387936875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1987; Value1: 571.4487; Region: South Asia"
+                    },
+                    {
+                      "x": 126,
+                      "y": 310.7735133,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1988; Value1: 605.6464; Region: South Asia"
+                    },
+                    {
+                      "x": 133,
+                      "y": 309.96100881875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1989; Value1: 645.8943; Region: South Asia"
+                    },
+                    {
+                      "x": 140,
+                      "y": 309.25037248125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1990; Value1: 681.0961; Region: South Asia"
+                    },
+                    {
+                      "x": 147,
+                      "y": 308.3164724875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1991; Value1: 727.3574; Region: South Asia"
+                    },
+                    {
+                      "x": 154,
+                      "y": 307.68305131875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1992; Value1: 758.7343; Region: South Asia"
+                    },
+                    {
+                      "x": 161,
+                      "y": 306.91103085000003,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1993; Value1: 796.9768; Region: South Asia"
+                    },
+                    {
+                      "x": 168,
+                      "y": 305.92976492500003,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1994; Value1: 845.5844; Region: South Asia"
+                    },
+                    {
+                      "x": 175,
+                      "y": 304.6143030125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1995; Value1: 910.7466; Region: South Asia"
+                    },
+                    {
+                      "x": 182,
+                      "y": 303.74500301875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1996; Value1: 953.8079; Region: South Asia"
+                    },
+                    {
+                      "x": 189,
+                      "y": 302.796996,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1997; Value1: 1000.768; Region: South Asia"
+                    },
+                    {
+                      "x": 196.00000000000003,
+                      "y": 302.44989212499996,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1998; Value1: 1017.962; Region: South Asia"
+                    },
+                    {
+                      "x": 203,
+                      "y": 300.813735625,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1999; Value1: 1099.01; Region: South Asia"
+                    },
+                    {
+                      "x": 210,
+                      "y": 300.030702875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2000; Value1: 1137.798; Region: South Asia"
+                    },
+                    {
+                      "x": 217,
+                      "y": 299.5571646875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2001; Value1: 1161.255; Region: South Asia"
+                    },
+                    {
+                      "x": 224,
+                      "y": 298.7165168125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2002; Value1: 1202.897; Region: South Asia"
+                    },
+                    {
+                      "x": 231,
+                      "y": 298.0737468125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2003; Value1: 1234.737; Region: South Asia"
+                    },
+                    {
+                      "x": 238.00000000000003,
+                      "y": 295.9592273125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2004; Value1: 1339.481; Region: South Asia"
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 294.7430515625,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2005; Value1: 1399.725; Region: South Asia"
+                    },
+                    {
+                      "x": 252,
+                      "y": 292.8855795,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2006; Value1: 1491.736; Region: South Asia"
+                    },
+                    {
+                      "x": 259,
+                      "y": 290.2494755625,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2007; Value1: 1622.317; Region: South Asia"
+                    },
+                    {
+                      "x": 266,
+                      "y": 288.43294375,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2008; Value1: 1712.3; Region: South Asia"
+                    },
+                    {
+                      "x": 273,
+                      "y": 284.74186125,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2009; Value1: 1895.14; Region: South Asia"
+                    },
+                    {
+                      "x": 280,
+                      "y": 282.9089371875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2010; Value1: 1985.935; Region: South Asia"
+                    },
+                    {
+                      "x": 287,
+                      "y": 280.7575149375,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2011; Value1: 2092.507; Region: South Asia"
+                    },
+                    {
+                      "x": 294,
+                      "y": 277.751131875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2012; Value1: 2241.43; Region: South Asia"
+                    },
+                    {
+                      "x": 301,
+                      "y": 276.82434393750003,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2013; Value1: 2287.339; Region: South Asia"
+                    },
+                    {
+                      "x": 308,
+                      "y": 272.71449193750004,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2014; Value1: 2490.923; Region: South Asia"
+                    },
+                    {
+                      "x": 315,
+                      "y": 271.0192264375,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2015; Value1: 2574.899; Region: South Asia"
+                    },
+                    {
+                      "x": 322,
+                      "y": 268.99853843750003,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2016; Value1: 2674.995; Region: South Asia"
+                    },
+                    {
+                      "x": 329,
+                      "y": 267.1055161875,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2017; Value1: 2768.767; Region: South Asia"
+                    },
+                    {
+                      "x": 336,
+                      "y": 263.2853144375,
+                      "stroke": "rgb(33, 115, 177)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2018; Value1: 2958.003; Region: South Asia"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 350,
+              "height": 323
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 315.79910865625,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1970; Value1: 356.7005; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 7,
+                      "y": 315.30815875,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1971; Value1: 381.02; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 14,
+                      "y": 314.3836156625,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1972; Value1: 426.8178; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 21,
+                      "y": 313.00545743124997,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1973; Value1: 495.0857; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 28,
+                      "y": 312.99600968125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1974; Value1: 495.5537; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 35,
+                      "y": 312.8966367125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1975; Value1: 500.4762; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 42,
+                      "y": 311.19804431250003,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1976; Value1: 584.617; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 49.00000000000001,
+                      "y": 310.76716029375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1977; Value1: 605.9611; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 56,
+                      "y": 310.15775215624996,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1978; Value1: 636.1485; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 63,
+                      "y": 309.6687281375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1979; Value1: 660.3726; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 70,
+                      "y": 309.4447599375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1980; Value1: 671.467; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 77,
+                      "y": 310.11045284375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1981; Value1: 638.4915; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 84,
+                      "y": 309.17994636875,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1982; Value1: 684.5847; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 91,
+                      "y": 308.3922805875,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1983; Value1: 723.6022; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 98.00000000000001,
+                      "y": 308.54508179375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1984; Value1: 716.0331; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 105,
+                      "y": 307.8052119375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1985; Value1: 752.683; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 112,
+                      "y": 307.45609335,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1986; Value1: 769.9768; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 119.00000000000001,
+                      "y": 306.6969181875,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1987; Value1: 807.583; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 126,
+                      "y": 305.965908625,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1988; Value1: 843.794; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 133,
+                      "y": 304.9056490125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1989; Value1: 896.3146; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 140,
+                      "y": 304.66009028125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1990; Value1: 908.4785; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 147,
+                      "y": 303.80076291250003,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1991; Value1: 951.0458; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 154,
+                      "y": 302.6220713125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1992; Value1: 1009.433; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 161,
+                      "y": 301.4374688125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1993; Value1: 1068.113; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 168,
+                      "y": 299.72437775,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1994; Value1: 1152.972; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 175,
+                      "y": 299.1039553125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1995; Value1: 1183.705; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 182,
+                      "y": 298.21435275,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1996; Value1: 1227.772; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 189,
+                      "y": 297.0884353125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1997; Value1: 1283.545; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 196.00000000000003,
+                      "y": 297.1042623125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1998; Value1: 1282.761; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 203,
+                      "y": 296.12046487500004,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 1999; Value1: 1331.494; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 210,
+                      "y": 294.936669875,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2000; Value1: 1390.134; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 217,
+                      "y": 293.4239599375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2001; Value1: 1465.067; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 224,
+                      "y": 292.33155375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2002; Value1: 1519.18; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 231,
+                      "y": 291.1898093125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2003; Value1: 1575.737; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 238.00000000000003,
+                      "y": 289.43488975,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2004; Value1: 1662.668; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 244.99999999999997,
+                      "y": 287.1141549375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2005; Value1: 1777.627; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 252,
+                      "y": 285.1222745,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2006; Value1: 1876.296; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 259,
+                      "y": 283.39133768749997,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2007; Value1: 1962.039; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 266,
+                      "y": 281.16378837499997,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2008; Value1: 2072.382; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 273,
+                      "y": 279.2101834375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2009; Value1: 2169.155; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 280,
+                      "y": 277.382831125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2010; Value1: 2259.674; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 287,
+                      "y": 276.39651025,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2011; Value1: 2308.532; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 294,
+                      "y": 274.1134453125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2012; Value1: 2421.625; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 301,
+                      "y": 272.8373934375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2013; Value1: 2484.835; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 308,
+                      "y": 271.0399388125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2014; Value1: 2573.873; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 315,
+                      "y": 270.4578928125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2015; Value1: 2602.705; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 322,
+                      "y": 268.985719375,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2016; Value1: 2675.63; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 329,
+                      "y": 267.52297350000003,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2017; Value1: 2748.088; Region: Middle East and North Africa"
+                    },
+                    {
+                      "x": 336,
+                      "y": 266.2054363125,
+                      "stroke": "rgb(35, 78, 160)",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Year: 2018; Value1: 2813.353; Region: Middle East and North Africa"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 350,
+              "height": 323
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rule",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 189,
+              "y": 0,
+              "stroke": "#e54753",
+              "strokeWidth": 2,
+              "y2": 323,
+              "description": "x: 1997"
+            },
+            {
+              "x": 273,
+              "y": 0,
+              "stroke": "#e54753",
+              "strokeWidth": 2,
+              "y2": 323,
+              "description": "x: 2009"
+            },
+            {
+              "x": 315,
+              "y": 0,
+              "stroke": "#e54753",
+              "strokeWidth": 2,
+              "y2": 323,
+              "description": "x: 2015"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(212, 238, 180)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "stroke"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Sub Saharan Africa",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 154.88671875,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(169, 221, 183)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "stroke"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Latin America and Caribbean",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 154.88671875,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(116, 201, 189)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "stroke"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "North America",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 154.88671875,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(69, 180, 194)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "stroke"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "East Asia and Pacific",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 39,
+                              "width": 154.88671875,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(41, 151, 190)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "stroke"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Europe and Central Asia",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 52,
+                              "width": 154.88671875,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(33, 115, 177)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "stroke"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "South Asia",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 65,
+                              "width": 154.88671875,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(35, 78, 160)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "stroke"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Middle East and North Africa",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 78,
+                              "width": 154.88671875,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 18,
+              "y": 18,
+              "width": 155,
+              "height": 89,
+              "orient": "top-left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "black",
+                      "opacity": 1,
+                      "text": "CO\u2082 Emissions per capita by region",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "title-subtitle",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 16,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Million tonnes. Source: Authors' calculations",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontStyle": "italic"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -38.728515625,
+              "y": -35,
+              "align": "left",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 350,
+      "height": 323,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-e6697a23799a0205f41d02251fd32883"}, "mark": {"type": "bar"}, "encoding": {"facet": {"columns": 2, "field": "pacbioRun", "title": null, "type": "nominal"}, "tooltip": [{"field": "category", "type": "nominal"}, {"field": "count", "type": "quantitative"}, {"field": "pacbioRun", "type": "nominal"}, {"field": "library", "type": "nominal"}], "x": {"field": "count", "type": "quantitative"}, "y": {"axis": {"title": null}, "field": "category", "type": "nominal"}}, "height": 75, "resolve": {"scale": {"x": "independent", "y": "independent"}}, "width": 250, "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "datasets": {"data-e6697a23799a0205f41d02251fd32883": [{"category": "aligned PacBio_amplicon", "count": 2672923, "pacbioRun": "Lib-1_220629", "library": "Lib-1"}, {"category": "filtered PacBio_amplicon", "count": 175199, "pacbioRun": "Lib-1_220629", "library": "Lib-1"}, {"category": "unmapped", "count": 19379, "pacbioRun": "Lib-1_220629", "library": "Lib-1"}, {"category": "aligned PacBio_amplicon", "count": 3060344, "pacbioRun": "Lib-2_220629", "library": "Lib-2"}, {"category": "filtered PacBio_amplicon", "count": 205667, "pacbioRun": "Lib-2_220629", "library": "Lib-2"}, {"category": "unmapped", "count": 33533, "pacbioRun": "Lib-2_220629", "library": "Lib-2"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

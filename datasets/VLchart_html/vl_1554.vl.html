@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "repeat": {"row": ["y"], "column": ["x"]}, "spec": {"data": {"url": "https://raw.githubusercontent.com/CGI-FR/SIGO/1f53123c58d9d565ec37b0b64206156cd41ff9bf/examples/simple/simple_sigo.json"}, "mark": "point", "params": [{"name": "brush", "select": {"type": "interval", "resolve": "union", "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!", "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!", "zoom": "wheel![event.shiftKey]"}}, {"name": "grid", "select": {"type": "interval", "resolve": "global", "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!", "zoom": "wheel![!event.shiftKey]"}, "bind": "scales"}], "encoding": {"x": {"field": {"repeat": "column"}, "type": "quantitative"}, "y": {"field": {"repeat": "row"}, "type": "quantitative", "axis": {"minExtent": 30}}, "color": {"field": "group", "type": "nominal"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "Map of the Wards in Bristol", "subtitle": "A map showing the crime rates per 1000 people in different areas in Bristol.", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "width": 250, "height": 250, "data": {"url": "https://raw.githubusercontent.com/joewilliams200217/joewilliams200217.github.io/main/geoBristolnew.json", "format": {"property": "features"}}, "projection": {"type": "mercator"}, "transform": [{"lookup": "properties.WD13NM", "from": {"data": {"url": "https://raw.githubusercontent.com/joewilliams200217/joewilliams200217.github.io/main/bristolcrimestats.csv"}, "key": "Ward Name ", "fields": ["All Crimes (rate per 1000 ward population)", "Burglary (rate per 1000 ward population)"]}}], "mark": {"type": "geoshape", "stroke": "darkgray", "strokeWidth": 0.5}, "encoding": {"color": {"field": "All Crimes (rate per 1000 ward population)", "type": "quantitative", "title": ["All Crimes", "(per 1000 people)"]}, "tooltip": [{"field": "properties.WD13NM", "type": "nominal", "title": "Ward"}, {"field": "All Crimes (rate per 1000 ward population)"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,4028 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 38,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 60,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 75,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 87,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 97,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 106,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 113,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 119,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 125,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 163,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 185,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 200,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 212,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 222,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 231,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 238,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 244,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 250,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 288,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 310,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 325,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 337,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 347,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 356,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 363,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 369,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 375,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 413,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 435,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 450,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 462,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 472,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 481,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 488,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 494,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 500,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 38,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 60,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 75,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 87,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 97,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 106,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 113,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 119,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 125,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 163,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 185,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 200,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 212,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 222,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 231,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 238,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 244,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 250,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 288,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 310,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 325,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 337,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 347,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 356,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 363,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 369,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 375,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 413,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 435,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 450,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 462,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 472,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 481,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 488,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 494,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 500,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 37.62874945799761,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "200",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 59.640156839957776,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 75.25749891599527,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 87.37125054200231,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 97.26890629795544,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 105.63725500178208,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 112.88624837399293,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 119.28031367991561,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 124.99999999999997,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 162.62874945799763,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 184.64015683995774,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 200.25749891599528,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 212.3712505420024,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 222.26890629795543,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 230.63725500178208,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 237.88624837399294,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 244.28031367991562,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 250.00000000000006,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 287.6287494579976,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 309.64015683995785,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 325.25749891599526,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 337.3712505420024,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 347.2689062979555,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 355.6372550017821,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 362.88624837399294,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 369.2803136799156,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 375,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 412.6287494579976,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "200,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 434.64015683995785,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 450.2574989159953,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 462.3712505420024,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 472.2689062979555,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 480.6372550017822,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 487.886248373993,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 494.2803136799157,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 500,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,000,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 250,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "income",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "45",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 262.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 225,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "55",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 187.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "65",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 112.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "70",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 75,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "75",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 37.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "80",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "85",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -34,
+                      "y": 150,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "health",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [
+            {
+              "x": 160.55384173056493,
+              "y": 205.27499999999998,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 12.438640713377591,
+              "shape": "circle",
+              "description": "income: 1925; health: 57.63; population: 32526562",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 253.26556459318124,
+              "y": 67.5,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.751509899601006,
+              "shape": "circle",
+              "description": "income: 10620; health: 76; population: 2896679",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 266.02566799533423,
+              "y": 63.75000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 14.291020065119879,
+              "shape": "circle",
+              "description": "income: 13434; health: 76.5; population: 39666519",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 333.52143905262403,
+              "y": 6.750000000000056,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.018283405636104,
+              "shape": "circle",
+              "description": "income: 46577; health: 84.1; population: 70473",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 235.2087384590077,
+              "y": 180,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 10.49166206147073,
+              "shape": "circle",
+              "description": "income: 7615; health: 61; population: 25021974",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 290.40393351434676,
+              "y": 73.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.023821119275406,
+              "shape": "circle",
+              "description": "income: 21049; health: 75.2; population: 91818",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 279.8936581072867,
+              "y": 65.99999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 15.263975466750532,
+              "shape": "circle",
+              "description": "income: 17344; health: 76.2; population: 43416755",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 236.2536982704271,
+              "y": 79.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.782910513089214,
+              "shape": "circle",
+              "description": "income: 7763; health: 74.4; population: 3017712",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 330.50063293415326,
+              "y": 24.00000000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 10.218473117928916,
+              "shape": "circle",
+              "description": "income: 44056; health: 81.8; population: 23968973",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 330.92409392646505,
+              "y": 29.999999999999993,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.21679411732959,
+              "shape": "circle",
+              "description": "income: 44401; health: 81; population: 8544586",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 278.76138996859333,
+              "y": 90.74999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.530554304564442,
+              "shape": "circle",
+              "description": "income: 16986; health: 72.9; population: 9753968",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 294.7846969744033,
+              "y": 95.25000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.100667046549957,
+              "shape": "circle",
+              "description": "income: 22818; health: 72.3; population: 388019",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 330.60158129168883,
+              "y": 43.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.357308227662365,
+              "shape": "circle",
+              "description": "income: 44138; health: 79.2; population: 1377237",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 187.47806197994748,
+              "y": 111.75000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 45.76845924440349,
+              "shape": "circle",
+              "description": "income: 3161; health: 70.1; population: 160995642",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 264.17606335227197,
+              "y": 69.00000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.073736298055497,
+              "shape": "circle",
+              "description": "income: 12984; health: 75.8; population: 284215",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 280.1154348492819,
+              "y": 109.49999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.463582345123025,
+              "shape": "circle",
+              "description": "income: 17415; health: 70.4; population: 9495826",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 326.9148320764349,
+              "y": 34.499999999999964,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.931444818529249,
+              "shape": "circle",
+              "description": "income: 41240; health: 80.4; population: 11299192",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 241.18375202218624,
+              "y": 112.5,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.093212861106787,
+              "shape": "circle",
+              "description": "income: 8501; health: 70; population: 359287",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 157.80638621630365,
+              "y": 146.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.822645933314016,
+              "shape": "circle",
+              "description": "income: 1830; health: 65.5; population: 10879829",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 237.77076615888143,
+              "y": 110.99999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.201020691456612,
+              "shape": "circle",
+              "description": "income: 7983; health: 70.2; population: 774830",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 224.87446680548518,
+              "y": 95.25000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.782400803748156,
+              "shape": "circle",
+              "description": "income: 6295; health: 72.3; population: 10724705",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 249.085754895266,
+              "y": 53.249999999999964,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.988568407337529,
+              "shape": "circle",
+              "description": "income: 9833; health: 77.9; population: 3810416",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 279.42842955562116,
+              "y": 139.49999999999994,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.586975593498203,
+              "shape": "circle",
+              "description": "income: 17196; health: 66.4; population: 2262485",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 273.584427871229,
+              "y": 70.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 57.92363976111859,
+              "shape": "circle",
+              "description": "income: 15441; health: 75.6; population: 207847528",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 357.91758843402084,
+              "y": 47.24999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.109791237272874,
+              "shape": "circle",
+              "description": "income: 73003; health: 78.7; population: 423188",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 276.75940106285105,
+              "y": 75.74999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.854929631670812,
+              "shape": "circle",
+              "description": "income: 16371; health: 74.9; population: 7149787",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 152.31693815206597,
+              "y": 166.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.69728095274588,
+              "shape": "circle",
+              "description": "income: 1654; health: 62.8; population: 18105570",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 111.30262735011428,
+              "y": 184.5,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.90024189713723,
+              "shape": "circle",
+              "description": "income: 777; health: 60.4; population: 11178921",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 189.26864180942968,
+              "y": 124.49999999999994,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.041505915389521,
+              "shape": "circle",
+              "description": "income: 3267; health: 68.4; population: 15577899",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 182.7435619004702,
+              "y": 191.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 10.056377533222669,
+              "shape": "circle",
+              "description": "income: 2897; health: 59.5; population: 23344179",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 329.55346410119665,
+              "y": 24.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 13.324198826116898,
+              "shape": "circle",
+              "description": "income: 43294; health: 81.7; population: 35939927",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 226.7309692786068,
+              "y": 78.00000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.135038230249926,
+              "shape": "circle",
+              "description": "income: 6514; health: 74.6; population: 520502",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 97.17835279866391,
+              "y": 234,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.271319473699854,
+              "shape": "circle",
+              "description": "income: 599; health: 53.8; population: 4900274",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 167.58029719508815,
+              "y": 204.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 7.6418599276522965,
+              "shape": "circle",
+              "description": "income: 2191; health: 57.7; population: 14037472",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 293.93830286613047,
+              "y": 42.75000000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.65643781756097,
+              "shape": "circle",
+              "description": "income: 22465; health: 79.3; population: 17948141",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 265.62005634869314,
+              "y": 60.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 361,
+              "shape": "circle",
+              "description": "income: 13334; health: 76.9; population: 1376048943",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 263.23558858365413,
+              "y": 69.00000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 16.5123800396684,
+              "shape": "circle",
+              "description": "income: 12761; health: 75.8; population: 48228704",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 145.988476250185,
+              "y": 156.75000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.2045604696198655,
+              "shape": "circle",
+              "description": "income: 1472; health: 64.1; population: 788474",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 113.493565201534,
+              "y": 200.25000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 24.045982185678696,
+              "shape": "circle",
+              "description": "income: 809; health: 58.3; population: 77266814",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 224.22379808635233,
+              "y": 173.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.198691237249109,
+              "shape": "circle",
+              "description": "income: 6220; health: 61.9; population: 4620330",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 268.77545359535094,
+              "y": 37.5,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.247341134725904,
+              "shape": "circle",
+              "description": "income: 14132; health: 80; population: 4807850",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 192.8687311017724,
+              "y": 185.025,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 9.889656420454806,
+              "shape": "circle",
+              "description": "income: 3491; health: 60.33; population: 22701556",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 288.3299301280327,
+              "y": 52.500000000000014,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.100101254901367,
+              "shape": "circle",
+              "description": "income: 20260; health: 78; population: 4240317",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 291.0245074935686,
+              "y": 48.74999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.954890270934207,
+              "shape": "circle",
+              "description": "income: 21291; health: 78.5; population: 11389562",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 309.2715676192991,
+              "y": 18.00000000000005,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.302323621638799,
+              "shape": "circle",
+              "description": "income: 29797; health: 82.6; population: 1165300",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 308.61169348232687,
+              "y": 48.00000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.735307796388461,
+              "shape": "circle",
+              "description": "income: 29437; health: 78.6; population: 10543186",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 329.80491689744355,
+              "y": 36.75000000000005,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.4707775673935455,
+              "shape": "circle",
+              "description": "income: 43495; health: 80.1; population: 5669081",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 187.09891446250526,
+              "y": 152.77500000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.230345278496391,
+              "shape": "circle",
+              "description": "income: 3139; health: 64.63; population: 887861",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 252.6641706855869,
+              "y": 78.00000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.0188559862874005,
+              "shape": "circle",
+              "description": "income: 10503; health: 74.6; population: 72680",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 263.55794265044943,
+              "y": 84.00000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.731469404573351,
+              "shape": "circle",
+              "description": "income: 12837; health: 73.8; population: 10528391",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 255.1543413964289,
+              "y": 73.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.188468455514812,
+              "shape": "circle",
+              "description": "income: 10996; health: 75.2; population: 16144363",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 255.32686057356557,
+              "y": 102.75000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 27.74071514983897,
+              "shape": "circle",
+              "description": "income: 11031; health: 71.3; population: 91508084",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 236.34453148977724,
+              "y": 81.75000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.5894711755176285,
+              "shape": "circle",
+              "description": "income: 7776; health: 74.1; population: 6126583",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 311.5723516484916,
+              "y": 182.77499999999998,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.219241053550229,
+              "shape": "circle",
+              "description": "income: 31087; health: 60.63; population: 845060",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 131.58674274062096,
+              "y": 165.75,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.35628997536318,
+              "shape": "circle",
+              "description": "income: 1129; health: 62.9; population: 5227791",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 303.5411513402111,
+              "y": 61.50000000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.340528008384946,
+              "shape": "circle",
+              "description": "income: 26812; health: 76.8; population: 1312558",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 147.7304484930966,
+              "y": 160.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 29.785781770699707,
+              "shape": "circle",
+              "description": "income: 1520; health: 63.6; population: 99390750",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 237.37490886122364,
+              "y": 140.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.231456712800949,
+              "shape": "circle",
+              "description": "income: 7925; health: 66.3; population: 892145",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 323.775788280328,
+              "y": 31.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.427808334140045,
+              "shape": "circle",
+              "description": "income: 38923; health: 80.8; population: 5503457",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 321.89703679861327,
+              "y": 23.24999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 20.706628264893045,
+              "shape": "circle",
+              "description": "income: 37599; health: 81.9; population: 64395345",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 283.76786432070566,
+              "y": 183.525,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.447607076138715,
+              "shape": "circle",
+              "description": "income: 18627; health: 60.53; population: 1725292",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 151.98772665050393,
+              "y": 149.25000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.516522229543982,
+              "shape": "circle",
+              "description": "income: 1644; health: 65.1; population: 1990924",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 234.1941366892024,
+              "y": 87.75000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.037705011339847,
+              "shape": "circle",
+              "description": "income: 7474; health: 73.3; population: 3999812",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 330.49693613971056,
+              "y": 29.250000000000043,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 24.933710760460936,
+              "shape": "circle",
+              "description": "income: 44053; health: 81.1; population: 80688545",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 201.58473978956275,
+              "y": 146.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 11.111180057059933,
+              "shape": "circle",
+              "description": "income: 4099; health: 65.5; population: 27409893",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 300.6682950219636,
+              "y": 39.000000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.842048815846516,
+              "shape": "circle",
+              "description": "income: 25430; health: 79.8; population: 10954617",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 258.0244794830803,
+              "y": 99.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.02771451204116,
+              "shape": "circle",
+              "description": "income: 11593; health: 71.7; population: 106825",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 232.75896492249927,
+              "y": 89.25000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.239975808040716,
+              "shape": "circle",
+              "description": "income: 7279; health: 73.1; population: 16342897",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 136.0170110875689,
+              "y": 181.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 7.271153001423438,
+              "shape": "circle",
+              "description": "income: 1225; health: 60.8; population: 12608590",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 142.7204037844735,
+              "y": 237,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.47848881273404,
+              "shape": "circle",
+              "description": "income: 1386; health: 53.4; population: 1844325",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 229.1911977198305,
+              "y": 154.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.199011340688919,
+              "shape": "circle",
+              "description": "income: 6816; health: 64.4; population: 767085",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 154.1245137990192,
+              "y": 147.75000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.778862582215581,
+              "shape": "circle",
+              "description": "income: 1710; health: 65.3; population: 10711067",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 203.80348437812802,
+              "y": 94.49999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.09498102132549,
+              "shape": "circle",
+              "description": "income: 4270; health: 72.4; population: 8075060",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 297.97692074755395,
+              "y": 65.99999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.5567718567696325,
+              "shape": "circle",
+              "description": "income: 24200; health: 76.2; population: 9855023",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 328.1408959189494,
+              "y": 16.500000000000014,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.085465510219138,
+              "shape": "circle",
+              "description": "income: 42182; health: 82.8; population: 329425",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 221.38409790264933,
+              "y": 136.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 344.1369119317728,
+              "shape": "circle",
+              "description": "income: 5903; health: 66.8; population: 1311050527",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 252.6693391351778,
+              "y": 105.74999999999994,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 70.82195602326043,
+              "shape": "circle",
+              "description": "income: 10504; health: 70.9; population: 257563815",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 274.0465354498139,
+              "y": 48.74999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 24.52398662683323,
+              "shape": "circle",
+              "description": "income: 15573; health: 78.5; population: 79109272",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 270.71487872510403,
+              "y": 96.75000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 13.449629012941294,
+              "shape": "circle",
+              "description": "income: 14646; health: 72.1; population: 36423395",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 334.8807664005524,
+              "y": 34.499999999999964,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.216368075797432,
+              "shape": "circle",
+              "description": "income: 47758; health: 80.4; population: 4688465",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 312.4437032381436,
+              "y": 19.49999999999995,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.092120971891913,
+              "shape": "circle",
+              "description": "income: 31590; health: 82.4; population: 8064036",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 315.30063826434974,
+              "y": 21.750000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 19.513818497224776,
+              "shape": "circle",
+              "description": "income: 33297; health: 82.1; population: 59797685",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 241.85016771831707,
+              "y": 71.25000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.72469849279191,
+              "shape": "circle",
+              "description": "income: 8606; health: 75.5; population: 2793335",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 319.78155523144443,
+              "y": 11.249999999999993,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 36.838027271388995,
+              "shape": "circle",
+              "description": "income: 36162; health: 83.5; population: 126573481",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 258.76397284777505,
+              "y": 50.25000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.970317475110331,
+              "shape": "circle",
+              "description": "income: 11752; health: 78.3; population: 7594547",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 296.30950994303674,
+              "y": 125.99999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.572661251628169,
+              "shape": "circle",
+              "description": "income: 23468; health: 68.2; population: 17625226",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 182.76229764189446,
+              "y": 137.77500000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 15.947218809062374,
+              "shape": "circle",
+              "description": "income: 2898; health: 66.63; population: 46050302",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 157.62810424904964,
+              "y": 169.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.029166848464342,
+              "shape": "circle",
+              "description": "income: 1824; health: 62.4; population: 112423",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 364.64419001884875,
+              "y": 32.24999999999998,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.009764268973389,
+              "shape": "circle",
+              "description": "income: 82633; health: 80.7; population: 3892115",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 188.90183764204852,
+              "y": 120,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.541054513204186,
+              "shape": "circle",
+              "description": "income: 3245; health: 69; population: 5939962",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 214.6255508800684,
+              "y": 139.49999999999994,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.764706279782375,
+              "shape": "circle",
+              "description": "income: 5212; health: 66.4; population: 6802023",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 295.8775356122196,
+              "y": 69.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.511224237029191,
+              "shape": "circle",
+              "description": "income: 23282; health: 75.7; population: 1970503",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 278.96554791606457,
+              "y": 48.74999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.517907674451083,
+              "shape": "circle",
+              "description": "income: 17050; health: 78.5; population: 5850743",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 176.82989334212616,
+              "y": 273.75,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.553906790799373,
+              "shape": "circle",
+              "description": "income: 2598; health: 48.5; population: 2135022",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 122.67068863481803,
+              "y": 158.25000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.168364958367618,
+              "shape": "circle",
+              "description": "income: 958; health: 63.9; population: 4503438",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 279.63324406942553,
+              "y": 65.99999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.62886820080207,
+              "shape": "circle",
+              "description": "income: 17261; health: 76.2; population: 6278438",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 303.242698502362,
+              "y": 71.99999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.746768921430726,
+              "shape": "circle",
+              "description": "income: 26665; health: 75.4; population: 2878405",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 368.2536944602123,
+              "y": 29.250000000000043,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.147130137361691,
+              "shape": "circle",
+              "description": "income: 88314; health: 81.1; population: 567110",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 262.31748724910767,
+              "y": 59.999999999999986,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.539230617322599,
+              "shape": "circle",
+              "description": "income: 12547; health: 77; population: 2078453",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 143.26600445977974,
+              "y": 152.24999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 10.28759193051464,
+              "shape": "circle",
+              "description": "income: 1400; health: 64.7; population: 24235390",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 112.81834741424892,
+              "y": 185.85000000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.46629304521765,
+              "shape": "circle",
+              "description": "income: 799; health: 60.22; population: 17215232",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 298.24544632508713,
+              "y": 74.25000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 11.869029335099746,
+              "shape": "circle",
+              "description": "income: 24320; health: 75.1; population: 30331007",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 269.8254624764346,
+              "y": 41.249999999999986,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.094346607117738,
+              "shape": "circle",
+              "description": "income: 14408; health: 79.5; population: 363657",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 153.29276089545382,
+              "y": 205.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.566037269213615,
+              "shape": "circle",
+              "description": "income: 1684; health: 57.6; population: 17599694",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 310.1175847810714,
+              "y": 21.750000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.108619094371849,
+              "shape": "circle",
+              "description": "income: 30265; health: 82.1; population: 418670",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 195.44996611019135,
+              "y": 149.25000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.013748421592298,
+              "shape": "circle",
+              "description": "income: 3661; health: 65.1; population: 52993",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 198.5619751259012,
+              "y": 144.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.055282484963182,
+              "shape": "circle",
+              "description": "income: 3877; health: 65.7; population: 4067564",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 282.9545085735135,
+              "y": 83.24999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.3303201432712415,
+              "shape": "circle",
+              "description": "income: 18350; health: 73.9; population: 1273212",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 278.3249881509197,
+              "y": 78.74999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 36.95315126592848,
+              "shape": "circle",
+              "description": "income: 16850; health: 74.5; population: 127017224",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 193.16338955822803,
+              "y": 135,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.027100940115325,
+              "shape": "circle",
+              "description": "income: 3510; health: 67; population: 104460",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 211.23017614218813,
+              "y": 92.24999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.055628316412289,
+              "shape": "circle",
+              "description": "income: 4896; health: 72.7; population: 4068897",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 259.07259158111873,
+              "y": 147.75000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.767713127773537,
+              "shape": "circle",
+              "description": "income: 11819; health: 65.3; population: 2959134",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 271.40362459063147,
+              "y": 69.00000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.162351650452886,
+              "shape": "circle",
+              "description": "income: 14833; health: 75.8; population: 625781",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 233.05646839477288,
+              "y": 77.24999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 12.918848046380862,
+              "shape": "circle",
+              "description": "income: 7319; health: 74.7; population: 34377511",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 133.80091521751496,
+              "y": 214.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 11.258533311485564,
+              "shape": "circle",
+              "description": "income: 1176; health: 56.4; population: 27977863",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 200.42011554354758,
+              "y": 128.24999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 17.982993901402242,
+              "shape": "circle",
+              "description": "income: 4012; health: 67.9; population: 53897154",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 250.216714101125,
+              "y": 180,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.637915035264847,
+              "shape": "circle",
+              "description": "income: 10040; health: 61; population: 2458830",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 171.4296646755126,
+              "y": 103.49999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 11.397550030311676,
+              "shape": "circle",
+              "description": "income: 2352; health: 71.2; population: 28513700",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 332.5892166125416,
+              "y": 33.00000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.390977285900217,
+              "shape": "circle",
+              "description": "income: 45784; health: 80.6; population: 16924929",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 316.73103603641766,
+              "y": 33.00000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.174873750111954,
+              "shape": "circle",
+              "description": "income: 34186; health: 80.6; population: 4528526",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 209.1506602223806,
+              "y": 61.50000000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.577912933290193,
+              "shape": "circle",
+              "description": "income: 4712; health: 76.8; population: 6082032",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 121.81396159216604,
+              "y": 170.99999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 9.162596778361829,
+              "shape": "circle",
+              "description": "income: 943; health: 62.2; population: 19899120",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 219.74089788916615,
+              "y": 177.525,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 51.27019395995423,
+              "shape": "circle",
+              "description": "income: 5727; health: 61.33; population: 182201962",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 142.87685003176188,
+              "y": 101.99999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 10.52625636223464,
+              "shape": "circle",
+              "description": "income: 1390; health: 71.4; population: 25155317",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 351.02974860599494,
+              "y": 25.500000000000057,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.35192518294024,
+              "shape": "circle",
+              "description": "income: 64304; health: 81.6; population: 5210967",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 335.4101552263207,
+              "y": 69.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.165018980723856,
+              "shape": "circle",
+              "description": "income: 48226; health: 75.7; population: 4490541",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 209.50664058148396,
+              "y": 138.75,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 53.01437580480014,
+              "shape": "circle",
+              "description": "income: 4743; health: 66.5; population: 188924874",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 288.92949603614517,
+              "y": 50.99999999999998,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.019370236891349,
+              "shape": "circle",
+              "description": "income: 20485; health: 78.2; population: 3929141",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 175.3686036680506,
+              "y": 183,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.976744803182484,
+              "shape": "circle",
+              "description": "income: 2529; health: 60.6; population: 7619321",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 239.3523725559341,
+              "y": 83.24999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.722443756856983,
+              "shape": "circle",
+              "description": "income: 8219; health: 73.9; population: 6639123",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 259.4570541997418,
+              "y": 56.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 12.14031451932157,
+              "shape": "circle",
+              "description": "income: 11903; health: 77.5; population: 31376670",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 229.6669835018769,
+              "y": 110.99999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30.125294596443723,
+              "shape": "circle",
+              "description": "income: 6876; health: 70.2; population: 100699395",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 299.277995846546,
+              "y": 57.750000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 14.017383849696397,
+              "shape": "circle",
+              "description": "income: 24787; health: 77.3; population: 38611794",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 302.776521379278,
+              "y": 39.000000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.685136811300177,
+              "shape": "circle",
+              "description": "income: 26437; health: 79.8; population: 10349803",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 390.4312267962423,
+              "y": 22.499999999999986,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.579937028446233,
+              "shape": "circle",
+              "description": "income: 132877; health: 82; population: 2235355",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 285.42113523943164,
+              "y": 61.50000000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 9.061987586585428,
+              "shape": "circle",
+              "description": "income: 19203; health: 76.8; population: 19511324",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 295.30559674263185,
+              "y": 89.02500000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 41.218239937269445,
+              "shape": "circle",
+              "description": "income: 23038; health: 73.13; population: 143456918",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 148.75642721990073,
+              "y": 138.525,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 7.011993710749866,
+              "shape": "circle",
+              "description": "income: 1549; health: 66.53; population: 11609666",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 218.11481780516917,
+              "y": 95.99999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.050130772129084,
+              "shape": "circle",
+              "description": "income: 5558; health: 72.2; population: 193228",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 184.6944165248726,
+              "y": 121.50000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.049382551649545,
+              "shape": "circle",
+              "description": "income: 3003; health: 68.8; population: 190344",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 339.9878483892377,
+              "y": 51.75000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 12.18278511188101,
+              "shape": "circle",
+              "description": "income: 52469; health: 78.1; population: 31540372",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 169.046936875065,
+              "y": 141.75000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 7.925115082916058,
+              "shape": "circle",
+              "description": "income: 2251; health: 66.1; population: 15129273",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 263.85736959148335,
+              "y": 51.75000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.296283203496491,
+              "shape": "circle",
+              "description": "income: 12908; health: 78.1; population: 8850975",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 301.20783265555707,
+              "y": 84.74999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.025028286366701,
+              "shape": "circle",
+              "description": "income: 25684; health: 73.7; population: 96471",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 164.88825741372204,
+              "y": 198.75,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.674204031564013,
+              "shape": "circle",
+              "description": "income: 2085; health: 58.5; population: 6453184",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 363.4223887483626,
+              "y": 21.750000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.453825599864583,
+              "shape": "circle",
+              "description": "income: 80794; health: 82.1; population: 5603740",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 304.32909577176775,
+              "y": 64.49999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.407779945513173,
+              "shape": "circle",
+              "description": "income: 27204; health: 76.4; population: 5426258",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 306.95076407273336,
+              "y": 35.999999999999964,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.536395733418328,
+              "shape": "circle",
+              "description": "income: 28550; health: 80.2; population: 2067526",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 163.88973033281317,
+              "y": 156.75000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.151405942397501,
+              "shape": "circle",
+              "description": "income: 2047; health: 64.1; population: 583591",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 99.398073710303,
+              "y": 197.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.798589503367687,
+              "shape": "circle",
+              "description": "income: 624; health: 58.7; population: 10787104",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 262.15282406498767,
+              "y": 159.60000000000002,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 18.136906278630818,
+              "shape": "circle",
+              "description": "income: 12509; health: 63.72; population: 54490406",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 317.4535037410432,
+              "y": 32.24999999999998,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 17.04805168038271,
+              "shape": "circle",
+              "description": "income: 34644; health: 80.7; population: 50293439",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 185.48405677783416,
+              "y": 202.5,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 7.2014216546656655,
+              "shape": "circle",
+              "description": "income: 3047; health: 58; population: 12339812",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 314.7796853361434,
+              "y": 24.74999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 15.96574193582299,
+              "shape": "circle",
+              "description": "income: 32979; health: 81.7; population: 46121699",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 253.28600775299276,
+              "y": 63.75000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 9.374270012429347,
+              "shape": "circle",
+              "description": "income: 10624; health: 76.5; population: 20715010",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 249.9837115135335,
+              "y": 78.74999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.047995853153314,
+              "shape": "circle",
+              "description": "income: 9997; health: 74.5; population: 184999",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 252.31155667518414,
+              "y": 90.74999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.028398651224428,
+              "shape": "circle",
+              "description": "income: 10435; health: 72.9; population: 109462",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 199.91714162406114,
+              "y": 116.24999999999999,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 14.438475278854963,
+              "shape": "circle",
+              "description": "income: 3975; health: 69.5; population: 40234882",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 279.20382252055794,
+              "y": 108.75000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.140868590456815,
+              "shape": "circle",
+              "description": "income: 17125; health: 70.5; population: 542975",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 223.12171374430005,
+              "y": 251.25,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.333889497417389,
+              "shape": "circle",
+              "description": "income: 6095; health: 51.5; population: 1286970",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 331.52111928072867,
+              "y": 22.499999999999986,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.5371590885339605,
+              "shape": "circle",
+              "description": "income: 44892; health: 82; population: 9779426",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 343.63777309113345,
+              "y": 15.749999999999964,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.152992236265248,
+              "shape": "circle",
+              "description": "income: 56118; health: 82.9; population: 8298663",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 208.2796369869756,
+              "y": 110.54999999999995,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.80023728414724,
+              "shape": "circle",
+              "description": "income: 4637; health: 70.26; population: 18502413",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 176.4945297413002,
+              "y": 105,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.20051928414584,
+              "shape": "circle",
+              "description": "income: 2582; health: 71; population: 8481855",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 176.26275958035757,
+              "y": 161.775,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 17.872282695398283,
+              "shape": "circle",
+              "description": "income: 2571; health: 63.43; population: 53470420",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 270.2159087145026,
+              "y": 74.25000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 21.631270520150387,
+              "shape": "circle",
+              "description": "income: 14512; health: 75.1; population: 67959359",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 164.91428801131403,
+              "y": 94.49999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.3073735909987905,
+              "shape": "circle",
+              "description": "income: 2086; health: 72.4; population: 1184765",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 144.53077379966805,
+              "y": 155.77499999999998,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.895088368234007,
+              "shape": "circle",
+              "description": "income: 1433; health: 64.23; population: 7304578",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 213.11528640292525,
+              "y": 108.75000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.027544579858741,
+              "shape": "circle",
+              "description": "income: 5069; health: 70.5; population: 106170",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 309.84425301823745,
+              "y": 101.99999999999996,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.352859117744331,
+              "shape": "circle",
+              "description": "income: 30113; health: 71.4; population: 1360088",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 255.79238195060117,
+              "y": 57.750000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.9196045667105315,
+              "shape": "circle",
+              "description": "income: 11126; health: 77.3; population: 11253554",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 285.86316912154683,
+              "y": 63.75000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 24.40894072326612,
+              "shape": "circle",
+              "description": "income: 19360; health: 76.5; population: 78665830",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 275.0550095545539,
+              "y": 128.24999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.394093010832682,
+              "shape": "circle",
+              "description": "income: 15865; health: 67.9; population: 5373502",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 153.16366021573285,
+              "y": 181.50000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 14.12650080644697,
+              "shape": "circle",
+              "description": "income: 1680; health: 60.8; population: 39032383",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 240.8506637639508,
+              "y": 96.75000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 15.62900795527881,
+              "shape": "circle",
+              "description": "income: 8449; health: 72.1; population: 44823765",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 347.94239166639375,
+              "y": 63.00000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 6.375668254846369,
+              "shape": "circle",
+              "description": "income: 60749; health: 76.6; population: 9156963",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 322.79343676054475,
+              "y": 26.999999999999957,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 20.789769206632062,
+              "shape": "circle",
+              "description": "income: 38225; health: 81.4; population: 64715810",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 340.8958730563007,
+              "y": 44.25000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 87.48045093262355,
+              "shape": "circle",
+              "description": "income: 53354; health: 79.1; population: 321773631",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 288.80479935198105,
+              "y": 57.750000000000036,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.890277298080087,
+              "shape": "circle",
+              "description": "income: 20438; health: 77.3; population: 3431555",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 218.5041117662679,
+              "y": 111.75000000000004,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 11.755520085450915,
+              "shape": "circle",
+              "description": "income: 5598; health: 70.1; population: 29893488",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 183.02392133012495,
+              "y": 150,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 4.0686609037277535,
+              "shape": "circle",
+              "description": "income: 2912; health: 65; population: 264652",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 274.67040912583997,
+              "y": 69.00000000000003,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 12.07063272530707,
+              "shape": "circle",
+              "description": "income: 15753; health: 75.8; population: 31108083",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 218.7460104386754,
+              "y": 63.75000000000001,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 28.243900427166707,
+              "shape": "circle",
+              "description": "income: 5623; health: 76.5; population: 93447601",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 204.4229005059373,
+              "y": 73.49999999999997,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 5.211179566307039,
+              "shape": "circle",
+              "description": "income: 4319; health: 75.2; population: 4668466",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 198.70181757890833,
+              "y": 130.50000000000006,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 10.961308174196244,
+              "shape": "circle",
+              "description": "income: 3887; health: 67.6; population: 26832215",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 200.71698673459338,
+              "y": 195.3,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.205955644558784,
+              "shape": "circle",
+              "description": "income: 4034; health: 58.96; population: 16211767",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 156.93921410244167,
+              "y": 187.425,
+              "fill": "#000",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 8.047953479660498,
+              "shape": "circle",
+              "description": "income: 1801; health: 60.01; population: 15602751",
+              "ariaRoleDescription": "circle"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10,
+                                      "y": 5,
+                                      "fill": "#000",
+                                      "opacity": 0.7,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 4,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 24,
+                                      "y": 5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "0",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 89.8642578125,
+                              "height": 10,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10,
+                                      "y": 5,
+                                      "fill": "#000",
+                                      "opacity": 0.7,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 55.88768928838893,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 24,
+                                      "y": 5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "200,000,000",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 89.8642578125,
+                              "height": 10.237903466128738,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "opacity": 0.7,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 107.77537857677785,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 24,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "400,000,000",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 27,
+                              "width": 89.8642578125,
+                              "height": 12.690746058534792,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10,
+                                      "y": 7.5,
+                                      "fill": "#000",
+                                      "opacity": 0.7,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 159.6630678651668,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 24,
+                                      "y": 7.5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "600,000,000",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 43,
+                              "width": 89.8642578125,
+                              "height": 15.317892604839983,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10,
+                                      "y": 8.5,
+                                      "fill": "#000",
+                                      "opacity": 0.7,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 211.5507571535557,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 24,
+                                      "y": 8.5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "800,000,000",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 62,
+                              "width": 89.8642578125,
+                              "height": 17.27239226722466,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10,
+                                      "y": 9,
+                                      "fill": "#000",
+                                      "opacity": 0.7,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 263.4384464419446,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 24,
+                                      "y": 9,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "1,000,000,000",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 83,
+                              "width": 89.8642578125,
+                              "height": 18.615393496959115,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10,
+                                      "y": 10,
+                                      "fill": "#000",
+                                      "opacity": 0.7,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 315.3261357303336,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 24,
+                                      "y": 10,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "1,200,000,000",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 105,
+                              "width": 89.8642578125,
+                              "height": 20.378712402853438,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "population",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 518,
+              "y": 0,
+              "width": 90,
+              "height": 142,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

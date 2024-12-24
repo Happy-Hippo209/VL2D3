@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": ["Do you support affirmative action that increases the share", "of Black and Hispanic students in selective institutions?"], "subtitle": "Data: YouGov", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"values": [{"Answer": "Yes", "Percent": "37"}, {"Answer": "No", "Percent": "34"}, {"Answer": "Not Sure", "Percent": "29"}]}, "height": 300, "width": 260, "mark": {"type": "bar"}, "encoding": {"x": {"field": "Answer", "type": "ordinal", "axis": {"title": null, "grid": false, "ticks": false, "labelAngle": 360}}, "y": {"field": "Percent", "type": "quantitative", "scale": {"domain": [0, 55]}, "title": "Percent", "axis": {"grid": false}}, "color": {"field": "Answer", "legend": false}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

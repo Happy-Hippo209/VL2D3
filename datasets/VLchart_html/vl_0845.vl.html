@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/Jordanboi58/Jordanboi58.github.io/main/Thisone1", "format": {"type": "json"}}, "title": {"text": "Unemployment and Drug use Time series", "subtitle": "Measuring: (16-17 Unemployment)(16-20 Druguse)(16+ Unemplyoment)(20-24 Druguse) ", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "height": 300, "width": 500, "transform": [{"calculate": "datum.value/100", "as": "pvalue"}], "encoding": {"x": {"field": "date", "type": "temporal", "title": "Date"}, "y": {"field": "pvalue", "type": "quantitative", "title": "Percentage of Population", "axis": {"format": ",%"}}, "color": {"field": "level_1", "type": "nominal", "title": "Inidcator measured;"}}, "layer": [{"mark": "line"}, {"params": [{"name": "hover", "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}}], "mark": {"type": "circle", "tooltip": true}, "encoding": {"opacity": {"condition": {"test": {"param": "hover", "empty": false}, "value": 1}, "value": 0}, "size": {"condition": {"test": {"param": "hover", "empty": false}, "value": 48}, "value": 100}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

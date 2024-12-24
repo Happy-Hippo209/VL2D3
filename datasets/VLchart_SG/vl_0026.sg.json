@@ -1,0 +1,1868 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 39,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 78,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 117,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 156,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 195,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 234,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 274,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 313,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 352,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 391,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 430,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 469,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 508,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 547,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 586,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 625,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 664,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 703,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 742,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 267,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 233,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 167,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 133,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 67,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 33,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 39,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 78,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 117,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 156,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 195,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 234,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 274,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 313,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 352,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 391,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 430,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 469,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 508,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 547,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 586,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 625,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 664,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 703,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 742,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1980",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 39.102983502983506,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1982",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 78.15247455247454,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1984",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 117.25545805545805,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1986",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 156.3049491049491,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1988",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 195.40793260793262,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1990",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 234.45742365742367,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1992",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 273.5604071604071,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1994",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 312.6098982098982,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1996",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 351.7128817128817,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1998",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 390.76237276237276,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 429.86535626535624,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2002",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 468.91484731484735,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2004",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 508.0178308178308,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2006",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 547.0673218673219,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2008",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 586.1703053703054,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2010",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 625.2197964197964,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2012",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 664.3227799227799,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2014",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 703.3722709722709,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2016",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 742.4752544752545,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2018",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 381,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "year",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 267,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 233,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 167,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 133,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 67,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 33,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 266.66666666666663,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 233.33333333333334,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 200.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "3,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 166.66666666666669,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "4,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 133.33333333333331,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 100.00000000000001,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "6,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 66.66666666666666,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "7,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 33.33333333333335,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "8,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "9,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -36.8642578125,
+                      "y": 150,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Coal Production [MT]",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 174.4503333333333,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1980; Coal Production [MT]: 3766.49; MT: 3766.49"
+            },
+            {
+              "x": 19.57823797823798,
+              "y": 173.5038,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1981; Coal Production [MT]: 3794.886; MT: 3794.89"
+            },
+            {
+              "x": 39.102983502983506,
+              "y": 168.4187,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1982; Coal Production [MT]: 3947.439; MT: 3947.44"
+            },
+            {
+              "x": 58.627729027729025,
+              "y": 167.12483333333336,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1983; Coal Production [MT]: 3986.255; MT: 3986.26"
+            },
+            {
+              "x": 78.15247455247454,
+              "y": 160.43970000000002,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1984; Coal Production [MT]: 4186.809; MT: 4186.81"
+            },
+            {
+              "x": 97.73071253071252,
+              "y": 153.86106666666663,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1985; Coal Production [MT]: 4384.168; MT: 4384.17"
+            },
+            {
+              "x": 117.25545805545805,
+              "y": 150.2044,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1986; Coal Production [MT]: 4493.868; MT: 4493.87"
+            },
+            {
+              "x": 136.78020358020356,
+              "y": 146.48026666666664,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1987; Coal Production [MT]: 4605.592; MT: 4605.59"
+            },
+            {
+              "x": 156.3049491049491,
+              "y": 143.1359,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1988; Coal Production [MT]: 4705.923; MT: 4705.92"
+            },
+            {
+              "x": 175.88318708318707,
+              "y": 140.66113333333334,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1989; Coal Production [MT]: 4780.166; MT: 4780.17"
+            },
+            {
+              "x": 195.40793260793262,
+              "y": 143.25403333333333,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1990; Coal Production [MT]: 4702.379; MT: 4702.38"
+            },
+            {
+              "x": 214.93267813267812,
+              "y": 148.76503333333332,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1991; Coal Production [MT]: 4537.049; MT: 4537.05"
+            },
+            {
+              "x": 234.45742365742367,
+              "y": 152.01479999999998,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1992; Coal Production [MT]: 4439.556; MT: 4439.56"
+            },
+            {
+              "x": 254.03566163566165,
+              "y": 155.87453333333335,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1993; Coal Production [MT]: 4323.764; MT: 4323.76"
+            },
+            {
+              "x": 273.5604071604071,
+              "y": 153.1165,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1994; Coal Production [MT]: 4406.505; MT: 4406.51"
+            },
+            {
+              "x": 293.0851526851527,
+              "y": 150.47476666666665,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1995; Coal Production [MT]: 4485.757; MT: 4485.76"
+            },
+            {
+              "x": 312.6098982098982,
+              "y": 147.12806666666665,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1996; Coal Production [MT]: 4586.158; MT: 4586.16"
+            },
+            {
+              "x": 332.1881361881362,
+              "y": 147.0097,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1997; Coal Production [MT]: 4589.709; MT: 4589.71"
+            },
+            {
+              "x": 351.7128817128817,
+              "y": 147.75109999999998,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1998; Coal Production [MT]: 4567.467; MT: 4567.47"
+            },
+            {
+              "x": 371.23762723762724,
+              "y": 149.7617666666667,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1999; Coal Production [MT]: 4507.147; MT: 4507.15"
+            },
+            {
+              "x": 390.76237276237276,
+              "y": 145.04246666666663,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2000; Coal Production [MT]: 4648.726; MT: 4648.73"
+            },
+            {
+              "x": 410.3406107406107,
+              "y": 137.8095,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2001; Coal Production [MT]: 4865.715; MT: 4865.72"
+            },
+            {
+              "x": 429.86535626535624,
+              "y": 136.1069,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2002; Coal Production [MT]: 4916.793; MT: 4916.79"
+            },
+            {
+              "x": 449.3901017901018,
+              "y": 124.26669999999997,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2003; Coal Production [MT]: 5271.999; MT: 5272.00"
+            },
+            {
+              "x": 468.91484731484735,
+              "y": 110.9567333333333,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2004; Coal Production [MT]: 5671.298; MT: 5671.30"
+            },
+            {
+              "x": 488.4930852930853,
+              "y": 98.9280333333333,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2005; Coal Production [MT]: 6032.159; MT: 6032.16"
+            },
+            {
+              "x": 508.0178308178308,
+              "y": 88.54626666666667,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2006; Coal Production [MT]: 6343.612; MT: 6343.61"
+            },
+            {
+              "x": 527.5425763425764,
+              "y": 79.48576666666666,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2007; Coal Production [MT]: 6615.427; MT: 6615.43"
+            },
+            {
+              "x": 547.0673218673219,
+              "y": 72.0994333333333,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2008; Coal Production [MT]: 6837.017; MT: 6837.02"
+            },
+            {
+              "x": 566.6455598455599,
+              "y": 69.5412,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2009; Coal Production [MT]: 6913.764; MT: 6913.76"
+            },
+            {
+              "x": 586.1703053703054,
+              "y": 55.13636666666666,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2010; Coal Production [MT]: 7345.909; MT: 7345.91"
+            },
+            {
+              "x": 605.6950508950508,
+              "y": 38.81123333333332,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2011; Coal Production [MT]: 7835.663; MT: 7835.66"
+            },
+            {
+              "x": 625.2197964197964,
+              "y": 32.007266666666666,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2012; Coal Production [MT]: 8039.782; MT: 8039.78"
+            },
+            {
+              "x": 644.7980343980345,
+              "y": 28.70339999999998,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2013; Coal Production [MT]: 8138.898; MT: 8138.90"
+            },
+            {
+              "x": 664.3227799227799,
+              "y": 31.895099999999964,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2014; Coal Production [MT]: 8043.147; MT: 8043.15"
+            },
+            {
+              "x": 683.8475254475254,
+              "y": 38.9595333333333,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2015; Coal Production [MT]: 7831.214; MT: 7831.21"
+            },
+            {
+              "x": 703.3722709722709,
+              "y": 56.53926666666668,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2016; Coal Production [MT]: 7303.822; MT: 7303.82"
+            },
+            {
+              "x": 722.950508950509,
+              "y": 47.98509999999999,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2017; Coal Production [MT]: 7560.447; MT: 7560.45"
+            },
+            {
+              "x": 742.4752544752545,
+              "y": 38.03459999999998,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2018; Coal Production [MT]: 7858.962; MT: 7858.96"
+            },
+            {
+              "x": 762,
+              "y": 33.075166666666654,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2019; Coal Production [MT]: 8007.745; MT: 8007.75"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 174.4503333333333,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1980; Coal Production [MT]: 3766.49; MT: 3766.49",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 19.57823797823798,
+              "y": 173.5038,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1981; Coal Production [MT]: 3794.886; MT: 3794.89",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 39.102983502983506,
+              "y": 168.4187,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1982; Coal Production [MT]: 3947.439; MT: 3947.44",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 58.627729027729025,
+              "y": 167.12483333333336,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1983; Coal Production [MT]: 3986.255; MT: 3986.26",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 78.15247455247454,
+              "y": 160.43970000000002,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1984; Coal Production [MT]: 4186.809; MT: 4186.81",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 97.73071253071252,
+              "y": 153.86106666666663,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1985; Coal Production [MT]: 4384.168; MT: 4384.17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 117.25545805545805,
+              "y": 150.2044,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1986; Coal Production [MT]: 4493.868; MT: 4493.87",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 136.78020358020356,
+              "y": 146.48026666666664,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1987; Coal Production [MT]: 4605.592; MT: 4605.59",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 156.3049491049491,
+              "y": 143.1359,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1988; Coal Production [MT]: 4705.923; MT: 4705.92",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 175.88318708318707,
+              "y": 140.66113333333334,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1989; Coal Production [MT]: 4780.166; MT: 4780.17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 195.40793260793262,
+              "y": 143.25403333333333,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1990; Coal Production [MT]: 4702.379; MT: 4702.38",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 214.93267813267812,
+              "y": 148.76503333333332,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1991; Coal Production [MT]: 4537.049; MT: 4537.05",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 234.45742365742367,
+              "y": 152.01479999999998,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1992; Coal Production [MT]: 4439.556; MT: 4439.56",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 254.03566163566165,
+              "y": 155.87453333333335,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1993; Coal Production [MT]: 4323.764; MT: 4323.76",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 273.5604071604071,
+              "y": 153.1165,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1994; Coal Production [MT]: 4406.505; MT: 4406.51",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 293.0851526851527,
+              "y": 150.47476666666665,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1995; Coal Production [MT]: 4485.757; MT: 4485.76",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 312.6098982098982,
+              "y": 147.12806666666665,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1996; Coal Production [MT]: 4586.158; MT: 4586.16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 332.1881361881362,
+              "y": 147.0097,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1997; Coal Production [MT]: 4589.709; MT: 4589.71",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 351.7128817128817,
+              "y": 147.75109999999998,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1998; Coal Production [MT]: 4567.467; MT: 4567.47",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 371.23762723762724,
+              "y": 149.7617666666667,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1999; Coal Production [MT]: 4507.147; MT: 4507.15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390.76237276237276,
+              "y": 145.04246666666663,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2000; Coal Production [MT]: 4648.726; MT: 4648.73",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410.3406107406107,
+              "y": 137.8095,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2001; Coal Production [MT]: 4865.715; MT: 4865.72",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 429.86535626535624,
+              "y": 136.1069,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2002; Coal Production [MT]: 4916.793; MT: 4916.79",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 449.3901017901018,
+              "y": 124.26669999999997,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2003; Coal Production [MT]: 5271.999; MT: 5272.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 468.91484731484735,
+              "y": 110.9567333333333,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2004; Coal Production [MT]: 5671.298; MT: 5671.30",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 488.4930852930853,
+              "y": 98.9280333333333,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2005; Coal Production [MT]: 6032.159; MT: 6032.16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 508.0178308178308,
+              "y": 88.54626666666667,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2006; Coal Production [MT]: 6343.612; MT: 6343.61",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 527.5425763425764,
+              "y": 79.48576666666666,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2007; Coal Production [MT]: 6615.427; MT: 6615.43",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 547.0673218673219,
+              "y": 72.0994333333333,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2008; Coal Production [MT]: 6837.017; MT: 6837.02",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 566.6455598455599,
+              "y": 69.5412,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2009; Coal Production [MT]: 6913.764; MT: 6913.76",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 586.1703053703054,
+              "y": 55.13636666666666,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2010; Coal Production [MT]: 7345.909; MT: 7345.91",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 605.6950508950508,
+              "y": 38.81123333333332,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2011; Coal Production [MT]: 7835.663; MT: 7835.66",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 625.2197964197964,
+              "y": 32.007266666666666,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2012; Coal Production [MT]: 8039.782; MT: 8039.78",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 644.7980343980345,
+              "y": 28.70339999999998,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2013; Coal Production [MT]: 8138.898; MT: 8138.90",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 664.3227799227799,
+              "y": 31.895099999999964,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2014; Coal Production [MT]: 8043.147; MT: 8043.15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 683.8475254475254,
+              "y": 38.9595333333333,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2015; Coal Production [MT]: 7831.214; MT: 7831.21",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 703.3722709722709,
+              "y": 56.53926666666668,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2016; Coal Production [MT]: 7303.822; MT: 7303.82",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 722.950508950509,
+              "y": 47.98509999999999,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2017; Coal Production [MT]: 7560.447; MT: 7560.45",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 742.4752544752545,
+              "y": 38.03459999999998,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2018; Coal Production [MT]: 7858.962; MT: 7858.96",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 762,
+              "y": 33.075166666666654,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2019; Coal Production [MT]: 8007.745; MT: 8007.75",
+              "ariaRoleDescription": "point"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 762,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

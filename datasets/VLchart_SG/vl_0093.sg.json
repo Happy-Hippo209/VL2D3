@@ -1,0 +1,2330 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 570,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 510,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 480,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 420,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 390,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 360,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 330,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 240,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 8,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 24,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 40,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 57,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 73,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 89,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 106,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 122,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 138,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 155,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 171,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 187,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 204,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 220,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 236,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 253,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 269,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 285,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 302,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 318,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 334,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 351,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 367,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 383,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 400,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 416,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 432,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 448,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 465,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 481,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 497,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 514,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 530,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 546,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 563,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 579,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 595,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 612,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 628,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 644,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 661,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 677,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 693,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 710,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 726,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 742,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 759,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 775,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 791,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 7.663265306122433,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Alabama",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 23.98979591836733,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Arizona",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 40.31632653061223,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Arkansas",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 56.64285714285713,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "California",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 72.96938775510203,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Colorado",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 89.29591836734693,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Connecticut",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 105.62244897959184,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Delaware",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 121.94897959183673,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "District of Columbia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 138.27551020408163,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Florida",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 154.60204081632654,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Georgia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 170.92857142857142,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Idaho",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 187.25510204081633,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Illinois",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 203.58163265306123,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Indiana",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 219.90816326530611,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Iowa",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 236.23469387755102,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Kansas",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 252.5612244897959,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Kentucky",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 268.8877551020408,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Louisiana",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 285.21428571428567,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Maine",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 301.5408163265306,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Maryland",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 317.8673469387755,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Massachusetts",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 334.19387755102036,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Michigan",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 350.5204081632653,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Minnesota",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 366.8469387755102,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Mississippi",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 383.17346938775506,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Missouri",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 399.5,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Montana",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 415.8265306122449,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Nebraska",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 432.15306122448976,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Nevada",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 448.47959183673464,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "New Hampshire",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 464.8061224489796,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "New Jersey",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 481.13265306122446,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "New Mexico",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 497.45918367346934,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "New York",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 513.7857142857143,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "North Carolina",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 530.1122448979592,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "North Dakota",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 546.4387755102042,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Ohio",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 562.765306122449,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Oklahoma",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 579.0918367346939,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Oregon",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 595.4183673469389,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Pennsylvania",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 611.7448979591837,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Rhode Island",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 628.0714285714286,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "South Carolina",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 644.3979591836736,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "South Dakota",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 660.7244897959184,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Tennessee",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 677.0510204081633,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Texas",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 693.3775510204083,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Utah",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 709.7040816326531,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Vermont",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 726.030612244898,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Virginia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 742.357142857143,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Washington",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 758.6836734693878,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "West Virginia",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 775.0102040816327,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Wisconsin",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 791.3367346938777,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Wyoming",
+                      "angle": 270,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 106.21484375000001,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "State",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 570,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 510,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 480,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 420,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 390,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 360,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 330,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 240,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u2212100",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 570,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221280",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 540,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221260",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 510,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221240",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 480,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221220",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 450,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 420,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 390,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 360,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 330,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "80",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 270,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "120",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 240,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "140",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 210,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "160",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 180.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "180",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "200",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 119.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "220",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 90.00000000000001,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "240",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 59.999999999999986,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "260",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 30.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "280",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "300",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -36.009765625,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Mean of Profit",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 196.73469387755102,
+              "y": 207.42719374999996,
+              "width": 14.693877551020408,
+              "height": 242.57280625000004,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Indiana; Mean of Profit: 161.715",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 490.61224489795916,
+              "y": 358.45530982142856,
+              "width": 14.693877551020408,
+              "height": 91.54469017857144,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: New York; Mean of Profit: 61.0298",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 49.79591836734693,
+              "y": 387.7138246425568,
+              "width": 14.693877551020408,
+              "height": 62.2861753574432,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: California; Mean of Profit: 41.5241",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 66.12244897959182,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 77.32275530973448,
+              "fill": "#4c78a8",
+              "y2": 527.3227553097345,
+              "description": "State: Colorado; Mean of Profit: \u221251.5485",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 327.3469387755102,
+              "y": 259.99694999999986,
+              "width": 14.693877551020408,
+              "height": 190.00305000000014,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Michigan; Mean of Profit: 126.669",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 735.5102040816328,
+              "y": 354.4510882789318,
+              "width": 14.693877551020408,
+              "height": 95.54891172106818,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Washington; Mean of Profit: 63.6993",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 245.7142857142857,
+              "y": 327.36197260273974,
+              "width": 14.693877551020408,
+              "height": 122.63802739726026,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Kentucky; Mean of Profit: 81.7587",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 523.2653061224489,
+              "y": 400.6822071428571,
+              "width": 14.693877551020408,
+              "height": 49.31779285714288,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: North Dakota; Mean of Profit: 32.8785",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 474.2857142857143,
+              "y": 400.82640000000004,
+              "width": 14.693877551020408,
+              "height": 49.173599999999965,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: New Mexico; Mean of Profit: 32.7824",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 670.204081632653,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 37.37564548672566,
+              "fill": "#4c78a8",
+              "y2": 487.37564548672566,
+              "description": "State: Texas; Mean of Profit: \u221224.9171",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 653.8775510204082,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 43.34488249999998,
+              "fill": "#4c78a8",
+              "y2": 493.3448825,
+              "description": "State: Tennessee; Mean of Profit: \u221228.8966",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 180.40816326530611,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 48.91461040955636,
+              "fill": "#4c78a8",
+              "y2": 498.91461040955636,
+              "description": "State: Illinois; Mean of Profit: \u221232.6097",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 539.591836734694,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 47.81274215017066,
+              "fill": "#4c78a8",
+              "y2": 497.81274215017066,
+              "description": "State: Ohio; Mean of Profit: \u221231.8752",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 213.0612244897959,
+              "y": 413.50341875000004,
+              "width": 14.693877551020408,
+              "height": 36.49658124999996,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Iowa; Mean of Profit: 24.3311",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 408.9795918367347,
+              "y": 343.47237000000007,
+              "width": 14.693877551020408,
+              "height": 106.52762999999993,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Nebraska; Mean of Profit: 71.0184",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0.8163265306122298,
+              "y": 307.0153928571428,
+              "width": 14.693877551020408,
+              "height": 142.98460714285721,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Alabama; Mean of Profit: 95.3231",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 457.9591836734694,
+              "y": 332.39518695652174,
+              "width": 14.693877551020408,
+              "height": 117.60481304347826,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: New Jersey; Mean of Profit: 78.4032",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 131.42857142857142,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 1.6114139150943743,
+              "fill": "#4c78a8",
+              "y2": 451.6114139150944,
+              "description": "State: Florida; Mean of Profit: \u22121.07428",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 262.0408163265306,
+              "y": 347.2758868421053,
+              "width": 14.693877551020408,
+              "height": 102.72411315789469,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Louisiana; Mean of Profit: 68.4827",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 311.0204081632653,
+              "y": 384.07464999999996,
+              "width": 14.693877551020408,
+              "height": 65.92535000000004,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Massachusetts; Mean of Profit: 43.9502",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 17.142857142857128,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 36.651902654867285,
+              "fill": "#4c78a8",
+              "y2": 486.6519026548673,
+              "description": "State: Arizona; Mean of Profit: \u221224.4346",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 164.0816326530612,
+              "y": 390.0806125,
+              "width": 14.693877551020408,
+              "height": 59.91938750000003,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Idaho; Mean of Profit: 39.9463",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 82.44897959183672,
+              "y": 387.3478526785714,
+              "width": 14.693877551020408,
+              "height": 62.65214732142857,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Connecticut; Mean of Profit: 41.7681",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 33.46938775510203,
+              "y": 377.923273076923,
+              "width": 14.693877551020408,
+              "height": 72.07672692307699,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Arkansas; Mean of Profit: 48.0512",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 376.3265306122449,
+              "y": 333.77668874999995,
+              "width": 14.693877551020408,
+              "height": 116.22331125000005,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Missouri; Mean of Profit: 77.4822",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 604.8979591836735,
+              "y": 215.5226208333334,
+              "width": 14.693877551020408,
+              "height": 234.4773791666666,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Rhode Island; Mean of Profit: 156.318",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 343.6734693877551,
+              "y": 356.59733804347826,
+              "width": 14.693877551020408,
+              "height": 93.40266195652174,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Minnesota; Mean of Profit: 62.2684",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 621.2244897959183,
+              "y": 415.3625289473684,
+              "width": 14.693877551020408,
+              "height": 34.63747105263161,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: South Carolina; Mean of Profit: 23.0916",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 768.1632653061224,
+              "y": 347.6774162337662,
+              "width": 14.693877551020408,
+              "height": 102.32258376623378,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Wisconsin; Mean of Profit: 68.2151",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 588.5714285714287,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 41.63192910447765,
+              "fill": "#4c78a8",
+              "y2": 491.63192910447765,
+              "description": "State: Pennsylvania; Mean of Profit: \u221227.7546",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 506.9387755102041,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 45.54426698113207,
+              "fill": "#4c78a8",
+              "y2": 495.54426698113207,
+              "description": "State: North Carolina; Mean of Profit: \u221230.3628",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 719.1836734693877,
+              "y": 310.7093134615384,
+              "width": 14.693877551020408,
+              "height": 139.2906865384616,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Virginia; Mean of Profit: 92.8605",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 555.9183673469388,
+              "y": 344.94346224489794,
+              "width": 14.693877551020408,
+              "height": 105.05653775510206,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Oklahoma; Mean of Profit: 70.0377",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 425.3061224489796,
+              "y": 206.39573437500002,
+              "width": 14.693877551020408,
+              "height": 243.60426562499998,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Nevada; Mean of Profit: 162.403",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 360,
+              "y": 345.6565916666666,
+              "width": 14.693877551020408,
+              "height": 104.3434083333334,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Mississippi; Mean of Profit: 69.5623",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 702.8571428571429,
+              "y": 274.49145,
+              "width": 14.693877551020408,
+              "height": 175.50855,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Vermont; Mean of Profit: 117.006",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 98.77551020408163,
+              "y": 204.77055697674422,
+              "width": 14.693877551020408,
+              "height": 245.22944302325578,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Delaware; Mean of Profit: 163.486",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 294.6938775510204,
+              "y": 357.2818427419355,
+              "width": 14.693877551020408,
+              "height": 92.71815725806448,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Maryland; Mean of Profit: 61.8121",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 147.75510204081633,
+              "y": 319.63804565217384,
+              "width": 14.693877551020408,
+              "height": 130.36195434782616,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Georgia; Mean of Profit: 86.9080",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 229.3877551020408,
+              "y": 392.9757,
+              "width": 14.693877551020408,
+              "height": 57.02429999999998,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Kansas; Mean of Profit: 38.0162",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 572.2448979591836,
+              "y": 450,
+              "width": 14.693877551020408,
+              "height": 21.76088999999996,
+              "fill": "#4c78a8",
+              "y2": 471.76088999999996,
+              "description": "State: Oregon; Mean of Profit: \u221214.5073",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 637.5510204081634,
+              "y": 385.11155625000004,
+              "width": 14.693877551020408,
+              "height": 64.88844374999996,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: South Dakota; Mean of Profit: 43.2590",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 686.5306122448981,
+              "y": 381.22625217391305,
+              "width": 14.693877551020408,
+              "height": 68.77374782608695,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Utah; Mean of Profit: 45.8492",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 751.8367346938776,
+              "y": 380.2794,
+              "width": 14.693877551020408,
+              "height": 69.72059999999999,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: West Virginia; Mean of Profit: 46.4804",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 392.6530612244898,
+              "y": 10.222350000000002,
+              "width": 14.693877551020408,
+              "height": 439.77765,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Montana; Mean of Profit: 293.185",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 441.63265306122446,
+              "y": 369.56285769230766,
+              "width": 14.693877551020408,
+              "height": 80.43714230769234,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: New Hampshire; Mean of Profit: 53.6248",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 115.10204081632652,
+              "y": 431.7266142857143,
+              "width": 14.693877551020408,
+              "height": 18.273385714285723,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: District of Columbia; Mean of Profit: 12.1823",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 784.4897959183675,
+              "y": 299.706,
+              "width": 14.693877551020408,
+              "height": 150.29399999999998,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Wyoming; Mean of Profit: 100.196",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 278.3673469387755,
+              "y": 326.02965,
+              "width": 14.693877551020408,
+              "height": 123.97035,
+              "fill": "#4c78a8",
+              "y2": 450,
+              "description": "State: Maine; Mean of Profit: 82.6469",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

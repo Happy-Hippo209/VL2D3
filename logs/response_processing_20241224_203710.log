@@ -1,0 +1,4 @@
+2024-12-24 20:37:10,768 - INFO - Found 1 prompt files to process
+2024-12-24 20:37:14,202 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-24 20:37:14,209 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0151.prompt.txt
+2024-12-24 20:37:14,211 - INFO - Processing completed. Successfully processed: 1, Failed: 0

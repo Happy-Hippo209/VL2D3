@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "Top 10 ICC Test Points 2022", "subtitle": "Source: espncricinfo.com", "subtitleFontStyle": "Arial", "anchor": "start", "color": "black"}, "data": {"values": [{"Team": "Australia", "Points": 2703}, {"Team": "India", "Points": 3318}, {"Team": "South Africa", "Points": 2606}, {"Team": "England", "Points": 4449}, {"Team": "New Zealand", "Points": 2704}, {"Team": "Pakistan", "Points": 2126}, {"Team": "Sri Lanka", "Points": 2282}, {"Team": "West Indies", "Points": 1988}, {"Team": "Bangladesh", "Points": 1047}, {"Team": "Zimbabwe", "Points": 148}]}, "height": 300, "width": 300, "mark": {"type": "bar", "color": "#5d71a4"}, "encoding": {"x": {"field": "Team", "type": "nominal", "axis": {"title": null, "grid": false, "ticks": false}}, "y": {"field": "Points", "type": "quantitative", "title": "", "axis": {"grid": false}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

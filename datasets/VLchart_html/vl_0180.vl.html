@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Chart on stored energy capacity by UK nation and source", "title": {"text": "Energy capacity \u2013 by UK nation", "subtitle": "Change in installed capacity (MW). Indexed (2012 = 100). Source: BIES", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/chartENV13.csv"}, "height": 130, "width": 95, "mark": {"type": "line", "color": "blue"}, "encoding": {"x": {"field": "Time", "type": "temporal", "title": null, "axis": {"grid": false}}, "y": {"field": "Value2", "type": "quantitative", "title": null, "axis": {"grid": false}}, "color": {"field": "Type", "type": "nominal", "scale": {"scheme": "yellowgreenblue"}, "title": "Source", "legend": {"fillColor": "#FcFdFd"}}, "facet": {"field": "Country", "type": "nominal", "columns": 2, "title": null}, "tooltip": [{"field": "Time", "type": "temporal", "title": "Date", "timeUnit": "year"}, {"field": "Value", "type": "quantitative", "title": "Installed capacity (MW)", "format": ",.0f"}, {"field": "Value2", "type": "quantitative", "title": "Index number", "format": ",.0f"}, {"field": "Country"}]}, "resolve": {"scale": {"y": "independent"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

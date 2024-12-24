@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/73ca06a7edacbd1969dc2b8034d9cb8361e755f1/EnergySource.csv", "format": {"property": "csv"}}, "title": {"text": "Poverty in different regions", "subtitle": "Source:World Bank", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "width": 400, "height": 300, "mark": "bar", "encoding": {"x": {"field": "Year", "type": "temporal", "title": null}, "y": {"field": "Energy Consumption", "type": "quantitative", "title": null}, "color": {"field": "Energy Source", "type": "nominal", "scale": {"scheme": "rainbow"}, "legend": {"orient": "right"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

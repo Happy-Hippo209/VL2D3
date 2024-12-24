@@ -1,0 +1,242 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "rgb(3, 100, 41)",
+              "stroke": "black",
+              "description": "adoption: 1900.77446538; id: Asia (Sans Japan)",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(207, 237, 201)",
+              "stroke": "black",
+              "description": "adoption: 121.284268423; id: Middle East and Africa",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(175, 223, 169)",
+              "stroke": "black",
+              "description": "adoption: 416.751276509; id: Eastern Europe",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(211, 238, 205)",
+              "stroke": "black",
+              "description": "adoption: 87.6901334159; id: Latin America",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(52, 156, 82)",
+              "stroke": "black",
+              "description": "adoption: 1339.1798238; id: OECD90",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(156, 214, 152)",
+              "stroke": "black",
+              "description": "adoption: 571.522729305; id: EU",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(71, 172, 95)",
+              "stroke": "black",
+              "description": "adoption: 1165.83605376; id: China",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(153, 213, 150)",
+              "stroke": "black",
+              "description": "adoption: 588.526116162; id: India",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(153, 213, 150)",
+              "stroke": "black",
+              "description": "adoption: 588.449764052; id: USA",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {
+                                "x2": 0,
+                                "y2": 0
+                              },
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 154.51840167449956,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "500",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 99.36376918618856,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,000",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 44.20913669787756,
+                              "align": "left",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1,500",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "adoption",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 318,
+              "y": 0,
+              "width": 51,
+              "height": 216,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Regional Adoption in 2050",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 150,
+              "y": -17,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 225,
+      "fill": "transparent"
+    }
+  ],
+  "zindex": 0
+}

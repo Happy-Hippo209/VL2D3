@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "width": 300, "height": 300, "view": {"stroke": "transparent"}, "title": {"text": "Total External Public Debt (USD)", "fontSize": 12, "subtitle": ["Current USD. White = NA", "Source: Open Data for Africa"], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "middle"}, "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/custom.geo.json", "format": {"property": "features"}}, "transform": [{"lookup": "properties.name_en", "from": {"key": "Country", "fields": ["External_Debt"], "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/ExternaldebtAfrica.csv"}}}], "projection": {"type": "mercator"}, "mark": {"type": "geoshape", "stroke": "slategrey"}, "encoding": {"color": {"field": "External_Debt", "legend": {"title": null, "orient": "right", "direction": "vertical"}, "type": "quantitative", "scale": {"scheme": "reds", "reverse": false}}, "tooltip": [{"field": "properties.name_en", "title": "Country"}, {"field": "External_Debt", "title": "Total external public debt"}]}, "config": {"mark": {"invalid": null}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

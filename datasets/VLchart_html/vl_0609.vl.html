@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "GDP per capita", "subtitle": ["GDP, constant prices. National currencies. Source: IMF.", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "height": 400, "width": 200, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/e4e/Global_WB_GDPperCapita.csv"}, "transform": [{"fold": ["ARG", "AUS", "AUT", "BDI", "BEL", "BEN", "BFA", "BGD", "BHS", "BLZ", "BMU", "BOL", "BRA", "BWA", "CAF", "CHL", "CHN", "CIV", "CMR", "COD", "COG", "COL", "CRI", "DNK", "DOM", "DZA", "ECU", "EGY", "ESP", "FIN", "FJI", "FRA", "GAB", "GBR", "GHA", "GRC", "GTM", "GUY", "HND", "HTI", "IDN", "IND", "IRN", "ITA", "JPN", "KEN", "KOR", "LSO", "LUX", "MDG", "MEX", "MIC", "MWI", "MYS", "NER", "NGA", "NIC", "NLD", "NOR", "NPL", "PAK", "PAN", "PER", "PHL", "PNG", "PRI", "PRT", "PRY", "RWA", "SDN", "SEN", "SGP", "SLE", "SUR", "SWE", "SYC", "SYR", "TCD", "TGO", "THA", "TTO", "TUR", "URY", "USA", "VCT", "ZAF", "ZMB", "ZWE"], "as": ["country", "GDPpc"]}], "mark": {"type": "line", "strokeWidth": 1}, "encoding": {"x": {"field": "year", "type": "temporal", "title": null, "axis": {"grid": false}}, "y": {"field": "GDPpc", "type": "quantitative", "title": null}, "color": {"field": "country", "scale": {"range": ["rgba(128,0,0, 0.2)"]}, "legend": null, "title": null}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

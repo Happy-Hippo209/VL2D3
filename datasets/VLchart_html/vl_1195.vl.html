@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "IMF Lending as a Proportion of GDP", "subtitle": "Credit outstanding to all members as a proportion of World GDP", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/Ben25Walker/Ben25Walker.github.io/main/data_IMF_creditOutstandingNEW.csv"}, "height": 300, "width": 300, "mark": {"type": "bar", "color": "rgb(0,47,167"}, "encoding": {"x": {"field": "Year ", "type": "temporal", "axis": {"title": null, "grid": false, "ticks": false, "labelAngle": 45}}, "y": {"field": "Totals", "type": "quantitative", "title": "", "axis": {"grid": false}}}, "config": {}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

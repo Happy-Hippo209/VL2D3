@@ -1,0 +1,1827 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 29,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 57,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 86,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 114,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 143,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 171,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 200,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 229,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 257,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 286,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 314,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 343,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 371,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 400,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 429,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 457,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 486,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 514,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 543,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 571,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 600,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 629,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 657,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 686,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 714,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 743,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 771,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    },
+                    {
+                      "x": 800,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": -600
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 29,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 57,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 86,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 114,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 143,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 171,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 200,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 229,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 257,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 286,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 314,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 343,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 371,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 400,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 429,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 457,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 486,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 514,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 543,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 571,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 600,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 629,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 657,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 686,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 714,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 743,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 771,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 800,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221240",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 28.57142857142857,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "\u221235",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 57.14285714285714,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221230",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 85.71428571428571,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "\u221225",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 114.28571428571428,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221220",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 142.85714285714286,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "\u221215",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 171.42857142857142,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "\u221210",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 200,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "\u22125",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 228.57142857142856,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 257.14285714285717,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 285.7142857142857,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 314.2857142857143,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "15",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 342.85714285714283,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 371.42857142857144,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 400,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 428.57142857142856,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "35",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 457.1428571428571,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 485.71428571428567,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "45",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 514.2857142857143,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 542.8571428571429,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "55",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 571.4285714285714,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 600,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "65",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 628.5714285714286,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "70",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 657.1428571428571,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "75",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 685.7142857142857,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "80",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 714.2857142857143,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "85",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 742.8571428571429,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "90",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 771.4285714285714,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "95",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 800,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 800
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Percentage",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -2,
+                      "y": 37,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 1",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -2,
+                      "y": 112,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 2",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -2,
+                      "y": 187,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 3",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -2,
+                      "y": 262,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 4",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -2,
+                      "y": 337,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -2,
+                      "y": 412,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 6",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -2,
+                      "y": 487,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 7",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -2,
+                      "y": 562,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question 8",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -64,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Question",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -4.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 119.71428571428572,
+              "y": 3.75,
+              "width": 4.000000000000014,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 123.71428571428574,
+              "description": "nx: \u221219.05; question: Question 1; nx2: \u221218.35; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 123.71428571428574,
+              "y": 3.75,
+              "width": 51.999999999999986,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 175.71428571428572,
+              "description": "nx: \u221218.35; question: Question 1; nx2: \u22129.25; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 175.71428571428572,
+              "y": 3.75,
+              "width": 105.71428571428572,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 281.42857142857144,
+              "description": "nx: \u22129.25; question: Question 1; nx2: 9.25; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 281.42857142857144,
+              "y": 3.75,
+              "width": 342.2857142857142,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 623.7142857142857,
+              "description": "nx: 9.25; question: Question 1; nx2: 69.15; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 623.7142857142857,
+              "y": 3.75,
+              "width": 66.85714285714289,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 690.5714285714286,
+              "description": "nx: 69.15; question: Question 1; nx2: 80.85; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 20.57142857142858,
+              "y": 78.75,
+              "width": 104,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 124.57142857142858,
+              "description": "nx: \u221236.4; question: Question 2; nx2: \u221218.2; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 124.57142857142858,
+              "y": 78.75,
+              "width": 103.99999999999997,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 228.57142857142856,
+              "description": "nx: \u221218.2; question: Question 2; nx2: 0; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 228.57142857142856,
+              "y": 78.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 228.57142857142856,
+              "description": "nx: 0; question: Question 2; nx2: 0; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 228.57142857142856,
+              "y": 78.75,
+              "width": 363.42857142857144,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 592,
+              "description": "nx: 0; question: Question 2; nx2: 63.6; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 592,
+              "y": 78.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 592,
+              "description": "nx: 63.6; question: Question 2; nx2: 63.6; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 57.14285714285714,
+              "y": 153.75,
+              "width": 114.28571428571428,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 171.42857142857142,
+              "description": "nx: \u221230; question: Question 3; nx2: \u221210; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 171.42857142857142,
+              "y": 153.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 171.42857142857142,
+              "description": "nx: \u221210; question: Question 3; nx2: \u221210; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 171.42857142857142,
+              "y": 153.75,
+              "width": 114.2857142857143,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 285.7142857142857,
+              "description": "nx: \u221210; question: Question 3; nx2: 10; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 285.7142857142857,
+              "y": 153.75,
+              "width": 228.5714285714286,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 514.2857142857143,
+              "description": "nx: 10; question: Question 3; nx2: 50; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 514.2857142857143,
+              "y": 153.75,
+              "width": 114.28571428571422,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 628.5714285714286,
+              "description": "nx: 50; question: Question 3; nx2: 70; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 139.14285714285714,
+              "y": 228.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 139.14285714285714,
+              "description": "nx: \u221215.65; question: Question 4; nx2: \u221215.65; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 139.14285714285714,
+              "y": 228.75,
+              "width": 71.42857142857144,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 210.57142857142858,
+              "description": "nx: \u221215.65; question: Question 4; nx2: \u22123.15; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 210.57142857142858,
+              "y": 228.75,
+              "width": 36,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 246.57142857142858,
+              "description": "nx: \u22123.15; question: Question 4; nx2: 3.15; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 246.57142857142858,
+              "y": 228.75,
+              "width": 250.2857142857142,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 496.8571428571428,
+              "description": "nx: 3.15; question: Question 4; nx2: 46.95; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 496.8571428571428,
+              "y": 228.75,
+              "width": 214.28571428571433,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 711.1428571428571,
+              "description": "nx: 46.95; question: Question 4; nx2: 84.45; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 168.85714285714286,
+              "y": 303.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 168.85714285714286,
+              "description": "nx: \u221210.45; question: Question 5; nx2: \u221210.45; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 168.85714285714286,
+              "y": 303.75,
+              "width": 24,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 192.85714285714286,
+              "description": "nx: \u221210.45; question: Question 5; nx2: \u22126.25; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 192.85714285714286,
+              "y": 303.75,
+              "width": 71.42857142857142,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 264.2857142857143,
+              "description": "nx: \u22126.25; question: Question 5; nx2: 6.25; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 264.2857142857143,
+              "y": 303.75,
+              "width": 381.14285714285717,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 645.4285714285714,
+              "description": "nx: 6.25; question: Question 5; nx2: 72.95; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 645.4285714285714,
+              "y": 303.75,
+              "width": 95.42857142857144,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 740.8571428571429,
+              "description": "nx: 72.95; question: Question 5; nx2: 89.65; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 120.85714285714285,
+              "y": 378.75,
+              "width": 36.000000000000014,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 156.85714285714286,
+              "description": "nx: \u221218.85; question: Question 6; nx2: \u221212.55; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 156.85714285714286,
+              "y": 378.75,
+              "width": 36,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 192.85714285714286,
+              "description": "nx: \u221212.55; question: Question 6; nx2: \u22126.25; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 192.85714285714286,
+              "y": 378.75,
+              "width": 71.42857142857142,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 264.2857142857143,
+              "description": "nx: \u22126.25; question: Question 6; nx2: 6.25; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 264.2857142857143,
+              "y": 378.75,
+              "width": 321.7142857142857,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 586,
+              "description": "nx: 6.25; question: Question 6; nx2: 62.55; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 586,
+              "y": 378.75,
+              "width": 107.42857142857144,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 693.4285714285714,
+              "description": "nx: 62.55; question: Question 6; nx2: 81.35; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 171.42857142857142,
+              "y": 453.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 171.42857142857142,
+              "description": "nx: \u221210; question: Question 7; nx2: \u221210; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 171.42857142857142,
+              "y": 453.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 171.42857142857142,
+              "description": "nx: \u221210; question: Question 7; nx2: \u221210; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 171.42857142857142,
+              "y": 453.75,
+              "width": 114.2857142857143,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 285.7142857142857,
+              "description": "nx: \u221210; question: Question 7; nx2: 10; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 285.7142857142857,
+              "y": 453.75,
+              "width": 457.14285714285717,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 742.8571428571429,
+              "description": "nx: 10; question: Question 7; nx2: 90; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 742.8571428571429,
+              "y": 453.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 742.8571428571429,
+              "description": "nx: 90; question: Question 7; nx2: 90; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 228.57142857142856,
+              "y": 528.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#c30d24",
+              "x2": 228.57142857142856,
+              "description": "nx: 0; question: Question 8; nx2: 0; type: Strongly disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 228.57142857142856,
+              "y": 528.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#f3a583",
+              "x2": 228.57142857142856,
+              "description": "nx: 0; question: Question 8; nx2: 0; type: Disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 228.57142857142856,
+              "y": 528.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#cccccc",
+              "x2": 228.57142857142856,
+              "description": "nx: 0; question: Question 8; nx2: 0; type: Neither agree nor disagree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 228.57142857142856,
+              "y": 528.75,
+              "width": 0,
+              "height": 67.5,
+              "fill": "#94c6da",
+              "x2": 228.57142857142856,
+              "description": "nx: 0; question: Question 8; nx2: 0; type: Agree",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 228.57142857142856,
+              "y": 528.75,
+              "width": 571.4285714285714,
+              "height": 67.5,
+              "fill": "#1770ab",
+              "x2": 800,
+              "description": "nx: 0; question: Question 8; nx2: 100; type: Strongly agree",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#c30d24",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Strongly disagree",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 144.6376953125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f3a583",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Disagree",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 144.6376953125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#cccccc",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Neither agree nor disagree",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 144.6376953125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#94c6da",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Agree",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 39,
+                              "width": 144.6376953125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#1770ab",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Strongly agree",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 52,
+                              "width": 144.6376953125,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Response",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 818,
+              "y": 0,
+              "width": 145,
+              "height": 79,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/antoniolch/KickstarterProjectDetails/master/data/whole_kickstarter_projects_filtered_vis3.csv", "format": {"type": "csv", "parse": {"launched": "utc:'%Y-%m-%d %H:%M:%S'"}}}, "title": {"text": "Robot and 3D Printing Launch", "anchor": "middle", "fontSize": 15}, "width": 400, "height": 400, "transform": [{"filter": "year(datum.launched) > 2013"}, {"filter": "year(datum.launched) < 2018"}], "mark": {"type": "line"}, "encoding": {"y": {"field": "ID", "title": "Number of Projects Launched", "aggregate": "count", "type": "quantitative"}, "x": {"field": "launched", "timeUnit": "year", "title": "Year", "type": "ordinal", "axis": {"labelAngle": 0}}, "color": {"field": "category", "type": "nominal", "legend": {"title": "Category", "orient": "top-right"}, "scale": {"range": ["rgb(255,128,14)", "rgb(0,107,164)", "rgb(171,171,171)"]}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

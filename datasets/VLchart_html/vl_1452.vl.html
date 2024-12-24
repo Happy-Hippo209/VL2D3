@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "width": 500, "height": 800, "data": {"url": "https://raw.githubusercontent.com/GraemeHawker/GBEnergyDataManager/20f06b76bfae3b354000dc3729656e9674c244cc/BMRA/static/BMRA/DNO_min.json", "format": {"property": "features"}}, "transform": [{"lookup": "id", "from": {"data": {"url": "https://raw.githubusercontent.com/GraemeHawker/GBEnergyDataManager/20f06b76bfae3b354000dc3729656e9674c244cc/BMRA/static/BMRA/dummy_MEs.csv"}, "key": "id", "fields": ["value"]}}, {"calculate": "datum.value", "as": "gCO2/kWh"}], "projection": {"type": "mercator"}, "mark": {"type": "geoshape", "stroke": "#757575", "strokeWidth": 0.5}, "encoding": {"fill": {"field": "gCO2/kWh", "type": "quantitative", "scale": {"scheme": "yelloworangered"}}, "tooltip": [{"field": "properties.gsp_group", "type": "nominal", "title": "GSP Group"}, {"field": "value", "type": "quantitative", "title": "gCO2/kWh"}]}, "config": {"style": {"cell": {"stroke": "transparent"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

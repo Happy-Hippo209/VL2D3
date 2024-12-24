@@ -1,0 +1,1566 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 42,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 87,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 133,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 178,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 224,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 269,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 315,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 360,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 545,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 491,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 436,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 382,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 327,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 273,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 218,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 164,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 109,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 55,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 42,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 87,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 133,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 178,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 224,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 269,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 315,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 360,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 41.833333373237366,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "06/07",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 87.33333337257909,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "06/14",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 132.83333337192082,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "06/21",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 178.33333337126254,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "06/28",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 223.83333337060427,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "07/05",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 269.333333369946,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "07/12",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 314.8333333692877,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "07/19",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 360.33333336862944,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "07/26",
+                      "angle": 315,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 200,
+                      "y": 37.67877977650613,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Date in 2009",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 545,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 491,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 436,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 382,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 327,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 273,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 218,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 164,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 109,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 55,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "23",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 545.4545454545454,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "24",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 490.9090909090909,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 436.3636363636364,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "26",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 381.8181818181818,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "27",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 327.27272727272725,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "28",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 272.72727272727275,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "29",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 218.1818181818182,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 163.63636363636363,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "31",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 109.09090909090907,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "32",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 54.54545454545456,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "33",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "34",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -22.728515625,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Price",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rule",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 5.000000040436921,
+              "y": 302.7272727272728,
+              "stroke": "#06982d",
+              "y2": 215.4545454545454,
+              "description": "Date in 2009: 06/01; Price: 28.45; high: 30.05"
+            },
+            {
+              "x": 11.500000040342883,
+              "y": 310.9090909090908,
+              "stroke": "#ae1325",
+              "y2": 211.09090909090915,
+              "description": "Date in 2009: 06/02; Price: 28.3; high: 30.13"
+            },
+            {
+              "x": 18.000000040248842,
+              "y": 238.90909090909085,
+              "stroke": "#06982d",
+              "y2": 120.54545454545462,
+              "description": "Date in 2009: 06/03; Price: 29.62; high: 31.79"
+            },
+            {
+              "x": 24.500000040154806,
+              "y": 222.54545454545445,
+              "stroke": "#ae1325",
+              "y2": 162.5454545454546,
+              "description": "Date in 2009: 06/04; Price: 29.92; high: 31.02"
+            },
+            {
+              "x": 31.000000040060765,
+              "y": 280.9090909090908,
+              "stroke": "#06982d",
+              "y2": 174.00000000000009,
+              "description": "Date in 2009: 06/05; Price: 28.85; high: 30.81"
+            },
+            {
+              "x": 50.50000003977865,
+              "y": 413.99999999999994,
+              "stroke": "#ae1325",
+              "y2": 118.90909090909088,
+              "description": "Date in 2009: 06/08; Price: 26.41; high: 31.82"
+            },
+            {
+              "x": 57.00000003968461,
+              "y": 338.7272727272728,
+              "stroke": "#ae1325",
+              "y2": 230.72727272727278,
+              "description": "Date in 2009: 06/09; Price: 27.79; high: 29.77"
+            },
+            {
+              "x": 63.50000003959057,
+              "y": 387.2727272727273,
+              "stroke": "#06982d",
+              "y2": 232.36363636363646,
+              "description": "Date in 2009: 06/10; Price: 26.9; high: 29.74"
+            },
+            {
+              "x": 70.00000003949653,
+              "y": 392.1818181818183,
+              "stroke": "#06982d",
+              "y2": 321.2727272727273,
+              "description": "Date in 2009: 06/11; Price: 26.81; high: 28.11"
+            },
+            {
+              "x": 76.5000000394025,
+              "y": 341.99999999999994,
+              "stroke": "#06982d",
+              "y2": 300,
+              "description": "Date in 2009: 06/12; Price: 27.73; high: 28.5"
+            },
+            {
+              "x": 96.00000003912037,
+              "y": 237.8181818181818,
+              "stroke": "#06982d",
+              "y2": 158.72727272727272,
+              "description": "Date in 2009: 06/15; Price: 29.64; high: 31.09"
+            },
+            {
+              "x": 102.50000003902633,
+              "y": 214.36363636363637,
+              "stroke": "#06982d",
+              "y2": 68.18181818181819,
+              "description": "Date in 2009: 06/16; Price: 30.07; high: 32.75"
+            },
+            {
+              "x": 109.00000003893228,
+              "y": 183.27272727272725,
+              "stroke": "#06982d",
+              "y2": 67.0909090909089,
+              "description": "Date in 2009: 06/17; Price: 30.64; high: 32.77"
+            },
+            {
+              "x": 115.50000003883825,
+              "y": 239.99999999999994,
+              "stroke": "#ae1325",
+              "y2": 134.18181818181824,
+              "description": "Date in 2009: 06/18; Price: 29.6; high: 31.54"
+            },
+            {
+              "x": 122.0000000387442,
+              "y": 351.2727272727273,
+              "stroke": "#ae1325",
+              "y2": 255.27272727272725,
+              "description": "Date in 2009: 06/19; Price: 27.56; high: 29.32"
+            },
+            {
+              "x": 141.5000000384621,
+              "y": 201.81818181818178,
+              "stroke": "#06982d",
+              "y2": 106.36363636363654,
+              "description": "Date in 2009: 06/22; Price: 30.3; high: 32.05"
+            },
+            {
+              "x": 148.00000003836806,
+              "y": 336.5454545454546,
+              "stroke": "#ae1325",
+              "y2": 134.18181818181824,
+              "description": "Date in 2009: 06/23; Price: 27.83; high: 31.54"
+            },
+            {
+              "x": 154.500000038274,
+              "y": 284.18181818181824,
+              "stroke": "#ae1325",
+              "y2": 186.54545454545462,
+              "description": "Date in 2009: 06/24; Price: 28.79; high: 30.58"
+            },
+            {
+              "x": 161.00000003818,
+              "y": 420,
+              "stroke": "#ae1325",
+              "y2": 242.18181818181827,
+              "description": "Date in 2009: 06/25; Price: 26.3; high: 29.56"
+            },
+            {
+              "x": 167.50000003808594,
+              "y": 449.45454545454544,
+              "stroke": "#ae1325",
+              "y2": 369.81818181818187,
+              "description": "Date in 2009: 06/26; Price: 25.76; high: 27.22"
+            },
+            {
+              "x": 187.00000003780383,
+              "y": 475.0909090909091,
+              "stroke": "#ae1325",
+              "y2": 372.00000000000006,
+              "description": "Date in 2009: 06/29; Price: 25.29; high: 27.18"
+            },
+            {
+              "x": 193.50000003770978,
+              "y": 489.81818181818187,
+              "stroke": "#06982d",
+              "y2": 361.0909090909092,
+              "description": "Date in 2009: 06/30; Price: 25.02; high: 27.38"
+            },
+            {
+              "x": 200.00000003761573,
+              "y": 501.8181818181818,
+              "stroke": "#06982d",
+              "y2": 419.4545454545455,
+              "description": "Date in 2009: 07/01; Price: 24.8; high: 26.31"
+            },
+            {
+              "x": 206.50000003752172,
+              "y": 424.36363636363643,
+              "stroke": "#06982d",
+              "y2": 293.45454545454544,
+              "description": "Date in 2009: 07/02; Price: 26.22; high: 28.62"
+            },
+            {
+              "x": 232.50000003714555,
+              "y": 273.2727272727273,
+              "stroke": "#ae1325",
+              "y2": 185.45454545454538,
+              "description": "Date in 2009: 07/06; Price: 28.99; high: 30.6"
+            },
+            {
+              "x": 239.00000003705148,
+              "y": 278.18181818181824,
+              "stroke": "#06982d",
+              "y2": 166.90909090909085,
+              "description": "Date in 2009: 07/07; Price: 28.9; high: 30.94"
+            },
+            {
+              "x": 245.50000003695746,
+              "y": 194.72727272727275,
+              "stroke": "#06982d",
+              "y2": 51.81818181818198,
+              "description": "Date in 2009: 07/08; Price: 30.43; high: 33.05"
+            },
+            {
+              "x": 252.00000003686344,
+              "y": 257.4545454545454,
+              "stroke": "#ae1325",
+              "y2": 191.45454545454552,
+              "description": "Date in 2009: 07/09; Price: 29.28; high: 30.49"
+            },
+            {
+              "x": 258.5000000367694,
+              "y": 282.5454545454545,
+              "stroke": "#ae1325",
+              "y2": 199.63636363636365,
+              "description": "Date in 2009: 07/10; Price: 28.82; high: 30.34"
+            },
+            {
+              "x": 278.0000000364873,
+              "y": 467.9999999999999,
+              "stroke": "#ae1325",
+              "y2": 259.6363636363637,
+              "description": "Date in 2009: 07/13; Price: 25.42; high: 29.24"
+            },
+            {
+              "x": 284.5000000363932,
+              "y": 491.4545454545455,
+              "stroke": "#ae1325",
+              "y2": 390.5454545454545,
+              "description": "Date in 2009: 07/14; Price: 24.99; high: 26.84"
+            },
+            {
+              "x": 291.0000000362992,
+              "y": 554.7272727272727,
+              "stroke": "#06982d",
+              "y2": 433.0909090909091,
+              "description": "Date in 2009: 07/15; Price: 23.83; high: 26.06"
+            },
+            {
+              "x": 297.50000003620517,
+              "y": 517.6363636363635,
+              "stroke": "#ae1325",
+              "y2": 426.54545454545456,
+              "description": "Date in 2009: 07/16; Price: 24.51; high: 26.18"
+            },
+            {
+              "x": 304.00000003611115,
+              "y": 552.0000000000001,
+              "stroke": "#ae1325",
+              "y2": 460.9090909090908,
+              "description": "Date in 2009: 07/17; Price: 23.88; high: 25.55"
+            },
+            {
+              "x": 323.500000035829,
+              "y": 531.2727272727271,
+              "stroke": "#ae1325",
+              "y2": 467.9999999999999,
+              "description": "Date in 2009: 07/20; Price: 24.26; high: 25.42"
+            },
+            {
+              "x": 330.00000003573496,
+              "y": 555.8181818181819,
+              "stroke": "#ae1325",
+              "y2": 483.27272727272725,
+              "description": "Date in 2009: 07/21; Price: 23.81; high: 25.14"
+            },
+            {
+              "x": 336.50000003564094,
+              "y": 586.909090909091,
+              "stroke": "#ae1325",
+              "y2": 537.8181818181818,
+              "description": "Date in 2009: 07/22; Price: 23.24; high: 24.14"
+            },
+            {
+              "x": 343.00000003554686,
+              "y": 588.5454545454545,
+              "stroke": "#ae1325",
+              "y2": 542.7272727272727,
+              "description": "Date in 2009: 07/23; Price: 23.21; high: 24.05"
+            },
+            {
+              "x": 349.50000003545284,
+              "y": 600,
+              "stroke": "#ae1325",
+              "y2": 552.5454545454545,
+              "description": "Date in 2009: 07/24; Price: 23; high: 23.87"
+            },
+            {
+              "x": 369.00000003517073,
+              "y": 544.3636363636364,
+              "stroke": "#06982d",
+              "y2": 498.54545454545456,
+              "description": "Date in 2009: 07/27; Price: 24.02; high: 24.86"
+            },
+            {
+              "x": 375.5000000350767,
+              "y": 530.1818181818181,
+              "stroke": "#06982d",
+              "y2": 457.6363636363637,
+              "description": "Date in 2009: 07/28; Price: 24.28; high: 25.61"
+            },
+            {
+              "x": 382.00000003498263,
+              "y": 468.5454545454545,
+              "stroke": "#06982d",
+              "y2": 426.54545454545456,
+              "description": "Date in 2009: 07/29; Price: 25.41; high: 26.18"
+            },
+            {
+              "x": 388.5000000348886,
+              "y": 499.090909090909,
+              "stroke": "#ae1325",
+              "y2": 449.45454545454544,
+              "description": "Date in 2009: 07/30; Price: 24.85; high: 25.76"
+            },
+            {
+              "x": 395.00000003479454,
+              "y": 494.72727272727275,
+              "stroke": "#06982d",
+              "y2": 424.36363636363643,
+              "description": "Date in 2009: 07/31; Price: 24.93; high: 26.22"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 2.5000000404369214,
+              "y": 216.00000000000006,
+              "width": 5,
+              "height": 73.09090909090912,
+              "fill": "#06982d",
+              "y2": 289.0909090909092,
+              "description": "Date in 2009: 06/01; open: 28.7; close: 30.04",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 9.000000040342883,
+              "y": 216.00000000000006,
+              "width": 5,
+              "height": 22.363636363636346,
+              "fill": "#ae1325",
+              "y2": 238.3636363636364,
+              "description": "Date in 2009: 06/02; open: 30.04; close: 29.63",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 15.500000040248842,
+              "y": 162.5454545454546,
+              "width": 5,
+              "height": 76.36363636363626,
+              "fill": "#06982d",
+              "y2": 238.90909090909085,
+              "description": "Date in 2009: 06/03; open: 29.62; close: 31.02",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 22.000000040154806,
+              "y": 162.5454545454546,
+              "width": 5,
+              "height": 45.818181818181785,
+              "fill": "#ae1325",
+              "y2": 208.36363636363637,
+              "description": "Date in 2009: 06/04; open: 31.02; close: 30.18",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 28.500000040060765,
+              "y": 238.90909090909085,
+              "width": 5,
+              "height": 12.54545454545459,
+              "fill": "#06982d",
+              "y2": 251.45454545454544,
+              "description": "Date in 2009: 06/05; open: 29.39; close: 29.62",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 48.00000003977865,
+              "y": 172.36363636363635,
+              "width": 5,
+              "height": 58.36363636363643,
+              "fill": "#ae1325",
+              "y2": 230.72727272727278,
+              "description": "Date in 2009: 06/08; open: 30.84; close: 29.77",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 54.50000003968461,
+              "y": 230.72727272727278,
+              "width": 5,
+              "height": 81.81818181818184,
+              "fill": "#ae1325",
+              "y2": 312.5454545454546,
+              "description": "Date in 2009: 06/09; open: 29.77; close: 28.27",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 61.00000003959057,
+              "y": 302.18181818181813,
+              "width": 5,
+              "height": 85.09090909090918,
+              "fill": "#06982d",
+              "y2": 387.2727272727273,
+              "description": "Date in 2009: 06/10; open: 26.9; close: 28.46",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 67.50000003949653,
+              "y": 321.2727272727273,
+              "width": 5,
+              "height": 40.909090909090935,
+              "fill": "#06982d",
+              "y2": 362.18181818181824,
+              "description": "Date in 2009: 06/11; open: 27.36; close: 28.11",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 74.0000000394025,
+              "y": 319.0909090909092,
+              "width": 5,
+              "height": 3.818181818181813,
+              "fill": "#06982d",
+              "y2": 322.909090909091,
+              "description": "Date in 2009: 06/12; open: 28.08; close: 28.15",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 93.50000003912037,
+              "y": 174.00000000000009,
+              "width": 5,
+              "height": 60.545454545454504,
+              "fill": "#06982d",
+              "y2": 234.5454545454546,
+              "description": "Date in 2009: 06/15; open: 29.7; close: 30.81",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 100.00000003902633,
+              "y": 72,
+              "width": 5,
+              "height": 102.00000000000009,
+              "fill": "#06982d",
+              "y2": 174.00000000000009,
+              "description": "Date in 2009: 06/16; open: 30.81; close: 32.68",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 106.50000003893228,
+              "y": 134.18181818181824,
+              "width": 5,
+              "height": 19.09090909090898,
+              "fill": "#06982d",
+              "y2": 153.27272727272722,
+              "description": "Date in 2009: 06/17; open: 31.19; close: 31.54",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 113.00000003883825,
+              "y": 134.18181818181824,
+              "width": 5,
+              "height": 82.36363636363626,
+              "fill": "#ae1325",
+              "y2": 216.5454545454545,
+              "description": "Date in 2009: 06/18; open: 31.54; close: 30.03",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 119.5000000387442,
+              "y": 263.99999999999994,
+              "width": 5,
+              "height": 63.81818181818193,
+              "fill": "#ae1325",
+              "y2": 327.81818181818187,
+              "description": "Date in 2009: 06/19; open: 29.16; close: 27.99",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 139.0000000384621,
+              "y": 154.36363636363626,
+              "width": 5,
+              "height": 42.00000000000017,
+              "fill": "#06982d",
+              "y2": 196.36363636363643,
+              "description": "Date in 2009: 06/22; open: 30.4; close: 31.17",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 145.50000003836806,
+              "y": 147.27272727272722,
+              "width": 5,
+              "height": 39.272727272727394,
+              "fill": "#ae1325",
+              "y2": 186.54545454545462,
+              "description": "Date in 2009: 06/23; open: 31.3; close: 30.58",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 152.000000038274,
+              "y": 186.54545454545462,
+              "width": 5,
+              "height": 83.45454545454538,
+              "fill": "#ae1325",
+              "y2": 270,
+              "description": "Date in 2009: 06/24; open: 30.58; close: 29.05",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 158.50000003818,
+              "y": 248.18181818181822,
+              "width": 5,
+              "height": 168.54545454545453,
+              "fill": "#ae1325",
+              "y2": 416.72727272727275,
+              "description": "Date in 2009: 06/25; open: 29.45; close: 26.36",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 165.00000003808594,
+              "y": 376.9090909090909,
+              "width": 5,
+              "height": 63.27272727272731,
+              "fill": "#ae1325",
+              "y2": 440.1818181818182,
+              "description": "Date in 2009: 06/26; open: 27.09; close: 25.93",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 184.50000003780383,
+              "y": 440.1818181818182,
+              "width": 5,
+              "height": 31.63636363636357,
+              "fill": "#ae1325",
+              "y2": 471.81818181818176,
+              "description": "Date in 2009: 06/29; open: 25.93; close: 25.35",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 191.00000003770978,
+              "y": 417.2727272727272,
+              "width": 5,
+              "height": 54.000000000000114,
+              "fill": "#06982d",
+              "y2": 471.2727272727273,
+              "description": "Date in 2009: 06/30; open: 25.36; close: 26.35",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 197.50000003761573,
+              "y": 424.36363636363643,
+              "width": 5,
+              "height": 26.727272727272577,
+              "fill": "#06982d",
+              "y2": 451.090909090909,
+              "description": "Date in 2009: 07/01; open: 25.73; close: 26.22",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 204.00000003752172,
+              "y": 330,
+              "width": 5,
+              "height": 94.36363636363643,
+              "fill": "#06982d",
+              "y2": 424.36363636363643,
+              "description": "Date in 2009: 07/02; open: 26.22; close: 27.95",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 230.00000003714555,
+              "y": 200.7272727272727,
+              "width": 5,
+              "height": 72.00000000000006,
+              "fill": "#ae1325",
+              "y2": 272.72727272727275,
+              "description": "Date in 2009: 07/06; open: 30.32; close: 29",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 236.50000003705148,
+              "y": 171.81818181818176,
+              "width": 5,
+              "height": 100.90909090909099,
+              "fill": "#06982d",
+              "y2": 272.72727272727275,
+              "description": "Date in 2009: 07/07; open: 29; close: 30.85",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 243.00000003695746,
+              "y": 147.27272727272722,
+              "width": 5,
+              "height": 24.545454545454533,
+              "fill": "#06982d",
+              "y2": 171.81818181818176,
+              "description": "Date in 2009: 07/08; open: 30.85; close: 31.3",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 249.50000003686344,
+              "y": 205.6363636363636,
+              "width": 5,
+              "height": 24.545454545454533,
+              "fill": "#ae1325",
+              "y2": 230.18181818181813,
+              "description": "Date in 2009: 07/09; open: 30.23; close: 29.78",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 256.0000000367694,
+              "y": 230.18181818181813,
+              "width": 5,
+              "height": 41.454545454545496,
+              "fill": "#ae1325",
+              "y2": 271.6363636363636,
+              "description": "Date in 2009: 07/10; open: 29.78; close: 29.02",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 275.5000000364873,
+              "y": 307.6363636363636,
+              "width": 5,
+              "height": 111.81818181818187,
+              "fill": "#ae1325",
+              "y2": 419.4545454545455,
+              "description": "Date in 2009: 07/13; open: 28.36; close: 26.31",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 282.0000000363932,
+              "y": 419.4545454545455,
+              "width": 5,
+              "height": 70.36363636363637,
+              "fill": "#ae1325",
+              "y2": 489.81818181818187,
+              "description": "Date in 2009: 07/14; open: 26.31; close: 25.02",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 288.5000000362992,
+              "y": 442.3636363636364,
+              "width": 5,
+              "height": 45.81818181818181,
+              "fill": "#06982d",
+              "y2": 488.1818181818182,
+              "description": "Date in 2009: 07/15; open: 25.05; close: 25.89",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 295.00000003620517,
+              "y": 438.5454545454545,
+              "width": 5,
+              "height": 29.454545454545382,
+              "fill": "#ae1325",
+              "y2": 467.9999999999999,
+              "description": "Date in 2009: 07/16; open: 25.96; close: 25.42",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 301.50000003611115,
+              "y": 467.9999999999999,
+              "width": 5,
+              "height": 58.90909090909099,
+              "fill": "#ae1325",
+              "y2": 526.9090909090909,
+              "description": "Date in 2009: 07/17; open: 25.42; close: 24.34",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 321.000000035829,
+              "y": 487.63636363636374,
+              "width": 5,
+              "height": 35.999999999999886,
+              "fill": "#ae1325",
+              "y2": 523.6363636363636,
+              "description": "Date in 2009: 07/20; open: 25.06; close: 24.4",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 327.50000003573496,
+              "y": 530.1818181818181,
+              "width": 5,
+              "height": 22.363636363636374,
+              "fill": "#ae1325",
+              "y2": 552.5454545454545,
+              "description": "Date in 2009: 07/21; open: 24.28; close: 23.87",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 334.00000003564094,
+              "y": 542.7272727272727,
+              "width": 5,
+              "height": 31.63636363636374,
+              "fill": "#ae1325",
+              "y2": 574.3636363636365,
+              "description": "Date in 2009: 07/22; open: 24.05; close: 23.47",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 340.50000003554686,
+              "y": 561.2727272727271,
+              "width": 5,
+              "height": 15.272727272727366,
+              "fill": "#ae1325",
+              "y2": 576.5454545454545,
+              "description": "Date in 2009: 07/23; open: 23.71; close: 23.43",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 347.00000003545284,
+              "y": 552.5454545454545,
+              "width": 5,
+              "height": 42.54545454545462,
+              "fill": "#ae1325",
+              "y2": 595.0909090909091,
+              "description": "Date in 2009: 07/24; open: 23.87; close: 23.09",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 366.50000003517073,
+              "y": 530.1818181818181,
+              "width": 5,
+              "height": 12.000000000000114,
+              "fill": "#06982d",
+              "y2": 542.1818181818182,
+              "description": "Date in 2009: 07/27; open: 24.06; close: 24.28",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 373.0000000350767,
+              "y": 490.3636363636363,
+              "width": 5,
+              "height": 39.81818181818181,
+              "fill": "#06982d",
+              "y2": 530.1818181818181,
+              "description": "Date in 2009: 07/28; open: 24.28; close: 25.01",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 379.50000003498263,
+              "y": 457.6363636363637,
+              "width": 5,
+              "height": 7.636363636363683,
+              "fill": "#06982d",
+              "y2": 465.27272727272737,
+              "description": "Date in 2009: 07/29; open: 25.47; close: 25.61",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 386.0000000348886,
+              "y": 469.0909090909092,
+              "width": 5,
+              "height": 0,
+              "fill": "#ae1325",
+              "y2": 469.0909090909092,
+              "description": "Date in 2009: 07/30; open: 25.4; close: 25.4",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 392.50000003479454,
+              "y": 440.72727272727263,
+              "width": 5,
+              "height": 28.363636363636545,
+              "fill": "#06982d",
+              "y2": 469.0909090909092,
+              "description": "Date in 2009: 07/31; open: 25.4; close: 25.92",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

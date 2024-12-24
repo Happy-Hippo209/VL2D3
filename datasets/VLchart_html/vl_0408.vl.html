@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A calculate that takes the messy names in the field, metric, and creates a new field, metricClean, where the names are nicer.", "title": {"text": "Job reallocation, 1997-2020", "subtitle": ["Jobs created and destroyed - three measures", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/productivity/BSD_Annual.csv"}, "transform": [{"fold": ["totalReallocateJobsNet", "totalReallocateJobs", "totalReallocateRLPJobs"], "as": ["metric", "value"]}, {"calculate": "{'totalReallocateJobsNet':'Net employment growth', 'totalReallocateJobs': 'Jobs','totalReallocateRLPJobs':'Productivity weights'}[datum.metric]", "as": "metricClean"}], "height": 300, "width": 450, "mark": {"type": "line", "width": 15}, "encoding": {"x": {"field": "year", "type": "quantitative", "title": null, "axis": {"grid": false, "format": "d"}}, "y": {"field": "value", "type": "quantitative", "title": null, "axis": {"grid": false, "format": "%"}}, "color": {"field": "metricClean", "title": null, "scale": {"scheme": "inferno"}, "legend": {"orient": "bottom"}}}, "resolve": {"axis": {"y": "independent"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

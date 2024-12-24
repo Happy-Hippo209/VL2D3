@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "height": 350, "width": 300, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/ECO2.TENREYO.C1.csv"}, "mark": {"type": "point", "filled": true}, "encoding": {"x": {"field": "Value1", "type": "quantitative", "title": "Target recution in GHG emissions from starting year (%)", "scale": {"domain": [-1100, 1100]}}, "y": {"field": "Value2", "type": "quantitative", "title": "Actual reduction in fossil CO\u2082 emissions 2010-2018 (%)", "scale": {"domain": [-55, 55]}}, "color": {"field": "country", "type": "nominal", "legend": null, "scale": {"scheme": "yellowgreenblue"}}, "tooltip": [{"field": "country"}, {"field": "Value2", "type": "quantitative", "title": "Vaccinations per 100 people"}, {"field": "Value1", "type": "quantitative", "title": "GDP per capita (thousand $)"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,1260 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "row_footer",
+          "role": "row-footer",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "14",
+                              "angle": 90,
+                              "font": "Ubuntu",
+                              "fontSize": 24
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": -6,
+                      "y": 75,
+                      "align": "center",
+                      "orient": "right",
+                      "angle": 90
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 563,
+              "y": 0,
+              "height": 150
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "28",
+                              "angle": 90,
+                              "font": "Ubuntu",
+                              "fontSize": 24
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": -6,
+                      "y": 75,
+                      "align": "center",
+                      "orient": "right",
+                      "angle": 90
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 563,
+              "y": 178,
+              "height": 150
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "column_footer",
+          "role": "column-footer",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 53,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 184,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 250,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 316,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 382,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 447,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 52.63157894736842,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10:15",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 14
+                            },
+                            {
+                              "x": 118.42105263157895,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10:20",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 14
+                            },
+                            {
+                              "x": 184.21052631578945,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10:25",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 14
+                            },
+                            {
+                              "x": 250,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10:30",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 14
+                            },
+                            {
+                              "x": 315.7894736842105,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10:35",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 14
+                            },
+                            {
+                              "x": 381.5789473684211,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10:40",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 14
+                            },
+                            {
+                              "x": 447.36842105263156,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10:45",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 14
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 500
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 335,
+              "width": 500
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "cell",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 53,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 184,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 250,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 316,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 382,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 447,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 150.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "rule",
+                  "name": "child_layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 5.357142857142857,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 39.473684210526315,
+                      "description": "final approach (hours-minutes): 18:11; landing: 1571134447000; landing (hours-minutes): 18:14; go around: 0"
+                    },
+                    {
+                      "x": 26.31578947368421,
+                      "y": 16.07142857142857,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 52.63157894736842,
+                      "description": "final approach (hours-minutes): 18:13; landing: 1571134546000; landing (hours-minutes): 18:15; go around: 0"
+                    },
+                    {
+                      "x": 39.473684210526315,
+                      "y": 26.785714285714285,
+                      "stroke": "#e45756",
+                      "strokeWidth": 3,
+                      "x2": 78.94736842105263,
+                      "description": "final approach (hours-minutes): 18:14; landing: 1571134660000; landing (hours-minutes): 18:17; go around: 2"
+                    },
+                    {
+                      "x": 131.57894736842104,
+                      "y": 37.49999999999999,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 171.05263157894737,
+                      "description": "final approach (hours-minutes): 18:21; landing: 1571135041000; landing (hours-minutes): 18:24; go around: 0"
+                    },
+                    {
+                      "x": 144.73684210526315,
+                      "y": 48.21428571428571,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 197.3684210526316,
+                      "description": "final approach (hours-minutes): 18:22; landing: 1571135166000; landing (hours-minutes): 18:26; go around: 0"
+                    },
+                    {
+                      "x": 171.05263157894737,
+                      "y": 58.92857142857142,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 210.52631578947367,
+                      "description": "final approach (hours-minutes): 18:24; landing: 1571135251000; landing (hours-minutes): 18:27; go around: 0"
+                    },
+                    {
+                      "x": 184.21052631578945,
+                      "y": 69.64285714285714,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 236.8421052631579,
+                      "description": "final approach (hours-minutes): 18:25; landing: 1571135346000; landing (hours-minutes): 18:29; go around: 0"
+                    },
+                    {
+                      "x": 223.68421052631578,
+                      "y": 80.35714285714286,
+                      "stroke": "#e45756",
+                      "strokeWidth": 3,
+                      "x2": 263.1578947368421,
+                      "description": "final approach (hours-minutes): 18:28; landing: 1571135483000; landing (hours-minutes): 18:31; go around: 2"
+                    },
+                    {
+                      "x": 250,
+                      "y": 91.07142857142857,
+                      "stroke": "#f58518",
+                      "strokeWidth": 3,
+                      "x2": 289.4736842105263,
+                      "description": "final approach (hours-minutes): 18:30; landing: 1571135601000; landing (hours-minutes): 18:33; go around: 1"
+                    },
+                    {
+                      "x": 263.1578947368421,
+                      "y": 101.78571428571428,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 315.7894736842105,
+                      "description": "final approach (hours-minutes): 18:31; landing: 1571135704000; landing (hours-minutes): 18:35; go around: 0"
+                    },
+                    {
+                      "x": 302.63157894736844,
+                      "y": 112.5,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 328.94736842105266,
+                      "description": "final approach (hours-minutes): 18:34; landing: 1571135807000; landing (hours-minutes): 18:36; go around: 0"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "name": "child_layer_1_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 39.473684210526315,
+                      "y": 5.357142857142857,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "AFL2390",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:14; landing: 1571134447000; go around: 0; callsign: AFL2390"
+                    },
+                    {
+                      "x": 52.63157894736842,
+                      "y": 16.07142857142857,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "SWR53E",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:15; landing: 1571134546000; go around: 0; callsign: SWR53E"
+                    },
+                    {
+                      "x": 78.94736842105263,
+                      "y": 26.785714285714285,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#e45756",
+                      "text": "SWR287A",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:17; landing: 1571134660000; go around: 2; callsign: SWR287A"
+                    },
+                    {
+                      "x": 171.05263157894737,
+                      "y": 37.49999999999999,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "HBVTB",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:24; landing: 1571135041000; go around: 0; callsign: HBVTB"
+                    },
+                    {
+                      "x": 197.3684210526316,
+                      "y": 48.21428571428571,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "BAW712T",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:26; landing: 1571135166000; go around: 0; callsign: BAW712T"
+                    },
+                    {
+                      "x": 210.52631578947367,
+                      "y": 58.92857142857142,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "SWR135G",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:27; landing: 1571135251000; go around: 0; callsign: SWR135G"
+                    },
+                    {
+                      "x": 236.8421052631579,
+                      "y": 69.64285714285714,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "EDW27",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:29; landing: 1571135346000; go around: 0; callsign: EDW27"
+                    },
+                    {
+                      "x": 263.1578947368421,
+                      "y": 80.35714285714286,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#e45756",
+                      "text": "SWR287A",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:31; landing: 1571135483000; go around: 2; callsign: SWR287A"
+                    },
+                    {
+                      "x": 289.4736842105263,
+                      "y": 91.07142857142857,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#f58518",
+                      "text": "SWR46J",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:33; landing: 1571135601000; go around: 1; callsign: SWR46J"
+                    },
+                    {
+                      "x": 315.7894736842105,
+                      "y": 101.78571428571428,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "NJE715R",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:35; landing: 1571135704000; go around: 0; callsign: NJE715R"
+                    },
+                    {
+                      "x": 328.94736842105266,
+                      "y": 112.5,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "GSW4943",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:36; landing: 1571135807000; go around: 0; callsign: GSW4943"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "name": "child_layer_2_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 39.473684210526315,
+                      "y": 5.357142857142857,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:14; landing: 1571134447000; go around: 0"
+                    },
+                    {
+                      "x": 52.63157894736842,
+                      "y": 16.07142857142857,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:15; landing: 1571134546000; go around: 0"
+                    },
+                    {
+                      "x": 78.94736842105263,
+                      "y": 26.785714285714285,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#e45756",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:17; landing: 1571134660000; go around: 2"
+                    },
+                    {
+                      "x": 171.05263157894737,
+                      "y": 37.49999999999999,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:24; landing: 1571135041000; go around: 0"
+                    },
+                    {
+                      "x": 197.3684210526316,
+                      "y": 48.21428571428571,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:26; landing: 1571135166000; go around: 0"
+                    },
+                    {
+                      "x": 210.52631578947367,
+                      "y": 58.92857142857142,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:27; landing: 1571135251000; go around: 0"
+                    },
+                    {
+                      "x": 236.8421052631579,
+                      "y": 69.64285714285714,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:29; landing: 1571135346000; go around: 0"
+                    },
+                    {
+                      "x": 263.1578947368421,
+                      "y": 80.35714285714286,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#e45756",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:31; landing: 1571135483000; go around: 2"
+                    },
+                    {
+                      "x": 289.4736842105263,
+                      "y": 91.07142857142857,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#f58518",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:33; landing: 1571135601000; go around: 1"
+                    },
+                    {
+                      "x": 315.7894736842105,
+                      "y": 101.78571428571428,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:35; landing: 1571135704000; go around: 0"
+                    },
+                    {
+                      "x": 328.94736842105266,
+                      "y": 112.5,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:36; landing: 1571135807000; go around: 0"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 500,
+              "height": 150,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            },
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 53,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 118,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 184,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 250,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 316,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 382,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            },
+                            {
+                              "x": 447,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": -150
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 150.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "rule",
+                  "name": "child_layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 394.7368421052632,
+                      "y": 123.21428571428571,
+                      "stroke": "#e45756",
+                      "strokeWidth": 3,
+                      "x2": 447.36842105263156,
+                      "description": "final approach (hours-minutes): 18:41; landing: 1571136331000; landing (hours-minutes): 18:45; go around: 2"
+                    },
+                    {
+                      "x": 421.05263157894734,
+                      "y": 133.92857142857142,
+                      "stroke": "#f58518",
+                      "strokeWidth": 3,
+                      "x2": 486.8421052631579,
+                      "description": "final approach (hours-minutes): 18:43; landing: 1571136492000; landing (hours-minutes): 18:48; go around: 1"
+                    },
+                    {
+                      "x": 473.6842105263158,
+                      "y": 144.64285714285714,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 3,
+                      "x2": 500,
+                      "description": "final approach (hours-minutes): 18:47; landing: 1571136599000; landing (hours-minutes): 18:49; go around: 0"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "name": "child_layer_1_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 447.36842105263156,
+                      "y": 123.21428571428571,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#e45756",
+                      "text": "SWR287A",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:45; landing: 1571136331000; go around: 2; callsign: SWR287A"
+                    },
+                    {
+                      "x": 486.8421052631579,
+                      "y": 133.92857142857142,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#f58518",
+                      "text": "SWR46J",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:48; landing: 1571136492000; go around: 1; callsign: SWR46J"
+                    },
+                    {
+                      "x": 500,
+                      "y": 144.64285714285714,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "TYW212F",
+                      "dx": 12,
+                      "font": "Ubuntu",
+                      "fontSize": 11,
+                      "description": "landing (hours-minutes): 18:49; landing: 1571136599000; go around: 0; callsign: TYW212F"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "name": "child_layer_2_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 447.36842105263156,
+                      "y": 123.21428571428571,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#e45756",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:45; landing: 1571136331000; go around: 2"
+                    },
+                    {
+                      "x": 486.8421052631579,
+                      "y": 133.92857142857142,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#f58518",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:48; landing: 1571136492000; go around: 1"
+                    },
+                    {
+                      "x": 500,
+                      "y": 144.64285714285714,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#4c78a8",
+                      "text": "\u2708",
+                      "dx": -8,
+                      "dy": 1,
+                      "font": "Ubuntu",
+                      "fontSize": 20,
+                      "description": "landing (hours-minutes): 18:49; landing: 1571136599000; go around: 0"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 178,
+              "width": 500,
+              "height": 150,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "opacity": 1,
+                                      "stroke": "#4c78a8",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "0",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0.25,
+                              "width": 21.8642578125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f58518",
+                                      "opacity": 1,
+                                      "stroke": "#f58518",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "1",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 33,
+                              "y": 0.25,
+                              "width": 21.8642578125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#e45756",
+                                      "opacity": 1,
+                                      "stroke": "#e45756",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "2",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 66,
+                              "y": 0.25,
+                              "width": 21.8642578125,
+                              "height": 12.5,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "go around",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": -52,
+              "width": 88,
+              "height": 29,
+              "orient": "top"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  ],
+  "zindex": 0
+}

@@ -1,0 +1,415 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 46.51898734177215,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 14
+                    },
+                    {
+                      "x": 93.9873417721519,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 14
+                    },
+                    {
+                      "x": 141.45569620253164,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "150",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 14
+                    },
+                    {
+                      "x": 188.9240506329114,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "200",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 14
+                    },
+                    {
+                      "x": 236.39240506329114,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "250",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 14
+                    },
+                    {
+                      "x": 283.8607594936709,
+                      "y": 2,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "300",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 14
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "none",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 150,
+                      "y": 26,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Rank of average score",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 14,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 90.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -2,
+                      "y": 44.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Index of Multiple Deprivation",
+                      "angle": 0,
+                      "limit": 0,
+                      "font": "sans-serif",
+                      "fontSize": 14
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "none",
+                      "strokeWidth": 1,
+                      "y2": 90
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 71.15189873417722,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 77; index_domain: Index of Multiple Deprivation; Local authority: Darlington; Domain: Index of Multiple Deprivation; Rank of average score: 77; LSOAs in bottom decile: 18.5%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 138.55696202531644,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 148; index_domain: Index of Multiple Deprivation; Local authority: Warrington; Domain: Index of Multiple Deprivation; Rank of average score: 148; LSOAs in bottom decile: 7.9%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 251.53164556962025,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 267; index_domain: Index of Multiple Deprivation; Local authority: York; Domain: Index of Multiple Deprivation; Rank of average score: 267; LSOAs in bottom decile: 0.8%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 79.69620253164557,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 86; index_domain: Index of Multiple Deprivation; Local authority: Telford and Wrekin; Domain: Index of Multiple Deprivation; Rank of average score: 86; LSOAs in bottom decile: 16.7%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 253.43037974683543,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 269; index_domain: Index of Multiple Deprivation; Local authority: South Gloucestershire; Domain: Index of Multiple Deprivation; Rank of average score: 269; LSOAs in bottom decile: 0.0%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 147.10126582278482,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 157; index_domain: Index of Multiple Deprivation; Local authority: Swindon; Domain: Index of Multiple Deprivation; Rank of average score: 157; LSOAs in bottom decile: 9.1%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 46.46835443037975,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 51; index_domain: Index of Multiple Deprivation; Local authority: Peterborough; Domain: Index of Multiple Deprivation; Rank of average score: 51; LSOAs in bottom decile: 14.3%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 119.56962025316454,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 128; index_domain: Index of Multiple Deprivation; Local authority: Thurrock; Domain: Index of Multiple Deprivation; Rank of average score: 128; LSOAs in bottom decile: 4.1%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 131.91139240506328,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 141; index_domain: Index of Multiple Deprivation; Local authority: Reading; Domain: Index of Multiple Deprivation; Rank of average score: 141; LSOAs in bottom decile: 5.1%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 154.69620253164555,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 165; index_domain: Index of Multiple Deprivation; Local authority: Milton Keynes; Domain: Index of Multiple Deprivation; Rank of average score: 165; LSOAs in bottom decile: 5.3%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 150.8987341772152,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 161; index_domain: Index of Multiple Deprivation; Local authority: Cheshire West and Chester; Domain: Index of Multiple Deprivation; Rank of average score: 161; LSOAs in bottom decile: 7.5%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 140.45569620253164,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 150; index_domain: Index of Multiple Deprivation; Local authority: Bedford; Domain: Index of Multiple Deprivation; Rank of average score: 150; LSOAs in bottom decile: 3.9%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 121.46835443037975,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 130; index_domain: Index of Multiple Deprivation; Local authority: Stockport; Domain: Index of Multiple Deprivation; Rank of average score: 130; LSOAs in bottom decile: 8.9%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 179.37974683544303,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#fc6721",
+              "opacity": 0.7,
+              "description": "rank_average_score: 191; index_domain: Index of Multiple Deprivation; Local authority: Trafford; Domain: Index of Multiple Deprivation; Rank of average score: 191; LSOAs in bottom decile: 5.1%",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 160.39240506329114,
+              "y": 11.25,
+              "width": 2,
+              "height": 67.5,
+              "fill": "#bdbdbd",
+              "opacity": 0.7,
+              "description": "rank_average_score: 171; index_domain: Index of Multiple Deprivation; Local authority: Solihull; Domain: Index of Multiple Deprivation; Rank of average score: 171; LSOAs in bottom decile: 11.9%",
+              "ariaRoleDescription": "tick"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#757575",
+                      "opacity": 1,
+                      "text": "2019 Indices of Deprivation for Trafford and its CIPFA Nearest Neighbours ",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 20,
+                      "fontWeight": "normal"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 300,
+              "y": -20,
+              "align": "right",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 90,
+      "fill": "transparent",
+      "stroke": "transparent"
+    }
+  ],
+  "zindex": 0
+}

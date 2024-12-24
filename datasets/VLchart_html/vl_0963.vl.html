@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/harrywright25/harrywright25.github.io/main/data-pps2.csv"}, "title": {"text": "PP score matrix", "subtitle": ["Predictive power score matrix"], "subtitleFontSize": 10, "subtitleFontStyle": "italic", "anchor": "start"}, "height": 125, "width": 125, "encoding": {"y": {"field": "x", "type": "nominal", "title": null, "axis": {"labelFontSize": 8}}, "x": {"field": "y", "type": "nominal", "title": null, "axis": {"labelFontSize": 8}}}, "layer": [{"mark": "rect", "encoding": {"color": {"field": "ppscore", "type": "quantitative", "title": "PP Score", "legend": {"labelFontSize": 8, "titleFontSize": 9}}}}, {"mark": "text", "encoding": {"text": {"field": "ppscore", "type": "quantitative", "format": ".2f"}}}], "config": {"axis": {"grid": true, "tickBand": "extent"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

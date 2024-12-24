@@ -1,0 +1,135 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "lightgray",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: Le Var",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: La Tin\u00e9e",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: La Roya",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: L'Est\u00e9ron",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: La Cagne",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: Le Paillon",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: La Siagne",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: Le Loup",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: Cians",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Main rivers of French Riviera",
+                      "angle": 0,
+                      "font": "Fira Sans",
+                      "fontSize": 16,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": -20,
+              "align": "left",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 400,
+      "fill": "transparent"
+    }
+  ],
+  "zindex": 0
+}

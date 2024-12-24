@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "width": 300, "height": 200, "data": {"url": "https://raw.githubusercontent.com/vega/vega-datasets/next/data/unemployment-across-industries.json"}, "mark": "area", "params": [{"name": "industry", "select": {"type": "point", "fields": ["series"]}, "bind": "legend"}], "encoding": {"x": {"timeUnit": "yearmonth", "field": "date", "axis": {"domain": false, "format": "%Y", "tickSize": 0}}, "y": {"aggregate": "sum", "field": "count", "stack": "center", "axis": null}, "color": {"field": "series", "scale": {"scheme": "category20b"}}, "opacity": {"condition": {"param": "industry", "value": 1}, "value": 0.2}}, "config": {}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

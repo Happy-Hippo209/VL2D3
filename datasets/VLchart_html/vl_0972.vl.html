@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A map showing deforestation in South America", "title": {"text": "Deforestation in South America", "subtitle": ["Deforestation 2010-2015 (1000 hectares per year),", "Source: Food and Agriculture Organization of the United Nations"], "subtitleFontSize": 10, "subtitleFontStyle": "italic", "anchor": "start"}, "width": 350, "height": 350, "data": {"url": "https://raw.githubusercontent.com/harrywright25/harrywright25.github.io/main/map-south-america.json", "format": {"property": "features"}}, "projection": {"type": "mercator"}, "transform": [{"lookup": "properties.name", "from": {"data": {"url": "https://raw.githubusercontent.com/harrywright25/harrywright25.github.io/main/data-map.csv"}, "key": "Country", "fields": ["Deforestation 2010-2015 (1000 ha/year)"]}}], "mark": {"type": "geoshape", "stroke": "darkgrey", "strokeWidth": 0.5}, "encoding": {"tooltip": [{"field": "properties.name", "type": "nominal", "title": "Country"}, {"field": "Deforestation 2010-2015 (1000 ha/year)", "title": "Deforestation (1000 ha/yr)", "type": "quantitative"}], "color": {"field": "Deforestation 2010-2015 (1000 ha/year)", "type": "quantitative", "title": "1000 ha per year", "legend": {"orient": "bottom-right"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

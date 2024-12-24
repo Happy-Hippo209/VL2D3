@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Coal's share of energy consumption over time", "data": {"url": "https://raw.githubusercontent.com/BenPimley/ECO/main/JT%20Coal%20Fig2.csv"}, "height": 300, "width": 400, "mark": {"type": "line", "color": "#122b39"}, "encoding": {"x": {"field": "Time", "type": "temporal", "title": null, "axis": {"grid": false}}, "y": {"field": "Value", "type": "quantitative", "title": "Percentage share"}, "tooltip": [{"field": "Time", "type": "temporal", "timeUnit": "year", "title": "Year"}, {"field": "Value", "type": "quantitative", "title": "Coal's percentage share of energy consumption (%)"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

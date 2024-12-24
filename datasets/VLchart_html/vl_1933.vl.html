@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Covid-19 data, from ECDC", "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/db_covidLocalRisk.csv"}, "selection": {"paintbrush": {"type": "multi", "on": "mouseover", "nearest": true}, "grid": {"type": "interval", "bind": "scales"}}, "encoding": {"x": {"field": "risk_share", "type": "quantitative", "axis": {"title": "At risk / Population", "grid": false, "tickCount": 14, "format": ".1%", "labelOverlap": "greedy"}}, "y": {"field": "cases_pop", "type": "quantitative", "axis": {"title": "Cases / Population", "grid": false, "format": ".2%"}}, "size": {"condition": {"selection": "paintbrush", "value": 300, "init": {"value": 70}}, "value": 70}, "tooltip": [{"field": "areaname", "type": "ordinal", "title": "Location"}, {"field": "cases_pop", "type": "nominal", "title": "Cases % population", "format": ".2%"}, {"field": "risk_share", "type": "nominal", "title": "75+, % population", "format": ".2%"}]}, "title": {"text": "COVID-19 - CASES AND DEATHS PER CAPITA", "anchor": "start", "color": "black"}, "config": {"background": "#FcFdFd"}, "height": 300, "width": 340, "mark": {"type": "circle", "opacity": 0.4, "color": "blue"}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

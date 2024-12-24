@@ -1,0 +1,1666 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 38,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 75,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 113,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 150,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 188,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 225,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 263,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 300,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 275,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 125,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 25,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 38,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 75,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 113,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 150,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 188,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 225,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 263,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 300,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 37.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "45,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 75,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "50,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 112.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "55,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 150,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "60,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 187.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "65,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 225,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "70,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 262.5,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "75,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 300,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "80,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 275,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 125,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 25,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 275,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.02",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 249.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.04",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 225,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.06",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 200,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.08",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 174.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.12",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 124.99999999999999,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.14",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 99.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.16",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 75,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.18",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 49.999999999999986,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 24.99999999999998,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.22",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.24",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 54.1575,
+              "y": 31.24999999999999,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 47221; Firearm deaths: 0.215; Division: South; State: Alabama",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 267.9225,
+              "y": 8.749999999999968,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 75723; Firearm deaths: 0.233; Division: West; State: Alaska",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 128.25,
+              "y": 110.00000000000001,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 57100; Firearm deaths: 0.152; Division: West; State: Arizona",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 44.3025,
+              "y": 77.49999999999999,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 45907; Firearm deaths: 0.178; Division: South; State: Arkansas",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 199.7775,
+              "y": 201.25000000000003,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 66637; Firearm deaths: 0.079; Division: West; State: California",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 229.245,
+              "y": 121.25,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 70566; Firearm deaths: 0.143; Division: West; State: Colorado",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 269.4225,
+              "y": 242.5,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 75923; Firearm deaths: 0.046; Division: Northeast; State: Connecticut",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 135.345,
+              "y": 162.5,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 58046; Firearm deaths: 0.11; Division: South; State: Delaware",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 83.82,
+              "y": 142.5,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 51176; Firearm deaths: 0.126; Division: South; State: Florida",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 101.4525,
+              "y": 112.5,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 53527; Firearm deaths: 0.15; Division: South; State: Georgia",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 240.99749999999997,
+              "y": 243.75,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 72133; Firearm deaths: 0.045; Division: West; State: Hawaii",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 124.23,
+              "y": 117.50000000000001,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 56564; Firearm deaths: 0.146; Division: West; State: Idaho",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 160.39499999999998,
+              "y": 153.75,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 61386; Firearm deaths: 0.117; Division: Midwest; State: Illinois",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 120.705,
+              "y": 112.5,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 56094; Firearm deaths: 0.15; Division: Midwest; State: Indiana",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 143.205,
+              "y": 185,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 59094; Firearm deaths: 0.092; Division: Midwest; State: Iowa",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 126.075,
+              "y": 132.5,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 56810; Firearm deaths: 0.134; Division: Midwest; State: Kansas",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 40.267500000000005,
+              "y": 81.25000000000001,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 45369; Firearm deaths: 0.175; Division: South; State: Kentucky",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 16.47,
+              "y": 33.74999999999998,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 42196; Firearm deaths: 0.213; Division: South; State: Louisiana",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 81.41999999999999,
+              "y": 196.24999999999997,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 50856; Firearm deaths: 0.083; Division: Northeast; State: Maine",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 253.2,
+              "y": 151.25,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 73760; Firearm deaths: 0.119; Division: South; State: Maryland",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 241.995,
+              "y": 257.5,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 72266; Firearm deaths: 0.034; Division: Northeast; State: Massachusetts",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 128.1825,
+              "y": 146.24999999999997,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 57091; Firearm deaths: 0.123; Division: Midwest; State: Michigan",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 226.635,
+              "y": 205,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 70218; Firearm deaths: 0.076; Division: Midwest; State: Minnesota",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 8.2425,
+              "y": 51.249999999999986,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 41099; Firearm deaths: 0.199; Division: South; State: Mississippi",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 112.62,
+              "y": 62.49999999999998,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 55016; Firearm deaths: 0.19; Division: Midwest; State: Missouri",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 128.0625,
+              "y": 63.74999999999997,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 57075; Firearm deaths: 0.189; Division: West; State: Montana",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 145.305,
+              "y": 186.25,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 59374; Firearm deaths: 0.091; Division: Midwest; State: Nebraska",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 115.73249999999999,
+              "y": 89.99999999999999,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 55431; Firearm deaths: 0.168; Division: West; State: Nevada",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 271.95,
+              "y": 183.75,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 76260; Firearm deaths: 0.093; Division: Northeast; State: New Hampshire",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 213.51,
+              "y": 231.24999999999997,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 68468; Firearm deaths: 0.055; Division: Northeast; State: New Jersey",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 63.3825,
+              "y": 73.75,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 48451; Firearm deaths: 0.181; Division: West; State: New Mexico",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 160.7775,
+              "y": 245,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 61437; Firearm deaths: 0.044; Division: Northeast; State: New York",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 103.23,
+              "y": 128.74999999999997,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 53764; Firearm deaths: 0.137; Division: South; State: North Carolina",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 151.38000000000002,
+              "y": 151.25,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 60184; Firearm deaths: 0.119; Division: Midwest; State: North Dakota",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 104.8875,
+              "y": 138.74999999999997,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 53985; Firearm deaths: 0.129; Division: Midwest; State: Ohio",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 82.0725,
+              "y": 54.99999999999997,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 50943; Firearm deaths: 0.196; Division: South; State: Oklahoma",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 143.5125,
+              "y": 151.25,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 59135; Firearm deaths: 0.119; Division: West; State: Oregon",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 157.3425,
+              "y": 150,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 60979; Firearm deaths: 0.12; Division: Northeast; State: Pennsylvania",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 161.46,
+              "y": 248.74999999999997,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 61528; Firearm deaths: 0.041; Division: Northeast; State: Rhode Island",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 107.52,
+              "y": 78.75000000000001,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 54336; Firearm deaths: 0.177; Division: South; State: South Carolina",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 130.875,
+              "y": 132.5,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 57450; Firearm deaths: 0.134; Division: Midwest; State: South Dakota",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 85.08000000000001,
+              "y": 86.24999999999996,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 51344; Firearm deaths: 0.171; Division: South; State: Tennessee",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 136.095,
+              "y": 148.75,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 58146; Firearm deaths: 0.121; Division: South; State: Texas",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 206.1075,
+              "y": 138.74999999999997,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 67481; Firearm deaths: 0.129; Division: West; State: Utah",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 156.2775,
+              "y": 161.25,
+              "fill": "#377eb8",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 60837; Firearm deaths: 0.111; Division: Northeast; State: Vermont",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 198.3825,
+              "y": 148.75,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 66451; Firearm deaths: 0.121; Division: South; State: Virginia",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 227.32500000000002,
+              "y": 187.5,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 70310; Firearm deaths: 0.09; Division: West; State: Washington",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 32.655,
+              "y": 81.25000000000001,
+              "fill": "#4daf4a",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 44354; Firearm deaths: 0.175; Division: South; State: West Virginia",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 148.6275,
+              "y": 157.49999999999997,
+              "fill": "#e41a1c",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 59817; Firearm deaths: 0.114; Division: Midwest; State: Wisconsin",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 133.7175,
+              "y": 82.5,
+              "fill": "#984ea3",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 300,
+              "shape": "circle",
+              "description": "Med income: 57829; Firearm deaths: 0.174; Division: West; State: Wyoming",
+              "ariaRoleDescription": "circle"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#e41a1c",
+                                      "opacity": 0.7,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Midwest",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 56.6982421875,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#377eb8",
+                                      "opacity": 0.7,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Northeast",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 67,
+                              "y": 0,
+                              "width": 64.056640625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4daf4a",
+                                      "opacity": 0.7,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "South",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 142,
+                              "y": 0,
+                              "width": 44.173828125,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#984ea3",
+                                      "opacity": 0.7,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "West",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 197,
+                              "y": 0,
+                              "width": 39.9453125,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 335,
+              "width": 237,
+              "height": 11,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "black",
+                      "opacity": 1,
+                      "text": "Gun deaths and income - US states",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "title-subtitle",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 16,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Median income (x), and firearm deaths per 100k population",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontStyle": "italic"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -27,
+              "y": -35,
+              "align": "left",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

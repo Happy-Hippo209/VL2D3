@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/maddyht20/maddyht20.github.io/main/US%20Migration%205%20CSV.csv"}, "title": {"fontSize": 13, "subtitleFontSize": 13, "text": "Total Immigrants by State as percentage of population", "subtitle": ["Source: Homeland Security", ""], "anchor": "start"}, "width": 600, "height": 600, "mark": {"type": "bar"}, "encoding": {"y": {"field": "State", "sort": {"op": "sum", "order": "ascending", "field": "ValueC"}, "axis": {"title": null}}, "x": {"aggregate": "sum", "field": "ValueC", "axis": {"title": "Migration as % of State Population"}}, "color": {"field": "Type1", "legend": {"orient": "none", "columns": 13, "legendX": -100, "legendY": -30, "offset": 10, "title": null}}, "tooltip": [{"field": "ValueC", "title": "Migration as % of State Population"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,508 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "arc",
+          "name": "Road_Pie_Chart_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 100,
+              "y": 100,
+              "fill": "#1F7744",
+              "opacity": 1,
+              "startAngle": 1.5677349999999999,
+              "endAngle": 1.285,
+              "innerRadius": 0,
+              "outerRadius": 100,
+              "description": "value: 4.5; category: Mountains; order: 1"
+            },
+            {
+              "x": 100,
+              "y": 100,
+              "fill": "#439145",
+              "opacity": 1,
+              "startAngle": 2.133205,
+              "endAngle": 1.5677349999999999,
+              "innerRadius": 0,
+              "outerRadius": 100,
+              "description": "value: 9; category: Grass; order: 2"
+            },
+            {
+              "x": 100,
+              "y": 100,
+              "fill": "#4D4D4B",
+              "opacity": 1,
+              "startAngle": 2.98141,
+              "endAngle": 2.133205,
+              "innerRadius": 0,
+              "outerRadius": 100,
+              "description": "value: 13.5; category: Road; order: 3"
+            },
+            {
+              "x": 100,
+              "y": 100,
+              "fill": "#ABAAAE",
+              "opacity": 1,
+              "startAngle": 3.29556,
+              "endAngle": 2.98141,
+              "innerRadius": 0,
+              "outerRadius": 100,
+              "description": "value: 5; category: Sidewalk; order: 4"
+            },
+            {
+              "x": 100,
+              "y": 100,
+              "fill": "#E7C641",
+              "opacity": 1,
+              "startAngle": 4.143765,
+              "endAngle": 3.29556,
+              "innerRadius": 0,
+              "outerRadius": 100,
+              "description": "value: 13.5; category: Beach; order: 5"
+            },
+            {
+              "x": 100,
+              "y": 100,
+              "fill": "#2A518A",
+              "opacity": 1,
+              "startAngle": 4.709235,
+              "endAngle": 4.143765,
+              "innerRadius": 0,
+              "outerRadius": 100,
+              "description": "value: 9; category: Ocean; order: 6"
+            },
+            {
+              "x": 100,
+              "y": 100,
+              "fill": "#6499F9",
+              "opacity": 1,
+              "startAngle": 7.568,
+              "endAngle": 4.709235,
+              "innerRadius": 0,
+              "outerRadius": 100,
+              "description": "value: 45.5; category: Sky; order: 7"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "name": "category_legend_entries",
+                          "role": "scope",
+                          "interactive": true,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "name": "category_legend_symbols",
+                                  "role": "legend-symbol",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#1F7744",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "name": "category_legend_labels",
+                                  "role": "legend-label",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#44475a",
+                                      "opacity": 1,
+                                      "text": "Mountains",
+                                      "limit": 160,
+                                      "font": "Roboto",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 67.1572265625,
+                              "height": 11,
+                              "fill": "transparent",
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "name": "category_legend_symbols",
+                                  "role": "legend-symbol",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#439145",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "name": "category_legend_labels",
+                                  "role": "legend-label",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#44475a",
+                                      "opacity": 1,
+                                      "text": "Grass",
+                                      "limit": 160,
+                                      "font": "Roboto",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 67.1572265625,
+                              "height": 11,
+                              "fill": "transparent",
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "name": "category_legend_symbols",
+                                  "role": "legend-symbol",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4D4D4B",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "name": "category_legend_labels",
+                                  "role": "legend-label",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#44475a",
+                                      "opacity": 1,
+                                      "text": "Road",
+                                      "limit": 160,
+                                      "font": "Roboto",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 67.1572265625,
+                              "height": 11,
+                              "fill": "transparent",
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "name": "category_legend_symbols",
+                                  "role": "legend-symbol",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#ABAAAE",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "name": "category_legend_labels",
+                                  "role": "legend-label",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#44475a",
+                                      "opacity": 1,
+                                      "text": "Sidewalk",
+                                      "limit": 160,
+                                      "font": "Roboto",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 39,
+                              "width": 67.1572265625,
+                              "height": 11,
+                              "fill": "transparent",
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "name": "category_legend_symbols",
+                                  "role": "legend-symbol",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#E7C641",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "name": "category_legend_labels",
+                                  "role": "legend-label",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#44475a",
+                                      "opacity": 1,
+                                      "text": "Beach",
+                                      "limit": 160,
+                                      "font": "Roboto",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 52,
+                              "width": 67.1572265625,
+                              "height": 11,
+                              "fill": "transparent",
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "name": "category_legend_symbols",
+                                  "role": "legend-symbol",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#2A518A",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "name": "category_legend_labels",
+                                  "role": "legend-label",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#44475a",
+                                      "opacity": 1,
+                                      "text": "Ocean",
+                                      "limit": 160,
+                                      "font": "Roboto",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 65,
+                              "width": 67.1572265625,
+                              "height": 11,
+                              "fill": "transparent",
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "name": "category_legend_symbols",
+                                  "role": "legend-symbol",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#6499F9",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "name": "category_legend_labels",
+                                  "role": "legend-label",
+                                  "interactive": true,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#44475a",
+                                      "opacity": 1,
+                                      "text": "Sky",
+                                      "limit": 160,
+                                      "font": "Roboto",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 78,
+                              "width": 67.1572265625,
+                              "height": 11,
+                              "fill": "transparent",
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 220,
+              "y": 55,
+              "width": 68,
+              "height": 89,
+              "fill": "transparent",
+              "orient": "none"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 200,
+      "height": 200,
+      "fill": "transparent",
+      "stroke": null
+    }
+  ],
+  "zindex": 0
+}

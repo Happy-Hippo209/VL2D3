@@ -1,0 +1,1762 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 40,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 80,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 120,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 160,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 201,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 241,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 281,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 321,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 361,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 401,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 441,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 481,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 521,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 561,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 602,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 642,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 682,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 722,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 762,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 40,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 80,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 120,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 160,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 201,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 241,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 281,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 321,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 361,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 401,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 441,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 481,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 521,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 561,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 602,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 642,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 682,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 722,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 762,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1980",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 40.131268011527375,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1982",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 80.20763688760807,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1984",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 120.33890489913544,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1986",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 160.41527377521615,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1988",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 200.5465417867435,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1990",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 240.6229106628242,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1992",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 280.7541786743516,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1994",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 320.8305475504323,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1996",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 360.96181556195967,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1998",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 401.03818443804033,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 441.16945244956776,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2002",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 481.2458213256484,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2004",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 521.3770893371758,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2006",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 561.4534582132565,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2008",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 601.5847262247839,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2010",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 641.6610951008646,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2012",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 681.7923631123919,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2014",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 721.8687319884726,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2016",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 762,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2018",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 381,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "year",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 100,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 50,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 250,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 200.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "3",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 100.00000000000001,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "4",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 49.999999999999986,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "6",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -16.8642578125,
+                      "y": 150,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Oil Production [km^3]",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 114.3376577743831,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1980; Oil Production [km^3]: 3.71324684451; km^3: 3.71"
+            },
+            {
+              "x": 20.093083573487032,
+              "y": 124.16219816908118,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1981; Oil Production [km^3]: 3.51675603662; km^3: 3.52"
+            },
+            {
+              "x": 40.131268011527375,
+              "y": 131.4217965351575,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1982; Oil Production [km^3]: 3.3715640693; km^3: 3.37"
+            },
+            {
+              "x": 60.16945244956772,
+              "y": 131.91795613571668,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1983; Oil Production [km^3]: 3.36164087729; km^3: 3.36"
+            },
+            {
+              "x": 80.20763688760807,
+              "y": 127.17687550815123,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1984; Oil Production [km^3]: 3.45646248984; km^3: 3.46"
+            },
+            {
+              "x": 100.30072046109511,
+              "y": 128.35779338784468,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1985; Oil Production [km^3]: 3.43284413224; km^3: 3.43"
+            },
+            {
+              "x": 120.33890489913544,
+              "y": 121.45508175199515,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1986; Oil Production [km^3]: 3.57089836496; km^3: 3.57"
+            },
+            {
+              "x": 140.3770893371758,
+              "y": 119.81282248932558,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1987; Oil Production [km^3]: 3.60374355021; km^3: 3.60"
+            },
+            {
+              "x": 160.41527377521615,
+              "y": 113.14513382216195,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1988; Oil Production [km^3]: 3.73709732356; km^3: 3.74"
+            },
+            {
+              "x": 180.50835734870316,
+              "y": 109.87802440561441,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1989; Oil Production [km^3]: 3.80243951189; km^3: 3.80"
+            },
+            {
+              "x": 200.5465417867435,
+              "y": 107.2318398692988,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1990; Oil Production [km^3]: 3.85536320261; km^3: 3.86"
+            },
+            {
+              "x": 220.58472622478388,
+              "y": 107.51618864622746,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1991; Oil Production [km^3]: 3.84967622708; km^3: 3.85"
+            },
+            {
+              "x": 240.6229106628242,
+              "y": 106.89816528412736,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1992; Oil Production [km^3]: 3.86203669432; km^3: 3.86"
+            },
+            {
+              "x": 260.71599423631125,
+              "y": 105.30523182970056,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1993; Oil Production [km^3]: 3.89389536341; km^3: 3.89"
+            },
+            {
+              "x": 280.7541786743516,
+              "y": 100.84269694279993,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1994; Oil Production [km^3]: 3.98314606114; km^3: 3.98"
+            },
+            {
+              "x": 300.79236311239197,
+              "y": 96.0058662168809,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1995; Oil Production [km^3]: 4.07988267566; km^3: 4.08"
+            },
+            {
+              "x": 320.8305475504323,
+              "y": 91.13131575524694,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1996; Oil Production [km^3]: 4.1773736849; km^3: 4.18"
+            },
+            {
+              "x": 340.92363112391934,
+              "y": 84.6493242485265,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1997; Oil Production [km^3]: 4.30701351503; km^3: 4.31"
+            },
+            {
+              "x": 360.96181556195967,
+              "y": 80.40440322152024,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1998; Oil Production [km^3]: 4.39191193557; km^3: 4.39"
+            },
+            {
+              "x": 381,
+              "y": 82.85038300673303,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1999; Oil Production [km^3]: 4.34299233987; km^3: 4.34"
+            },
+            {
+              "x": 401.03818443804033,
+              "y": 74.46789712360162,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2000; Oil Production [km^3]: 4.51064205753; km^3: 4.51"
+            },
+            {
+              "x": 421.13126801152737,
+              "y": 74.63038213898949,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2001; Oil Production [km^3]: 4.50739235722; km^3: 4.51"
+            },
+            {
+              "x": 441.16945244956776,
+              "y": 76.28134595605484,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2002; Oil Production [km^3]: 4.47437308088; km^3: 4.47"
+            },
+            {
+              "x": 461.2076368876081,
+              "y": 68.97242178173575,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2003; Oil Production [km^3]: 4.62055156437; km^3: 4.62"
+            },
+            {
+              "x": 481.2458213256484,
+              "y": 57.66520562162404,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2004; Oil Production [km^3]: 4.84669588757; km^3: 4.85"
+            },
+            {
+              "x": 501.33890489913546,
+              "y": 52.90961740339893,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2005; Oil Production [km^3]: 4.94180765193; km^3: 4.94"
+            },
+            {
+              "x": 521.3770893371758,
+              "y": 52.561435227567934,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2006; Oil Production [km^3]: 4.94877129545; km^3: 4.95"
+            },
+            {
+              "x": 541.4152737752161,
+              "y": 52.413457802839716,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2007; Oil Production [km^3]: 4.95173084394; km^3: 4.95"
+            },
+            {
+              "x": 561.4534582132565,
+              "y": 48.53122654232413,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2008; Oil Production [km^3]: 5.02937546915; km^3: 5.03"
+            },
+            {
+              "x": 581.5465417867435,
+              "y": 50.878554711051436,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2009; Oil Production [km^3]: 4.98242890578; km^3: 4.98"
+            },
+            {
+              "x": 601.5847262247839,
+              "y": 42.960311729028156,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2010; Oil Production [km^3]: 5.14079376542; km^3: 5.14"
+            },
+            {
+              "x": 621.6229106628242,
+              "y": 41.67784071471726,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2011; Oil Production [km^3]: 5.16644318571; km^3: 5.17"
+            },
+            {
+              "x": 641.6610951008646,
+              "y": 35.62237237338981,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2012; Oil Production [km^3]: 5.28755255253; km^3: 5.29"
+            },
+            {
+              "x": 661.7541786743516,
+              "y": 33.95399944753298,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2013; Oil Production [km^3]: 5.32092001105; km^3: 5.32"
+            },
+            {
+              "x": 681.7923631123919,
+              "y": 26.479688739694083,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2014; Oil Production [km^3]: 5.47040622521; km^3: 5.47"
+            },
+            {
+              "x": 701.8305475504322,
+              "y": 18.279998498874093,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2015; Oil Production [km^3]: 5.63440003002; km^3: 5.63"
+            },
+            {
+              "x": 721.8687319884726,
+              "y": 16.826337914779643,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2016; Oil Production [km^3]: 5.6634732417; km^3: 5.66"
+            },
+            {
+              "x": 741.9618155619596,
+              "y": 15.166669543318523,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2017; Oil Production [km^3]: 5.69666660913; km^3: 5.70"
+            },
+            {
+              "x": 762,
+              "y": 7.561790519543033,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2018; Oil Production [km^3]: 5.84876418961; km^3: 5.85"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 114.3376577743831,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1980; Oil Production [km^3]: 3.71324684451; km^3: 3.71",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 20.093083573487032,
+              "y": 124.16219816908118,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1981; Oil Production [km^3]: 3.51675603662; km^3: 3.52",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 40.131268011527375,
+              "y": 131.4217965351575,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1982; Oil Production [km^3]: 3.3715640693; km^3: 3.37",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 60.16945244956772,
+              "y": 131.91795613571668,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1983; Oil Production [km^3]: 3.36164087729; km^3: 3.36",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 80.20763688760807,
+              "y": 127.17687550815123,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1984; Oil Production [km^3]: 3.45646248984; km^3: 3.46",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 100.30072046109511,
+              "y": 128.35779338784468,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1985; Oil Production [km^3]: 3.43284413224; km^3: 3.43",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 120.33890489913544,
+              "y": 121.45508175199515,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1986; Oil Production [km^3]: 3.57089836496; km^3: 3.57",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 140.3770893371758,
+              "y": 119.81282248932558,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1987; Oil Production [km^3]: 3.60374355021; km^3: 3.60",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 160.41527377521615,
+              "y": 113.14513382216195,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1988; Oil Production [km^3]: 3.73709732356; km^3: 3.74",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 180.50835734870316,
+              "y": 109.87802440561441,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1989; Oil Production [km^3]: 3.80243951189; km^3: 3.80",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 200.5465417867435,
+              "y": 107.2318398692988,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1990; Oil Production [km^3]: 3.85536320261; km^3: 3.86",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 220.58472622478388,
+              "y": 107.51618864622746,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1991; Oil Production [km^3]: 3.84967622708; km^3: 3.85",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 240.6229106628242,
+              "y": 106.89816528412736,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1992; Oil Production [km^3]: 3.86203669432; km^3: 3.86",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 260.71599423631125,
+              "y": 105.30523182970056,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1993; Oil Production [km^3]: 3.89389536341; km^3: 3.89",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 280.7541786743516,
+              "y": 100.84269694279993,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1994; Oil Production [km^3]: 3.98314606114; km^3: 3.98",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 300.79236311239197,
+              "y": 96.0058662168809,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1995; Oil Production [km^3]: 4.07988267566; km^3: 4.08",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 320.8305475504323,
+              "y": 91.13131575524694,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1996; Oil Production [km^3]: 4.1773736849; km^3: 4.18",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 340.92363112391934,
+              "y": 84.6493242485265,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1997; Oil Production [km^3]: 4.30701351503; km^3: 4.31",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 360.96181556195967,
+              "y": 80.40440322152024,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1998; Oil Production [km^3]: 4.39191193557; km^3: 4.39",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 381,
+              "y": 82.85038300673303,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1999; Oil Production [km^3]: 4.34299233987; km^3: 4.34",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 401.03818443804033,
+              "y": 74.46789712360162,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2000; Oil Production [km^3]: 4.51064205753; km^3: 4.51",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 421.13126801152737,
+              "y": 74.63038213898949,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2001; Oil Production [km^3]: 4.50739235722; km^3: 4.51",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 441.16945244956776,
+              "y": 76.28134595605484,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2002; Oil Production [km^3]: 4.47437308088; km^3: 4.47",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 461.2076368876081,
+              "y": 68.97242178173575,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2003; Oil Production [km^3]: 4.62055156437; km^3: 4.62",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 481.2458213256484,
+              "y": 57.66520562162404,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2004; Oil Production [km^3]: 4.84669588757; km^3: 4.85",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 501.33890489913546,
+              "y": 52.90961740339893,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2005; Oil Production [km^3]: 4.94180765193; km^3: 4.94",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 521.3770893371758,
+              "y": 52.561435227567934,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2006; Oil Production [km^3]: 4.94877129545; km^3: 4.95",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 541.4152737752161,
+              "y": 52.413457802839716,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2007; Oil Production [km^3]: 4.95173084394; km^3: 4.95",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 561.4534582132565,
+              "y": 48.53122654232413,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2008; Oil Production [km^3]: 5.02937546915; km^3: 5.03",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 581.5465417867435,
+              "y": 50.878554711051436,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2009; Oil Production [km^3]: 4.98242890578; km^3: 4.98",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 601.5847262247839,
+              "y": 42.960311729028156,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2010; Oil Production [km^3]: 5.14079376542; km^3: 5.14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 621.6229106628242,
+              "y": 41.67784071471726,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2011; Oil Production [km^3]: 5.16644318571; km^3: 5.17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 641.6610951008646,
+              "y": 35.62237237338981,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2012; Oil Production [km^3]: 5.28755255253; km^3: 5.29",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 661.7541786743516,
+              "y": 33.95399944753298,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2013; Oil Production [km^3]: 5.32092001105; km^3: 5.32",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 681.7923631123919,
+              "y": 26.479688739694083,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2014; Oil Production [km^3]: 5.47040622521; km^3: 5.47",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 701.8305475504322,
+              "y": 18.279998498874093,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2015; Oil Production [km^3]: 5.63440003002; km^3: 5.63",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 721.8687319884726,
+              "y": 16.826337914779643,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2016; Oil Production [km^3]: 5.6634732417; km^3: 5.66",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 741.9618155619596,
+              "y": 15.166669543318523,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2017; Oil Production [km^3]: 5.69666660913; km^3: 5.70",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 762,
+              "y": 7.561790519543033,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2018; Oil Production [km^3]: 5.84876418961; km^3: 5.85",
+              "ariaRoleDescription": "point"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 762,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

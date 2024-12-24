@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Coronavirus cases", "data": {"url": "https://api.coronavirus.data.gov.uk/v2/data?areaType=region&metric=newCasesByPublishDate&format=csv", "format": {"type": "csv"}}, "title": {"text": "Covid cases: UK regions", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "height": 300, "width": 280, "mark": {"type": "bar", "width": 10}, "selection": {"Region": {"type": "single", "fields": ["areaName"], "bind": {"input": "select", "options": [null, "East Midlands", "East of England", "London", "North East", "North West", "South East", "South West", "West Midlands", "Yorkshire and The Humber"], "name": "Region"}}}, "transform": [{"filter": {"selection": "Region"}}, {"filter": {"field": "date", "range": [{"year": 2020, "month": "dec", "date": 1}, {"year": 2050, "month": "dec", "date": 30}]}}], "encoding": {"x": {"field": "date", "type": "temporal", "title": null}, "y": {"field": "newCasesByPublishDate", "type": "quantitative", "title": null}, "color": {"field": "areaName", "type": "nominal", "legend": null, "scale": {"scheme": "inferno"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

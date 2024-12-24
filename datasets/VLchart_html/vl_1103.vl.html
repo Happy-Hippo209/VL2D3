@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"values": [{"x": "Argentina", "y": "France", "Change": 50}, {"x": "Croatia", "y": "Morocco", "Change": 8}, {"x": "Argentina", "y": "Morocco", "Change": 20}, {"x": "Croatia", "y": "France", "Change": 23}]}, "width": 100, "height": 100, "encoding": {"y": {"field": "x", "type": "ordinal", "title": null}, "x": {"field": "y", "type": "ordinal", "title": null, "axis": {"labelAngle": 0}}}, "layer": [{"mark": "rect", "encoding": {"color": {"field": "Change", "type": "quantitative", "legend": null}}}, {"mark": "text", "encoding": {"text": {"field": "Change", "type": "quantitative"}, "color": {"condition": {"test": "datum['Change'] < 40", "value": "black"}, "value": "white"}}}], "config": {"axis": {"grid": true, "tickBand": "extent"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/AlKobayashi/AlKobayashi.github.io/main/wk8colabcleaned1.csv"}, "title": {"text": "Share of income (%) spent on food by income decile", "subtitle": ["Data source: ONS (2021)"], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "mark": "bar", "width": 200, "height": 220, "encoding": {"x": {"field": "Income group", "sort": "x", "type": "nominal", "title": "Income group"}, "y": {"field": "Spending%", "title": null, "type": "quantitative", "scale": {"domain": [0, 101]}}, "color": {"field": "Categories", "type": "nominal", "scale": {"domain": ["Housing", "Recreation", "Transport", "Other goods and services", "Food & Drink"], "range": ["#4F91CD", "#f4c245", "#00a767", "#CDB79E", "#C11414", "#CDB79E"]}, "title": "Categories"}, "tooltip": [{"field": "Income group", "type": "nominal", "title": "Income group"}, {"field": "Categories", "type": "nominal", "title": "Category"}, {"field": "Spending%", "type": "quantitative", "title": "Spending (%)"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

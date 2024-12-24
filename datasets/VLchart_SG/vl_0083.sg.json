@@ -1,0 +1,2278 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "lightgray",
+              "stroke": "#ffffff",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "rgb(0, 51, 10)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9901.1; ZIP Code: 10001, 10118; Neighborhood: Chelsea/NoMad/West Chelsea; Tests per 100,000: 9901.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(17, 122, 56)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7862.64; ZIP Code: 10002; Neighborhood: Chinatown/Lower East Side; Tests per 100,000: 7862.64",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 91, 35)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8752.52; ZIP Code: 10003; Neighborhood: East Village/Gramercy/Greenwich Village; Tests per 100,000: 8752.52",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(38, 143, 72)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7231.68; ZIP Code: 10004; Neighborhood: Financial District; Tests per 100,000: 7231.68",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(1, 96, 39)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8611.13; ZIP Code: 10005; Neighborhood: Financial District; Tests per 100,000: 8611.13",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(13, 117, 52)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8010.94; ZIP Code: 10006; Neighborhood: Financial District; Tests per 100,000: 8010.94",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(8, 108, 46)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8279.06; ZIP Code: 10007; Neighborhood: TriBeCa; Tests per 100,000: 8279.06",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 73, 24)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9275.21; ZIP Code: 10009; Neighborhood: Alphabet City/East Village/Stuyvesant Town-Cooper Village; Tests per 100,000: 9275.21",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 54, 12)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9823.35; ZIP Code: 10010; Neighborhood: Flatiron/Gramercy/Kips Bay; Tests per 100,000: 9823.35",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 54, 12)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9807.98; ZIP Code: 10011; Neighborhood: Chelsea; Tests per 100,000: 9807.98",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 76, 26)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9198.87; ZIP Code: 10012; Neighborhood: Greenwich Village/SoHo; Tests per 100,000: 9198.87",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 48, 8)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9975.51; ZIP Code: 10013; Neighborhood: Hudson Square/Little Italy/SoHo/TriBeCa; Tests per 100,000: 9975.51",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 19, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10820.42; ZIP Code: 10014; Neighborhood: Hudson Square/Meatpacking District/West Village; Tests per 100,000: 10820.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 57, 14)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9736.44; ZIP Code: 10016; Neighborhood: Kips Bay/Murray Hill/NoMad; Tests per 100,000: 9736.44",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 91, 35)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8767.79; ZIP Code: 10017; Neighborhood: East Midtown/Murray Hill; Tests per 100,000: 8767.79",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 81, 29)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9043.75; ZIP Code: 10018; Neighborhood: Hell's Kitchen/Midtown Manhattan; Tests per 100,000: 9043.75",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 42, 4)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10149.77; ZIP Code: 10019, 10020; Neighborhood: Hell's Kitchen/Midtown Manhattan; Tests per 100,000: 10149.77",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 12, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10992.49; ZIP Code: 10021; Neighborhood: Lenox Hill/Upper East Side; Tests per 100,000: 10992.49",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 84, 31)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8966.6; ZIP Code: 10022; Neighborhood: East Midtown; Tests per 100,000: 8966.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(5, 104, 43)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8396.54; ZIP Code: 10023; Neighborhood: Lincoln Square; Tests per 100,000: 8396.54",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 45, 6)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10070.17; ZIP Code: 10024; Neighborhood: Upper West Side; Tests per 100,000: 10070.17",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 36, 1)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10310.45; ZIP Code: 10025; Neighborhood: Manhattan Valley/Morningside Heights/Upper West Side; Tests per 100,000: 10310.45",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(20, 125, 58)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7770.77; ZIP Code: 10026; Neighborhood: Central Harlem (South); Tests per 100,000: 7770.77",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(15, 120, 54)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7923.81; ZIP Code: 10027; Neighborhood: Central Harlem (South)/Morningside Heights/West Harlem; Tests per 100,000: 7923.81",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(9, 110, 47)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8227.02; ZIP Code: 10028; Neighborhood: Upper East Side/Yorkville; Tests per 100,000: 8227.02",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 70, 22)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9369.43; ZIP Code: 10029; Neighborhood: East Harlem; Tests per 100,000: 9369.43",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(31, 136, 66)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7462; ZIP Code: 10030; Neighborhood: Central Harlem (North); Tests per 100,000: 7462",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 138, 68)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7391.39; ZIP Code: 10031; Neighborhood: Hamilton Heights/West Harlem; Tests per 100,000: 7391.39",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(26, 131, 62)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7605.8; ZIP Code: 10032; Neighborhood: Washington Heights (South); Tests per 100,000: 7605.8",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(38, 143, 72)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7241.97; ZIP Code: 10033; Neighborhood: Washington Heights (North)/Washington Heights (South); Tests per 100,000: 7241.97",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(34, 139, 69)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7359.49; ZIP Code: 10034; Neighborhood: Inwood/Washington Heights (North); Tests per 100,000: 7359.49",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 54, 12)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9800.55; ZIP Code: 10035; Neighborhood: East Harlem; Tests per 100,000: 9800.55",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 32, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10445.89; ZIP Code: 10036; Neighborhood: Hell's Kitchen/Midtown Manhattan; Tests per 100,000: 10445.89",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(12, 115, 51)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8067.94; ZIP Code: 10037; Neighborhood: Central Harlem (North)/East Harlem; Tests per 100,000: 8067.94",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(9, 110, 48)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8204.84; ZIP Code: 10038; Neighborhood: Chinatown/Financial District; Tests per 100,000: 8204.84",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(18, 123, 56)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7854.1; ZIP Code: 10039; Neighborhood: Central Harlem (North)/Washington Heights (South); Tests per 100,000: 7854.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 83, 30)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8982.72; ZIP Code: 10040; Neighborhood: Washington Heights (North); Tests per 100,000: 8982.72",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 89, 34)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8820.29; ZIP Code: 10044; Neighborhood: Roosevelt Island; Tests per 100,000: 8820.29",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 22, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10711.77; ZIP Code: 10065; Neighborhood: Lenox Hill/Upper East Side; Tests per 100,000: 10711.77",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 81, 29)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9056.3; ZIP Code: 10069; Neighborhood: Lincoln Square; Tests per 100,000: 9056.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 14, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10962.96; ZIP Code: 10075, 10162; Neighborhood: Lenox Hill/Upper East Side; Tests per 100,000: 10962.96",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 80, 28)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9073.88; ZIP Code: 10128; Neighborhood: Upper East Side/Yorkville; Tests per 100,000: 9073.88",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(100, 188, 111)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5718.03; ZIP Code: 10280; Neighborhood: Battery Park City; Tests per 100,000: 5718.03",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(78, 175, 98)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6182.64; ZIP Code: 10282; Neighborhood: Battery Park City; Tests per 100,000: 6182.64",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(29, 134, 65)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7502.48; ZIP Code: 10301; Neighborhood: Silver Lake/St. George; Tests per 100,000: 7502.48",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(80, 177, 100)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6125.5; ZIP Code: 10302; Neighborhood: Elm Park; Tests per 100,000: 6125.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(45, 149, 77)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7025.86; ZIP Code: 10303; Neighborhood: Graniteville/Mariner's Harbor/Port Ivory; Tests per 100,000: 7025.86",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(8, 108, 46)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8266.45; ZIP Code: 10304; Neighborhood: New Dorp/Todt Hill; Tests per 100,000: 8266.45",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(70, 171, 94)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6336.79; ZIP Code: 10305; Neighborhood: Arrochar/Midland Beach/Shore Acres/South Beach Ocean Breeze; Tests per 100,000: 6336.79",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(58, 161, 86)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6672.17; ZIP Code: 10306; Neighborhood: Lighthouse Hill/Midland Beach/New Dorp/Oakwood; Tests per 100,000: 6672.17",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(96, 186, 108)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5810.22; ZIP Code: 10307; Neighborhood: Tottenville; Tests per 100,000: 5810.22",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(95, 185, 107)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5820.76; ZIP Code: 10308; Neighborhood: Great Kills; Tests per 100,000: 5820.76",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(77, 175, 98)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6202.09; ZIP Code: 10309; Neighborhood: Charleston/Prince's Bay/Woodrow; Tests per 100,000: 6202.09",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(61, 163, 88)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6589.6; ZIP Code: 10310; Neighborhood: Port Richmond/Randall Manor/West Brighton; Tests per 100,000: 6589.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(67, 169, 92)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6412.47; ZIP Code: 10312; Neighborhood: Annadale/Rossville; Tests per 100,000: 6412.47",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(27, 132, 63)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7583.04; ZIP Code: 10314; Neighborhood: Bloomfield/Freshkills Park; Tests per 100,000: 7583.04",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(9, 111, 48)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8200.13; ZIP Code: 10451; Neighborhood: Concourse/Melrose; Tests per 100,000: 8200.13",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(27, 132, 63)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7571.88; ZIP Code: 10452; Neighborhood: Concourse/Highbridge; Tests per 100,000: 7571.88",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(57, 160, 86)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6684.81; ZIP Code: 10453; Neighborhood: Morris Heights/Mount Hope/University Heights; Tests per 100,000: 6684.81",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(54, 158, 84)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6760.25; ZIP Code: 10454; Neighborhood: Mott Haven/Port Morris; Tests per 100,000: 6760.25",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(38, 142, 71)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7253.22; ZIP Code: 10455; Neighborhood: Mott Haven; Tests per 100,000: 7253.22",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(49, 153, 80)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6923.02; ZIP Code: 10456; Neighborhood: Claremont/Morrisania; Tests per 100,000: 6923.02",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(19, 124, 57)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7818.16; ZIP Code: 10457; Neighborhood: Belmont/Claremont/Mount Hope/Tremont; Tests per 100,000: 7818.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(79, 176, 99)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6161.72; ZIP Code: 10458; Neighborhood: Belmont/Fordham University/Kingsbridge; Tests per 100,000: 6161.72",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(11, 114, 50)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8102.65; ZIP Code: 10459; Neighborhood: Charlotte Gardens/Hunts Point; Tests per 100,000: 8102.65",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(58, 161, 86)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6668.53; ZIP Code: 10460; Neighborhood: Charlotte Gardens/Tremont/Van Nest/West Farms; Tests per 100,000: 6668.53",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(36, 141, 70)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7299.98; ZIP Code: 10461; Neighborhood: Morris Park/Pelham Bay/Westchester Square; Tests per 100,000: 7299.98",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(46, 150, 78)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6998.36; ZIP Code: 10462; Neighborhood: Parkchester/Pelham Parkway/Van Nest/Westchester Square; Tests per 100,000: 6998.36",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(4, 102, 42)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8451.71; ZIP Code: 10463; Neighborhood: Kingsbridge/Marble Hill/Riverdale/Spuyten Duyvil; Tests per 100,000: 8451.71",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(25, 130, 62)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7626.65; ZIP Code: 10464; Neighborhood: City Island; Tests per 100,000: 7626.65",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(25, 130, 62)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7627.16; ZIP Code: 10465; Neighborhood: Country Club/Throgs Neck; Tests per 100,000: 7627.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(59, 162, 87)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6627.72; ZIP Code: 10466; Neighborhood: Edenwald/Wakefield; Tests per 100,000: 6627.72",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(4, 102, 42)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8435.86; ZIP Code: 10467; Neighborhood: Allerton/Norwood/Pelham Parkway/Williamsbridge; Tests per 100,000: 8435.86",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(47, 151, 78)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6986.07; ZIP Code: 10468; Neighborhood: Fordham/Kingsbridge/University Heights; Tests per 100,000: 6986.07",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(2, 98, 39)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8572.44; ZIP Code: 10469; Neighborhood: Allerton/Baychester/Pelham Gardens/Williamsbridge; Tests per 100,000: 8572.44",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(66, 167, 91)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6459.27; ZIP Code: 10470; Neighborhood: Wakefield/Woodlawn; Tests per 100,000: 6459.27",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 79, 28)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9097.64; ZIP Code: 10471; Neighborhood: Fieldston/North Riverdale/Riverdale; Tests per 100,000: 9097.64",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(99, 187, 110)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5749.92; ZIP Code: 10472; Neighborhood: Soundview; Tests per 100,000: 5749.92",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(63, 165, 90)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6520.76; ZIP Code: 10473; Neighborhood: Castle Hill/Clason Point/Soundview; Tests per 100,000: 6520.76",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(41, 146, 74)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7147.41; ZIP Code: 10474; Neighborhood: Hunts Point; Tests per 100,000: 7147.41",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(1, 96, 39)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8613.91; ZIP Code: 10475; Neighborhood: Co-op City/Edenwald; Tests per 100,000: 8613.91",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 21, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10747.1; ZIP Code: 11004, 11005; Neighborhood: Bellerose/Douglaston-Little Neck; Tests per 100,000: 10747.1",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 16, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10885.09; ZIP Code: 11101; Neighborhood: Astoria (South)/Long Island City/Sunnyside; Tests per 100,000: 10885.09",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 95, 38)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8638.52; ZIP Code: 11102; Neighborhood: Astoria (North); Tests per 100,000: 8638.52",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(11, 114, 50)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8096.07; ZIP Code: 11103; Neighborhood: Astoria (North)/Astoria (South); Tests per 100,000: 8096.07",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 96, 38)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8629.42; ZIP Code: 11104; Neighborhood: Sunnyside; Tests per 100,000: 8629.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(27, 132, 63)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7572.11; ZIP Code: 11105; Neighborhood: Ditmars Steinway; Tests per 100,000: 7572.11",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(13, 117, 52)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8028.06; ZIP Code: 11106; Neighborhood: Astoria (South); Tests per 100,000: 8028.06",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 6, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 11182.01; ZIP Code: 11109; Neighborhood: Long Island City; Tests per 100,000: 11182.01",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 10, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 11064.2; ZIP Code: 11201; Neighborhood: Brooklyn Heights/DUMBO/Downtown Brooklyn; Tests per 100,000: 11064.2",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(62, 164, 89)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6556.54; ZIP Code: 11203; Neighborhood: East Flatbush (North)/East Flatbush (South); Tests per 100,000: 6556.54",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(170, 221, 164)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 4196.79; ZIP Code: 11204; Neighborhood: Bensonhurst/Mapleton; Tests per 100,000: 4196.79",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(40, 145, 73)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7172.85; ZIP Code: 11205; Neighborhood: Bedford-Stuyvesant (West)/Clinton Hill/Fort Greene; Tests per 100,000: 7172.85",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(27, 132, 63)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7573.4; ZIP Code: 11206; Neighborhood: Williamsburg (South); Tests per 100,000: 7573.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(42, 146, 75)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7130.14; ZIP Code: 11207; Neighborhood: Cypress Hills/East New York; Tests per 100,000: 7130.14",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(95, 185, 107)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5825.89; ZIP Code: 11208; Neighborhood: Cypress Hills/East New York; Tests per 100,000: 5825.89",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(62, 164, 89)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6557.73; ZIP Code: 11209; Neighborhood: Bay Ridge/Fort Hamilton; Tests per 100,000: 6557.73",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(117, 196, 121)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5371.94; ZIP Code: 11210; Neighborhood: Flatlands/Midwood; Tests per 100,000: 5371.94",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(8, 108, 46)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8272.53; ZIP Code: 11211, 11249; Neighborhood: East Williamsburg/Williamsburg (North)/Williamsburg (South); Tests per 100,000: 8272.53",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(81, 177, 100)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6113.83; ZIP Code: 11212; Neighborhood: Ocean Hill-Brownsville; Tests per 100,000: 6113.83",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(50, 154, 81)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6880.77; ZIP Code: 11213; Neighborhood: Crown Heights (East); Tests per 100,000: 6880.77",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(136, 205, 135)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 4986.42; ZIP Code: 11214; Neighborhood: Bath Beach/Bensonhurst/Gravesend; Tests per 100,000: 4986.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 85, 31)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8934.36; ZIP Code: 11215; Neighborhood: Gowanus/Park Slope/Windsor Terrace; Tests per 100,000: 8934.36",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 87, 33)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8876.85; ZIP Code: 11216; Neighborhood: Bedford-Stuyvesant (West)/Crown Heights (West); Tests per 100,000: 8876.85",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 85, 31)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8932.81; ZIP Code: 11217, 11243; Neighborhood: Boerum Hill/Park Slope; Tests per 100,000: 8932.81",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(80, 177, 99)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6141.96; ZIP Code: 11218; Neighborhood: Kensington/Windsor Terrace; Tests per 100,000: 6141.96",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(171, 221, 165)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 4178.42; ZIP Code: 11219; Neighborhood: Borough Park; Tests per 100,000: 4178.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(84, 179, 101)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6056.88; ZIP Code: 11220; Neighborhood: Sunset Park; Tests per 100,000: 6056.88",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(14, 119, 53)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7968.42; ZIP Code: 11221; Neighborhood: Bedford-Stuyvesant (East)/Bushwick; Tests per 100,000: 7968.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 5, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 11205.21; ZIP Code: 11222; Neighborhood: Greenpoint; Tests per 100,000: 11205.21",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(108, 192, 116)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5560.48; ZIP Code: 11223; Neighborhood: Gravesend/Homecrest; Tests per 100,000: 5560.48",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(81, 178, 100)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6102.86; ZIP Code: 11224; Neighborhood: Brighton Beach/Coney Island/Seagate; Tests per 100,000: 6102.86",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(32, 137, 67)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7424.86; ZIP Code: 11225; Neighborhood: Crown Heights (West)/Prospect Lefferts Gardens; Tests per 100,000: 7424.86",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(50, 154, 81)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6874.53; ZIP Code: 11226; Neighborhood: Flatbush/Prospect Lefferts Gardens; Tests per 100,000: 6874.53",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(97, 186, 108)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5787.62; ZIP Code: 11228; Neighborhood: Bath Beach/Dyker Heights; Tests per 100,000: 5787.62",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(128, 202, 129)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5141.97; ZIP Code: 11229; Neighborhood: Gerritsen Beach/Homecrest/Sheepshead Bay; Tests per 100,000: 5141.97",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(92, 184, 106)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5886.79; ZIP Code: 11230; Neighborhood: Midwood; Tests per 100,000: 5886.79",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 64, 18)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 9536.5; ZIP Code: 11231; Neighborhood: Carroll Gardens/Cobble Hill/Red Hook; Tests per 100,000: 9536.5",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(47, 151, 78)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6982.4; ZIP Code: 11232; Neighborhood: Sunset Park; Tests per 100,000: 6982.4",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(86, 180, 102)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6015.62; ZIP Code: 11233; Neighborhood: Bedford-Stuyvesant (East)/Ocean Hill-Brownsville; Tests per 100,000: 6015.62",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(105, 190, 114)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5621.96; ZIP Code: 11234; Neighborhood: Bergen Beach/Flatlands/Marine Park/Mill Basin; Tests per 100,000: 5621.96",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(55, 158, 84)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6747.54; ZIP Code: 11235; Neighborhood: Brighton Beach/Manhattan Beach/Sheepshead Bay; Tests per 100,000: 6747.54",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(89, 182, 104)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5944.43; ZIP Code: 11236; Neighborhood: Canarsie; Tests per 100,000: 5944.43",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(29, 134, 64)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7521.34; ZIP Code: 11237; Neighborhood: Bushwick/East Williamsburg; Tests per 100,000: 7521.34",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 12, 0)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 10994.93; ZIP Code: 11238; Neighborhood: Clinton Hill/Prospect Heights; Tests per 100,000: 10994.93",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(48, 152, 80)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6936.07; ZIP Code: 11239; Neighborhood: East New York; Tests per 100,000: 6936.07",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(10, 112, 48)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8164.87; ZIP Code: 11354; Neighborhood: Flushing/Murray Hill; Tests per 100,000: 8164.87",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(101, 189, 111)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5690.26; ZIP Code: 11355; Neighborhood: Flushing/Murray Hill/Queensboro Hill; Tests per 100,000: 5690.26",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(84, 179, 102)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6041.31; ZIP Code: 11356; Neighborhood: College Point; Tests per 100,000: 6041.31",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(60, 163, 88)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6604.03; ZIP Code: 11357; Neighborhood: Whitestone; Tests per 100,000: 6604.03",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(55, 158, 84)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6744.23; ZIP Code: 11358; Neighborhood: Auburndale/Murray Hill; Tests per 100,000: 6744.23",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(66, 168, 92)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6435.82; ZIP Code: 11360; Neighborhood: Bayside (North); Tests per 100,000: 6435.82",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(63, 165, 90)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6520.81; ZIP Code: 11361; Neighborhood: Bayside (North)/Bayside (South); Tests per 100,000: 6520.81",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(73, 173, 96)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6280.3; ZIP Code: 11362; Neighborhood: Douglaston-Little Neck; Tests per 100,000: 6280.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(75, 174, 97)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6243.86; ZIP Code: 11363; Neighborhood: Douglaston-Little Neck; Tests per 100,000: 6243.86",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(86, 180, 103)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6003.6; ZIP Code: 11364; Neighborhood: Bayside (South)/Oakland Gardens; Tests per 100,000: 6003.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(87, 181, 103)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5993.08; ZIP Code: 11365; Neighborhood: Auburndale/Fresh Meadows/Pomonok/Utopia; Tests per 100,000: 5993.08",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(88, 181, 104)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5966.3; ZIP Code: 11366; Neighborhood: Fresh Meadows/Hillcrest; Tests per 100,000: 5966.3",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(75, 174, 97)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6241.79; ZIP Code: 11367; Neighborhood: Kew Gardens Hills/Pomonok; Tests per 100,000: 6241.79",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(67, 168, 92)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6433.14; ZIP Code: 11368; Neighborhood: Corona/North Corona; Tests per 100,000: 6433.14",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(36, 140, 70)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7311.68; ZIP Code: 11369; Neighborhood: Airport/East Elmhurst; Tests per 100,000: 7311.68",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(51, 155, 82)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6859.26; ZIP Code: 11370; Neighborhood: Jackson Heights/Rikers Island; Tests per 100,000: 6859.26",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(12, 115, 50)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8078.27; ZIP Code: 11372; Neighborhood: Jackson Heights; Tests per 100,000: 8078.27",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(45, 149, 77)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7042.74; ZIP Code: 11373; Neighborhood: Elmhurst; Tests per 100,000: 7042.74",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(53, 157, 83)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6789.92; ZIP Code: 11374; Neighborhood: Rego Park; Tests per 100,000: 6789.92",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(54, 157, 84)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6772.22; ZIP Code: 11375; Neighborhood: Forest Hills; Tests per 100,000: 6772.22",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(31, 136, 66)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7452.42; ZIP Code: 11377; Neighborhood: Woodside; Tests per 100,000: 7452.42",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(48, 152, 80)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6931.95; ZIP Code: 11378; Neighborhood: Maspeth; Tests per 100,000: 6931.95",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(33, 138, 68)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7379.36; ZIP Code: 11379; Neighborhood: Middle Village; Tests per 100,000: 7379.36",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(65, 167, 91)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6481.11; ZIP Code: 11385; Neighborhood: Glendale/Ridgewood; Tests per 100,000: 6481.11",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(85, 180, 102)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6026.08; ZIP Code: 11411; Neighborhood: Cambria Heights; Tests per 100,000: 6026.08",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(90, 183, 105)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5916.6; ZIP Code: 11412; Neighborhood: St. Albans; Tests per 100,000: 5916.6",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(105, 190, 114)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5619.96; ZIP Code: 11413; Neighborhood: Laurelton/Rosedale; Tests per 100,000: 5619.96",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(96, 186, 108)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5805.65; ZIP Code: 11414; Neighborhood: Hamilton Beach/Howard Beach/Lindenwood; Tests per 100,000: 5805.65",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(35, 140, 69)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7341.07; ZIP Code: 11415; Neighborhood: Kew Gardens; Tests per 100,000: 7341.07",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(126, 200, 127)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5192.67; ZIP Code: 11416; Neighborhood: Ozone Park; Tests per 100,000: 5192.67",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(93, 184, 107)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5855.33; ZIP Code: 11417; Neighborhood: Ozone Park; Tests per 100,000: 5855.33",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(124, 200, 126)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5235.51; ZIP Code: 11418; Neighborhood: Richmond Hill; Tests per 100,000: 5235.51",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(168, 220, 163)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 4240.02; ZIP Code: 11419; Neighborhood: Richmond Hill/South Ozone Park; Tests per 100,000: 4240.02",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(144, 209, 142)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 4812.49; ZIP Code: 11420; Neighborhood: South Ozone Park; Tests per 100,000: 4812.49",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(113, 194, 119)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5458.49; ZIP Code: 11421; Neighborhood: Woodhaven; Tests per 100,000: 5458.49",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(108, 192, 115)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5566.16; ZIP Code: 11422; Neighborhood: Rosedale; Tests per 100,000: 5566.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(82, 178, 101)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6085.93; ZIP Code: 11423; Neighborhood: Hollis/Holliswood; Tests per 100,000: 6085.93",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(134, 204, 134)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5018.84; ZIP Code: 11426; Neighborhood: Bellerose; Tests per 100,000: 5018.84",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(59, 161, 87)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6647.32; ZIP Code: 11427; Neighborhood: Bellerose/Hollis Hills/Holliswood; Tests per 100,000: 6647.32",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(93, 184, 107)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5856.95; ZIP Code: 11428; Neighborhood: Queens Village; Tests per 100,000: 5856.95",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(62, 164, 89)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6548.65; ZIP Code: 11429; Neighborhood: Queens Village; Tests per 100,000: 6548.65",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(102, 189, 112)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5687.12; ZIP Code: 11432; Neighborhood: Hillcrest/Jamaica Estates/Jamaica Hills; Tests per 100,000: 5687.12",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(92, 184, 106)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5888.59; ZIP Code: 11433; Neighborhood: Jamaica; Tests per 100,000: 5888.59",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(73, 173, 96)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 6273.68; ZIP Code: 11434; Neighborhood: Airport/South Jamaica/Springfield Gardens/St. Albans; Tests per 100,000: 6273.68",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(119, 197, 123)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5337.83; ZIP Code: 11435; Neighborhood: Briarwood/Jamaica; Tests per 100,000: 5337.83",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(137, 206, 136)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 4950.16; ZIP Code: 11436; Neighborhood: South Jamaica/South Ozone Park; Tests per 100,000: 4950.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(18, 123, 56)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7850.64; ZIP Code: 11691; Neighborhood: Edgemere/Far Rockaway; Tests per 100,000: 7850.64",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(0, 84, 31)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8956.16; ZIP Code: 11692; Neighborhood: Arverne/Edgemere; Tests per 100,000: 8956.16",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(89, 182, 104)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 5952.54; ZIP Code: 11693; Neighborhood: Arverne/Broad Channel; Tests per 100,000: 5952.54",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(34, 139, 68)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 7368.91; ZIP Code: 11694; Neighborhood: Belle Harbor-Neponsit/Rockaway Park; Tests per 100,000: 7368.91",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "rgb(7, 108, 46)",
+              "stroke": "#FFFFFF",
+              "strokeWidth": 0.5,
+              "description": "TESTING_RATE_4WEEK: 8284.58; ZIP Code: 11697; Neighborhood: Breezy Point; Tests per 100,000: 8284.58",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 100,
+                              "height": 16,
+                              "fill": {
+                                "x2": 1,
+                                "y2": 0
+                              },
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 18,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "4,178",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 100,
+                              "y": 18,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "11,205",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 15
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "4-week tests per 100k",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 18,
+              "y": 18,
+              "width": 111,
+              "height": 43,
+              "orient": "top-left"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 752,
+      "height": 588,
+      "fill": "transparent"
+    }
+  ],
+  "zindex": 0
+}

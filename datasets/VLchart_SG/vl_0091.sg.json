@@ -1,0 +1,2785 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 10,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 30,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 50,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 70,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 90,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 110,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 130,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 150,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 170,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 190,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 210,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 230,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 250,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 270,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 290,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 310,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 330,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 350,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 370,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 390,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 410,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 430,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 450,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 470,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 10,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "00:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 30,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "01:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 50,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "02:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 70,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "03:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 90,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "04:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 110,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "05:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 130,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "06:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 150,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "07:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 170,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "08:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 190,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "09:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 210,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 230,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "11:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 250,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "12:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 270,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "13:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 290,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "14:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 310,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "15:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 330,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "16:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 350,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "17:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 370,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "18:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 390,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "19:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 410,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 430,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "21:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 450,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "22:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 470,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 0,
+                      "text": "23:00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 480
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 240,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "time (hours)",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 105.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 8,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 23,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 53,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 68,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 83,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 98,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 7.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Mon",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 22.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Tue",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 37.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Wed",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 52.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Thu",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 67.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Fri",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 82.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Sat",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 97.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Sun",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 105
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -33.2900390625,
+                      "y": 52.5,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "time (day)",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 30,
+              "y": 52.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 01:00; time (day): Thu; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 90,
+              "y": 52.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 04:00; time (day): Thu; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 110,
+              "y": 52.5,
+              "fill": "rgb(176, 210, 232)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 05:00; time (day): Thu; Sum of count: 10",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170,
+              "y": 52.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 08:00; time (day): Thu; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190,
+              "y": 52.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 09:00; time (day): Thu; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230,
+              "y": 52.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 11:00; time (day): Thu; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 290,
+              "y": 52.5,
+              "fill": "rgb(150, 197, 224)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 14:00; time (day): Thu; Sum of count: 16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390,
+              "y": 52.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 19:00; time (day): Thu; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 450,
+              "y": 52.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 22:00; time (day): Thu; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 30,
+              "y": 67.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 01:00; time (day): Fri; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190,
+              "y": 67.5,
+              "fill": "rgb(44, 124, 186)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 09:00; time (day): Fri; Sum of count: 41",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210,
+              "y": 67.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 10:00; time (day): Fri; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 250,
+              "y": 67.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 12:00; time (day): Fri; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270,
+              "y": 67.5,
+              "fill": "rgb(150, 197, 224)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 13:00; time (day): Fri; Sum of count: 16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 430,
+              "y": 67.5,
+              "fill": "rgb(195, 218, 238)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 21:00; time (day): Fri; Sum of count: 5",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 470,
+              "y": 67.5,
+              "fill": "rgb(145, 194, 223)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 23:00; time (day): Fri; Sum of count: 17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 10,
+              "y": 82.5,
+              "fill": "rgb(29, 108, 175)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 00:00; time (day): Sat; Sum of count: 46",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170,
+              "y": 82.5,
+              "fill": "rgb(136, 189, 220)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 08:00; time (day): Sat; Sum of count: 19",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210,
+              "y": 82.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 10:00; time (day): Sat; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 250,
+              "y": 82.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 12:00; time (day): Sat; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270,
+              "y": 82.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 13:00; time (day): Sat; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 350,
+              "y": 82.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 17:00; time (day): Sat; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 370,
+              "y": 82.5,
+              "fill": "rgb(141, 192, 221)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 18:00; time (day): Sat; Sum of count: 18",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 430,
+              "y": 82.5,
+              "fill": "rgb(136, 189, 220)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 21:00; time (day): Sat; Sum of count: 19",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 450,
+              "y": 82.5,
+              "fill": "rgb(102, 170, 211)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 22:00; time (day): Sat; Sum of count: 26",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 10,
+              "y": 97.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 00:00; time (day): Sun; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270,
+              "y": 97.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 13:00; time (day): Sun; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 310,
+              "y": 97.5,
+              "fill": "rgb(168, 206, 229)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 15:00; time (day): Sun; Sum of count: 12",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390,
+              "y": 97.5,
+              "fill": "rgb(116, 178, 215)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 19:00; time (day): Sun; Sum of count: 23",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410,
+              "y": 97.5,
+              "fill": "rgb(176, 210, 232)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 20:00; time (day): Sun; Sum of count: 10",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 430,
+              "y": 97.5,
+              "fill": "rgb(73, 149, 200)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 21:00; time (day): Sun; Sum of count: 33",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 90,
+              "y": 7.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 04:00; time (day): Mon; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130,
+              "y": 7.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 06:00; time (day): Mon; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150,
+              "y": 7.5,
+              "fill": "rgb(168, 206, 229)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 07:00; time (day): Mon; Sum of count: 12",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190,
+              "y": 7.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 09:00; time (day): Mon; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210,
+              "y": 7.5,
+              "fill": "rgb(98, 167, 209)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 10:00; time (day): Mon; Sum of count: 27",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230,
+              "y": 7.5,
+              "fill": "rgb(89, 161, 206)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 11:00; time (day): Mon; Sum of count: 29",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270,
+              "y": 7.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 13:00; time (day): Mon; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 290,
+              "y": 7.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 14:00; time (day): Mon; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 10,
+              "y": 22.5,
+              "fill": "rgb(150, 197, 224)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 00:00; time (day): Tue; Sum of count: 16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 70,
+              "y": 22.5,
+              "fill": "rgb(150, 197, 224)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 03:00; time (day): Tue; Sum of count: 16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 90,
+              "y": 22.5,
+              "fill": "rgb(168, 206, 229)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 04:00; time (day): Tue; Sum of count: 12",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 110,
+              "y": 22.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 05:00; time (day): Tue; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150,
+              "y": 22.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 07:00; time (day): Tue; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230,
+              "y": 22.5,
+              "fill": "rgb(168, 206, 229)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 11:00; time (day): Tue; Sum of count: 12",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 290,
+              "y": 22.5,
+              "fill": "rgb(81, 155, 203)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 14:00; time (day): Tue; Sum of count: 31",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 430,
+              "y": 22.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 21:00; time (day): Tue; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 50,
+              "y": 37.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 02:00; time (day): Wed; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 70,
+              "y": 37.5,
+              "fill": "rgb(168, 206, 229)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 03:00; time (day): Wed; Sum of count: 12",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150,
+              "y": 37.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 07:00; time (day): Wed; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170,
+              "y": 37.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 08:00; time (day): Wed; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190,
+              "y": 37.5,
+              "fill": "rgb(192, 217, 237)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 09:00; time (day): Wed; Sum of count: 6",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270,
+              "y": 37.5,
+              "fill": "rgb(168, 206, 229)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 13:00; time (day): Wed; Sum of count: 12",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 290,
+              "y": 37.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 14:00; time (day): Wed; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 370,
+              "y": 37.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 18:00; time (day): Wed; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390,
+              "y": 37.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 19:00; time (day): Wed; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 70,
+              "y": 52.5,
+              "fill": "rgb(180, 211, 233)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 03:00; time (day): Thu; Sum of count: 9",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130,
+              "y": 52.5,
+              "fill": "rgb(131, 186, 219)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 06:00; time (day): Thu; Sum of count: 20",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 370,
+              "y": 52.5,
+              "fill": "rgb(131, 186, 219)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 18:00; time (day): Thu; Sum of count: 20",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 50,
+              "y": 67.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 02:00; time (day): Fri; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 110,
+              "y": 67.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 05:00; time (day): Fri; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150,
+              "y": 67.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 07:00; time (day): Fri; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170,
+              "y": 67.5,
+              "fill": "rgb(198, 220, 239)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 08:00; time (day): Fri; Sum of count: 4",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 350,
+              "y": 67.5,
+              "fill": "rgb(102, 170, 211)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 17:00; time (day): Fri; Sum of count: 26",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410,
+              "y": 67.5,
+              "fill": "rgb(107, 173, 212)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 20:00; time (day): Fri; Sum of count: 25",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 110,
+              "y": 82.5,
+              "fill": "rgb(121, 181, 216)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 05:00; time (day): Sat; Sum of count: 22",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 310,
+              "y": 82.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 15:00; time (day): Sat; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 470,
+              "y": 82.5,
+              "fill": "rgb(136, 189, 220)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 23:00; time (day): Sat; Sum of count: 19",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130,
+              "y": 97.5,
+              "fill": "rgb(136, 189, 220)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 06:00; time (day): Sun; Sum of count: 19",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190,
+              "y": 97.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 09:00; time (day): Sun; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 250,
+              "y": 97.5,
+              "fill": "rgb(121, 181, 216)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 12:00; time (day): Sun; Sum of count: 22",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 290,
+              "y": 97.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 14:00; time (day): Sun; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 330,
+              "y": 97.5,
+              "fill": "rgb(121, 181, 216)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 16:00; time (day): Sun; Sum of count: 22",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 450,
+              "y": 97.5,
+              "fill": "rgb(176, 210, 232)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 22:00; time (day): Sun; Sum of count: 10",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 10,
+              "y": 7.5,
+              "fill": "rgb(176, 210, 232)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 00:00; time (day): Mon; Sum of count: 10",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 30,
+              "y": 7.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 01:00; time (day): Mon; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170,
+              "y": 7.5,
+              "fill": "rgb(73, 149, 200)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 08:00; time (day): Mon; Sum of count: 33",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 330,
+              "y": 7.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 16:00; time (day): Mon; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 350,
+              "y": 7.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 17:00; time (day): Mon; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 470,
+              "y": 7.5,
+              "fill": "rgb(111, 175, 214)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 23:00; time (day): Mon; Sum of count: 24",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270,
+              "y": 22.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 13:00; time (day): Tue; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 310,
+              "y": 22.5,
+              "fill": "rgb(195, 218, 238)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 15:00; time (day): Tue; Sum of count: 5",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 450,
+              "y": 22.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 22:00; time (day): Tue; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 90,
+              "y": 37.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 04:00; time (day): Wed; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 310,
+              "y": 37.5,
+              "fill": "rgb(180, 211, 233)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 15:00; time (day): Wed; Sum of count: 9",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 450,
+              "y": 37.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 22:00; time (day): Wed; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 10,
+              "y": 52.5,
+              "fill": "rgb(192, 217, 237)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 00:00; time (day): Thu; Sum of count: 6",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 250,
+              "y": 52.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 12:00; time (day): Thu; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 310,
+              "y": 52.5,
+              "fill": "rgb(150, 197, 224)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 15:00; time (day): Thu; Sum of count: 16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 90,
+              "y": 67.5,
+              "fill": "rgb(126, 183, 218)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 04:00; time (day): Fri; Sum of count: 21",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 290,
+              "y": 67.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 14:00; time (day): Fri; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 310,
+              "y": 67.5,
+              "fill": "rgb(150, 197, 224)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 15:00; time (day): Fri; Sum of count: 16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 370,
+              "y": 67.5,
+              "fill": "rgb(85, 158, 205)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 18:00; time (day): Fri; Sum of count: 30",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390,
+              "y": 67.5,
+              "fill": "rgb(121, 181, 216)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 19:00; time (day): Fri; Sum of count: 22",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 50,
+              "y": 97.5,
+              "fill": "rgb(98, 167, 209)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 02:00; time (day): Sun; Sum of count: 27",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 70,
+              "y": 97.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 03:00; time (day): Sun; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150,
+              "y": 97.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 07:00; time (day): Sun; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210,
+              "y": 97.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 10:00; time (day): Sun; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 370,
+              "y": 97.5,
+              "fill": "rgb(131, 186, 219)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 18:00; time (day): Sun; Sum of count: 20",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 70,
+              "y": 7.5,
+              "fill": "rgb(77, 152, 201)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 03:00; time (day): Mon; Sum of count: 32",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410,
+              "y": 7.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 20:00; time (day): Mon; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 430,
+              "y": 7.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 21:00; time (day): Mon; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 450,
+              "y": 7.5,
+              "fill": "rgb(195, 218, 238)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 22:00; time (day): Mon; Sum of count: 5",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190,
+              "y": 22.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 09:00; time (day): Tue; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210,
+              "y": 22.5,
+              "fill": "rgb(195, 218, 238)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 10:00; time (day): Tue; Sum of count: 5",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 250,
+              "y": 22.5,
+              "fill": "rgb(10, 74, 144)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 12:00; time (day): Tue; Sum of count: 56",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410,
+              "y": 22.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 20:00; time (day): Tue; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230,
+              "y": 37.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 11:00; time (day): Wed; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 350,
+              "y": 37.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 17:00; time (day): Wed; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410,
+              "y": 37.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 20:00; time (day): Wed; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210,
+              "y": 52.5,
+              "fill": "rgb(180, 211, 233)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 10:00; time (day): Thu; Sum of count: 9",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 330,
+              "y": 52.5,
+              "fill": "rgb(54, 134, 191)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 16:00; time (day): Thu; Sum of count: 38",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 70,
+              "y": 67.5,
+              "fill": "rgb(192, 217, 237)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 03:00; time (day): Fri; Sum of count: 6",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 70,
+              "y": 82.5,
+              "fill": "rgb(204, 223, 241)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 03:00; time (day): Sat; Sum of count: 2",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230,
+              "y": 82.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 11:00; time (day): Sat; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 290,
+              "y": 82.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 14:00; time (day): Sat; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410,
+              "y": 82.5,
+              "fill": "rgb(176, 210, 232)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 20:00; time (day): Sat; Sum of count: 10",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170,
+              "y": 97.5,
+              "fill": "rgb(102, 170, 211)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 08:00; time (day): Sun; Sum of count: 26",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 470,
+              "y": 97.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 23:00; time (day): Sun; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 310,
+              "y": 7.5,
+              "fill": "rgb(176, 210, 232)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 15:00; time (day): Mon; Sum of count: 10",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 470,
+              "y": 22.5,
+              "fill": "rgb(102, 170, 211)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 23:00; time (day): Tue; Sum of count: 26",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 110,
+              "y": 37.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 05:00; time (day): Wed; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210,
+              "y": 37.5,
+              "fill": "rgb(145, 194, 223)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 10:00; time (day): Wed; Sum of count: 17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 430,
+              "y": 37.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 21:00; time (day): Wed; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 50,
+              "y": 52.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 02:00; time (day): Thu; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 470,
+              "y": 52.5,
+              "fill": "rgb(207, 225, 242)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 23:00; time (day): Thu; Sum of count: 1",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 10,
+              "y": 67.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 00:00; time (day): Fri; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 50,
+              "y": 82.5,
+              "fill": "rgb(195, 218, 238)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 02:00; time (day): Sat; Sum of count: 5",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150,
+              "y": 82.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 07:00; time (day): Sat; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 330,
+              "y": 82.5,
+              "fill": "rgb(204, 223, 241)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 16:00; time (day): Sat; Sum of count: 2",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 30,
+              "y": 97.5,
+              "fill": "rgb(201, 222, 240)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 01:00; time (day): Sun; Sum of count: 3",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230,
+              "y": 97.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 11:00; time (day): Sun; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 370,
+              "y": 7.5,
+              "fill": "rgb(198, 220, 239)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 18:00; time (day): Mon; Sum of count: 4",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390,
+              "y": 7.5,
+              "fill": "rgb(188, 215, 235)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 19:00; time (day): Mon; Sum of count: 7",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130,
+              "y": 22.5,
+              "fill": "rgb(198, 220, 239)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 06:00; time (day): Tue; Sum of count: 4",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 350,
+              "y": 22.5,
+              "fill": "rgb(176, 210, 232)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 17:00; time (day): Tue; Sum of count: 10",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 370,
+              "y": 22.5,
+              "fill": "rgb(58, 137, 193)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 18:00; time (day): Tue; Sum of count: 37",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 350,
+              "y": 52.5,
+              "fill": "rgb(58, 137, 193)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 17:00; time (day): Thu; Sum of count: 37",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 450,
+              "y": 67.5,
+              "fill": "rgb(198, 220, 239)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 22:00; time (day): Fri; Sum of count: 4",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 30,
+              "y": 82.5,
+              "fill": "rgb(204, 223, 241)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 01:00; time (day): Sat; Sum of count: 2",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390,
+              "y": 82.5,
+              "fill": "rgb(35, 114, 180)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 19:00; time (day): Sat; Sum of count: 44",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 110,
+              "y": 97.5,
+              "fill": "rgb(10, 74, 144)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 05:00; time (day): Sun; Sum of count: 56",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 350,
+              "y": 97.5,
+              "fill": "rgb(136, 189, 220)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 17:00; time (day): Sun; Sum of count: 19",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 110,
+              "y": 7.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 05:00; time (day): Mon; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 50,
+              "y": 22.5,
+              "fill": "rgb(180, 211, 233)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 02:00; time (day): Tue; Sum of count: 9",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 30,
+              "y": 37.5,
+              "fill": "rgb(168, 206, 229)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 01:00; time (day): Wed; Sum of count: 12",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 270,
+              "y": 52.5,
+              "fill": "rgb(198, 220, 239)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 13:00; time (day): Thu; Sum of count: 4",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410,
+              "y": 52.5,
+              "fill": "rgb(145, 194, 223)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 20:00; time (day): Thu; Sum of count: 17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 330,
+              "y": 67.5,
+              "fill": "rgb(163, 204, 228)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 16:00; time (day): Fri; Sum of count: 13",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130,
+              "y": 67.5,
+              "fill": "rgb(154, 199, 225)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 06:00; time (day): Fri; Sum of count: 15",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 90,
+              "y": 97.5,
+              "fill": "rgb(136, 189, 220)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 04:00; time (day): Sun; Sum of count: 19",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130,
+              "y": 37.5,
+              "fill": "rgb(192, 217, 237)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 06:00; time (day): Wed; Sum of count: 6",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 150,
+              "y": 52.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 07:00; time (day): Thu; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 390,
+              "y": 22.5,
+              "fill": "rgb(145, 194, 223)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 19:00; time (day): Tue; Sum of count: 17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 10,
+              "y": 37.5,
+              "fill": "rgb(159, 201, 226)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 00:00; time (day): Wed; Sum of count: 14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 430,
+              "y": 52.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 21:00; time (day): Thu; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230,
+              "y": 67.5,
+              "fill": "rgb(150, 197, 224)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 11:00; time (day): Fri; Sum of count: 16",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 90,
+              "y": 82.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 04:00; time (day): Sat; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 250,
+              "y": 7.5,
+              "fill": "rgb(16, 87, 159)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 12:00; time (day): Mon; Sum of count: 52",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 330,
+              "y": 22.5,
+              "fill": "rgb(184, 213, 234)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 16:00; time (day): Tue; Sum of count: 8",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 250,
+              "y": 37.5,
+              "fill": "rgb(201, 222, 240)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 12:00; time (day): Wed; Sum of count: 3",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 470,
+              "y": 37.5,
+              "fill": "rgb(192, 217, 237)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 23:00; time (day): Wed; Sum of count: 6",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 30,
+              "y": 22.5,
+              "fill": "rgb(51, 131, 190)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 01:00; time (day): Tue; Sum of count: 39",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 190,
+              "y": 82.5,
+              "fill": "rgb(141, 192, 221)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 09:00; time (day): Sat; Sum of count: 18",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 50,
+              "y": 7.5,
+              "fill": "rgb(172, 208, 230)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 02:00; time (day): Mon; Sum of count: 11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 170,
+              "y": 22.5,
+              "fill": "rgb(198, 220, 239)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 08:00; time (day): Tue; Sum of count: 4",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 130,
+              "y": 82.5,
+              "fill": "rgb(207, 225, 242)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M0,-0.6 L1,-1 L2,-0.6 L2,0.6 L1,1 L0,0.6 Z'",
+              "description": "time (hours): 06:00; time (day): Sat; Sum of count: 1",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 330,
+              "y": 37.5,
+              "fill": "rgb(207, 225, 242)",
+              "stroke": null,
+              "strokeWidth": 2,
+              "size": 400,
+              "shape": "'M-1,-0.6 L0,-1 L1,-0.6 L1,0.6 L0,1 L-1,0.6 Z'",
+              "description": "time (hours): 16:00; time (day): Wed; Sum of count: 1",
+              "ariaRoleDescription": "point"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 105,
+                              "fill": {
+                                "x2": 0,
+                                "y2": 0
+                              },
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 105,
+                              "align": "left",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 18,
+                              "y": 0,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "56",
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Sum of count",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 498,
+              "y": 0,
+              "width": 75,
+              "height": 121,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 480,
+      "height": 105,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

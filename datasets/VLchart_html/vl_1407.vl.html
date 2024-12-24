@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"mark": "point", "data": {"url": "https://raw.githubusercontent.com/adamConnerSax/incarceration/3bcd9826c6eb62fa3e9ea06136531ea6fa624e18/data/kMeansCOMoneyBondRatevsPovertyRateByYearAndUrbanicity.csv"}, "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "encoding": {"size": {"field": "total_pop", "type": "quantitative"}, "x": {"field": "povertyR", "type": "quantitative"}, "y": {"field": "moneyPct", "type": "quantitative"}}, "background": "white", "description": "Vega Lite Attempt"};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

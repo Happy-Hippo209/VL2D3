@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-a8cdc013da4c3ac695b2bcdbe3fc4d38"}, "mark": "bar", "encoding": {"x": {"type": "nominal", "field": "repo", "sort": ["numpy-tutorials", "numpydoc", "numpy"]}, "y": {"type": "quantitative", "field": "time_open", "title": "Median Days Open"}}, "title": "Time to close for issues closed in the last 10 days", "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "datasets": {"data-a8cdc013da4c3ac695b2bcdbe3fc4d38": [{"org": "numpy", "repo": "numpy", "time_open": 0.6368171296296297, "org/repo": "numpy/numpy"}, {"org": "numpy", "repo": "numpy-tutorials", "time_open": 64.75004629629629, "org/repo": "numpy/numpy-tutorials"}, {"org": "numpy", "repo": "numpydoc", "time_open": 2.403703703703704, "org/repo": "numpy/numpydoc"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

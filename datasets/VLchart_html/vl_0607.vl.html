@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/RDeconomist/data/main/e4e3/us_incomes_pctile_race_region.csv"}, "title": {"text": "US Incomes Over Time", "subtitle": ["Real Household Incomes by Percentile, Race, and Region, over time (2021 USD)", "source: US Census Bureau", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 9, "anchor": "start", "color": "black"}, "height": 300, "width": 500, "layer": [{"params": [{"name": "selected_view", "select": {"type": "point", "fields": ["View"]}, "bind": {"input": "select", "options": ["by Percentile", "by Race", "by Region"], "name": "View"}, "value": "by Percentile"}], "transform": [{"filter": {"param": "selected_view"}}], "mark": {"type": "line", "point": true}, "encoding": {"x": {"field": "Year", "type": "temporal", "axis": {"title": null}}, "y": {"field": "Income", "type": "quantitative", "scale": {"zero": false}, "axis": {"title": "Household Income (2021 USD)"}}, "tooltip": [{"title": "Series", "field": "Series"}, {"title": "Income", "field": "Income", "format": "$,"}, {"title": "Year", "field": "Year", "type": "temporal", "format": "%Y"}], "color": {"field": "Series"}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

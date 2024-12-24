@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Bar chart with text labels. Set domain to make the frame cover the labels.", "title": {"text": "Weekly Income in the UK by Industry. Is there outsized demand for data professionals? ", "fontSize": 11, "anchor": "start", "subtitle": "Source: ONS & GlassDoor", "subtitleFontSize": 10}, "width": 340, "height": 340, "data": {"url": "https://raw.githubusercontent.com/JamesFKean/JamesFKean.github.io/main/UKweeklywages.json"}, "background": "#fff0d8", "layer": [{"mark": {"type": "bar", "height": 15, "color": "#da83278c"}, "encoding": {"y": {"field": "Industry", "type": "nominal"}, "x": {"field": "Average Weekly Income", "type": "quantitative", "scale": {"domain": [0, 1800]}}, "color": {"condition": [{"value": "red", "test": {"field": "Industry", "oneOf": ["Data Sceince & Data Engineers"]}}]}, "tooltip": [{"field": "Average Weekly Income", "type": "quantitative"}]}}, {"mark": "rule", "encoding": {"x": {"aggregate": "mean", "field": "Average Weekly Income", "title": "Mean Weekly Income"}, "color": {"value": "#3e1812"}, "size": {"value": 3}, "tooltip": [{"aggregate": "mean", "field": "Average Weekly Income"}]}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

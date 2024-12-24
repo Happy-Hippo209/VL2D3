@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Emissions per capita", "title": {"text": "CO2 per capita emissions by region", "subtitle": "Metric tons per capita (2019). Source: Center for International Climate Research.", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/data/chartENV18.csv"}, "mark": {"type": "bar", "color": "#86d0bb", "strokeWidth": 2, "opacity": 1}, "height": 300, "width": 180, "encoding": {"y": {"field": "Region", "type": "ordinal", "sort": "-x", "title": null}, "x": {"field": "Value", "type": "quantitative", "title": null, "scale": {"domain": [0, 16]}}, "tooltip": [{"field": "Region", "type": "nominal", "title": "Region"}, {"field": "Value", "type": "quantitative", "title": "C02 emissions (metric tons per capita)"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

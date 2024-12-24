@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "axis": {"labelFontSize": 12, "titleFontSize": 12}}, "data": {"name": "data-f5aa8050aacd2455481375b5a5ff3680"}, "mark": {"type": "bar", "size": 20}, "encoding": {"x": {"field": "date", "type": "nominal"}, "y": {"field": "hours slept", "scale": {"domain": [0, 10]}, "type": "quantitative"}}, "height": 250, "width": 350, "$schema": "https://vega.github.io/schema/vega-lite/v5.json", "datasets": {"data-f5aa8050aacd2455481375b5a5ff3680": [{"date": "2/15", "hours slept": 6.5}, {"date": "2/16", "hours slept": 7.1}, {"date": "2/17", "hours slept": 6.15}, {"date": "2/18", "hours slept": 6}, {"date": "2/19", "hours slept": 7.5}, {"date": "2/20", "hours slept": 8}, {"date": "Today", "hours slept": 6}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

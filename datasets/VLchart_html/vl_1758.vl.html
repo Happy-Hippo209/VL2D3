@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"format": {"parse": {"date": "date:'%d %b %Y %H:%M'"}}, "values": [{"date": "28 Oct 2017 22:00", "value": 1}, {"date": "28 Oct 2017 23:00", "value": 2}, {"date": "29 Oct 2017 00:00", "value": 3}, {"date": "29 Oct 2017 01:00", "value": 4}, {"date": "29 Oct 2017 02:00", "value": 5}, {"date": "29 Oct 2017 03:00", "value": 6}, {"date": "29 Oct 2017 04:00", "value": 7}]}, "encoding": {"size": {"value": 500}, "x": {"axis": {"format": "%d %b %H:%M"}, "field": "date", "scale": {"type": "time"}, "timeUnit": "yearmonthdatehours", "type": "temporal"}, "y": {"field": "value", "type": "quantitative"}}, "mark": "circle", "width": 800};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

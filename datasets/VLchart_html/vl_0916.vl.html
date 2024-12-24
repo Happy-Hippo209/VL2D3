@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": " Can Google Trends tell us anything?", "subtitle": "Values scaled between 0 and 100 where 100 represents highest peak of interest over time period. Source: Scraped from Google Trends API", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/issylavenstein/issylavenstein.github.io/main/trends_data_clean.csv"}, "height": 200, "width": 200, "mark": {"type": "line", "strokeWidth": 2}, "encoding": {"x": {"field": "Week", "type": "temporal", "title": null, "axis": {"grid": false, "labelAngle": 60}}, "y": {"field": "Value", "type": "quantitative", "title": null}, "facet": {"field": "Trend", "columns": 3, "title": "h", "header": {"titleColor": "white", "labelColor": "black", "titleFontSize": 5}}, "color": {"value": "purple", "condition": [{"test": "datum.Trend =='Housing Crash'", "value": "darkred"}, {"test": "datum.Trend =='Property Market Crash'", "value": "orange"}]}, "tooltip": [{"field": "Value", "type": "quantitative", "title": "Relative number of Searches"}, {"field": "Week", "type": "temporal", "title": "Year"}]}, "resolve": {"scale": {"y": "independent"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

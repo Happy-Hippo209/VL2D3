@@ -1,0 +1,2033 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 63,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 125,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 188,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 171,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 143,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 114,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 86,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 57,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 29,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 63,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 125,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 188,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 62.5,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0.5",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 125,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 187.5,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "1.5",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 100,
+                              "y": 21,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Alpha",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 171,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 143,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 114,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 86,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 57,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 29,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 200,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,748.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 171.42857142857144,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,747.5",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 142.85714285714286,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,747.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 114.28571428571428,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,746.5",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 85.71428571428572,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,746.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 57.14285714285714,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,745.5",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 28.57142857142858,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,745.0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 0,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,744.5",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -52.552734375,
+                              "y": 100,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Log-likelihood cross section",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "line",
+                  "name": "concat_0_layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 182.5408623114137,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0; Log-likelihood cross section: \u22124747.69446509"
+                    },
+                    {
+                      "x": 3.668609339465962,
+                      "y": 167.32635400798506,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.0293488747157; Log-likelihood cross section: \u22124747.4282112"
+                    },
+                    {
+                      "x": 7.337218678931924,
+                      "y": 152.9178582914028,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.0586977494315; Log-likelihood cross section: \u22124747.17606252"
+                    },
+                    {
+                      "x": 11.005828018397887,
+                      "y": 139.29161971827853,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.0880466241472; Log-likelihood cross section: \u22124746.93760335"
+                    },
+                    {
+                      "x": 14.674437357863873,
+                      "y": 126.42645433541995,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.117395498863; Log-likelihood cross section: \u22124746.71246295"
+                    },
+                    {
+                      "x": 18.343046697329875,
+                      "y": 114.30319682341567,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.146744373579; Log-likelihood cross section: \u22124746.50030594"
+                    },
+                    {
+                      "x": 22.011656036795753,
+                      "y": 102.90428838514865,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.176093248294; Log-likelihood cross section: \u22124746.30082505"
+                    },
+                    {
+                      "x": 25.68026537626175,
+                      "y": 92.21346693884698,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.20544212301; Log-likelihood cross section: \u22124746.11373567"
+                    },
+                    {
+                      "x": 29.348874715727746,
+                      "y": 82.21553234283678,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.234790997726; Log-likelihood cross section: \u22124745.93877182"
+                    },
+                    {
+                      "x": 33.01748405519363,
+                      "y": 72.89616708055422,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.264139872442; Log-likelihood cross section: \u22124745.77568292"
+                    },
+                    {
+                      "x": 36.68609339465962,
+                      "y": 64.24179826857912,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.293488747157; Log-likelihood cross section: \u22124745.62423147"
+                    },
+                    {
+                      "x": 40.354702734125624,
+                      "y": 56.23949068914433,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.322837621873; Log-likelihood cross section: \u22124745.48419109"
+                    },
+                    {
+                      "x": 44.023312073591505,
+                      "y": 48.876863221136915,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.352186496589; Log-likelihood cross section: \u22124745.35534511"
+                    },
+                    {
+                      "x": 47.6919214130575,
+                      "y": 42.14202306684456,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.381535371304; Log-likelihood cross section: \u22124745.2374854"
+                    },
+                    {
+                      "x": 51.3605307525235,
+                      "y": 36.02351354742754,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.41088424602; Log-likelihood cross section: \u22124745.13041149"
+                    },
+                    {
+                      "x": 55.02914009198949,
+                      "y": 30.510272303997365,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.440233120736; Log-likelihood cross section: \u22124745.03392977"
+                    },
+                    {
+                      "x": 58.69774943145537,
+                      "y": 25.591597520022844,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.469581995452; Log-likelihood cross section: \u22124744.94785296"
+                    },
+                    {
+                      "x": 62.36635877092137,
+                      "y": 21.25712032398692,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.498930870167; Log-likelihood cross section: \u22124744.87199961"
+                    },
+                    {
+                      "x": 66.03496811038737,
+                      "y": 17.496781991992204,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.528279744883; Log-likelihood cross section: \u22124744.80619368"
+                    },
+                    {
+                      "x": 69.70357744985324,
+                      "y": 14.300814887974411,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.557628619599; Log-likelihood cross section: \u22124744.75026426"
+                    },
+                    {
+                      "x": 73.37218678931924,
+                      "y": 11.659726295433103,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.586977494315; Log-likelihood cross section: \u22124744.70404521"
+                    },
+                    {
+                      "x": 77.04079612878525,
+                      "y": 9.564284541141067,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.61632636903; Log-likelihood cross section: \u22124744.66737498"
+                    },
+                    {
+                      "x": 80.70940546825113,
+                      "y": 8.005506894291358,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.645675243746; Log-likelihood cross section: \u22124744.64009637"
+                    },
+                    {
+                      "x": 84.37801480771712,
+                      "y": 6.974648872554612,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.675024118462; Log-likelihood cross section: \u22124744.62205636"
+                    },
+                    {
+                      "x": 88.04662414718312,
+                      "y": 6.463194664580185,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.704372993177; Log-likelihood cross section: \u22124744.61310591"
+                    },
+                    {
+                      "x": 91.71523348664913,
+                      "y": 6.462848439436386,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.733721867893; Log-likelihood cross section: \u22124744.61309985"
+                    },
+                    {
+                      "x": 95.383842826115,
+                      "y": 6.965526370861741,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.763070742609; Log-likelihood cross section: \u22124744.62189671"
+                    },
+                    {
+                      "x": 99.052452165581,
+                      "y": 7.963349227429717,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.792419617325; Log-likelihood cross section: \u22124744.63935861"
+                    },
+                    {
+                      "x": 102.721061505047,
+                      "y": 9.448635448019814,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.82176849204; Log-likelihood cross section: \u22124744.66535112"
+                    },
+                    {
+                      "x": 106.38967084451288,
+                      "y": 11.41389459828912,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.851117366756; Log-likelihood cross section: \u22124744.69974316"
+                    },
+                    {
+                      "x": 110.05828018397885,
+                      "y": 13.851821163448875,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.880466241472; Log-likelihood cross section: \u22124744.74240687"
+                    },
+                    {
+                      "x": 113.72688952344485,
+                      "y": 16.75528861602029,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.909815116188; Log-likelihood cross section: \u22124744.79321755"
+                    },
+                    {
+                      "x": 117.39549886291086,
+                      "y": 20.117343732584093,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.939163990903; Log-likelihood cross section: \u22124744.85205352"
+                    },
+                    {
+                      "x": 121.06410820237674,
+                      "y": 23.931201127977285,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.968512865619; Log-likelihood cross section: \u22124744.91879602"
+                    },
+                    {
+                      "x": 124.73271754184275,
+                      "y": 28.190237977729083,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 0.997861740335; Log-likelihood cross section: \u22124744.99332916"
+                    },
+                    {
+                      "x": 128.40132688130873,
+                      "y": 32.88798892972409,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.02721061505; Log-likelihood cross section: \u22124745.07553981"
+                    },
+                    {
+                      "x": 132.06993622077502,
+                      "y": 38.01814117770326,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.05655948977; Log-likelihood cross section: \u22124745.16531747"
+                    },
+                    {
+                      "x": 135.73854556024,
+                      "y": 43.57452968568916,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.08590836448; Log-likelihood cross section: \u22124745.26255427"
+                    },
+                    {
+                      "x": 139.40715489970626,
+                      "y": 49.551132573157844,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.1152572392; Log-likelihood cross section: \u22124745.36714482"
+                    },
+                    {
+                      "x": 143.07576423917249,
+                      "y": 55.942066630294505,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.14460611391; Log-likelihood cross section: \u22124745.47898617"
+                    },
+                    {
+                      "x": 146.74437357863874,
+                      "y": 62.74158298401744,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.17395498863; Log-likelihood cross section: \u22124745.5979777"
+                    },
+                    {
+                      "x": 150.412982918105,
+                      "y": 69.94406288914823,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.20330386334; Log-likelihood cross section: \u22124745.7240211"
+                    },
+                    {
+                      "x": 154.08159225757,
+                      "y": 77.54401365600643,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.23265273806; Log-likelihood cross section: \u22124745.85702024"
+                    },
+                    {
+                      "x": 157.75020159703627,
+                      "y": 85.536064702267,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.26200161278; Log-likelihood cross section: \u22124745.99688113"
+                    },
+                    {
+                      "x": 161.4188109365025,
+                      "y": 93.91496372684611,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.29135048749; Log-likelihood cross section: \u22124746.14351187"
+                    },
+                    {
+                      "x": 165.08742027596875,
+                      "y": 102.67557302228983,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.32069936221; Log-likelihood cross section: \u22124746.29682253"
+                    },
+                    {
+                      "x": 168.75602961543373,
+                      "y": 111.81286588227002,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.35004823692; Log-likelihood cross section: \u22124746.45672515"
+                    },
+                    {
+                      "x": 172.42463895490002,
+                      "y": 121.32192314971428,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.37939711164; Log-likelihood cross section: \u22124746.62313366"
+                    },
+                    {
+                      "x": 176.09324829436625,
+                      "y": 131.19792986284926,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.40874598635; Log-likelihood cross section: \u22124746.79596377"
+                    },
+                    {
+                      "x": 179.7618576338325,
+                      "y": 141.4361720280015,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Alpha: 1.43809486107; Log-likelihood cross section: \u22124746.97513301"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "name": "concat_0_layer_1_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 89.875,
+                      "y": 0,
+                      "stroke": "red",
+                      "y2": 200,
+                      "description": "value: 0.719"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 200,
+              "height": 200,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 33,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 67,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 100,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 133,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 167,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            },
+                            {
+                              "x": 200,
+                              "y": -200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 160,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 120,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 80,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 40,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#ddd",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0,
+                  "aria": false
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 33,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 67,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 100,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 133,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 167,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            },
+                            {
+                              "x": 200,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "align": "left",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "0",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 33.33333333333333,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "10",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 66.66666666666666,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "20",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 100,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "30",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 133.33333333333331,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "40",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 166.66666666666669,
+                              "y": 7,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "50",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": 200,
+                              "y": 7,
+                              "align": "right",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "60",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": 200
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 100,
+                              "y": 21,
+                              "align": "center",
+                              "baseline": "top",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Beta",
+                              "angle": 0,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5,
+                      "orient": "bottom"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 160,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 120,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 80,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 40,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            },
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "x2": -5
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 200,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22125,200",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 160,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22125,100",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 120,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22125,000",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 80,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,900",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 39.99999999999999,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,800",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            },
+                            {
+                              "x": -7,
+                              "y": 0,
+                              "align": "right",
+                              "baseline": "middle",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "\u22124,700",
+                              "angle": 0,
+                              "limit": 180,
+                              "font": "sans-serif",
+                              "fontSize": 10
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "opacity": 1,
+                              "stroke": "#888",
+                              "strokeWidth": 1,
+                              "y2": 0
+                            }
+                          ],
+                          "zindex": 0
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "x": -44.28125,
+                              "y": 100,
+                              "align": "center",
+                              "baseline": "bottom",
+                              "fill": "#000",
+                              "opacity": 1,
+                              "text": "Log-likelihood cross section",
+                              "angle": -90,
+                              "font": "sans-serif",
+                              "fontSize": 11,
+                              "fontWeight": "bold"
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5,
+                      "orient": "left"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "line",
+                  "name": "concat_1_layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 199.18784228416007,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 0; Log-likelihood cross section: \u22125197.96960571"
+                    },
+                    {
+                      "x": 3.9338122784090666,
+                      "y": 170.66307285344408,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 1.18014368352; Log-likelihood cross section: \u22125126.65768213"
+                    },
+                    {
+                      "x": 7.867624556818133,
+                      "y": 149.7152339521439,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 2.36028736705; Log-likelihood cross section: \u22125074.28808488"
+                    },
+                    {
+                      "x": 11.801436835227202,
+                      "y": 132.39516096952394,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 3.54043105057; Log-likelihood cross section: \u22125030.98790242"
+                    },
+                    {
+                      "x": 15.735249113636266,
+                      "y": 117.38245634199593,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 4.72057473409; Log-likelihood cross section: \u22124993.45614085"
+                    },
+                    {
+                      "x": 19.6690613920453,
+                      "y": 104.11344436287618,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 5.90071841761; Log-likelihood cross section: \u22124960.28361091"
+                    },
+                    {
+                      "x": 23.602873670454365,
+                      "y": 92.3014446388679,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 7.08086210114; Log-likelihood cross section: \u22124930.7536116"
+                    },
+                    {
+                      "x": 27.536685948863433,
+                      "y": 81.77170551578384,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 8.26100578466; Log-likelihood cross section: \u22124904.42926379"
+                    },
+                    {
+                      "x": 31.470498227272504,
+                      "y": 72.39768212374801,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 9.44114946818; Log-likelihood cross section: \u22124880.99420531"
+                    },
+                    {
+                      "x": 35.404310505681664,
+                      "y": 64.07546235239205,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 10.6212931517; Log-likelihood cross section: \u22124860.18865588"
+                    },
+                    {
+                      "x": 39.338122784090665,
+                      "y": 56.71346996779212,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 11.8014368352; Log-likelihood cross section: \u22124841.78367492"
+                    },
+                    {
+                      "x": 43.27193506249966,
+                      "y": 50.228325853871866,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 12.9815805187; Log-likelihood cross section: \u22124825.57081463"
+                    },
+                    {
+                      "x": 47.205747340908665,
+                      "y": 44.543163497103876,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 14.1617242023; Log-likelihood cross section: \u22124811.35790874"
+                    },
+                    {
+                      "x": 51.139559619317666,
+                      "y": 39.586921600216016,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 15.3418678858; Log-likelihood cross section: \u22124798.967304"
+                    },
+                    {
+                      "x": 55.073371897727,
+                      "y": 35.29401678757604,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 16.5220115693; Log-likelihood cross section: \u22124788.23504197"
+                    },
+                    {
+                      "x": 59.00718417613599,
+                      "y": 31.604137793847986,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 17.7021552528; Log-likelihood cross section: \u22124779.01034448"
+                    },
+                    {
+                      "x": 62.94099645454501,
+                      "y": 28.462045629915877,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 18.8822989364; Log-likelihood cross section: \u22124771.15511407"
+                    },
+                    {
+                      "x": 66.874808732954,
+                      "y": 25.817336100172184,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 20.0624426199; Log-likelihood cross section: \u22124764.54334025"
+                    },
+                    {
+                      "x": 70.80862101136299,
+                      "y": 23.624158923959836,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 21.2425863034; Log-likelihood cross section: \u22124759.06039731"
+                    },
+                    {
+                      "x": 74.74243328977234,
+                      "y": 21.84090481165586,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 22.4227299869; Log-likelihood cross section: \u22124754.60226203"
+                    },
+                    {
+                      "x": 78.67624556818133,
+                      "y": 20.42987651393595,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 23.6028736705; Log-likelihood cross section: \u22124751.07469128"
+                    },
+                    {
+                      "x": 82.61005784659034,
+                      "y": 19.356958361135913,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 24.783017354; Log-likelihood cross section: \u22124748.3923959"
+                    },
+                    {
+                      "x": 86.54387012499932,
+                      "y": 18.59129515070417,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 25.9631610375; Log-likelihood cross section: \u22124746.47823788"
+                    },
+                    {
+                      "x": 90.47768240340834,
+                      "y": 18.104987483899816,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 27.143304721; Log-likelihood cross section: \u22124745.26246871"
+                    },
+                    {
+                      "x": 94.41149468181766,
+                      "y": 17.872807593008112,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 28.3234484045; Log-likelihood cross section: \u22124744.68201898"
+                    },
+                    {
+                      "x": 98.34530696022667,
+                      "y": 17.871937482455902,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 29.5035920881; Log-likelihood cross section: \u22124744.67984371"
+                    },
+                    {
+                      "x": 102.27911923863566,
+                      "y": 18.081729717335836,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 30.6837357716; Log-likelihood cross section: \u22124745.20432429"
+                    },
+                    {
+                      "x": 106.21293151704465,
+                      "y": 18.483490255099966,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 31.8638794551; Log-likelihood cross section: \u22124746.20872564"
+                    },
+                    {
+                      "x": 110.14674379545366,
+                      "y": 19.060282165744134,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 33.0440231386; Log-likelihood cross section: \u22124747.65070541"
+                    },
+                    {
+                      "x": 114.08055607386267,
+                      "y": 19.796748796656182,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 34.2241668222; Log-likelihood cross section: \u22124749.49187199"
+                    },
+                    {
+                      "x": 118.01436835227199,
+                      "y": 20.67895481794404,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 35.4043105057; Log-likelihood cross section: \u22124751.69738704"
+                    },
+                    {
+                      "x": 121.94818063068101,
+                      "y": 21.694243569544057,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 36.5844541892; Log-likelihood cross section: \u22124754.23560892"
+                    },
+                    {
+                      "x": 125.88199290909002,
+                      "y": 22.831109180159913,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 37.7645978727; Log-likelihood cross section: \u22124757.07777295"
+                    },
+                    {
+                      "x": 129.815805187499,
+                      "y": 24.079082012459917,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 38.9447415562; Log-likelihood cross section: \u22124760.19770503"
+                    },
+                    {
+                      "x": 133.749617465908,
+                      "y": 25.428626091120176,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 40.1248852398; Log-likelihood cross section: \u22124763.57156523"
+                    },
+                    {
+                      "x": 137.68342974431732,
+                      "y": 26.871047279932103,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 41.3050289233; Log-likelihood cross section: \u22124767.1776182"
+                    },
+                    {
+                      "x": 141.61724202272632,
+                      "y": 28.39841108317995,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 42.4851726068; Log-likelihood cross section: \u22124770.99602771"
+                    },
+                    {
+                      "x": 145.55105430113534,
+                      "y": 30.003469052516074,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 43.6653162903; Log-likelihood cross section: \u22124775.00867263"
+                    },
+                    {
+                      "x": 149.48486657954433,
+                      "y": 31.679592880359998,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 44.8454599739; Log-likelihood cross section: \u22124779.1989822"
+                    },
+                    {
+                      "x": 153.41867885795332,
+                      "y": 33.42071535378781,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 46.0256036574; Log-likelihood cross section: \u22124783.55178838"
+                    },
+                    {
+                      "x": 157.35249113636266,
+                      "y": 35.22127742831618,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 47.2057473409; Log-likelihood cross section: \u22124788.05319357"
+                    },
+                    {
+                      "x": 161.28630341477168,
+                      "y": 37.07618075909196,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 48.3858910244; Log-likelihood cross section: \u22124792.6904519"
+                    },
+                    {
+                      "x": 165.22011569318067,
+                      "y": 38.98074509809193,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 49.566034708; Log-likelihood cross section: \u22124797.45186275"
+                    },
+                    {
+                      "x": 169.15392797158967,
+                      "y": 40.93067002973185,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 50.7461783915; Log-likelihood cross section: \u22124802.32667507"
+                    },
+                    {
+                      "x": 173.08774024999863,
+                      "y": 42.92200057515183,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 51.926322075; Log-likelihood cross section: \u22124807.30500144"
+                    },
+                    {
+                      "x": 177.02155252840765,
+                      "y": 44.9510962472359,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 53.1064657585; Log-likelihood cross section: \u22124812.37774062"
+                    },
+                    {
+                      "x": 180.955364806817,
+                      "y": 47.01460318459611,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 54.286609442; Log-likelihood cross section: \u22124817.53650796"
+                    },
+                    {
+                      "x": 184.88917708522598,
+                      "y": 49.10942903404394,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 55.4667531256; Log-likelihood cross section: \u22124822.77357259"
+                    },
+                    {
+                      "x": 188.822989363635,
+                      "y": 51.232720288267956,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 56.6468968091; Log-likelihood cross section: \u22124828.08180072"
+                    },
+                    {
+                      "x": 192.756801642044,
+                      "y": 53.3818418176601,
+                      "stroke": "#4c78a8",
+                      "strokeWidth": 2,
+                      "defined": true,
+                      "description": "Beta: 57.8270404926; Log-likelihood cross section: \u22124833.45460454"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "name": "concat_1_layer_1_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 96.33333333333333,
+                      "y": 0,
+                      "stroke": "red",
+                      "y2": 200,
+                      "description": "value: 28.9"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 278,
+              "y": 0,
+              "width": 200,
+              "height": 200,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 200
+    }
+  ],
+  "zindex": 0
+}

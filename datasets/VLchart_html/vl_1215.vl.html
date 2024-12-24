@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"values": [{"category": "A", "group": "x", "value": 0.8}, {"category": "A", "group": "y", "value": 0.6}, {"category": "A", "group": "z", "value": 0.9}, {"category": "B", "group": "x", "value": 0.7}, {"category": "B", "group": "y", "value": 0.2}, {"category": "B", "group": "z", "value": 1.1}, {"category": "C", "group": "x", "value": 0.6}, {"category": "C", "group": "y", "value": 0.1}, {"category": "C", "group": "z", "value": 0.2}]}, "mark": "bar", "encoding": {"x": {"field": "category"}, "y": {"field": "value", "type": "quantitative"}, "xOffset": {"field": "group"}, "color": {"field": "group", "type": "nominal"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

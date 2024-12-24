@@ -1,0 +1,5207 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 14,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 52,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 91,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 130,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 169,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 208,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 246,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 285,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 324,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 363,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 402,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 440,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 479,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 574,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 559,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 548,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 533,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 528,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 523,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 518,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 514,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 488,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 473,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 463,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 454,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 448,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 442,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 437,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 432,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 429,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 403,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 388,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 377,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 369,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 362,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 356,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 351,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 347,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 343,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 317,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 302,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 291,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 283,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 276,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 265,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 261,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 257,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 231,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 216,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 206,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 197,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 190,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 185,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 171,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 146,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 131,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 112,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 105,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 99,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 94,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 86,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 45,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 34,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 26,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 19,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 13,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 8,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 4,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 14,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 52,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 91,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 130,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 169,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 208,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 246,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 285,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 324,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 363,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 402,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 440,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 479,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 13.575312865216718,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1760",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 52.373302098553225,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1780",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 91.17129133188973,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1800",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 129.96396940995814,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1820",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 168.7619586432947,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1840",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 207.55994787663118,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1860",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 246.35793710996768,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1880",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 285.15592634330415,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1900",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 323.9486255061673,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1920",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 362.7466147395038,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1940",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 401.54460397284026,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1960",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 440.3425932061768,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1980",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 479.1405824395133,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 516
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 258,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Year Acquired",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 574,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 559,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 548,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 533,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 528,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 523,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 518,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 514,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 488,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 473,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 463,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 454,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 448,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 442,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 437,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 432,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 429,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 403,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 388,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 377,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 369,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 362,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 356,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 351,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 347,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 343,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 317,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 302,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 291,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 283,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 276,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 265,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 261,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 257,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 231,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 216,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 206,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 197,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 190,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 185,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 180,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 175,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 171,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 146,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 131,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 112,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 105,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 99,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 94,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 86,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 60,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 45,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 34,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 26,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 19,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 13,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 8,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 4,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 574.1974289430873,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 559.1038924526003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 548.3948578861747,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 540.0882853426269,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 533.3013213956876,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 527.5630251416351,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 522.592286829262,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 518.2077849052007,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 514.2857142857142,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 488.4831432288016,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 473.3896067383147,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 462.6805721718889,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 454.37399962834127,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 447.587035681402,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 441.84873942734936,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 436.87800111497626,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 432.49349919091503,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 428.5714285714285,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 402.7688575145159,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 387.675321024029,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 376.9662864576032,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 368.65971391405554,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 361.87274996711625,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 356.1344537130637,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 351.16371540069053,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 346.77921347662937,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 342.85714285714283,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 317.0545718002302,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 301.96103530974324,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 291.2520007433175,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 282.9454281997698,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 276.1584642528306,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 270.420167998778,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 265.44942968640487,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 261.0649277623436,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 257.1428571428571,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 231.3402860859445,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 216.24674959545752,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 205.53771502903183,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 197.23114248548416,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 190.44417853854486,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 184.70588228449233,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 179.73514397211918,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 175.35064204805792,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 171.42857142857142,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "100,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 145.62600037165876,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 130.53246388117182,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 119.8234293147461,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 111.5168567711984,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 104.72989282425917,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 98.9915965702066,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 94.02085825783344,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 89.63635633377211,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 85.71428571428574,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1,000,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 59.91171465737308,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 44.81817816688609,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 34.10914360046042,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 25.80257105691266,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 19.015607109973367,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 13.277310855920854,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 8.306572543547697,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 3.9220706194865063,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10,000,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -62.728515625,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "max, min",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": true,
+          "items": [
+            {
+              "x": 0,
+              "y": 336.0701789102036,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1753; max: 1200"
+            },
+            {
+              "x": 95.04843467758934,
+              "y": 295.2361651908896,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1802; max: 3594"
+            },
+            {
+              "x": 110.56763037092394,
+              "y": 296.95309035628566,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1810; max: 3432"
+            },
+            {
+              "x": 153.24276294996005,
+              "y": 164.64160748163212,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1832; max: 120000"
+            },
+            {
+              "x": 162.94624362474525,
+              "y": 256.03529609618056,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1837; max: 10302"
+            },
+            {
+              "x": 164.88481529759505,
+              "y": 316.86890936395804,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1838; max: 2010"
+            },
+            {
+              "x": 166.82338697044486,
+              "y": 251.13327576152568,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1839; max: 11752"
+            },
+            {
+              "x": 168.7619586432947,
+              "y": 230.93120321272247,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1840; max: 20221"
+            },
+            {
+              "x": 170.70584147141255,
+              "y": 298.9127660385289,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1841; max: 3256"
+            },
+            {
+              "x": 174.58298481711216,
+              "y": 346.77921347662937,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1843; max: 900"
+            },
+            {
+              "x": 176.52155648996197,
+              "y": 290.4419239605723,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1844; max: 4088"
+            },
+            {
+              "x": 178.46543931807986,
+              "y": 191.72029457802884,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1845; max: 57978"
+            },
+            {
+              "x": 184.28115433662927,
+              "y": 248.2483265833995,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1848; max: 12699"
+            },
+            {
+              "x": 188.16360883759697,
+              "y": 321.66543861370593,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1850; max: 1767"
+            },
+            {
+              "x": 193.98463501141447,
+              "y": 136.5822702485182,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1853; max: 255000"
+            },
+            {
+              "x": 195.92320668426427,
+              "y": 314.5359622843551,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1854; max: 2140"
+            },
+            {
+              "x": 197.86177835711408,
+              "y": 201.05407791640405,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1855; max: 45120"
+            },
+            {
+              "x": 199.80035002996385,
+              "y": 353.56617742356855,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1856; max: 750"
+            },
+            {
+              "x": 201.74423285808174,
+              "y": 241.74285696938588,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1857; max: 15124"
+            },
+            {
+              "x": 203.68280453093155,
+              "y": 242.04932065237017,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1858; max: 15000"
+            },
+            {
+              "x": 205.62137620378138,
+              "y": 284.102312595192,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1859; max: 4847"
+            },
+            {
+              "x": 207.55994787663118,
+              "y": 231.04366904798675,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1860; max: 20160"
+            },
+            {
+              "x": 213.38097405044869,
+              "y": 240.1268888364714,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1863; max: 15795"
+            },
+            {
+              "x": 217.26342855141638,
+              "y": 185.76305957652585,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1865; max: 68040"
+            },
+            {
+              "x": 221.140571897116,
+              "y": 305.8831059292297,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1867; max: 2700"
+            },
+            {
+              "x": 226.96159807093346,
+              "y": 303.6880274026442,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1870; max: 2864"
+            },
+            {
+              "x": 228.90016974378327,
+              "y": 296.963938452328,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1871; max: 3431"
+            },
+            {
+              "x": 230.83874141663307,
+              "y": 242.29831985037654,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1872; max: 14900"
+            },
+            {
+              "x": 232.78262424475096,
+              "y": 253.5949127007236,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1873; max: 11000"
+            },
+            {
+              "x": 234.72119591760077,
+              "y": 272.610519810697,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1874; max: 6600"
+            },
+            {
+              "x": 236.65976759045057,
+              "y": 317.42869797758306,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1875; max: 1980"
+            },
+            {
+              "x": 238.5983392633004,
+              "y": 122.92732982798422,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1876; max: 368000"
+            },
+            {
+              "x": 242.4807937642681,
+              "y": 212.61880051739973,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1878; max: 33071"
+            },
+            {
+              "x": 246.35793710996768,
+              "y": 194.2849938588547,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1880; max: 54118"
+            },
+            {
+              "x": 248.30181993808557,
+              "y": 272.2122050869215,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1881; max: 6671"
+            },
+            {
+              "x": 250.24039161093538,
+              "y": 204.51335508108335,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1882; max: 41116"
+            },
+            {
+              "x": 252.17896328378518,
+              "y": 262.8656461101593,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1883; max: 8575"
+            },
+            {
+              "x": 256.0614177847529,
+              "y": 219.82572800462904,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1885; max: 27250"
+            },
+            {
+              "x": 257.9999894576027,
+              "y": 201.31902737158768,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1886; max: 44800"
+            },
+            {
+              "x": 259.93856113045246,
+              "y": 176.77343591829745,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1887; max: 86625"
+            },
+            {
+              "x": 261.8771328033023,
+              "y": 192.89431939125953,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1888; max: 56178"
+            },
+            {
+              "x": 265.75958730427,
+              "y": 219.60915506832737,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1890; max: 27409"
+            },
+            {
+              "x": 267.69815897711976,
+              "y": 311.4494608092024,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1891; max: 2325"
+            },
+            {
+              "x": 269.6367306499696,
+              "y": 168.00333389102335,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1892; max: 109638"
+            },
+            {
+              "x": 271.58061347808746,
+              "y": 247.447940012529,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1893; max: 12975"
+            },
+            {
+              "x": 273.5191851509373,
+              "y": 177.47837779591777,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1894; max: 85000"
+            },
+            {
+              "x": 275.45775682378707,
+              "y": 168.32044236809793,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1895; max: 108708"
+            },
+            {
+              "x": 277.3963284966369,
+              "y": 174.13003298109126,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1896; max: 93000"
+            },
+            {
+              "x": 279.34021132475476,
+              "y": 160.83875527339347,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1897; max: 132907"
+            },
+            {
+              "x": 281.2787829976046,
+              "y": 210.44469327790492,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1898; max: 35060"
+            },
+            {
+              "x": 283.21735467045437,
+              "y": 196.4823082303544,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1899; max: 51016"
+            },
+            {
+              "x": 285.15592634330415,
+              "y": 168.68105353031407,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1900; max: 107660"
+            },
+            {
+              "x": 287.0945191009487,
+              "y": 176.95652007216754,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1901; max: 86200"
+            },
+            {
+              "x": 289.03309077379845,
+              "y": 143.10739085578368,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1902; max: 214000"
+            },
+            {
+              "x": 290.9716624466483,
+              "y": 183.96299016547067,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1903; max: 71411"
+            },
+            {
+              "x": 292.91023411949806,
+              "y": 241.31216307277722,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1904; max: 15300"
+            },
+            {
+              "x": 294.854116947616,
+              "y": 161.05251241988566,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1905; max: 132146"
+            },
+            {
+              "x": 296.79268862046575,
+              "y": 245.28834015717584,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1906; max: 13750"
+            },
+            {
+              "x": 298.7312602933156,
+              "y": 199.0184925350753,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1907; max: 47656"
+            },
+            {
+              "x": 300.66983196616536,
+              "y": 170.5017571127737,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1908; max: 102521"
+            },
+            {
+              "x": 302.6137147942833,
+              "y": 158.3016935231951,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1909; max: 142281"
+            },
+            {
+              "x": 304.55228646713306,
+              "y": 201.0937003164259,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1910; max: 45072"
+            },
+            {
+              "x": 306.49085813998283,
+              "y": 152.39614231101507,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1911; max: 166742"
+            },
+            {
+              "x": 308.42942981283267,
+              "y": 171.21698998900007,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1912; max: 100570"
+            },
+            {
+              "x": 310.37331264095053,
+              "y": 210.06966461705076,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1913; max: 35415"
+            },
+            {
+              "x": 312.31188431380036,
+              "y": 132.67851019148722,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1914; max: 283194"
+            },
+            {
+              "x": 314.25045598665014,
+              "y": 156.63903819665455,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1915; max: 148780"
+            },
+            {
+              "x": 316.18902765949997,
+              "y": 192.9327717980295,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1916; max: 56120"
+            },
+            {
+              "x": 318.13291048761783,
+              "y": 218.70881970361992,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1917; max: 28080"
+            },
+            {
+              "x": 320.07148216046767,
+              "y": 239.9036659536532,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1918; max: 15890"
+            },
+            {
+              "x": 322.01005383331744,
+              "y": 220.11095927531818,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1919; max: 27042"
+            },
+            {
+              "x": 323.9486255061673,
+              "y": 171.42857142857142,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1920; max: 100000"
+            },
+            {
+              "x": 325.89250833428514,
+              "y": 186.96623821061388,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1921; max: 65876"
+            },
+            {
+              "x": 327.8310800071349,
+              "y": 193.16966412630057,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1922; max: 55764"
+            },
+            {
+              "x": 329.76965167998475,
+              "y": 117.97469011306512,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1923; max: 420367"
+            },
+            {
+              "x": 331.7082233528345,
+              "y": 199.146033975733,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1924; max: 47493"
+            },
+            {
+              "x": 333.65210618095244,
+              "y": 145.0343783458532,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1925; max: 203204"
+            },
+            {
+              "x": 335.5906778538022,
+              "y": 104.97889202226547,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1926; max: 596000"
+            },
+            {
+              "x": 337.52924952665205,
+              "y": 156.17185024508993,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1927; max: 150659"
+            },
+            {
+              "x": 339.4678211995018,
+              "y": 184.91920803338041,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1928; max: 69600"
+            },
+            {
+              "x": 341.41170402761975,
+              "y": 115.43892739068484,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1929; max: 450000"
+            },
+            {
+              "x": 343.3502757004695,
+              "y": 182.70979004540575,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1930; max: 73856"
+            },
+            {
+              "x": 345.2888473733194,
+              "y": 130.56076582066416,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1931; max: 299772"
+            },
+            {
+              "x": 347.2274190461692,
+              "y": 175.26801106783358,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1932; max: 90200"
+            },
+            {
+              "x": 349.17130187428705,
+              "y": 221.41655384374764,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1933; max: 26110"
+            },
+            {
+              "x": 351.1098735471369,
+              "y": 191.5109314554045,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1934; max: 58305"
+            },
+            {
+              "x": 353.04844521998666,
+              "y": 179.73514397211918,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1935; max: 80000"
+            },
+            {
+              "x": 354.9870168928365,
+              "y": 181.53304068846774,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1936; max: 76228"
+            },
+            {
+              "x": 356.93089972095436,
+              "y": 136.63544541722473,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1937; max: 254636"
+            },
+            {
+              "x": 358.8694713938042,
+              "y": 160.4090737234869,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1938; max: 134450"
+            },
+            {
+              "x": 360.80804306665397,
+              "y": 168.08661149030064,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1939; max: 109393"
+            },
+            {
+              "x": 362.7466147395038,
+              "y": 125.75299547936596,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1940; max: 341100"
+            },
+            {
+              "x": 364.69049756762166,
+              "y": 175.77786562307816,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1941; max: 88973"
+            },
+            {
+              "x": 366.6290692404715,
+              "y": 184.0344743386649,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1942; max: 71274"
+            },
+            {
+              "x": 368.5674196151851,
+              "y": 233.98974868980835,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1943; max: 18626"
+            },
+            {
+              "x": 370.50599128803486,
+              "y": 233.59216676982788,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1944; max: 18826"
+            },
+            {
+              "x": 372.4498741161528,
+              "y": 172.7918525102664,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1945; max: 96404"
+            },
+            {
+              "x": 374.38866708713874,
+              "y": 201.15321310497058,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1946; max: 45000"
+            },
+            {
+              "x": 376.3272387599886,
+              "y": 197.84291350928177,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1947; max: 49185"
+            },
+            {
+              "x": 378.26581043283835,
+              "y": 207.14953142779765,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1948; max: 38305"
+            },
+            {
+              "x": 380.20969326095627,
+              "y": 148.48510190215453,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1949; max: 185214"
+            },
+            {
+              "x": 382.14826493380605,
+              "y": 135.82551053347544,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1950; max: 260237"
+            },
+            {
+              "x": 384.0868366066559,
+              "y": 154.96199481642935,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1951; max: 155636"
+            },
+            {
+              "x": 386.02540827950565,
+              "y": 133.0822650827058,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1952; max: 280139"
+            },
+            {
+              "x": 387.9692911076236,
+              "y": 152.80085509938087,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1953; max: 164939"
+            },
+            {
+              "x": 389.90786278047335,
+              "y": 138.2858739381398,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1954; max: 243593"
+            },
+            {
+              "x": 391.8464344533232,
+              "y": 115.23080077569625,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1955; max: 452523"
+            },
+            {
+              "x": 393.78500612617296,
+              "y": 126.8110934515083,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1956; max: 331541"
+            },
+            {
+              "x": 395.7288889542909,
+              "y": 164.79703668992946,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1957; max: 119500"
+            },
+            {
+              "x": 397.66746062714066,
+              "y": 147.34447998365042,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1958; max: 190977"
+            },
+            {
+              "x": 399.60603229999043,
+              "y": 125.3673597403891,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1959; max: 344652"
+            },
+            {
+              "x": 401.54460397284026,
+              "y": 127.72218463901915,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1960; max: 323525"
+            },
+            {
+              "x": 403.4884868009581,
+              "y": 148.78051304946578,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1961; max: 183750"
+            },
+            {
+              "x": 405.42705847380796,
+              "y": 136.97557062987195,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1962; max: 252320"
+            },
+            {
+              "x": 407.36563014665774,
+              "y": 126.32286206397083,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1963; max: 335918"
+            },
+            {
+              "x": 409.30420181950757,
+              "y": 148.3514859594145,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1964; max: 185880"
+            },
+            {
+              "x": 411.24808464762543,
+              "y": 114.57659874344776,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1965; max: 460546"
+            },
+            {
+              "x": 413.18665632047527,
+              "y": 141.26748246034128,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1966; max: 224843"
+            },
+            {
+              "x": 415.1252279933251,
+              "y": 140.73489285766604,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1967; max: 228083"
+            },
+            {
+              "x": 417.06379966617493,
+              "y": 133.4895068576245,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1968; max: 277091"
+            },
+            {
+              "x": 419.00768249429274,
+              "y": 114.88697727497285,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1969; max: 456722"
+            },
+            {
+              "x": 420.9462541671426,
+              "y": 140.99004522198143,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1970; max: 226525"
+            },
+            {
+              "x": 422.8848258399924,
+              "y": 111.5168567711984,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1971; max: 500000"
+            },
+            {
+              "x": 424.8233975128422,
+              "y": 125.00952584409195,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1972; max: 347981"
+            },
+            {
+              "x": 426.7672803409601,
+              "y": 148.43609382929995,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1973; max: 185458"
+            },
+            {
+              "x": 428.7058520138099,
+              "y": 133.3902255355829,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1974; max: 277831"
+            },
+            {
+              "x": 430.6444236866597,
+              "y": 153.86167984747502,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1975; max: 160305"
+            },
+            {
+              "x": 432.5829953595095,
+              "y": 130.72229950090562,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1976; max: 298474"
+            },
+            {
+              "x": 434.5268781876274,
+              "y": 100.54356973935563,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1977; max: 671416"
+            },
+            {
+              "x": 436.4654498604772,
+              "y": 157.71685525633907,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1978; max: 144534"
+            },
+            {
+              "x": 438.404021533327,
+              "y": 184.18047741225644,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1979; max: 70995"
+            },
+            {
+              "x": 440.3425932061768,
+              "y": 178.70399435957967,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1980; max: 82247"
+            },
+            {
+              "x": 442.2864760342947,
+              "y": 142.71236700680177,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1981; max: 216283"
+            },
+            {
+              "x": 444.2250477071445,
+              "y": 136.07250621476086,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1982; max: 258516"
+            },
+            {
+              "x": 446.16361937999426,
+              "y": 157.08708559301354,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1983; max: 147000"
+            },
+            {
+              "x": 448.1021910528441,
+              "y": 89.0928837294197,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1984; max: 913236"
+            },
+            {
+              "x": 450.04607388096196,
+              "y": 78.92732176734644,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1985; max: 1200000"
+            },
+            {
+              "x": 451.9846455538118,
+              "y": 170.83255306688494,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1986; max: 101614"
+            },
+            {
+              "x": 453.92321722666156,
+              "y": 125.41318340868204,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1987; max: 344228"
+            },
+            {
+              "x": 455.8617888995114,
+              "y": 182.13760599499716,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1988; max: 75000"
+            },
+            {
+              "x": 457.80567172762926,
+              "y": 115.94992276820079,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1989; max: 443865"
+            },
+            {
+              "x": 459.7442434004791,
+              "y": 141.0662086678479,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1990; max: 226062"
+            },
+            {
+              "x": 461.68281507332887,
+              "y": 94.97611217829889,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1991; max: 779732"
+            },
+            {
+              "x": 463.6213867461787,
+              "y": 164.72390412554242,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1992; max: 119735"
+            },
+            {
+              "x": 465.56526957429656,
+              "y": 205.53771502903183,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1993; max: 40000"
+            },
+            {
+              "x": 467.5038412471464,
+              "y": 197.7748600327302,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1994; max: 49275"
+            },
+            {
+              "x": 469.4424129199962,
+              "y": 164.73478710802198,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1995; max: 119700"
+            },
+            {
+              "x": 471.38098459284595,
+              "y": 138.5047392896769,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1996; max: 242165"
+            },
+            {
+              "x": 473.32486742096387,
+              "y": 163.1219988850238,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1997; max: 125000"
+            },
+            {
+              "x": 475.26343909381364,
+              "y": 165.89397495051205,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1998; max: 116030"
+            },
+            {
+              "x": 477.2020107666635,
+              "y": 201.15321310497058,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1999; max: 45000"
+            },
+            {
+              "x": 479.1405824395133,
+              "y": 161.14022369760875,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2000; max: 131835"
+            },
+            {
+              "x": 481.0844652676312,
+              "y": 129.63894850134963,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2001; max: 307288"
+            },
+            {
+              "x": 483.02303694048095,
+              "y": 158.90331122757962,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2002; max: 140000"
+            },
+            {
+              "x": 484.96160861333084,
+              "y": 128.31226939104047,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2003; max: 318437"
+            },
+            {
+              "x": 486.9001802861806,
+              "y": 155.0726609735656,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2004; max: 155174"
+            },
+            {
+              "x": 488.84406311429854,
+              "y": 126.39729426838637,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2005; max: 335247"
+            },
+            {
+              "x": 490.7826347871483,
+              "y": 149.5480709911452,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2006; max: 180000"
+            },
+            {
+              "x": 492.7212064599981,
+              "y": 145.1159879458212,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2007; max: 202759"
+            },
+            {
+              "x": 494.6597781328479,
+              "y": 157.7050096790614,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2008; max: 144580"
+            },
+            {
+              "x": 496.6036609609658,
+              "y": 172.94818002517988,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2009; max: 96000"
+            },
+            {
+              "x": 498.5422326338156,
+              "y": 156.78871003455066,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2010; max: 148183"
+            },
+            {
+              "x": 500.4808043066654,
+              "y": 188.04171651566682,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2011; max: 64000"
+            },
+            {
+              "x": 502.4193759795152,
+              "y": 159.9823792825528,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2012; max: 136000"
+            },
+            {
+              "x": 504.3632588076331,
+              "y": 140.31585413487014,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2013; max: 230665"
+            },
+            {
+              "x": 506.3018304804829,
+              "y": 173.40464995206494,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2014; max: 94830"
+            },
+            {
+              "x": 508.2404021533327,
+              "y": 169.61234579400528,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2015; max: 105000"
+            },
+            {
+              "x": 510.1789738261825,
+              "y": 148.7299008848969,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2016; max: 184000"
+            },
+            {
+              "x": 512.1228566543004,
+              "y": 271.93977659538643,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2017; max: 6720"
+            },
+            {
+              "x": 514.0614283271502,
+              "y": 250.35589319591793,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2018; max: 12000"
+            },
+            {
+              "x": 516,
+              "y": 353.07312066164644,
+              "stroke": "blue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2019; max: 760"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": false,
+          "clip": true,
+          "items": [
+            {
+              "x": 0,
+              "y": 336.0701789102036,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1753; min: 1200"
+            },
+            {
+              "x": 95.04843467758934,
+              "y": 349.0825403109409,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1802; min: 846"
+            },
+            {
+              "x": 110.56763037092394,
+              "y": 399.9039641870631,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1810; min: 216"
+            },
+            {
+              "x": 153.24276294996005,
+              "y": 164.64160748163212,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1832; min: 120000"
+            },
+            {
+              "x": 162.94624362474525,
+              "y": 256.03529609618056,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1837; min: 10302"
+            },
+            {
+              "x": 164.88481529759505,
+              "y": 316.86890936395804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1838; min: 2010"
+            },
+            {
+              "x": 166.82338697044486,
+              "y": 251.13327576152568,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1839; min: 11752"
+            },
+            {
+              "x": 168.7619586432947,
+              "y": 361.37969320519414,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1840; min: 608"
+            },
+            {
+              "x": 170.70584147141255,
+              "y": 298.9127660385289,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1841; min: 3256"
+            },
+            {
+              "x": 174.58298481711216,
+              "y": 346.77921347662937,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1843; min: 900"
+            },
+            {
+              "x": 176.52155648996197,
+              "y": 290.4419239605723,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1844; min: 4088"
+            },
+            {
+              "x": 178.46543931807986,
+              "y": 295.0089924168578,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1845; min: 3616"
+            },
+            {
+              "x": 184.28115433662927,
+              "y": 324.3512731539402,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1848; min: 1644"
+            },
+            {
+              "x": 188.16360883759697,
+              "y": 368.65971391405554,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1850; min: 500"
+            },
+            {
+              "x": 193.98463501141447,
+              "y": 136.5822702485182,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1853; min: 255000"
+            },
+            {
+              "x": 195.92320668426427,
+              "y": 314.5359622843551,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1854; min: 2140"
+            },
+            {
+              "x": 197.86177835711408,
+              "y": 338.70498826710815,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1855; min: 1118"
+            },
+            {
+              "x": 199.80035002996385,
+              "y": 353.56617742356855,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1856; min: 750"
+            },
+            {
+              "x": 201.74423285808174,
+              "y": 301.96103530974324,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1857; min: 3000"
+            },
+            {
+              "x": 203.68280453093155,
+              "y": 268.51794258386707,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1858; min: 7367"
+            },
+            {
+              "x": 205.62137620378138,
+              "y": 284.102312595192,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1859; min: 4847"
+            },
+            {
+              "x": 207.55994787663118,
+              "y": 466.6026427913754,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1860; min: 36"
+            },
+            {
+              "x": 213.38097405044869,
+              "y": 240.1268888364714,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1863; min: 15795"
+            },
+            {
+              "x": 217.26342855141638,
+              "y": 398.3843555904547,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1865; min: 225"
+            },
+            {
+              "x": 221.140571897116,
+              "y": 305.8831059292297,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1867; min: 2700"
+            },
+            {
+              "x": 226.96159807093346,
+              "y": 303.6880274026442,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1870; min: 2864"
+            },
+            {
+              "x": 228.90016974378327,
+              "y": 388.93731446580375,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1871; min: 290"
+            },
+            {
+              "x": 230.83874141663307,
+              "y": 242.29831985037654,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1872; min: 14900"
+            },
+            {
+              "x": 232.78262424475096,
+              "y": 253.5949127007236,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1873; min: 11000"
+            },
+            {
+              "x": 234.72119591760077,
+              "y": 272.610519810697,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1874; min: 6600"
+            },
+            {
+              "x": 236.65976759045057,
+              "y": 376.9662864576032,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1875; min: 400"
+            },
+            {
+              "x": 238.5983392633004,
+              "y": 336.0701789102036,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1876; min: 1200"
+            },
+            {
+              "x": 242.4807937642681,
+              "y": 212.61880051739973,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1878; min: 33071"
+            },
+            {
+              "x": 246.35793710996768,
+              "y": 320.9766424197166,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1880; min: 1800"
+            },
+            {
+              "x": 248.30181993808557,
+              "y": 272.2122050869215,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1881; min: 6671"
+            },
+            {
+              "x": 250.24039161093538,
+              "y": 234.95343176810306,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1882; min: 18150"
+            },
+            {
+              "x": 252.17896328378518,
+              "y": 413.4778920809417,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1883; min: 150"
+            },
+            {
+              "x": 256.0614177847529,
+              "y": 405.87275802775406,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1885; min: 184"
+            },
+            {
+              "x": 257.9999894576027,
+              "y": 454.37399962834127,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1886; min: 50"
+            },
+            {
+              "x": 259.93856113045246,
+              "y": 242.04932065237017,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1887; min: 15000"
+            },
+            {
+              "x": 261.8771328033023,
+              "y": 217.83622103641807,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1888; min: 28746"
+            },
+            {
+              "x": 265.75958730427,
+              "y": 387.675321024029,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1890; min: 300"
+            },
+            {
+              "x": 267.69815897711976,
+              "y": 311.4494608092024,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1891; min: 2325"
+            },
+            {
+              "x": 269.6367306499696,
+              "y": 287.8736476710772,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1892; min: 4380"
+            },
+            {
+              "x": 271.58061347808746,
+              "y": 351.16371540069053,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1893; min: 800"
+            },
+            {
+              "x": 273.5191851509373,
+              "y": 177.47837779591777,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1894; min: 85000"
+            },
+            {
+              "x": 275.45775682378707,
+              "y": 287.33365283410035,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1895; min: 4444"
+            },
+            {
+              "x": 277.3963284966369,
+              "y": 246.24538224072856,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1896; min: 13401"
+            },
+            {
+              "x": 279.34021132475476,
+              "y": 160.83875527339347,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1897; min: 132907"
+            },
+            {
+              "x": 281.2787829976046,
+              "y": 323.10437816757656,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1898; min: 1700"
+            },
+            {
+              "x": 283.21735467045437,
+              "y": 213.57884310418052,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1899; min: 32229"
+            },
+            {
+              "x": 285.15592634330415,
+              "y": 402.7688575145159,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1900; min: 200"
+            },
+            {
+              "x": 287.0945191009487,
+              "y": 329.0255998084307,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1901; min: 1450"
+            },
+            {
+              "x": 289.03309077379845,
+              "y": 435.9588126528243,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1902; min: 82"
+            },
+            {
+              "x": 290.9716624466483,
+              "y": 256.08591809313026,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1903; min: 10288"
+            },
+            {
+              "x": 292.91023411949806,
+              "y": 370.17932251066395,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1904; min: 480"
+            },
+            {
+              "x": 294.854116947616,
+              "y": 413.4778920809417,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1905; min: 150"
+            },
+            {
+              "x": 296.79268862046575,
+              "y": 272.47540081912945,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1906; min: 6624"
+            },
+            {
+              "x": 298.7312602933156,
+              "y": 303.22302875151803,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1907; min: 2900"
+            },
+            {
+              "x": 300.66983196616536,
+              "y": 306.13210512723606,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1908; min: 2682"
+            },
+            {
+              "x": 302.6137147942833,
+              "y": 313.93206331794374,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1909; min: 2175"
+            },
+            {
+              "x": 304.55228646713306,
+              "y": 413.4778920809417,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1910; min: 150"
+            },
+            {
+              "x": 306.49085813998283,
+              "y": 411.0754300580636,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1911; min: 160"
+            },
+            {
+              "x": 308.42942981283267,
+              "y": 296.6076099989735,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1912; min: 3464"
+            },
+            {
+              "x": 310.37331264095053,
+              "y": 337.589787506812,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1913; min: 1152"
+            },
+            {
+              "x": 312.31188431380036,
+              "y": 298.54870209702744,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1914; min: 3288"
+            },
+            {
+              "x": 314.25045598665014,
+              "y": 293.79369706645235,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1915; min: 3736"
+            },
+            {
+              "x": 316.18902765949997,
+              "y": 496.78971577234927,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1916; min: 16"
+            },
+            {
+              "x": 318.13291048761783,
+              "y": 283.7278792167853,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1917; min: 4896"
+            },
+            {
+              "x": 320.07148216046767,
+              "y": 409.25920442349747,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1918; min: 168"
+            },
+            {
+              "x": 322.01005383331744,
+              "y": 315.23834616566404,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1919; min: 2100"
+            },
+            {
+              "x": 323.9486255061673,
+              "y": 428.5714285714285,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1920; min: 100"
+            },
+            {
+              "x": 325.89250833428514,
+              "y": 409.25920442349747,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1921; min: 168"
+            },
+            {
+              "x": 327.8310800071349,
+              "y": 389.1949296206374,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1922; min: 288"
+            },
+            {
+              "x": 329.76965167998475,
+              "y": 416.5817925941797,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1923; min: 138"
+            },
+            {
+              "x": 331.7082233528345,
+              "y": 299.55857328686517,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1924; min: 3200"
+            },
+            {
+              "x": 333.65210618095244,
+              "y": 480.176570685254,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1925; min: 25"
+            },
+            {
+              "x": 335.5906778538022,
+              "y": 425.70653524397574,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1926; min: 108"
+            },
+            {
+              "x": 337.52924952665205,
+              "y": 356.50857989041657,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1927; min: 693"
+            },
+            {
+              "x": 339.4678211995018,
+              "y": 455.89360822494973,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1928; min: 48"
+            },
+            {
+              "x": 341.41170402761975,
+              "y": 514.2857142857142,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1929; min: 10"
+            },
+            {
+              "x": 343.3502757004695,
+              "y": 454.37399962834127,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1930; min: 50"
+            },
+            {
+              "x": 345.2888473733194,
+              "y": 378.1001378062108,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1931; min: 388"
+            },
+            {
+              "x": 347.2274190461692,
+              "y": 480.176570685254,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1932; min: 25"
+            },
+            {
+              "x": 349.17130187428705,
+              "y": 387.675321024029,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1933; min: 300"
+            },
+            {
+              "x": 351.1098735471369,
+              "y": 389.97864785834054,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1934; min: 282"
+            },
+            {
+              "x": 353.04844521998666,
+              "y": 473.3896067383147,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1935; min: 30"
+            },
+            {
+              "x": 354.9870168928365,
+              "y": 441.84873942734936,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1936; min: 70"
+            },
+            {
+              "x": 356.93089972095436,
+              "y": 418.80485551655687,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1937; min: 130"
+            },
+            {
+              "x": 358.8694713938042,
+              "y": 455.89360822494973,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1938; min: 48"
+            },
+            {
+              "x": 360.80804306665397,
+              "y": 398.55016985707175,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1939; min: 224"
+            },
+            {
+              "x": 362.7466147395038,
+              "y": 473.3896067383147,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1940; min: 30"
+            },
+            {
+              "x": 364.69049756762166,
+              "y": 428.5714285714285,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1941; min: 100"
+            },
+            {
+              "x": 366.6290692404715,
+              "y": 421.1691573707359,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1942; min: 122"
+            },
+            {
+              "x": 368.5674196151851,
+              "y": 380.5794321397618,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1943; min: 363"
+            },
+            {
+              "x": 370.50599128803486,
+              "y": 398.55016985707175,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1944; min: 224"
+            },
+            {
+              "x": 372.4498741161528,
+              "y": 477.3116773578011,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1945; min: 27"
+            },
+            {
+              "x": 374.38866708713874,
+              "y": 391.5973916435154,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1946; min: 270"
+            },
+            {
+              "x": 376.3272387599886,
+              "y": 454.37399962834127,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1947; min: 50"
+            },
+            {
+              "x": 378.26581043283835,
+              "y": 428.5714285714285,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1948; min: 100"
+            },
+            {
+              "x": 380.20969326095627,
+              "y": 436.87800111497626,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1949; min: 80"
+            },
+            {
+              "x": 382.14826493380605,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1950; min: 12"
+            },
+            {
+              "x": 384.0868366066559,
+              "y": 414.7398855227165,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1951; min: 145"
+            },
+            {
+              "x": 386.02540827950565,
+              "y": 480.176570685254,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1952; min: 25"
+            },
+            {
+              "x": 387.9692911076236,
+              "y": 421.7844646244894,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1953; min: 120"
+            },
+            {
+              "x": 389.90786278047335,
+              "y": 462.6805721718889,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1954; min: 40"
+            },
+            {
+              "x": 391.8464344533232,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1955; min: 20"
+            },
+            {
+              "x": 393.78500612617296,
+              "y": 418.2365201823557,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1956; min: 132"
+            },
+            {
+              "x": 395.7288889542909,
+              "y": 462.6805721718889,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1957; min: 40"
+            },
+            {
+              "x": 397.66746062714066,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1958; min: 12"
+            },
+            {
+              "x": 399.60603229999043,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1959; min: 20"
+            },
+            {
+              "x": 401.54460397284026,
+              "y": 518.2077849052007,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1960; min: 9"
+            },
+            {
+              "x": 403.4884868009581,
+              "y": 480.176570685254,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1961; min: 25"
+            },
+            {
+              "x": 405.42705847380796,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1962; min: 12"
+            },
+            {
+              "x": 407.36563014665774,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1963; min: 12"
+            },
+            {
+              "x": 409.30420181950757,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1964; min: 20"
+            },
+            {
+              "x": 411.24808464762543,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1965; min: 20"
+            },
+            {
+              "x": 413.18665632047527,
+              "y": 496.78971577234927,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1966; min: 16"
+            },
+            {
+              "x": 415.1252279933251,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1967; min: 12"
+            },
+            {
+              "x": 417.06379966617493,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1968; min: 20"
+            },
+            {
+              "x": 419.00768249429274,
+              "y": 480.176570685254,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1969; min: 25"
+            },
+            {
+              "x": 420.9462541671426,
+              "y": 492.40521384828804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1970; min: 18"
+            },
+            {
+              "x": 422.8848258399924,
+              "y": 420.5638555575227,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1971; min: 124"
+            },
+            {
+              "x": 424.8233975128422,
+              "y": 496.78971577234927,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1972; min: 16"
+            },
+            {
+              "x": 426.7672803409601,
+              "y": 481.6961792818624,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1973; min: 24"
+            },
+            {
+              "x": 428.7058520138099,
+              "y": 496.78971577234927,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1974; min: 16"
+            },
+            {
+              "x": 430.6444236866597,
+              "y": 496.78971577234927,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1975; min: 16"
+            },
+            {
+              "x": 432.5829953595095,
+              "y": 496.78971577234927,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1976; min: 16"
+            },
+            {
+              "x": 434.5268781876274,
+              "y": 492.40521384828804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1977; min: 18"
+            },
+            {
+              "x": 436.4654498604772,
+              "y": 455.89360822494973,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1978; min: 48"
+            },
+            {
+              "x": 438.404021533327,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1979; min: 12"
+            },
+            {
+              "x": 440.3425932061768,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1980; min: 12"
+            },
+            {
+              "x": 442.2864760342947,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1981; min: 20"
+            },
+            {
+              "x": 444.2250477071445,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1982; min: 20"
+            },
+            {
+              "x": 446.16361937999426,
+              "y": 480.176570685254,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1983; min: 25"
+            },
+            {
+              "x": 448.1021910528441,
+              "y": 492.40521384828804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1984; min: 18"
+            },
+            {
+              "x": 450.04607388096196,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1985; min: 20"
+            },
+            {
+              "x": 451.9846455538118,
+              "y": 507.49875033877504,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1986; min: 12"
+            },
+            {
+              "x": 453.92321722666156,
+              "y": 492.40521384828804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1987; min: 18"
+            },
+            {
+              "x": 455.8617888995114,
+              "y": 492.40521384828804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1988; min: 18"
+            },
+            {
+              "x": 457.80567172762926,
+              "y": 496.78971577234927,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1989; min: 16"
+            },
+            {
+              "x": 459.7442434004791,
+              "y": 466.6026427913754,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1990; min: 36"
+            },
+            {
+              "x": 461.68281507332887,
+              "y": 492.40521384828804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1991; min: 18"
+            },
+            {
+              "x": 463.6213867461787,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1992; min: 20"
+            },
+            {
+              "x": 465.56526957429656,
+              "y": 492.40521384828804,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1993; min: 18"
+            },
+            {
+              "x": 467.5038412471464,
+              "y": 466.6026427913754,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1994; min: 36"
+            },
+            {
+              "x": 469.4424129199962,
+              "y": 445.18457365852396,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1995; min: 64"
+            },
+            {
+              "x": 471.38098459284595,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1996; min: 20"
+            },
+            {
+              "x": 473.32486742096387,
+              "y": 481.6961792818624,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1997; min: 24"
+            },
+            {
+              "x": 475.26343909381364,
+              "y": 480.176570685254,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1998; min: 25"
+            },
+            {
+              "x": 477.2020107666635,
+              "y": 473.3896067383147,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 1999; min: 30"
+            },
+            {
+              "x": 479.1405824395133,
+              "y": 481.6961792818624,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2000; min: 24"
+            },
+            {
+              "x": 481.0844652676312,
+              "y": 445.18457365852396,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2001; min: 64"
+            },
+            {
+              "x": 483.02303694048095,
+              "y": 436.87800111497626,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2002; min: 80"
+            },
+            {
+              "x": 484.96160861333084,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2003; min: 20"
+            },
+            {
+              "x": 486.9001802861806,
+              "y": 441.84873942734936,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2004; min: 70"
+            },
+            {
+              "x": 488.84406311429854,
+              "y": 447.587035681402,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2005; min: 60"
+            },
+            {
+              "x": 490.7826347871483,
+              "y": 466.6026427913754,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2006; min: 36"
+            },
+            {
+              "x": 492.7212064599981,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2007; min: 20"
+            },
+            {
+              "x": 494.6597781328479,
+              "y": 431.2728901239484,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2008; min: 93"
+            },
+            {
+              "x": 496.6036609609658,
+              "y": 488.4831432288016,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2009; min: 20"
+            },
+            {
+              "x": 498.5422326338156,
+              "y": 481.6961792818624,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2010; min: 24"
+            },
+            {
+              "x": 500.4808043066654,
+              "y": 481.6961792818624,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2011; min: 24"
+            },
+            {
+              "x": 502.4193759795152,
+              "y": 428.5714285714285,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2012; min: 100"
+            },
+            {
+              "x": 504.3632588076331,
+              "y": 414.9975006775501,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2013; min: 144"
+            },
+            {
+              "x": 506.3018304804829,
+              "y": 514.2857142857142,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2014; min: 10"
+            },
+            {
+              "x": 508.2404021533327,
+              "y": 414.9975006775501,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2015; min: 144"
+            },
+            {
+              "x": 510.1789738261825,
+              "y": 337.589787506812,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2016; min: 1152"
+            },
+            {
+              "x": 512.1228566543004,
+              "y": 271.93977659538643,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2017; min: 6720"
+            },
+            {
+              "x": 514.0614283271502,
+              "y": 328.8974577152635,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2018; min: 1455"
+            },
+            {
+              "x": 516,
+              "y": 353.07312066164644,
+              "stroke": "orange",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "Year Acquired: Jan 01, 2019; min: 760"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 516,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

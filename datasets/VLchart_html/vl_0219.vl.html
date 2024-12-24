@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "Google's stock price over time.", "padding": 5, "params": [{"name": "labels", "value": {"ref1": "My first cool Label", "ref2": "My second cool label"}}], "data": {"values": [{"labelRef": "ref1", "when": 1668726000, "value": 100}, {"labelRef": "ref1", "when": 1668727000, "value": 200}, {"labelRef": "ref1", "when": 1668725000, "value": 80}, {"labelRef": "ref2", "when": 1668726000, "value": 70}, {"labelRef": "ref2", "when": 1668727000, "value": 80}, {"labelRef": "ref2", "when": 1668725000, "value": 110}]}, "mark": {"type": "line", "interpolate": "monotone", "point": {"filled": false, "fill": "white"}}, "encoding": {"x": {"field": "when", "type": "temporal", "title": "T"}, "y": {"field": "value", "type": "quantitative", "title": "V"}, "color": {"field": "labelRef", "type": "nominal", "scale": {"range": ["green", "blue"]}, "legend": {"title": "Test", "labelExpr": "labels[datum.value]"}}}, "title": "Foo Bar"};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

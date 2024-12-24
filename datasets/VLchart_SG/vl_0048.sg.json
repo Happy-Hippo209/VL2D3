@@ -1,0 +1,1363 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 50,
+                      "y": 12,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 50,
+                      "y": 37,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 50,
+                      "y": 62,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 50,
+                      "y": 87,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 50,
+                      "y": 112,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 50,
+                      "y": 137,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    },
+                    {
+                      "x": 50,
+                      "y": 162,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 300
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -49.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 42,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 83,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 125,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 167,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 208,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 41.666666666666664,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 83.33333333333333,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 125,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "3",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 166.66666666666666,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "4",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 208.33333333333334,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 250
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 175.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -2,
+                      "y": 12,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Identify Errors:",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "x": -2,
+                      "y": 37,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Fix Errors:",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "x": -2,
+                      "y": 62,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Easier to Fix:",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "x": -2,
+                      "y": 87,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Faster to Fix:",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "x": -2,
+                      "y": 112,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Easier on Phone:",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "x": -2,
+                      "y": 137,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Easier on Tablet:",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    },
+                    {
+                      "x": -2,
+                      "y": 162,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Device Preference:",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": -49.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 83.33333333333333,
+              "y": 12.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 325.3,
+              "shape": "circle",
+              "description": "value: 2; name: Identify Errors:; Count of Records: 9",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 83.33333333333333,
+              "y": 37.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 253.89999999999998,
+              "shape": "circle",
+              "description": "value: 2; name: Fix Errors:; Count of Records: 7",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 125,
+              "y": 62.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 75.4,
+              "shape": "circle",
+              "description": "value: 3; name: Easier to Fix:; Count of Records: 2",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 166.66666666666666,
+              "y": 87.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 182.5,
+              "shape": "circle",
+              "description": "value: 4; name: Faster to Fix:; Count of Records: 5",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 83.33333333333333,
+              "y": 112.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 111.1,
+              "shape": "circle",
+              "description": "value: 2; name: Easier on Phone:; Count of Records: 3",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 208.33333333333334,
+              "y": 137.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 146.8,
+              "shape": "circle",
+              "description": "value: 5; name: Easier on Tablet:; Count of Records: 4",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 208.33333333333334,
+              "y": 162.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 361,
+              "shape": "circle",
+              "description": "value: 5; name: Device Preference:; Count of Records: 10",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 125,
+              "y": 37.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 289.6,
+              "shape": "circle",
+              "description": "value: 3; name: Fix Errors:; Count of Records: 8",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 166.66666666666666,
+              "y": 62.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 111.1,
+              "shape": "circle",
+              "description": "value: 4; name: Easier to Fix:; Count of Records: 3",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 208.33333333333334,
+              "y": 87.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 75.4,
+              "shape": "circle",
+              "description": "value: 5; name: Faster to Fix:; Count of Records: 2",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 208.33333333333334,
+              "y": 112.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 5; name: Easier on Phone:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 83.33333333333333,
+              "y": 62.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 289.6,
+              "shape": "circle",
+              "description": "value: 2; name: Easier to Fix:; Count of Records: 8",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 41.666666666666664,
+              "y": 87.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 182.5,
+              "shape": "circle",
+              "description": "value: 1; name: Faster to Fix:; Count of Records: 5",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 41.666666666666664,
+              "y": 137.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 253.89999999999998,
+              "shape": "circle",
+              "description": "value: 1; name: Easier on Tablet:; Count of Records: 7",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 125,
+              "y": 12.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 146.8,
+              "shape": "circle",
+              "description": "value: 3; name: Identify Errors:; Count of Records: 4",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 83.33333333333333,
+              "y": 87.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 146.8,
+              "shape": "circle",
+              "description": "value: 2; name: Faster to Fix:; Count of Records: 4",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 166.66666666666666,
+              "y": 112.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 111.1,
+              "shape": "circle",
+              "description": "value: 4; name: Easier on Phone:; Count of Records: 3",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 41.666666666666664,
+              "y": 12.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 111.1,
+              "shape": "circle",
+              "description": "value: 1; name: Identify Errors:; Count of Records: 3",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 166.66666666666666,
+              "y": 137.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 111.1,
+              "shape": "circle",
+              "description": "value: 4; name: Easier on Tablet:; Count of Records: 3",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 166.66666666666666,
+              "y": 162.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 146.8,
+              "shape": "circle",
+              "description": "value: 4; name: Device Preference:; Count of Records: 4",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 125,
+              "y": 112.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 3; name: Easier on Phone:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 83.33333333333333,
+              "y": 137.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 2; name: Easier on Tablet:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 41.666666666666664,
+              "y": 37.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 1; name: Fix Errors:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 41.666666666666664,
+              "y": 112.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 325.3,
+              "shape": "circle",
+              "description": "value: 1; name: Easier on Phone:; Count of Records: 9",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 41.666666666666664,
+              "y": 62.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 146.8,
+              "shape": "circle",
+              "description": "value: 1; name: Easier to Fix:; Count of Records: 4",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 125,
+              "y": 87.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 3; name: Faster to Fix:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 125,
+              "y": 137.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 75.4,
+              "shape": "circle",
+              "description": "value: 3; name: Easier on Tablet:; Count of Records: 2",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 125,
+              "y": 162.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 3; name: Device Preference:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 41.666666666666664,
+              "y": 162.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 1; name: Device Preference:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 166.66666666666666,
+              "y": 12.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 4; name: Identify Errors:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 208.33333333333334,
+              "y": 37.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 5; name: Fix Errors:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            },
+            {
+              "x": 83.33333333333333,
+              "y": 162.5,
+              "fill": "#6EB4FD",
+              "strokeWidth": 2,
+              "size": 39.7,
+              "shape": "circle",
+              "description": "value: 2; name: Device Preference:; Count of Records: 1",
+              "ariaRoleDescription": "circle"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 82.83233333333332,
+              "y": 0,
+              "width": 1,
+              "height": 25,
+              "fill": "black",
+              "opacity": 0.7,
+              "description": "median: 1.999976; name: Identify Errors:",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 82.83333333333333,
+              "y": 25,
+              "width": 1,
+              "height": 25,
+              "fill": "black",
+              "opacity": 0.7,
+              "description": "median: 2; name: Fix Errors:",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 82.83204166666667,
+              "y": 50,
+              "width": 1,
+              "height": 25,
+              "fill": "black",
+              "opacity": 0.7,
+              "description": "median: 1.999969; name: Easier to Fix:",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 103.66854166666667,
+              "y": 75,
+              "width": 1,
+              "height": 25,
+              "fill": "black",
+              "opacity": 0.7,
+              "description": "median: 2.500045; name: Faster to Fix:",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 62.00091666666667,
+              "y": 100,
+              "width": 1,
+              "height": 25,
+              "fill": "black",
+              "opacity": 0.7,
+              "description": "median: 1.500022; name: Easier on Phone:",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 124.49916666666667,
+              "y": 125,
+              "width": 1,
+              "height": 25,
+              "fill": "black",
+              "opacity": 0.7,
+              "description": "median: 2.99998; name: Easier on Tablet:",
+              "ariaRoleDescription": "tick"
+            },
+            {
+              "x": 187.00029166666667,
+              "y": 150,
+              "width": 1,
+              "height": 25,
+              "fill": "black",
+              "opacity": 0.7,
+              "description": "median: 4.500007; name: Device Preference:",
+              "ariaRoleDescription": "tick"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": -5,
+              "y": 12.5,
+              "align": "right",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Easy",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Identify Errors:; lo: Easy"
+            },
+            {
+              "x": -5,
+              "y": 37.5,
+              "align": "right",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Easy",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Fix Errors:; lo: Easy"
+            },
+            {
+              "x": -5,
+              "y": 62.5,
+              "align": "right",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Toolbar",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Easier to Fix:; lo: Toolbar"
+            },
+            {
+              "x": -5,
+              "y": 87.5,
+              "align": "right",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Toolbar",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Faster to Fix:; lo: Toolbar"
+            },
+            {
+              "x": -5,
+              "y": 112.5,
+              "align": "right",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Toolbar",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Easier on Phone:; lo: Toolbar"
+            },
+            {
+              "x": -5,
+              "y": 137.5,
+              "align": "right",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Toolbar",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Easier on Tablet:; lo: Toolbar"
+            },
+            {
+              "x": -5,
+              "y": 162.5,
+              "align": "right",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Phone",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Device Preference:; lo: Phone"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_3_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 255,
+              "y": 12.5,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Hard",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Identify Errors:; hi: Hard"
+            },
+            {
+              "x": 255,
+              "y": 37.5,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Hard",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Fix Errors:; hi: Hard"
+            },
+            {
+              "x": 255,
+              "y": 62.5,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Gesture",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Easier to Fix:; hi: Gesture"
+            },
+            {
+              "x": 255,
+              "y": 87.5,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Gesture",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Faster to Fix:; hi: Gesture"
+            },
+            {
+              "x": 255,
+              "y": 112.5,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Gesture",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Easier on Phone:; hi: Gesture"
+            },
+            {
+              "x": 255,
+              "y": 137.5,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Gesture",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Easier on Tablet:; hi: Gesture"
+            },
+            {
+              "x": 255,
+              "y": 162.5,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "black",
+              "text": "Tablet",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "name: Device Preference:; hi: Tablet"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10.5,
+                                      "y": 5,
+                                      "fill": "#6EB4FD",
+                                      "opacity": 1,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 4,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 25,
+                                      "y": 5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "0",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 36.728515625,
+                              "height": 10,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10.5,
+                                      "y": 5.5,
+                                      "fill": "#6EB4FD",
+                                      "opacity": 1,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 75.4,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 25,
+                                      "y": 5.5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "2",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 36.728515625,
+                              "height": 11.341658669218482,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10.5,
+                                      "y": 7,
+                                      "fill": "#6EB4FD",
+                                      "opacity": 1,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 146.8,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 25,
+                                      "y": 7,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "4",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 28,
+                              "width": 36.728515625,
+                              "height": 14.558052492344387,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10.5,
+                                      "y": 8.5,
+                                      "fill": "#6EB4FD",
+                                      "opacity": 1,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 218.2,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 25,
+                                      "y": 8.5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "6",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 46,
+                              "width": 36.728515625,
+                              "height": 17.38579718107667,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10.5,
+                                      "y": 9.5,
+                                      "fill": "#6EB4FD",
+                                      "opacity": 1,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 289.6,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 25,
+                                      "y": 9.5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "8",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 67,
+                              "width": 36.728515625,
+                              "height": 19.508818954473057,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 10.5,
+                                      "y": 10.5,
+                                      "fill": "#6EB4FD",
+                                      "opacity": 1,
+                                      "stroke": "transparent",
+                                      "strokeWidth": 1.5,
+                                      "size": 361,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 25,
+                                      "y": 10.5,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "10",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 90,
+                              "width": 36.728515625,
+                              "height": 21.5,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "Number of Ratings",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 325,
+              "y": 0,
+              "width": 106,
+              "height": 128,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Questionnaire Ratings",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 13,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 125,
+              "y": -17,
+              "align": "center",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 250,
+      "height": 175,
+      "fill": "transparent",
+      "stroke": null
+    }
+  ],
+  "zindex": 0
+}

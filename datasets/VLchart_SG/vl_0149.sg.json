@@ -1,0 +1,1221 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 69,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 144,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 219,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 294,
+                      "y": -600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 563,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 525,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 488,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 413,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 375,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 338,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 69,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 144,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 219,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 294,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 69.13793111560922,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Jun 07",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 143.96551730664046,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Jun 14",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 218.79310349767167,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Jun 21",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 293.6206896887029,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Jun 28",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 320
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 160,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Date in 2009",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 563,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 525,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 488,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 450,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 413,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 375,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 338,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "25.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 562.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "25.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 525,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "26.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 487.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "26.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 450,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "27.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 412.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "27.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 375,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "28.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 337.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "28.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "29.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 262.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "29.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 225,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 187.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "31.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 112.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "31.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 75,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "32.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 37.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "32.5",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "33.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -31,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "low, high, open, close",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rule",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 5.000000094725316,
+              "y": 341.25000000000006,
+              "stroke": "#06982d",
+              "y2": 221.24999999999994,
+              "description": "Date in 2009: Jun 01, 2009; low: 28.45; high: 30.05"
+            },
+            {
+              "x": 15.689655264872632,
+              "y": 352.49999999999994,
+              "stroke": "#ae1325",
+              "y2": 215.25000000000009,
+              "description": "Date in 2009: Jun 02, 2009; low: 28.3; high: 30.13"
+            },
+            {
+              "x": 26.379310435019953,
+              "y": 253.49999999999991,
+              "stroke": "#06982d",
+              "y2": 90.75000000000006,
+              "description": "Date in 2009: Jun 03, 2009; low: 29.62; high: 31.79"
+            },
+            {
+              "x": 37.06896560516727,
+              "y": 230.9999999999999,
+              "stroke": "#ae1325",
+              "y2": 148.50000000000003,
+              "description": "Date in 2009: Jun 04, 2009; low: 29.92; high: 31.02"
+            },
+            {
+              "x": 47.75862077531458,
+              "y": 311.2499999999999,
+              "stroke": "#06982d",
+              "y2": 164.25000000000009,
+              "description": "Date in 2009: Jun 05, 2009; low: 28.85; high: 30.81"
+            },
+            {
+              "x": 79.82758628575654,
+              "y": 494.25,
+              "stroke": "#ae1325",
+              "y2": 88.49999999999997,
+              "description": "Date in 2009: Jun 08, 2009; low: 26.41; high: 31.82"
+            },
+            {
+              "x": 90.51724145590386,
+              "y": 390.75000000000006,
+              "stroke": "#ae1325",
+              "y2": 242.25000000000003,
+              "description": "Date in 2009: Jun 09, 2009; low: 27.79; high: 29.77"
+            },
+            {
+              "x": 101.20689662605118,
+              "y": 457.5000000000001,
+              "stroke": "#06982d",
+              "y2": 244.5000000000001,
+              "description": "Date in 2009: Jun 10, 2009; low: 26.9; high: 29.74"
+            },
+            {
+              "x": 111.8965517961985,
+              "y": 464.2500000000001,
+              "stroke": "#06982d",
+              "y2": 366.75000000000006,
+              "description": "Date in 2009: Jun 11, 2009; low: 26.81; high: 28.11"
+            },
+            {
+              "x": 122.58620696634581,
+              "y": 395.24999999999994,
+              "stroke": "#06982d",
+              "y2": 337.5,
+              "description": "Date in 2009: Jun 12, 2009; low: 27.73; high: 28.5"
+            },
+            {
+              "x": 154.65517247678778,
+              "y": 251.99999999999994,
+              "stroke": "#06982d",
+              "y2": 143.25,
+              "description": "Date in 2009: Jun 15, 2009; low: 29.64; high: 31.09"
+            },
+            {
+              "x": 165.34482764693507,
+              "y": 219.74999999999997,
+              "stroke": "#06982d",
+              "y2": 18.75,
+              "description": "Date in 2009: Jun 16, 2009; low: 30.07; high: 32.75"
+            },
+            {
+              "x": 176.0344828170824,
+              "y": 176.99999999999994,
+              "stroke": "#06982d",
+              "y2": 17.249999999999766,
+              "description": "Date in 2009: Jun 17, 2009; low: 30.64; high: 32.77"
+            },
+            {
+              "x": 186.7241379872297,
+              "y": 254.9999999999999,
+              "stroke": "#ae1325",
+              "y2": 109.50000000000006,
+              "description": "Date in 2009: Jun 18, 2009; low: 29.6; high: 31.54"
+            },
+            {
+              "x": 197.41379315737703,
+              "y": 408.0000000000001,
+              "stroke": "#ae1325",
+              "y2": 276,
+              "description": "Date in 2009: Jun 19, 2009; low: 27.56; high: 29.32"
+            },
+            {
+              "x": 229.48275866781898,
+              "y": 202.49999999999994,
+              "stroke": "#06982d",
+              "y2": 71.25000000000021,
+              "description": "Date in 2009: Jun 22, 2009; low: 30.3; high: 32.05"
+            },
+            {
+              "x": 240.1724138379663,
+              "y": 387.7500000000001,
+              "stroke": "#ae1325",
+              "y2": 109.50000000000006,
+              "description": "Date in 2009: Jun 23, 2009; low: 27.83; high: 31.54"
+            },
+            {
+              "x": 250.86206900811362,
+              "y": 315.75000000000006,
+              "stroke": "#ae1325",
+              "y2": 181.5000000000001,
+              "description": "Date in 2009: Jun 24, 2009; low: 28.79; high: 30.58"
+            },
+            {
+              "x": 261.55172417826094,
+              "y": 502.49999999999994,
+              "stroke": "#ae1325",
+              "y2": 258.0000000000001,
+              "description": "Date in 2009: Jun 25, 2009; low: 26.3; high: 29.56"
+            },
+            {
+              "x": 272.24137934840826,
+              "y": 542.9999999999999,
+              "stroke": "#ae1325",
+              "y2": 433.5000000000001,
+              "description": "Date in 2009: Jun 26, 2009; low: 25.76; high: 27.22"
+            },
+            {
+              "x": 304.3103448588502,
+              "y": 578.2500000000001,
+              "stroke": "#ae1325",
+              "y2": 436.5,
+              "description": "Date in 2009: Jun 29, 2009; low: 25.29; high: 27.18"
+            },
+            {
+              "x": 315.00000002899753,
+              "y": 598.5,
+              "stroke": "#06982d",
+              "y2": 421.50000000000006,
+              "description": "Date in 2009: Jun 30, 2009; low: 25.02; high: 27.38"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 2.5000000947253156,
+              "y": 222.00000000000006,
+              "width": 5,
+              "height": 100.5,
+              "fill": "#06982d",
+              "y2": 322.50000000000006,
+              "description": "Date in 2009: Jun 01, 2009; open: 28.7; close: 30.04",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 13.189655264872632,
+              "y": 222.00000000000006,
+              "width": 5,
+              "height": 30.75000000000003,
+              "fill": "#ae1325",
+              "y2": 252.75000000000009,
+              "description": "Date in 2009: Jun 02, 2009; open: 30.04; close: 29.63",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 23.879310435019953,
+              "y": 148.50000000000003,
+              "width": 5,
+              "height": 104.99999999999989,
+              "fill": "#06982d",
+              "y2": 253.49999999999991,
+              "description": "Date in 2009: Jun 03, 2009; open: 29.62; close: 31.02",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 34.56896560516727,
+              "y": 148.50000000000003,
+              "width": 5,
+              "height": 63,
+              "fill": "#ae1325",
+              "y2": 211.50000000000003,
+              "description": "Date in 2009: Jun 04, 2009; open: 31.02; close: 30.18",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 45.25862077531458,
+              "y": 253.49999999999991,
+              "width": 5,
+              "height": 17.25000000000003,
+              "fill": "#06982d",
+              "y2": 270.74999999999994,
+              "description": "Date in 2009: Jun 05, 2009; open: 29.39; close: 29.62",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 77.32758628575654,
+              "y": 162,
+              "width": 5,
+              "height": 80.25000000000003,
+              "fill": "#ae1325",
+              "y2": 242.25000000000003,
+              "description": "Date in 2009: Jun 08, 2009; open: 30.84; close: 29.77",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 88.01724145590386,
+              "y": 242.25000000000003,
+              "width": 5,
+              "height": 112.50000000000003,
+              "fill": "#ae1325",
+              "y2": 354.75000000000006,
+              "description": "Date in 2009: Jun 09, 2009; open: 29.77; close: 28.27",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 98.70689662605118,
+              "y": 340.49999999999994,
+              "width": 5,
+              "height": 117.00000000000017,
+              "fill": "#06982d",
+              "y2": 457.5000000000001,
+              "description": "Date in 2009: Jun 10, 2009; open: 26.9; close: 28.46",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 109.3965517961985,
+              "y": 366.75000000000006,
+              "width": 5,
+              "height": 56.25,
+              "fill": "#06982d",
+              "y2": 423.00000000000006,
+              "description": "Date in 2009: Jun 11, 2009; open: 27.36; close: 28.11",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 120.08620696634581,
+              "y": 363.7500000000001,
+              "width": 5,
+              "height": 5.25,
+              "fill": "#06982d",
+              "y2": 369.0000000000001,
+              "description": "Date in 2009: Jun 12, 2009; open: 28.08; close: 28.15",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 152.15517247678778,
+              "y": 164.25000000000009,
+              "width": 5,
+              "height": 83.24999999999997,
+              "fill": "#06982d",
+              "y2": 247.50000000000006,
+              "description": "Date in 2009: Jun 15, 2009; open: 29.7; close: 30.81",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 162.84482764693507,
+              "y": 24.00000000000002,
+              "width": 5,
+              "height": 140.25000000000006,
+              "fill": "#06982d",
+              "y2": 164.25000000000009,
+              "description": "Date in 2009: Jun 16, 2009; open: 30.81; close: 32.68",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 173.5344828170824,
+              "y": 109.50000000000006,
+              "width": 5,
+              "height": 26.249999999999858,
+              "fill": "#06982d",
+              "y2": 135.74999999999991,
+              "description": "Date in 2009: Jun 17, 2009; open: 31.19; close: 31.54",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 184.2241379872297,
+              "y": 109.50000000000006,
+              "width": 5,
+              "height": 113.24999999999986,
+              "fill": "#ae1325",
+              "y2": 222.74999999999991,
+              "description": "Date in 2009: Jun 18, 2009; open: 31.54; close: 30.03",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 194.91379315737703,
+              "y": 288,
+              "width": 5,
+              "height": 87.75000000000011,
+              "fill": "#ae1325",
+              "y2": 375.7500000000001,
+              "description": "Date in 2009: Jun 19, 2009; open: 29.16; close: 27.99",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 226.98275866781898,
+              "y": 137.2499999999999,
+              "width": 5,
+              "height": 57.75000000000023,
+              "fill": "#06982d",
+              "y2": 195.0000000000001,
+              "description": "Date in 2009: Jun 22, 2009; open: 30.4; close: 31.17",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 237.6724138379663,
+              "y": 127.49999999999994,
+              "width": 5,
+              "height": 54.00000000000017,
+              "fill": "#ae1325",
+              "y2": 181.5000000000001,
+              "description": "Date in 2009: Jun 23, 2009; open: 31.3; close: 30.58",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 248.36206900811362,
+              "y": 181.5000000000001,
+              "width": 5,
+              "height": 114.74999999999983,
+              "fill": "#ae1325",
+              "y2": 296.24999999999994,
+              "description": "Date in 2009: Jun 24, 2009; open: 30.58; close: 29.05",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 259.05172417826094,
+              "y": 266.25000000000006,
+              "width": 5,
+              "height": 231.75,
+              "fill": "#ae1325",
+              "y2": 498.00000000000006,
+              "description": "Date in 2009: Jun 25, 2009; open: 29.45; close: 26.36",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 269.74137934840826,
+              "y": 443.25,
+              "width": 5,
+              "height": 87,
+              "fill": "#ae1325",
+              "y2": 530.25,
+              "description": "Date in 2009: Jun 26, 2009; open: 27.09; close: 25.93",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 301.8103448588502,
+              "y": 530.25,
+              "width": 5,
+              "height": 43.499999999999886,
+              "fill": "#ae1325",
+              "y2": 573.7499999999999,
+              "description": "Date in 2009: Jun 29, 2009; open: 25.93; close: 25.35",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 312.50000002899753,
+              "y": 498.7499999999999,
+              "width": 5,
+              "height": 74.25000000000011,
+              "fill": "#06982d",
+              "y2": 573,
+              "description": "Date in 2009: Jun 30, 2009; open: 25.36; close: 26.35",
+              "ariaRoleDescription": "bar"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

@@ -1,0 +1,1758 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 573,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 547,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 520,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 493,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 467,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 440,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 413,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 387,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 360,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 333,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 307,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 280,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 253,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 227,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 173,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 147,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 93,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 67,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 40,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    },
+                    {
+                      "x": 0,
+                      "y": 13,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 500
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 573,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 547,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 520,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 493,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 467,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 440,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 413,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 387,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 360,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 333,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 307,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 280,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 253,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 227,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 173,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 147,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 120,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 93,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 67,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 40,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 13,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 573.3333333333334,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 546.6666666666666,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "4,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 520,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "6,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 493.3333333333333,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "8,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 466.6666666666667,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "10,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 440.00000000000006,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "12,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 413.3333333333333,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "14,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 386.66666666666663,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "16,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 360,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "18,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 333.33333333333337,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "20,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 306.66666666666663,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "22,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 280,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "24,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 253.33333333333337,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "26,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 226.66666666666666,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "28,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 200.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "30,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 173.33333333333331,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "32,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 146.66666666666669,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "34,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 119.99999999999997,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "36,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 93.33333333333333,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "38,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 66.6666666666667,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "40,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 39.99999999999999,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "42,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 13.333333333333353,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "44,000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -42.728515625,
+                      "y": 300,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "population",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "rect",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 208.6312741378964,
+              "y": 0,
+              "width": 43.165691569715165,
+              "height": 600,
+              "fill": "#f58518",
+              "x2": 251.79696570761158,
+              "y2": 600,
+              "description": "start (year): 1933; end (year): 1945; event: Nazi Rule"
+            },
+            {
+              "x": 262.58151514761767,
+              "y": 0,
+              "width": 147.49156797400252,
+              "height": 600,
+              "fill": "#4c78a8",
+              "x2": 410.0730831216202,
+              "y2": 600,
+              "description": "start (year): 1948; end (year): 1989; event: GDR (East Germany)"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 582.5466666666666,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1875; population: 1309"
+            },
+            {
+              "x": 53.960089538565676,
+              "y": 579.2266666666667,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1890; population: 1558"
+            },
+            {
+              "x": 125.89378331594165,
+              "y": 539.8399999999999,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1910; population: 4512"
+            },
+            {
+              "x": 179.8538728545073,
+              "y": 490.93333333333334,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1925; population: 8180"
+            },
+            {
+              "x": 208.6312741378964,
+              "y": 387.8,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1933; population: 15915"
+            },
+            {
+              "x": 230.20940083601604,
+              "y": 269.0133333333333,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1939; population: 24824"
+            },
+            {
+              "x": 255.3920890911926,
+              "y": 223.00000000000003,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1946; population: 28275"
+            },
+            {
+              "x": 269.7807897328872,
+              "y": 210.81333333333333,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1950; population: 29189"
+            },
+            {
+              "x": 320.1363177143959,
+              "y": 201.5866666666667,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1964; population: 29881"
+            },
+            {
+              "x": 345.31900596957246,
+              "y": 253.24,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1971; population: 26007"
+            },
+            {
+              "x": 381.295681838231,
+              "y": 279.61333333333334,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1981; population: 24029"
+            },
+            {
+              "x": 395.6843824799256,
+              "y": 288.79999999999995,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1985; population: 23340"
+            },
+            {
+              "x": 410.0730831216202,
+              "y": 302.5733333333333,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1989; population: 22307"
+            },
+            {
+              "x": 413.66779614983267,
+              "y": 305.50666666666666,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1990; population: 22087"
+            },
+            {
+              "x": 417.2625091780452,
+              "y": 304.8133333333333,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1991; population: 22139"
+            },
+            {
+              "x": 420.85722220625775,
+              "y": 305.26666666666665,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1992; population: 22105"
+            },
+            {
+              "x": 424.4617837633147,
+              "y": 303.44,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1993; population: 22242"
+            },
+            {
+              "x": 428.05649679152725,
+              "y": 295.9866666666667,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1994; population: 22801"
+            },
+            {
+              "x": 431.65120981973973,
+              "y": 276.36,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1995; population: 24273"
+            },
+            {
+              "x": 435.24592284795233,
+              "y": 258.1333333333333,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1996; population: 25640"
+            },
+            {
+              "x": 438.85048440500924,
+              "y": 234.76,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1997; population: 27393"
+            },
+            {
+              "x": 442.4451974332218,
+              "y": 206.60000000000002,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1998; population: 29505"
+            },
+            {
+              "x": 446.0399104614343,
+              "y": 171.68,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 1999; population: 32124"
+            },
+            {
+              "x": 449.63462348964686,
+              "y": 149.45333333333335,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2000; population: 33791"
+            },
+            {
+              "x": 453.2391850467038,
+              "y": 129.37333333333336,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2001; population: 35297"
+            },
+            {
+              "x": 456.83389807491636,
+              "y": 117.61333333333333,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2002; population: 36179"
+            },
+            {
+              "x": 460.4286111031289,
+              "y": 108.94666666666663,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2003; population: 36829"
+            },
+            {
+              "x": 464.0233241313414,
+              "y": 100.09333333333332,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2004; population: 37493"
+            },
+            {
+              "x": 467.62788568839835,
+              "y": 88.32,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2005; population: 38376"
+            },
+            {
+              "x": 471.2225987166109,
+              "y": 79.89333333333335,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2006; population: 39008"
+            },
+            {
+              "x": 474.8173117448234,
+              "y": 75.11999999999999,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2007; population: 39366"
+            },
+            {
+              "x": 478.41202477303597,
+              "y": 69.05333333333334,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2008; population: 39821"
+            },
+            {
+              "x": 482.01658633009293,
+              "y": 64.27999999999999,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2009; population: 40179"
+            },
+            {
+              "x": 485.6112993583054,
+              "y": 59.85333333333336,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2010; population: 40511"
+            },
+            {
+              "x": 489.206012386518,
+              "y": 60.46666666666665,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2011; population: 40465"
+            },
+            {
+              "x": 492.80072541473055,
+              "y": 54.59999999999998,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2012; population: 40905"
+            },
+            {
+              "x": 496.40528697178746,
+              "y": 49.893333333333324,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2013; population: 41258"
+            },
+            {
+              "x": 500,
+              "y": 42.97333333333335,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year (year): 2014; population: 41777"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 582.5466666666666,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1875; population: 1309",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 53.960089538565676,
+              "y": 579.2266666666667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1890; population: 1558",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 125.89378331594165,
+              "y": 539.8399999999999,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1910; population: 4512",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 179.8538728545073,
+              "y": 490.93333333333334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1925; population: 8180",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 208.6312741378964,
+              "y": 387.8,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1933; population: 15915",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 230.20940083601604,
+              "y": 269.0133333333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1939; population: 24824",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 255.3920890911926,
+              "y": 223.00000000000003,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1946; population: 28275",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 269.7807897328872,
+              "y": 210.81333333333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1950; population: 29189",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 320.1363177143959,
+              "y": 201.5866666666667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1964; population: 29881",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 345.31900596957246,
+              "y": 253.24,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1971; population: 26007",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 381.295681838231,
+              "y": 279.61333333333334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1981; population: 24029",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 395.6843824799256,
+              "y": 288.79999999999995,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1985; population: 23340",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 410.0730831216202,
+              "y": 302.5733333333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1989; population: 22307",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 413.66779614983267,
+              "y": 305.50666666666666,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1990; population: 22087",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 417.2625091780452,
+              "y": 304.8133333333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1991; population: 22139",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 420.85722220625775,
+              "y": 305.26666666666665,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1992; population: 22105",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 424.4617837633147,
+              "y": 303.44,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1993; population: 22242",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 428.05649679152725,
+              "y": 295.9866666666667,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1994; population: 22801",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 431.65120981973973,
+              "y": 276.36,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1995; population: 24273",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 435.24592284795233,
+              "y": 258.1333333333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1996; population: 25640",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 438.85048440500924,
+              "y": 234.76,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1997; population: 27393",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 442.4451974332218,
+              "y": 206.60000000000002,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1998; population: 29505",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 446.0399104614343,
+              "y": 171.68,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 1999; population: 32124",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 449.63462348964686,
+              "y": 149.45333333333335,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2000; population: 33791",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 453.2391850467038,
+              "y": 129.37333333333336,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2001; population: 35297",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 456.83389807491636,
+              "y": 117.61333333333333,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2002; population: 36179",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 460.4286111031289,
+              "y": 108.94666666666663,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2003; population: 36829",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 464.0233241313414,
+              "y": 100.09333333333332,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2004; population: 37493",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 467.62788568839835,
+              "y": 88.32,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2005; population: 38376",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 471.2225987166109,
+              "y": 79.89333333333335,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2006; population: 39008",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 474.8173117448234,
+              "y": 75.11999999999999,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2007; population: 39366",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 478.41202477303597,
+              "y": 69.05333333333334,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2008; population: 39821",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 482.01658633009293,
+              "y": 64.27999999999999,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2009; population: 40179",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 485.6112993583054,
+              "y": 59.85333333333336,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2010; population: 40511",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 489.206012386518,
+              "y": 60.46666666666665,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2011; population: 40465",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 492.80072541473055,
+              "y": 54.59999999999998,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2012; population: 40905",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 496.40528697178746,
+              "y": 49.893333333333324,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2013; population: 41258",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 500,
+              "y": 42.97333333333335,
+              "fill": "transparent",
+              "opacity": 0.7,
+              "stroke": "#333",
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year (year): 2014; population: 41777",
+              "ariaRoleDescription": "point"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "GDR (East Germany)",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 112.8212890625,
+                              "height": 11,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f58518",
+                                      "opacity": 1,
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "square"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Nazi Rule",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 112.8212890625,
+                              "height": 11,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "orient": "top",
+                      "text": "event",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 518,
+              "y": 0,
+              "width": 113,
+              "height": 40,
+              "orient": "right"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

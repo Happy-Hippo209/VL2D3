@@ -1,0 +1,1962 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 270,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 210,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 90,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 80,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#676A86",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 213,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#676A86",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 347,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#676A86",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 80.00000000000001,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "\u22121.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 213.33333333333334,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "0.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 346.6666666666667,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "1.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#676A86",
+                      "strokeWidth": 1,
+                      "x2": 400
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": -15,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "Pollution",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 5,
+                      "y": 260,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "\u22120.4",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 5,
+                      "y": 200,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "\u22120.2",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 5,
+                      "y": 140,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "0.0",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 5,
+                      "y": 80.00000000000001,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "0.2",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 5,
+                      "y": 19.999999999999993,
+                      "align": "left",
+                      "baseline": "middle",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "0.4",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#676A86",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 25,
+                      "y": 25,
+                      "align": "left",
+                      "baseline": "bottom",
+                      "fill": "#676A86",
+                      "opacity": 1,
+                      "text": "Share of low-skilled workers (standardised)",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 10,
+                      "fontWeight": "normal"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "name": "layer_0_pathgroup",
+          "role": "scope",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 29.06906906906907,
+                      "y": 203.06704494549794,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.4; y: \u22120.2; year: 1881"
+                    },
+                    {
+                      "x": 47.80780780780782,
+                      "y": 190.69434074958934,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.2; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 69.42942942942943,
+                      "y": 184.131700761535,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.1; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 83.84384384384386,
+                      "y": 185.8339555024638,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.0; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 97.29729729729729,
+                      "y": 186.70449454979843,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.9; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 116.03603603603607,
+                      "y": 184.27654173510527,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.7; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 132.37237237237238,
+                      "y": 181.84112289084666,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.6; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 151.11111111111114,
+                      "y": 176.92698223084966,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.5; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 168.88888888888889,
+                      "y": 169.52366731372254,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.3; y: \u22120.1; year: 1881"
+                    },
+                    {
+                      "x": 186.66666666666669,
+                      "y": 163.7778109601314,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.2; y: 0.0; year: 1881"
+                    },
+                    {
+                      "x": 203.96396396396398,
+                      "y": 155.5442735553233,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.1; y: 0.0; year: 1881"
+                    },
+                    {
+                      "x": 220.78078078078082,
+                      "y": 147.30924294460206,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.1; y: 0.0; year: 1881"
+                    },
+                    {
+                      "x": 238.0780780780781,
+                      "y": 136.58951769449007,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.2; y: 0.0; year: 1881"
+                    },
+                    {
+                      "x": 253.45345345345342,
+                      "y": 129.17873674779753,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.3; y: 0.1; year: 1881"
+                    },
+                    {
+                      "x": 269.7897897897898,
+                      "y": 118.45602508585931,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.4; y: 0.1; year: 1881"
+                    },
+                    {
+                      "x": 285.64564564564563,
+                      "y": 108.56054949977599,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.5; y: 0.1; year: 1881"
+                    },
+                    {
+                      "x": 304.8648648648649,
+                      "y": 99.5042556368523,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.7; y: 0.2; year: 1881"
+                    },
+                    {
+                      "x": 326.0060060060061,
+                      "y": 92.11139316111692,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.8; y: 0.2; year: 1881"
+                    },
+                    {
+                      "x": 343.7837837837838,
+                      "y": 89.68045393459757,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.0; y: 0.2; year: 1881"
+                    },
+                    {
+                      "x": 362.52252252252254,
+                      "y": 89.73868896520828,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.1; y: 0.2; year: 1881"
+                    },
+                    {
+                      "x": 378.85885885885887,
+                      "y": 87.30327012094968,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.2; y: 0.2; year: 1881"
+                    },
+                    {
+                      "x": 390.8708708708708,
+                      "y": 90.65551739584888,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.3; y: 0.2; year: 1881"
+                    },
+                    {
+                      "x": 400,
+                      "y": 95.65626399880544,
+                      "stroke": "#0063AF",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.4; y: 0.2; year: 1881"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 32.612612612612615,
+                      "y": 170.7756816484993,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.4; y: \u22120.1; year: 1817"
+                    },
+                    {
+                      "x": 42.63591591591593,
+                      "y": 163.45937975959384,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.3; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 55.12872872872876,
+                      "y": 158.14264471653973,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.2; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 65.7330930930931,
+                      "y": 157.04811408093175,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.1; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 80.84068068068069,
+                      "y": 158.09727440147327,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.0; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 94.49561561561563,
+                      "y": 156.38584291473794,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.9; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 106.11683683683685,
+                      "y": 155.16919615748344,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.8; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 118.79123123123125,
+                      "y": 154.86407514558758,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.7; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 129.94034034034036,
+                      "y": 154.9926808023493,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.6; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 142.86894894894894,
+                      "y": 153.0597586605943,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.5; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 154.7443843843844,
+                      "y": 153.66040745856355,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.4; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 168.14510510510513,
+                      "y": 153.98392489174256,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.3; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 191.4714714714715,
+                      "y": 152.19053307451097,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.2; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 225.5855855855856,
+                      "y": 148.9816335672689,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.1; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 257.77777777777777,
+                      "y": 148.25294908167837,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.3; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 283.04992992992993,
+                      "y": 142.9408804937534,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.5; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 294.85273273273276,
+                      "y": 143.38470826489473,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.6; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 306.7281681681683,
+                      "y": 142.76391369269822,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.7; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 319.7148828828829,
+                      "y": 141.90228400776468,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.8; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 330.8058858858859,
+                      "y": 142.18104057787068,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.9; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 344.20660660660667,
+                      "y": 142.5045580110497,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.0; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 354.57854654654653,
+                      "y": 141.25897357025536,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.1; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 367.8018361218361,
+                      "y": 140.5913624437381,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.2; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 378.4601561561562,
+                      "y": 144.79081558906972,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.2; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 385.60720720720724,
+                      "y": 148.77175601015378,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.3; y: 0.0; year: 1817"
+                    },
+                    {
+                      "x": 394.7589189189189,
+                      "y": 151.55627445124682,
+                      "stroke": "#36B7B4",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.4; y: 0.0; year: 1817"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 25.93041041041042,
+                      "y": 265.4637549151362,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.4; y: \u22120.4; year: 2011"
+                    },
+                    {
+                      "x": 34.35579579579582,
+                      "y": 264.27817584535813,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.3; y: \u22120.4; year: 2011"
+                    },
+                    {
+                      "x": 44.11762162162163,
+                      "y": 264.40102219543934,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.3; y: \u22120.4; year: 2011"
+                    },
+                    {
+                      "x": 53.53081081081083,
+                      "y": 258.0944543011118,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.2; y: \u22120.4; year: 2011"
+                    },
+                    {
+                      "x": 63.11831831831833,
+                      "y": 246.93138684892827,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.1; y: \u22120.3; year: 2011"
+                    },
+                    {
+                      "x": 73.68636636636637,
+                      "y": 233.5539771539495,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.0; y: \u22120.3; year: 2011"
+                    },
+                    {
+                      "x": 81.94469669669671,
+                      "y": 224.67250097058385,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.0; y: \u22120.2; year: 2011"
+                    },
+                    {
+                      "x": 91.88084084084086,
+                      "y": 214.39200619001724,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.9; y: \u22120.2; year: 2011"
+                    },
+                    {
+                      "x": 102.00471240471242,
+                      "y": 202.93484855446178,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.8; y: \u22120.2; year: 2011"
+                    },
+                    {
+                      "x": 118.9001801801802,
+                      "y": 187.96296659291139,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.7; y: \u22120.1; year: 2011"
+                    },
+                    {
+                      "x": 128.31336936936938,
+                      "y": 183.72599477377932,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.6; y: \u22120.1; year: 2011"
+                    },
+                    {
+                      "x": 138.0751951951952,
+                      "y": 178.83183671114605,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.6; y: \u22120.1; year: 2011"
+                    },
+                    {
+                      "x": 147.66270270270272,
+                      "y": 174.2491886462052,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.5; y: \u22120.1; year: 2011"
+                    },
+                    {
+                      "x": 156.98873273273276,
+                      "y": 169.13273450798863,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.4; y: \u22120.1; year: 2011"
+                    },
+                    {
+                      "x": 175.61561561561564,
+                      "y": 161.25727937882635,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.3; y: 0.0; year: 2011"
+                    },
+                    {
+                      "x": 190.03003003003005,
+                      "y": 157.15842914737942,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.2; y: 0.0; year: 2011"
+                    },
+                    {
+                      "x": 204.83911111111115,
+                      "y": 152.89530819770044,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.1; y: 0.0; year: 2011"
+                    },
+                    {
+                      "x": 214.77525525525527,
+                      "y": 149.99472301030312,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.0; y: 0.0; year: 2011"
+                    },
+                    {
+                      "x": 224.36276276276277,
+                      "y": 148.01782080171583,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.1; y: 0.0; year: 2011"
+                    },
+                    {
+                      "x": 259.5999656799657,
+                      "y": 137.8405918885398,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.3; y: 0.0; year: 2011"
+                    },
+                    {
+                      "x": 271.71171171171176,
+                      "y": 135.86531282663879,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.4; y: 0.0; year: 2011"
+                    },
+                    {
+                      "x": 287.51353535353536,
+                      "y": 129.258642200714,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.6; y: 0.1; year: 2011"
+                    },
+                    {
+                      "x": 296.26906906906913,
+                      "y": 123.63179356428253,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.6; y: 0.1; year: 2011"
+                    },
+                    {
+                      "x": 306.641009009009,
+                      "y": 118.86093564282511,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.7; y: 0.1; year: 2011"
+                    },
+                    {
+                      "x": 315.5893493493494,
+                      "y": 112.41892273488959,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.8; y: 0.1; year: 2011"
+                    },
+                    {
+                      "x": 329.3693693693694,
+                      "y": 102.06659698372404,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.9; y: 0.2; year: 2011"
+                    },
+                    {
+                      "x": 342.650193050193,
+                      "y": 85.51513742827277,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.0; y: 0.2; year: 2011"
+                    },
+                    {
+                      "x": 353.46726726726723,
+                      "y": 73.09271614155591,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.1; y: 0.3; year: 2011"
+                    },
+                    {
+                      "x": 371.6617417417417,
+                      "y": 50.57496882690249,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.2; y: 0.3; year: 2011"
+                    },
+                    {
+                      "x": 381.2492492492493,
+                      "y": 44.460045882145316,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.3; y: 0.4; year: 2011"
+                    },
+                    {
+                      "x": 398.07807807807814,
+                      "y": 32.66686576078837,
+                      "stroke": "#676A86",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.4; y: 0.4; year: 2011"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 32.612612612612615,
+                      "y": 270.5274596495037,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.4; y: \u22120.4; year: 1971"
+                    },
+                    {
+                      "x": 42.4615975975976,
+                      "y": 272.07960459907423,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.3; y: \u22120.4; year: 1971"
+                    },
+                    {
+                      "x": 51.78762762762764,
+                      "y": 265.28604322831126,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.2; y: \u22120.4; year: 1971"
+                    },
+                    {
+                      "x": 61.200816816816825,
+                      "y": 257.22996819471405,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.1; y: \u22120.4; year: 1971"
+                    },
+                    {
+                      "x": 70.86579913246581,
+                      "y": 248.4322051333101,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.1; y: \u22120.3; year: 1971"
+                    },
+                    {
+                      "x": 80.63730930930932,
+                      "y": 238.9499296700015,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.0; y: \u22120.3; year: 1971"
+                    },
+                    {
+                      "x": 90.05049849849853,
+                      "y": 229.73379662535473,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.9; y: \u22120.3; year: 1971"
+                    },
+                    {
+                      "x": 99.46368768768768,
+                      "y": 220.96865805584585,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.9; y: \u22120.2; year: 1971"
+                    },
+                    {
+                      "x": 108.92529863196529,
+                      "y": 212.63796094436978,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.8; y: \u22120.2; year: 1971"
+                    },
+                    {
+                      "x": 118.81302102102104,
+                      "y": 204.79298954755865,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.7; y: \u22120.2; year: 1971"
+                    },
+                    {
+                      "x": 128.39084417751084,
+                      "y": 198.1664104988967,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.6; y: \u22120.2; year: 1971"
+                    },
+                    {
+                      "x": 138.0751951951952,
+                      "y": 192.07467448111095,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.6; y: \u22120.1; year: 1971"
+                    },
+                    {
+                      "x": 147.75954621287957,
+                      "y": 186.3671189421466,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.5; y: \u22120.1; year: 1971"
+                    },
+                    {
+                      "x": 157.33736936936938,
+                      "y": 179.9927627295804,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.4; y: \u22120.1; year: 1971"
+                    },
+                    {
+                      "x": 166.66339939939945,
+                      "y": 173.96088091682842,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.4; y: \u22120.1; year: 1971"
+                    },
+                    {
+                      "x": 176.42522522522526,
+                      "y": 169.6577989466111,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.3; y: \u22120.1; year: 1971"
+                    },
+                    {
+                      "x": 204.20720720720723,
+                      "y": 153.1251054576676,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.1; y: 0.0; year: 1971"
+                    },
+                    {
+                      "x": 214.5137777777778,
+                      "y": 148.49059549051813,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.0; y: 0.0; year: 1971"
+                    },
+                    {
+                      "x": 234.05921921921924,
+                      "y": 138.21604748394805,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.2; y: 0.0; year: 1971"
+                    },
+                    {
+                      "x": 244.40936936936936,
+                      "y": 132.2349533373152,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.2; y: 0.1; year: 1971"
+                    },
+                    {
+                      "x": 253.9968768768769,
+                      "y": 128.31854711064656,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.3; y: 0.1; year: 1971"
+                    },
+                    {
+                      "x": 263.2357477477478,
+                      "y": 123.53665133641928,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.4; y: 0.1; year: 1971"
+                    },
+                    {
+                      "x": 273.17189189189185,
+                      "y": 118.20798478287423,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.4; y: 0.1; year: 1971"
+                    },
+                    {
+                      "x": 282.8562429095763,
+                      "y": 112.3589556683756,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.5; y: 0.1; year: 1971"
+                    },
+                    {
+                      "x": 292.3469069069069,
+                      "y": 106.98132501662889,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.6; y: 0.1; year: 1971"
+                    },
+                    {
+                      "x": 301.7600960960961,
+                      "y": 101.23192728087207,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.7; y: 0.2; year: 1971"
+                    },
+                    {
+                      "x": 312.1320360360361,
+                      "y": 94.83748924891744,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.7; y: 0.2; year: 1971"
+                    },
+                    {
+                      "x": 321.98102102102104,
+                      "y": 87.62143605685037,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.8; y: 0.2; year: 1971"
+                    },
+                    {
+                      "x": 332.3529609609609,
+                      "y": 78.65200179184708,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.9; y: 0.2; year: 1971"
+                    },
+                    {
+                      "x": 342.12447113780445,
+                      "y": 70.85399581902342,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.0; y: 0.3; year: 1971"
+                    },
+                    {
+                      "x": 351.7022942942943,
+                      "y": 64.20514543825593,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.0; y: 0.3; year: 1971"
+                    },
+                    {
+                      "x": 361.1154834834835,
+                      "y": 55.69055935493503,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.1; y: 0.3; year: 1971"
+                    },
+                    {
+                      "x": 370.79015015015017,
+                      "y": 49.57525649205207,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.2; y: 0.3; year: 1971"
+                    },
+                    {
+                      "x": 380.3776576576576,
+                      "y": 44.73066719155114,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.3; y: 0.4; year: 1971"
+                    },
+                    {
+                      "x": 389.61652852852865,
+                      "y": 42.80301978497836,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.3; y: 0.4; year: 1971"
+                    },
+                    {
+                      "x": 396.9378978978979,
+                      "y": 46.08044945497982,
+                      "stroke": "#179FDB",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.4; y: 0.3; year: 1971"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "interactive": true,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 28.588588588588593,
+                      "y": 269.3638942810213,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.4; y: \u22120.4; year: 1991"
+                    },
+                    {
+                      "x": 32.612612612612615,
+                      "y": 271.7893330799408,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.4; y: \u22120.4; year: 1991"
+                    },
+                    {
+                      "x": 41.93864264264266,
+                      "y": 267.4151976258026,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.3; y: \u22120.4; year: 1991"
+                    },
+                    {
+                      "x": 49.850757424090794,
+                      "y": 258.16628208318815,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.2; y: \u22120.4; year: 1991"
+                    },
+                    {
+                      "x": 58.76036036036037,
+                      "y": 251.6669519594934,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.2; y: \u22120.3; year: 1991"
+                    },
+                    {
+                      "x": 68.08639039039042,
+                      "y": 240.71490264297447,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.1; y: \u22120.3; year: 1991"
+                    },
+                    {
+                      "x": 77.93537537537537,
+                      "y": 229.10848656793414,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22121.0; y: \u22120.3; year: 1991"
+                    },
+                    {
+                      "x": 87.69720120120122,
+                      "y": 218.60195281469313,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.9; y: \u22120.2; year: 1991"
+                    },
+                    {
+                      "x": 96.84891291291292,
+                      "y": 209.53533865910111,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.9; y: \u22120.2; year: 1991"
+                    },
+                    {
+                      "x": 106.69789789789792,
+                      "y": 200.01989696879198,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.8; y: \u22120.2; year: 1991"
+                    },
+                    {
+                      "x": 116.96330997664333,
+                      "y": 191.74180835531666,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.7; y: \u22120.1; year: 1991"
+                    },
+                    {
+                      "x": 125.43711711711714,
+                      "y": 185.97202852023295,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.7; y: \u22120.1; year: 1991"
+                    },
+                    {
+                      "x": 135.46042042042046,
+                      "y": 180.19036060922798,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.6; y: \u22120.1; year: 1991"
+                    },
+                    {
+                      "x": 145.04792792792793,
+                      "y": 176.10198426703954,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.5; y: \u22120.1; year: 1991"
+                    },
+                    {
+                      "x": 154.63543543543545,
+                      "y": 171.4054487083769,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.4; y: \u22120.1; year: 1991"
+                    },
+                    {
+                      "x": 164.22294294294295,
+                      "y": 167.83867708743398,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.4; y: \u22120.1; year: 1991"
+                    },
+                    {
+                      "x": 173.81045045045047,
+                      "y": 165.5975558934122,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.3; y: \u22120.1; year: 1991"
+                    },
+                    {
+                      "x": 183.397957957958,
+                      "y": 160.4705256084814,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.2; y: 0.0; year: 1991"
+                    },
+                    {
+                      "x": 202.57297297297296,
+                      "y": 153.82897633947357,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: \u22120.1; y: 0.0; year: 1991"
+                    },
+                    {
+                      "x": 213.4194461127795,
+                      "y": 148.98829957028855,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.0; y: 0.0; year: 1991"
+                    },
+                    {
+                      "x": 223.57833033033035,
+                      "y": 146.11346184858888,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.1; y: 0.0; year: 1991"
+                    },
+                    {
+                      "x": 233.0786786786787,
+                      "y": 143.329965316899,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.1; y: 0.0; year: 1991"
+                    },
+                    {
+                      "x": 252.07937537537543,
+                      "y": 138.64787807973724,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.3; y: 0.0; year: 1991"
+                    },
+                    {
+                      "x": 278.4384384384385,
+                      "y": 128.42765417351052,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.5; y: 0.1; year: 1991"
+                    },
+                    {
+                      "x": 300.6270270270271,
+                      "y": 116.06111318500821,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.7; y: 0.1; year: 1991"
+                    },
+                    {
+                      "x": 329.9221888555222,
+                      "y": 91.8068048711695,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.9; y: 0.2; year: 1991"
+                    },
+                    {
+                      "x": 337.5244044044044,
+                      "y": 86.69410457418742,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 0.9; y: 0.2; year: 1991"
+                    },
+                    {
+                      "x": 363.81741741741746,
+                      "y": 55.99050823299439,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.1; y: 0.3; year: 1991"
+                    },
+                    {
+                      "x": 373.40492492492496,
+                      "y": 48.8476693091886,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.2; y: 0.3; year: 1991"
+                    },
+                    {
+                      "x": 382.7309549549549,
+                      "y": 43.179999701358796,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.3; y: 0.4; year: 1991"
+                    },
+                    {
+                      "x": 392.57993993994,
+                      "y": 36.500356604721226,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.3; y: 0.4; year: 1991"
+                    },
+                    {
+                      "x": 398.6810810810811,
+                      "y": 33.057137524264576,
+                      "stroke": "#00A767",
+                      "strokeWidth": 2,
+                      "interpolate": "basis",
+                      "defined": true,
+                      "description": "x: 1.4; y: 0.4; year: 1991"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "width": 400,
+              "height": 300
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 400,
+              "y": 95.65626399880544,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#0063AF",
+              "text": "1881",
+              "dx": 5,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: 1.4; y: 0.2; year: 1881"
+            },
+            {
+              "x": 394.7589189189189,
+              "y": 151.55627445124682,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#36B7B4",
+              "text": "1817",
+              "dx": 5,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: 1.4; y: 0.0; year: 1817"
+            },
+            {
+              "x": 396.9378978978979,
+              "y": 46.08044945497982,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#179FDB",
+              "text": "1971",
+              "dx": 5,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: 1.4; y: 0.3; year: 1971"
+            },
+            {
+              "x": 398.6810810810811,
+              "y": 33.057137524264576,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#00A767",
+              "text": "1991",
+              "dx": 5,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: 1.4; y: 0.4; year: 1991"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 29.06906906906907,
+              "y": 203.06704494549794,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#0063AF",
+              "text": "1881",
+              "dx": 20,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: \u22121.4; y: \u22120.2; year: 1881"
+            },
+            {
+              "x": 32.612612612612615,
+              "y": 170.7756816484993,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#36B7B4",
+              "text": "1817",
+              "dx": 20,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: \u22121.4; y: \u22120.1; year: 1817"
+            },
+            {
+              "x": 32.612612612612615,
+              "y": 270.5274596495037,
+              "align": "left",
+              "baseline": "middle",
+              "fill": "#179FDB",
+              "text": "1971",
+              "dx": 20,
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: \u22121.4; y: \u22120.4; year: 1971"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_3_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 340,
+              "y": 117,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "#676A86",
+              "text": "2021",
+              "font": "sans-serif",
+              "fontSize": 11,
+              "description": "x: 0.95; y: 0.11; t: 2021"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Pollution and shares of low-skilled workers across neighbourhoods and time",
+                      "angle": 0,
+                      "dx": 5,
+                      "font": "sans-serif",
+                      "fontSize": 12,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "title-subtitle",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 15,
+                      "align": "left",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": [
+                        "Source: Heblich et al. (2021)"
+                      ],
+                      "angle": 0,
+                      "dx": 5,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontStyle": "italic"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0,
+              "y": -31,
+              "align": "left",
+              "orient": "top",
+              "angle": 0
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": null
+    }
+  ],
+  "zindex": 0
+}

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A calculate that takes the messy names in the field, metric, and creates a new field, metricClean, where the names are nicer.", "title": {"text": "Job reallocation - major industry groups", "subtitle": ["Jobs created and destroyed, productivity weighted.", ""], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/productivity/BSD_Industries.csv"}, "transform": [{"fold": ["entryReallocate", "growReallocate", "exitReallocate", "shrinkReallocate"], "as": ["metric", "value"]}, {"calculate": "{'entryReallocate':'Entry', 'exitReallocate': 'Exit','growReallocate':'Hires', 'shrinkReallocate': 'Fires'}[datum.metric]", "as": "metricClean"}], "height": 75, "width": 75, "mark": {"type": "bar", "strokeWidth": 1, "point": false}, "resolve": {"axis": {"y": "independent"}}, "encoding": {"x": {"field": "period2", "type": "ordinal", "title": null, "axis": {"grid": false}}, "y": {"field": "value", "aggregate": "mean", "type": "quantitative", "stack": true, "title": null, "axis": {"grid": false, "format": "%"}}, "facet": {"field": "Industry", "type": "nominal", "title": null, "columns": 4}, "color": {"field": "metricClean", "title": null, "scale": {"scheme": "inferno"}, "legend": {"orient": "bottom"}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

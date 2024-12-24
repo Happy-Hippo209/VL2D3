@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "Natural Gas and Carbon Price Regression", "subtitle": "Source: https://www.investing.com, FRED Economic Data", "subtitleFontSize": 10, "subtitleFontStyle": "italic", "anchor": "start"}, "height": 300, "width": 300, "data": {"url": "https://raw.githubusercontent.com/harrywright25/harrywright25.github.io/main/trial-chart-6.csv"}, "layer": [{"mark": {"type": "point", "filled": true}, "encoding": {"x": {"field": "Price", "type": "quantitative", "title": "Carbon Price \u20ac", "axis": {"grid": false}}, "y": {"field": "Gas Price", "type": "quantitative", "axis": {"grid": false}}, "tooltip": [{"field": "Date", "type": "temporal"}, {"field": "Price", "title": "Carbon price \u20ac"}, {"field": "Gas Price"}]}}, {"mark": {"type": "line", "color": "firebrick"}, "transform": [{"regression": "Gas Price", "on": "Price"}], "encoding": {"x": {"field": "Price", "type": "quantitative"}, "y": {"field": "Gas Price", "type": "quantitative"}}}, {"transform": [{"regression": "Gas Price", "on": "Price", "params": true}, {"calculate": "'R\u00b2: '+format(datum.rSquared, '.2f')", "as": "R2"}], "mark": {"type": "text", "color": "firebrick", "x": "width", "align": "right", "y": -5}, "encoding": {"text": {"type": "nominal", "field": "R2"}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

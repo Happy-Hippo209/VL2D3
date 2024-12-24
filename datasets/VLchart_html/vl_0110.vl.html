@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "background": "whitesmoke", "title": {"text": "What Does The Distribution of Cases and Deaths Looks Like?", "anchor": "middle"}, "data": {"url": "https://raw.githubusercontent.com/Jisnu-Palanisamy/FIT3179/main/COVID-19%20Coronavirus.csv"}, "vconcat": [{"width": 850, "height": 300, "transform": [{"density": "TotalCasesPer1MPop", "bandwidth": 1, "extent": [0, 20]}], "encoding": {"x": {"field": "value", "type": "quantitative", "title": "Total Cases Per 1 Million Population", "axis": {"domain": false, "grid": false, "ticks": false}}}, "layer": [{"encoding": {"y": {"field": "density", "type": "quantitative", "title": "Density", "axis": {"domain": false, "grid": false, "ticks": false}}}, "layer": [{"mark": "area"}, {"transform": [{"filter": {"selection": "hover"}}], "mark": "point"}]}, {"transform": [{"value": "Density", "groupby": ["Total Cases Per 1 Million Population"]}], "mark": "rule", "encoding": {"opacity": {"condition": {"value": 0.3, "selection": "hover"}, "value": 0}, "tooltip": [{"field": "value", "type": "quantitative", "title": "Total Cases/1000000 Population"}, {"field": "density", "type": "quantitative", "title": "Density", "format": ".6f"}]}, "selection": {"hover": {"type": "single", "fields": ["value"], "nearest": true, "on": "mouseover", "empty": "none", "clear": "mouseout"}}}]}, {"width": 850, "height": 300, "transform": [{"density": "TotalDeathsPer1MPop", "bandwidth": 1, "extent": [0, 20]}], "encoding": {"x": {"field": "value", "type": "quantitative", "title": "Total Deaths Per 1 Million Population", "axis": {"domain": false, "grid": false, "ticks": false}}}, "layer": [{"encoding": {"y": {"field": "density", "type": "quantitative", "title": "Density", "axis": {"domain": false, "grid": false, "ticks": false}}}, "layer": [{"mark": "area"}, {"transform": [{"filter": {"selection": "hover"}}], "mark": "point"}]}, {"transform": [{"value": "Density", "groupby": ["Total Deaths Per 1 Million Population"]}], "mark": "rule", "encoding": {"opacity": {"condition": {"value": 0.3, "selection": "hover"}, "value": 0}, "tooltip": [{"field": "value", "type": "quantitative", "title": "Total Deaths/1000000 Population"}, {"field": "density", "type": "quantitative", "title": "Density", "format": ".6f"}]}, "selection": {"hover": {"type": "single", "fields": ["value"], "nearest": true, "on": "mouseover", "empty": "none", "clear": "mouseout"}}}]}], "config": {"axis": {"labelFont": "Sans-Serif", "titleFont": "Sans-Serif"}, "mark": {"font": "Sans-Serif"}, "title": {"font": "Sans-Serif", "fontSize": 24, "fontWeight": "bold", "fontStyle": "italic"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

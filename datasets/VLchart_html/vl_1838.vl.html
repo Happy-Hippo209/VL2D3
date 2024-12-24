@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "Quantidade de ingressantes no curso", "fontSize": 15}, "data": {"url": "https://raw.githubusercontent.com/elasComputacao/raio-x-dados/main/data/dados-processados/ingresso.csv"}, "mark": {"type": "bar"}, "encoding": {"x": {"field": "periodo_ingresso", "type": "ordinal", "title": "Periodo de ingresso"}, "y": {"field": "contagem", "type": "quantitative", "aggregate": "sum", "title": "Quantidade de alunos"}, "tooltip": [{"field": "periodo_ingresso", "type": "ordinal", "title": "Per\u00edodo"}, {"field": "sexo", "type": "ordinal", "title": "Sexo"}, {"field": "contagem", "type": "quantitative", "title": "Quantidade"}], "color": {"field": "sexo", "type": "nominal", "scale": {"domain": ["Masculino", "Feminino"], "scheme": "set2"}, "title": "Sexo"}, "order": {"aggregate": "sum", "field": "contagem"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "height": 300, "width": 100, "title": {"text": "Cryptocurrency ownership by ethnicity in USA", "subtitle": "as a % of the population or total crypto owners, source: Morning Consult Crypto Report", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"values": [{"category": "All US adults", "Ethnicity": "White", "value": 67}, {"category": "All US adults", "Ethnicity": "Black", "value": 11}, {"category": "All US adults", "Ethnicity": "Hispanic", "value": 17}, {"category": "All US adults", "Ethnicity": "Asian or other", "value": 5}, {"category": "Crypto owners", "Ethnicity": "White", "value": 58}, {"category": "Crypto owners", "Ethnicity": "Black", "value": 12}, {"category": "Crypto owners", "Ethnicity": "Hispanic", "value": 23}, {"category": "Crypto owners", "Ethnicity": "Asian or other", "value": 6}]}, "mark": "bar", "encoding": {"column": {"field": "Ethnicity", "type": "nominal", "title": null}, "x": {"field": "category", "type": "nominal", "axis": null}, "y": {"field": "value", "type": "quantitative", "axis": {"title": null}}, "color": {"field": "category", "title": null, "scale": {"range": ["#033542", "#78969d"]}}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

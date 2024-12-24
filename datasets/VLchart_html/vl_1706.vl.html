@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "config": {"title": {"font": "Roboto", "fontSize": 28, "fontWeight": 300}, "view": {"stroke": null}}, "data": {"url": "https://vega.github.io/vega-lite/data/zipcodes.csv"}, "encoding": {"color": {"field": "digit3", "legend": null, "type": "nominal"}, "detail": {"field": "ziplen", "type": "nominal"}, "latitude": {"field": "latitude", "type": "quantitative"}, "longitude": {"field": "longitude", "type": "quantitative"}, "order": {"field": "zip_code", "type": "quantitative"}}, "height": 600, "mark": {"interpolate": "monotone", "strokeWidth": 0.2, "type": "line"}, "projection": {"type": "albersUsa"}, "title": "US connected zip codes, coloured by first three digits", "transform": [{"filter": "datum.latitude != '' && datum.county != 'Honolulu' && datum.state !='AS'&& datum.state !='FM'&& datum.state !='PW'&& datum.state !='MH'&& datum.state !='GU'&& datum.state !='MP'&& datum.state !='VI'&& datum.state !='PR'"}, {"as": "digit3", "calculate": "substring(datum.zip_code, 0, 3)"}, {"as": "ziplen", "calculate": "length(datum.zip_code+' ')"}], "width": 1000};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

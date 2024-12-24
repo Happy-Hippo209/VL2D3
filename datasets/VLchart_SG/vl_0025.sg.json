@@ -1,0 +1,1504 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 26,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 79,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 131,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 184,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 236,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 289,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 342,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 394,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 447,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 499,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 552,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 604,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 657,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 709,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    },
+                    {
+                      "x": 762,
+                      "y": -300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#ddd",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0,
+          "aria": false
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 26,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 79,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 131,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 184,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 236,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 289,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 342,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 394,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 447,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 499,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 552,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 604,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 657,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 709,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    },
+                    {
+                      "x": 762,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 26.258496978851966,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1990",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 78.77549093655588,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1992",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 131.3644259818731,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1994",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 183.88141993957703,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1996",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 236.47035498489424,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "1998",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 288.9873489425982,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2000",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 341.57628398791536,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2002",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 394.0932779456194,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2004",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 446.68221299093653,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2006",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 499.19920694864044,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2008",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 551.7881419939578,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2010",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 604.3051359516617,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2012",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 656.8940709969788,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2014",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 709.4110649546828,
+                      "y": 7,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2016",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": 762,
+                      "y": 7,
+                      "align": "right",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "2018",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": 762
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 381,
+                      "y": 21,
+                      "align": "center",
+                      "baseline": "top",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "year",
+                      "angle": 0,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5,
+              "orient": "bottom"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 188,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 150,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 113,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 75,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 38,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    },
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "x2": -5
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.00",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 262.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.05",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 225,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.10",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 187.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.15",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 150,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.20",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 112.5,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.25",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 75.00000000000003,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.30",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 37.500000000000036,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.35",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    },
+                    {
+                      "x": -7,
+                      "y": 0,
+                      "align": "right",
+                      "baseline": "middle",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "0.40",
+                      "angle": 0,
+                      "limit": 180,
+                      "font": "sans-serif",
+                      "fontSize": 10
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "opacity": 1,
+                      "stroke": "#888",
+                      "strokeWidth": 1,
+                      "y2": 0
+                    }
+                  ],
+                  "zindex": 0
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "x": -31,
+                      "y": 150,
+                      "align": "center",
+                      "baseline": "bottom",
+                      "fill": "#000",
+                      "opacity": 1,
+                      "text": "Wind Generation [TW]",
+                      "angle": -90,
+                      "font": "sans-serif",
+                      "fontSize": 11,
+                      "fontWeight": "bold"
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5,
+              "orient": "left"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "line",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 299.3203948321972,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1989; Wind Generation [TW]: 0.000906140223737; TW: 0.00"
+            },
+            {
+              "x": 26.258496978851966,
+              "y": 299.0778094169931,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1990; Wind Generation [TW]: 0.00122958744401; TW: 0.00"
+            },
+            {
+              "x": 52.51699395770393,
+              "y": 298.9278898716705,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1991; Wind Generation [TW]: 0.00142948017111; TW: 0.00"
+            },
+            {
+              "x": 78.77549093655588,
+              "y": 298.8041135571429,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1992; Wind Generation [TW]: 0.00159451525714; TW: 0.00"
+            },
+            {
+              "x": 105.10592900302116,
+              "y": 298.5633106349475,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1993; Wind Generation [TW]: 0.00191558582007; TW: 0.00"
+            },
+            {
+              "x": 131.3644259818731,
+              "y": 298.11552462457604,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1994; Wind Generation [TW]: 0.0025126338339; TW: 0.00"
+            },
+            {
+              "x": 157.62292296072508,
+              "y": 297.94789898203317,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1995; Wind Generation [TW]: 0.00273613469062; TW: 0.00"
+            },
+            {
+              "x": 183.88141993957703,
+              "y": 297.59156674629736,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1996; Wind Generation [TW]: 0.00321124433827; TW: 0.00"
+            },
+            {
+              "x": 210.21185800604232,
+              "y": 296.89233038882486,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1997; Wind Generation [TW]: 0.00414355948157; TW: 0.00"
+            },
+            {
+              "x": 236.47035498489424,
+              "y": 295.8811577548212,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1998; Wind Generation [TW]: 0.00549178966024; TW: 0.01"
+            },
+            {
+              "x": 262.7288519637462,
+              "y": 294.553176696729,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 1999; Wind Generation [TW]: 0.00726243107103; TW: 0.01"
+            },
+            {
+              "x": 288.9873489425982,
+              "y": 291.97730793307113,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2000; Wind Generation [TW]: 0.0106969227559; TW: 0.01"
+            },
+            {
+              "x": 315.31778700906347,
+              "y": 290.05898895705434,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2001; Wind Generation [TW]: 0.0132546813906; TW: 0.01"
+            },
+            {
+              "x": 341.57628398791536,
+              "y": 286.5398961928863,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2002; Wind Generation [TW]: 0.0179468050762; TW: 0.02"
+            },
+            {
+              "x": 367.83478096676737,
+              "y": 283.6736474348163,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2003; Wind Generation [TW]: 0.0217684700869; TW: 0.02"
+            },
+            {
+              "x": 394.0932779456194,
+              "y": 278.8690207127377,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2004; Wind Generation [TW]: 0.0281746390497; TW: 0.03"
+            },
+            {
+              "x": 420.42371601208464,
+              "y": 273.91929905974695,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2005; Wind Generation [TW]: 0.0347742679203; TW: 0.03"
+            },
+            {
+              "x": 446.68221299093653,
+              "y": 267.2113500694986,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2006; Wind Generation [TW]: 0.0437181999073; TW: 0.04"
+            },
+            {
+              "x": 472.9407099697885,
+              "y": 257.7267285365133,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2007; Wind Generation [TW]: 0.0563643619513; TW: 0.06"
+            },
+            {
+              "x": 499.19920694864044,
+              "y": 245.56615719907217,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2008; Wind Generation [TW]: 0.0725784570679; TW: 0.07"
+            },
+            {
+              "x": 525.5296450151058,
+              "y": 232.4405679132672,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2009; Wind Generation [TW]: 0.0900792427823; TW: 0.09"
+            },
+            {
+              "x": 551.7881419939578,
+              "y": 216.94141093701077,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2010; Wind Generation [TW]: 0.110744785417; TW: 0.11"
+            },
+            {
+              "x": 578.0466389728097,
+              "y": 194.16595113302267,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2011; Wind Generation [TW]: 0.141112065156; TW: 0.14"
+            },
+            {
+              "x": 604.3051359516617,
+              "y": 175.61704368508876,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2012; Wind Generation [TW]: 0.165843941753; TW: 0.17"
+            },
+            {
+              "x": 630.6355740181269,
+              "y": 146.01192626821486,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2013; Wind Generation [TW]: 0.205317431642; TW: 0.21"
+            },
+            {
+              "x": 656.8940709969788,
+              "y": 129.72302982278836,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2014; Wind Generation [TW]: 0.227035960236; TW: 0.23"
+            },
+            {
+              "x": 683.1525679758307,
+              "y": 106.59601486432793,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2015; Wind Generation [TW]: 0.257871980181; TW: 0.26"
+            },
+            {
+              "x": 709.4110649546828,
+              "y": 78.65557955161229,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2016; Wind Generation [TW]: 0.295125893931; TW: 0.30"
+            },
+            {
+              "x": 735.7415030211481,
+              "y": 40.16523358416215,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2017; Wind Generation [TW]: 0.346446355221; TW: 0.35"
+            },
+            {
+              "x": 762,
+              "y": 11.115089423919178,
+              "stroke": "dodgerblue",
+              "strokeWidth": 2,
+              "defined": true,
+              "description": "year: 2018; Wind Generation [TW]: 0.385179880768; TW: 0.39"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 0,
+              "y": 299.3203948321972,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1989; Wind Generation [TW]: 0.000906140223737; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 26.258496978851966,
+              "y": 299.0778094169931,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1990; Wind Generation [TW]: 0.00122958744401; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 52.51699395770393,
+              "y": 298.9278898716705,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1991; Wind Generation [TW]: 0.00142948017111; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 78.77549093655588,
+              "y": 298.8041135571429,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1992; Wind Generation [TW]: 0.00159451525714; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 105.10592900302116,
+              "y": 298.5633106349475,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1993; Wind Generation [TW]: 0.00191558582007; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 131.3644259818731,
+              "y": 298.11552462457604,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1994; Wind Generation [TW]: 0.0025126338339; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 157.62292296072508,
+              "y": 297.94789898203317,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1995; Wind Generation [TW]: 0.00273613469062; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 183.88141993957703,
+              "y": 297.59156674629736,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1996; Wind Generation [TW]: 0.00321124433827; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 210.21185800604232,
+              "y": 296.89233038882486,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1997; Wind Generation [TW]: 0.00414355948157; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 236.47035498489424,
+              "y": 295.8811577548212,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1998; Wind Generation [TW]: 0.00549178966024; TW: 0.01",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 262.7288519637462,
+              "y": 294.553176696729,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 1999; Wind Generation [TW]: 0.00726243107103; TW: 0.01",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 288.9873489425982,
+              "y": 291.97730793307113,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2000; Wind Generation [TW]: 0.0106969227559; TW: 0.01",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 315.31778700906347,
+              "y": 290.05898895705434,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2001; Wind Generation [TW]: 0.0132546813906; TW: 0.01",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 341.57628398791536,
+              "y": 286.5398961928863,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2002; Wind Generation [TW]: 0.0179468050762; TW: 0.02",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 367.83478096676737,
+              "y": 283.6736474348163,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2003; Wind Generation [TW]: 0.0217684700869; TW: 0.02",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 394.0932779456194,
+              "y": 278.8690207127377,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2004; Wind Generation [TW]: 0.0281746390497; TW: 0.03",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 420.42371601208464,
+              "y": 273.91929905974695,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2005; Wind Generation [TW]: 0.0347742679203; TW: 0.03",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 446.68221299093653,
+              "y": 267.2113500694986,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2006; Wind Generation [TW]: 0.0437181999073; TW: 0.04",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 472.9407099697885,
+              "y": 257.7267285365133,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2007; Wind Generation [TW]: 0.0563643619513; TW: 0.06",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 499.19920694864044,
+              "y": 245.56615719907217,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2008; Wind Generation [TW]: 0.0725784570679; TW: 0.07",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 525.5296450151058,
+              "y": 232.4405679132672,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2009; Wind Generation [TW]: 0.0900792427823; TW: 0.09",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 551.7881419939578,
+              "y": 216.94141093701077,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2010; Wind Generation [TW]: 0.110744785417; TW: 0.11",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 578.0466389728097,
+              "y": 194.16595113302267,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2011; Wind Generation [TW]: 0.141112065156; TW: 0.14",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 604.3051359516617,
+              "y": 175.61704368508876,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2012; Wind Generation [TW]: 0.165843941753; TW: 0.17",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 630.6355740181269,
+              "y": 146.01192626821486,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2013; Wind Generation [TW]: 0.205317431642; TW: 0.21",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 656.8940709969788,
+              "y": 129.72302982278836,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2014; Wind Generation [TW]: 0.227035960236; TW: 0.23",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 683.1525679758307,
+              "y": 106.59601486432793,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2015; Wind Generation [TW]: 0.257871980181; TW: 0.26",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 709.4110649546828,
+              "y": 78.65557955161229,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2016; Wind Generation [TW]: 0.295125893931; TW: 0.30",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 735.7415030211481,
+              "y": 40.16523358416215,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2017; Wind Generation [TW]: 0.346446355221; TW: 0.35",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 762,
+              "y": 11.115089423919178,
+              "fill": "dodgerblue",
+              "opacity": 0.7,
+              "strokeWidth": 2,
+              "size": 30,
+              "shape": "circle",
+              "description": "year: 2018; Wind Generation [TW]: 0.385179880768; TW: 0.39",
+              "ariaRoleDescription": "point"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 762,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ],
+  "zindex": 0
+}

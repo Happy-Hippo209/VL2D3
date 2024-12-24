@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A bubble plot - Gross GDP - foreign popuation.", "width": 400, "height": 300, "title": {"text": "GDP & Immigration", "subtitle": "GDP (USD, constant prices), Source:OECD, World Bank", "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "data": {"url": "https://raw.githubusercontent.com/sadieward/sadieward.github.io/main/grossgdp_imm.csv"}, "mark": "circle", "encoding": {"y": {"field": "GDP(bns)", "type": "quantitative", "axis": {"grid": false}}, "x": {"field": "foreign born (mns)", "type": "quantitative", "axis": {"grid": false, "title": "Foreign born population (mns)"}}, "tooltip": [{"field": "LOCATION", "title": "Country"}], "size": {"field": "population", "type": "quantitative", "title": "Total Population"}, "color": {"value": "#6DE18E"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

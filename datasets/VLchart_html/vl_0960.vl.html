@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "title": {"text": "Capital costs", "subtitle": "Estimated overnight capital costs in $/kW, Source: Wikipedia", "subtitleFontSize": 10, "subtitleFontStyle": "italic", "anchor": "start"}, "width": 300, "height": 300, "data": {"url": "https://raw.githubusercontent.com/harrywright25/harrywright25.github.io/main/data-project-clean2.csv"}, "transform": [{"joinaggregate": [{"op": "mean", "field": "Cost", "as": "AverageCost"}]}], "layer": [{"mark": "bar", "encoding": {"x": {"field": "Cost", "type": "quantitative", "title": "Cost ($/kW)", "axis": {"grid": false}}, "y": {"field": "Energy", "type": "nominal", "title": null, "axis": {"grid": false}}, "color": {"field": "Energy", "scale": {"scheme": "darkmulti"}, "legend": null}, "tooltip": [{"field": "Energy"}, {"field": "Cost", "title": "$/kW"}]}}, {"mark": {"type": "rule", "color": "red", "size": 1.5}, "encoding": {"x": {"aggregate": "average", "field": "AverageCost", "type": "quantitative"}}}]};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

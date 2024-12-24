@@ -1,0 +1,4031 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "interactive": true,
+  "clip": false,
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "#eee",
+              "stroke": "white",
+              "strokeWidth": 2,
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "text",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "x": 240.16606928947914,
+              "y": 379.0933803231019,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Kingston",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.286914657192; cy: 51.3878933538; bLabel: Kingston"
+            },
+            {
+              "x": 388.09164102709485,
+              "y": 417.7376323353092,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Croydon",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.0871654610153; cy: 51.3553174164; bLabel: Croydon"
+            },
+            {
+              "x": 490.80834790397216,
+              "y": 397.9697731621345,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Bromley",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: 0.0515365861805; cy: 51.3719840203; bLabel: Bromley"
+            },
+            {
+              "x": 180.74604789441395,
+              "y": 283.49485591740813,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Hounslow",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.36715163969; cy: 51.4683804592; bLabel: Hounslow"
+            },
+            {
+              "x": 207.50407056512503,
+              "y": 219.1479830032331,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Ealing",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.331019323574; cy: 51.5224761027; bLabel: Ealing"
+            },
+            {
+              "x": 616.392200460782,
+              "y": 169.2648231592757,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Havering",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: 0.221116958975; cy: 51.5643681096; bLabel: Havering"
+            },
+            {
+              "x": 122.60474766385181,
+              "y": 196.5351697644146,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Hillingdon",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.445661919213; cy: 51.5414711807; bLabel: Hillingdon"
+            },
+            {
+              "x": 199.90943646684258,
+              "y": 129.51975171358208,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Harrow",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.341274629932; cy: 51.5977185219; bLabel: Harrow"
+            },
+            {
+              "x": 254.31285590150057,
+              "y": 176.1902309340294,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Brent",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.267811744687; cy: 51.5585544396; bLabel: Brent"
+            },
+            {
+              "x": 297.11247200488674,
+              "y": 107.69862404776359,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Barnet",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.210017890569; cy: 51.6160184005; bLabel: Barnet"
+            },
+            {
+              "x": 365.0504606879149,
+              "y": 301.681942122319,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Lambeth",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.118278791846; cy: 51.453079156; bLabel: Lambeth"
+            },
+            {
+              "x": 397.39523557194684,
+              "y": 277.8395711612393,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Southwark",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.0746024841746; cy: 51.4731373625; bLabel: Southwark"
+            },
+            {
+              "x": 437.6454265066689,
+              "y": 307.61520837567514,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Lewisham",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.0202512101471; cy: 51.4480862237; bLabel: Lewisham"
+            },
+            {
+              "x": 494.2904106784283,
+              "y": 278.23651365892147,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Greenwich",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: 0.0562385402244; cy: 51.4728034933; bLabel: Greenwich"
+            },
+            {
+              "x": 556.5761611968032,
+              "y": 294.87027645131457,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Bexley",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: 0.140345219368; cy: 51.4588106013; bLabel: Bexley"
+            },
+            {
+              "x": 388.01769160670847,
+              "y": 65.97106499162328,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Enfield",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.0872653175655; cy: 51.6509918973; bLabel: Enfield"
+            },
+            {
+              "x": 443.2779670013625,
+              "y": 133.92672714306536,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Waltham",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.012645389037; cy: 51.5940217994; bLabel: Waltham"
+            },
+            {
+              "x": 508.8249037639732,
+              "y": 143.88207684943336,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Redbridge",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: 0.0758649866635; cy: 51.5856698024; bLabel: Redbridge"
+            },
+            {
+              "x": 321.1414909523569,
+              "y": 409.70710856474034,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Sutton",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.177570645895; cy: 51.3620888132; bLabel: Sutton"
+            },
+            {
+              "x": 220.8558683555507,
+              "y": 314.64376962339156,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Richmond",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.312989912939; cy: 51.4421708777; bLabel: Richmond"
+            },
+            {
+              "x": 306.5701387524758,
+              "y": 352.9125653042065,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Merton",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.197246864516; cy: 51.4099498212; bLabel: Merton"
+            },
+            {
+              "x": 314.5713428431113,
+              "y": 303.7323964402822,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Wandsworth",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.186442552139; cy: 51.4513537297; bLabel: Wandsworth"
+            },
+            {
+              "x": 287.405902741232,
+              "y": 248.74347906059847,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Hammersmith",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.223125018601; cy: 51.4976034977; bLabel: Hammersmith"
+            },
+            {
+              "x": 310.00056155813076,
+              "y": 242.00410246601677,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Kensington",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.192614641771; cy: 51.5032685891; bLabel: Kensington"
+            },
+            {
+              "x": 333.1929916354095,
+              "y": 229.3570525653995,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Westminster",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.161297073004; cy: 51.513897745; bLabel: Westminster"
+            },
+            {
+              "x": 336.06771293829047,
+              "y": 190.6749667749391,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Camden",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.157415233895; cy: 51.5463925396; bLabel: Camden"
+            },
+            {
+              "x": 428.59823963969205,
+              "y": 227.9786542837246,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Tower",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.0324679505194; cy: 51.5150560638; bLabel: Tower"
+            },
+            {
+              "x": 373.07232987539464,
+              "y": 191.7332252410415,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Islington",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.107446574649; cy: 51.5455038607; bLabel: Islington"
+            },
+            {
+              "x": 404.028642435809,
+              "y": 186.65839243440132,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Hackney",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.0656451573689; cy: 51.5497653243; bLabel: Hackney"
+            },
+            {
+              "x": 373.0526187678335,
+              "y": 138.27519020698674,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Haringey",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.107473191263; cy: 51.5903738643; bLabel: Haringey"
+            },
+            {
+              "x": 479.5879677773057,
+              "y": 212.16493904617528,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Newham",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: 0.0363853051357; cy: 51.5283428027; bLabel: Newham"
+            },
+            {
+              "x": 551.5230814587258,
+              "y": 192.00900864913274,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "Barking",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: 0.133521864866; cy: 51.545272267; bLabel: Barking"
+            },
+            {
+              "x": 384.27166318670896,
+              "y": 227.70015209310077,
+              "align": "center",
+              "baseline": "middle",
+              "fill": "black",
+              "opacity": 0.6,
+              "text": "City",
+              "font": "sans-serif",
+              "fontSize": 8,
+              "description": "cx: \u22120.0923237138723; cy: 51.5152900958; bLabel: City"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "interactive": true,
+          "clip": false,
+          "items": [
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,160,226)",
+              "strokeWidth": 2,
+              "description": "id: Victoria",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(215,153,175)",
+              "strokeWidth": 2,
+              "description": "id: Hammersmith & City",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(255,206,0)",
+              "strokeWidth": 2,
+              "description": "id: Circle",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,187,170)",
+              "strokeWidth": 2,
+              "description": "id: Waterloo & City",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(106,114,120)",
+              "strokeWidth": 2,
+              "description": "id: Jubilee",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(1,114,41)",
+              "strokeWidth": 2,
+              "description": "id: District",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(137,78,36)",
+              "strokeWidth": 2,
+              "description": "id: Bakerloo",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,24,168)",
+              "strokeWidth": 2,
+              "description": "id: Piccadilly",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(220,36,30)",
+              "strokeWidth": 2,
+              "description": "id: Central",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,175,173)",
+              "strokeWidth": 2,
+              "description": "id: DLR",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(0,0,0)",
+              "strokeWidth": 2,
+              "description": "id: Northern",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "rgb(114,17,84)",
+              "strokeWidth": 2,
+              "description": "id: Metropolitan",
+              "ariaRoleDescription": "geoshape"
+            }
+          ],
+          "zindex": 0
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "interactive": false,
+          "clip": false,
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "interactive": false,
+                  "clip": false,
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "interactive": false,
+                          "clip": false,
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(137,78,36)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Bakerloo",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(220,36,30)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Central",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 16,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(255,206,0)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Circle",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 32,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(1,114,41)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "District",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 48,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(0,175,173)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "DLR",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 64,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(215,153,175)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Hammersmith & City",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 80,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(106,114,120)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Jubilee",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 96,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(114,17,84)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Metropolitan",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 112,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(0,0,0)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Northern",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 128,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(0,24,168)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Piccadilly",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 144,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(0,160,226)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Victoria",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 160,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "opacity": 1,
+                                      "stroke": "rgb(106,187,170)",
+                                      "strokeWidth": 1.5,
+                                      "size": 100,
+                                      "shape": "circle"
+                                    }
+                                  ],
+                                  "zindex": 0
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "interactive": false,
+                                  "clip": false,
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "align": "left",
+                                      "baseline": "middle",
+                                      "fill": "#000",
+                                      "opacity": 1,
+                                      "text": "Waterloo & City",
+                                      "limit": 160,
+                                      "font": "sans-serif",
+                                      "fontSize": 10
+                                    }
+                                  ],
+                                  "zindex": 0
+                                }
+                              ],
+                              "x": 0,
+                              "y": 176,
+                              "width": 117.0986328125,
+                              "height": 12.5,
+                              "opacity": 1
+                            }
+                          ],
+                          "zindex": 0
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "zindex": 0
+                }
+              ],
+              "x": 582,
+              "y": 311,
+              "width": 118,
+              "height": 189,
+              "orient": "bottom-right"
+            }
+          ],
+          "zindex": 0
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 700,
+      "height": 500,
+      "fill": "transparent"
+    }
+  ],
+  "zindex": 0
+}

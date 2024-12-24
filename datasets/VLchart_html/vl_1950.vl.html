@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "DRC GDP decomposed", "title": {"text": "DR CONGO - The worst economic decline of the 20th century in perspective", "anchor": "start", "color": "navy"}, "data": {"url": "https://raw.githubusercontent.com/RDeconomist/vega/master/DRC%201970%20GDP%20race.csv"}, "RD NOTES": "The final transform in the code will be the one that appears. So to alter the selection just move one down to the bottom. Alternatively you can block them out using xx", "transform": [{"filter": {"field": "Country", "oneOf": ["DR Congo", "Thailand", "Myanmar"]}}], "xxtransform": [{"xxfilter": {"field": "Country", "oneOf": ["DR Congo", "Senegal", "Ghana"]}}], "config": {"background": "#FAFAFA"}, "height": 700, "width": 700, "xmark": "point", "mark": {"type": "line", "opacity": 1, "interpolate": "", "color": "navy", "point": {"color": "black", "size": "30"}}, "encoding": {"x": {"field": "Year", "type": "ordinal", "axis": {"title": "Year"}}, "y": {"field": "GDP", "type": "quantitative", "axis": {"title": "GDP per capita, 2010 dollars"}}, "color": {"field": "Country", "type": "nominal"}, "xtooltip": [{"field": "Year", "type": "ordinal", "format": "%Y"}, {"field": "Country", "type": "ordinal"}, {"field": "GDP", "type": "quantitative", "format": "$.2f"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

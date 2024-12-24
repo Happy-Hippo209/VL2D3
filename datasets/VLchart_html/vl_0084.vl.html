@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "data": {"url": "https://raw.githubusercontent.com/olih/simulation-experiments/fa14ab812e138880f2509f60e73a7ee38f7ce1cb/exp3/simulation3.csv", "format": {"type": "csv"}}, "title": "Accepted assets from reviewed assets", "transform": [], "mark": "rect", "width": 300, "height": 200, "encoding": {"x": {"bin": {"maxbins": 100}, "title": "Available hours", "field": "available_time_h", "type": "quantitative"}, "y": {"bin": {"maxbins": 100}, "title": "Reviewed assets", "field": "reviewed_assets", "type": "quantitative"}, "color": {"title": "Accepted assets", "field": "accepted_assets", "type": "quantitative"}}, "config": {"view": {"stroke": "transparent"}}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

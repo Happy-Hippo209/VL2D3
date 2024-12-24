@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "config": {"view": {"stroke": ""}}, "background": "#f9f9fc", "title": {"text": "total", "fontsize": 18}, "width": 400, "height": 400, "data": {"url": "https://gicentre.github.io/scrc/data/flows/scotLAsFlows.csv"}, "transform": [{"lookup": "source", "from": {"data": {"url": "https://gicentre.github.io/scrc/data/geo/scotLACentroids.csv"}, "key": "lad17cd", "fields": ["lad17nm"]}, "as": ["srcName"]}, {"lookup": "dest", "from": {"data": {"url": "https://gicentre.github.io/scrc/data/geo/scotLACentroids.csv"}, "key": "lad17cd", "fields": ["lad17nm"]}, "as": ["dstName"]}], "encoding": {"x": {"field": "srcName", "type": "ordinal", "title": "Origin"}, "y": {"field": "dstName", "type": "ordinal", "title": "Destination"}, "color": {"field": "total", "type": "quantitative", "scale": {"type": "symlog", "domain": [0, 60000], "scheme": "yelloworangebrown"}, "legend": {"tickCount": 5, "gradientLength": 400, "title": null}}, "tooltip": [{"field": "srcName", "type": "nominal", "title": "origin"}, {"field": "dstName", "type": "nominal", "title": "destination"}, {"field": "total", "type": "nominal"}]}, "mark": {"type": "rect", "stroke": "white", "strokeWidth": 2}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    

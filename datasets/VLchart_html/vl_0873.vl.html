@@ -1,0 +1,26 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    </head>
+    <body>
+        <div id="vis" style="width: 800px; height: 600px;"></div>
+        <script>
+            var vlSpec = {"$schema": "https://vega.github.io/schema/vega-lite/v5.json", "description": "A bubbleplot showing Top Goalscorers in Premier League in 2016.", "title": {"text": "Top Goalscorers in Premier League in 2016", "subtitle": ["A Bubble plot showing the relationship between", "Goals, Matches Played and Average Shots per Match", "Source:Opta"], "subtitleFontStyle": "italic", "subtitleFontSize": 10, "anchor": "start", "color": "black"}, "width": 200, "height": 200, "data": {"url": "https://raw.githubusercontent.com/joewilliams200217/joewilliams200217.github.io/main/goalscorersdata.csv"}, "mark": {"type": "circle", "opacity": 0.8, "stroke": "black", "strokeWidth": 1}, "encoding": {"x": {"field": "Matches_Played", "type": "quantitative", "title": "Matchs Played"}, "y": {"field": "Goals", "type": "quantitative", "title": "Goals Scored"}, "size": {"field": "Shots Per Avg Match", "type": "quantitative", "title": ["Average Shots", "Per Match"]}, "tooltip": [{"field": "Player Names", "type": "nominal", "title": "Player"}, {"field": "Matches_Played", "type": "quantitative", "title": "Games Played"}, {"field": "Goals", "type": "quantitative", "title": "Goals Scored"}, {"field": "Shots Per Avg Match", "type": "quantitative", "title": "Average Shots Per Match"}]}};
+            // Add default size if not specified
+            if (!vlSpec.width) vlSpec.width = 800;
+            if (!vlSpec.height) vlSpec.height = 600;
+            
+            vegaEmbed('#vis', vlSpec, {renderer: 'svg'}).then((result) => {{
+                const view = result.view;
+                // 获取完整的场景图
+                const scenegraph = view.scenegraph();
+                console.log('SCENEGRAPH_START' + JSON.stringify(scenegraph) + 'SCENEGRAPH_END');
+            }}).catch(console.error);
+        </script>
+    </body>
+    </html>
+    
