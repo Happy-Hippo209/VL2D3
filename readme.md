@@ -1,28 +1,53 @@
-目录结构是这样的：
--agent/
---2D3agent.py
---prompt.py
+# Vega-Lite2D3图表分析流水线
 
--datasets/
---VLchart/
---VLchart_html/
---VLchart_SG/
---VLchart_SVG/
---VLprompt/
---VLresponse/
 
--log/
+## 项目结构
 
--preprocess/
---embedVegaliteHtml.py
---getSGandSVG.py
+```
+.
+├── agent/
+│ ├── 2D3agent.py # LLM交互代理
+│ └── prompt.py # Prompt生成逻辑
+│
+├── datasets/
+│ ├── VLchart/ # 原始Vega-Lite JSON文件
+│ ├── VLchart_html/ # 嵌入HTML的JSON
+│ ├── VLchart_SG/ # 场景图
+│ ├── VLchart_SVG/ # Vegalite在浏览器渲染的SVG文件
+│ ├── VLprompt/ # 生成的prompts
+│ └── VLresponse/ # LLM响应
+│
+├── logs/ # 日志文件
+│
+├── preprocess/
+│ ├── embedVegaliteHtml.py # JSON转HTML转换器
+│ └── getSGandSVG.py # 基于浏览器截取SVG与scenegraph
+│
+├── genPrompt.py # Prompt生成脚本
+├── getResponse.py # LLM响应收集脚本
+└── preprocess.py # 数据预处理脚本
+```
 
--genPrompt.py
--getResponse.py
--preprocess.py
+## 处理流程
 
-preprocess.py脚本负责处理原始vegalite的json文件（保存在datasets/VLchart），调用两个子脚本,通过preprocess/embedVegaliteHtml.py将json格式嵌入html（保存在datasets/VLchart_html），之后通过preprocess/getSGandSVG.py在浏览器中截取场景图与渲染的SVG（保存在datasets/VLchart_SG与datasets/VLchart_SVG）
+1. **预处理** (`preprocess.py`)
+   - 读取`datasets/VLchart`中的原始Vega-Lite JSON文件
+   - 使用`embedVegaliteHtml.py`将JSON转换为HTML
+   - 使用`getSGandSVG.py`捕获场景图和SVG
+   - 输出到`VLchart_html`、`VLchart_SG`和`VLchart_SVG`目录
 
-genPrompt.py脚本负责执行agent/prompt.py，将场景图与源码批量转化为prompt（保存在datasets/VLprompt），可以自定义
+2. **Prompt生成** (`genPrompt.py`)
+   - 执行`agent/prompt.py`
+   - 将场景图与源代码组合
+   - 生成可自定义的prompts
+   - 将结果保存在`datasets/VLprompt`
 
-getResponse.py脚本，调用agent/2D3agent.py,得到LLM的回复（保存在datasets/VLresponse）
+3. **响应收集** (`getResponse.py`)
+   - 使用`agent/2D3agent.py`
+   - 与LLM接口交互
+   - 将响应存储在`datasets/VLresponse`
+
+## 依赖项
+Python 3.9
+
+其他见requirement.txt
