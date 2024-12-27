@@ -7,12 +7,15 @@
 .
 ├── agent/
 │ ├── 2D3agent.py # LLM交互代理
-│ └── prompt.py # Prompt生成逻辑
+│ ├── estimateTokenNum.py # 估算prompt需要消耗的token数目
+│ ├── prompt.py # Prompt生成逻辑
+│ └── simplifySG.py # Scenegraph剪枝
 │
 ├── datasets/
 │ ├── VLchart/ # 原始Vega-Lite JSON文件
 │ ├── VLchart_html/ # 嵌入HTML的JSON
 │ ├── VLchart_SG/ # 场景图
+│ ├── VLchart_SG_pruned # 剪枝后的Scenegraph
 │ ├── VLchart_SVG/ # Vegalite在浏览器渲染的SVG文件
 │ ├── VLprompt/ # 生成的prompts
 │ └── VLresponse/ # LLM响应
@@ -25,7 +28,8 @@
 │
 ├── genPrompt.py # Prompt生成脚本
 ├── getResponse.py # LLM响应收集脚本
-└── preprocess.py # 数据预处理脚本
+├── preprocess.py # 数据预处理脚本
+└── runPruning.py # Scenegraph剪枝脚本
 ```
 
 ## 处理流程
@@ -34,6 +38,7 @@
    - 读取`datasets/VLchart`中的原始Vega-Lite JSON文件
    - 使用`embedVegaliteHtml.py`将JSON转换为HTML
    - 使用`getSGandSVG.py`捕获场景图和SVG
+   - 使用`runPruning.py`剪枝场景图
    - 输出到`VLchart_html`、`VLchart_SG`和`VLchart_SVG`目录
 
 2. **Prompt生成** (`genPrompt.py`)
