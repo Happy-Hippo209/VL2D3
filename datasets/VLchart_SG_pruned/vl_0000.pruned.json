@@ -1,0 +1,1493 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": -300,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 34,
+                              "y": -300,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 69,
+                              "y": -300,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 300.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 254,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 208,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 34,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 69,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "2010"
+                            },
+                            {
+                              "x": 34.26425721661582,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "2011"
+                            },
+                            {
+                              "x": 68.52851443323163,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "2012"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 300.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 254,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 208,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 300,
+                              "fill": "#000",
+                              "text": "0p"
+                            },
+                            {
+                              "x": -7,
+                              "y": 253.84615384615384,
+                              "fill": "#000",
+                              "text": "1p"
+                            },
+                            {
+                              "x": -7,
+                              "y": 207.69230769230768,
+                              "fill": "#000",
+                              "text": "2p"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -23.2509765625,
+                              "y": 150,
+                              "fill": "#000",
+                              "text": "density"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "area",
+                  "name": "concat_0_layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 238.05641478655005,
+                      "height": 61.94358521344995,
+                      "fill": "#4c78a8",
+                      "description": "t_0: Jan 01, 2010; density: 1.34211p"
+                    },
+                    {
+                      "x": 2,
+                      "y": 235.1847295804112,
+                      "height": 64.81527041958881,
+                      "fill": "#4c78a8",
+                      "description": "t_0: Jan 22, 2010; density: 1.40433p"
+                    },
+                    {
+                      "x": 4,
+                      "y": 232.38035947810528,
+                      "height": 67.61964052189472,
+                      "fill": "#4c78a8",
+                      "description": "t_0: Feb 12, 2010; density: 1.46509p"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "name": "concat_0_layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 167.09692560431824,
+                      "y": 0,
+                      "stroke": "red",
+                      "description": "Median of t_0: Nov 16, 2014"
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 400,
+              "height": 300,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 34,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 69,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 20.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 34,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 69,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "2010"
+                            },
+                            {
+                              "x": 34.26425721661582,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "2011"
+                            },
+                            {
+                              "x": 68.52851443323163,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "2012"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 200,
+                              "y": 21,
+                              "fill": "#000",
+                              "text": "t_0"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 20.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_1_layer_0_layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 10,
+                      "fill": "transparent",
+                      "stroke": "#4c78a8",
+                      "shape": "circle",
+                      "description": "t_0: Jan 01, 2010",
+                      "ariaRoleDescription": "point"
+                    },
+                    {
+                      "x": 400,
+                      "y": 10,
+                      "fill": "transparent",
+                      "stroke": "#4c78a8",
+                      "shape": "circle",
+                      "description": "t_0: Sep 01, 2021",
+                      "ariaRoleDescription": "point"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "name": "concat_1_layer_0_layer_1_layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 22.811546585308612,
+                      "y": 10,
+                      "stroke": "black"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "name": "concat_1_layer_0_layer_1_layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 212.08636470312135,
+                      "y": 10,
+                      "stroke": "black"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_layer_1_layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 127.83384182116875,
+                      "y": 3,
+                      "width": 84.2525228819526,
+                      "height": 14,
+                      "fill": "#4c78a8",
+                      "description": "t_0: Sep 23, 2013; upper_box_t_0: Mar 09, 2016; Max of t_0: Sep 01, 2021; Q3 of t_0: Mar 09, 2016; Median of t_0: Nov 16, 2014; Q1 of t_0: Sep 23, 2013; Min of t_0: Jan 01, 2010",
+                      "ariaRoleDescription": "box"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_layer_1_layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 166.59692560431824,
+                      "y": 3,
+                      "width": 1,
+                      "height": 14,
+                      "fill": "white"
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 339,
+              "width": 400,
+              "height": 20,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_2_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "name": "concat_2_concat_0_group",
+                  "role": "scope",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 44,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 89,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 263,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 225,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 44,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 89,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.0"
+                                    },
+                                    {
+                                      "x": 44.44444444444445,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.1"
+                                    },
+                                    {
+                                      "x": 88.8888888888889,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.2"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 263,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 225,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": -7,
+                                      "y": 300,
+                                      "fill": "#000",
+                                      "text": "0.0"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 262.5,
+                                      "fill": "#000",
+                                      "text": "0.5"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 225,
+                                      "fill": "#000",
+                                      "text": "1.0"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": -25.1357421875,
+                                      "y": 150,
+                                      "fill": "#000",
+                                      "text": "density"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "area",
+                          "name": "concat_2_concat_0_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 25.583276626580552,
+                              "y": 285.6741798600973,
+                              "height": 14.325820139902703,
+                              "fill": "#4c78a8",
+                              "description": "c_0: 0.0575623724098; density: 0.191010935199"
+                            },
+                            {
+                              "x": 27.434898725118384,
+                              "y": 285.71384071006844,
+                              "height": 14.286159289931561,
+                              "fill": "#4c78a8",
+                              "description": "c_0: 0.0617285221315; density: 0.190482123866"
+                            },
+                            {
+                              "x": 29.286520823656208,
+                              "y": 285.85304367400136,
+                              "height": 14.146956325998644,
+                              "fill": "#4c78a8",
+                              "description": "c_0: 0.0658946718532; density: 0.188626084347"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "name": "concat_2_concat_0_layer_1_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 278.6666666666667,
+                              "y": 0,
+                              "stroke": "red",
+                              "description": "Median of c_0: 0.627"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0,
+                      "width": 400,
+                      "height": 300,
+                      "fill": "transparent",
+                      "stroke": "#ddd"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "name": "concat_2_concat_1_group",
+                  "role": "scope",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 44,
+                                      "y": 0,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 89,
+                                      "y": 0,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 20.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 44,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 89,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.0"
+                                    },
+                                    {
+                                      "x": 44.44444444444445,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.1"
+                                    },
+                                    {
+                                      "x": 88.8888888888889,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.2"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": 200,
+                                      "y": 21,
+                                      "fill": "#000",
+                                      "text": "c_0"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 20.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "symbol",
+                          "name": "concat_2_concat_1_layer_0_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 25.77777777777778,
+                              "y": 10,
+                              "fill": "transparent",
+                              "stroke": "#4c78a8",
+                              "shape": "circle",
+                              "description": "c_0: 0.058",
+                              "ariaRoleDescription": "point"
+                            },
+                            {
+                              "x": 156.44444444444443,
+                              "y": 10,
+                              "fill": "transparent",
+                              "stroke": "#4c78a8",
+                              "shape": "circle",
+                              "description": "c_0: 0.352",
+                              "ariaRoleDescription": "point"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "name": "concat_2_concat_1_layer_0_layer_1_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 162.22222222222223,
+                              "y": 10,
+                              "stroke": "black"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "name": "concat_2_concat_1_layer_0_layer_1_layer_1_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 307,
+                              "y": 10,
+                              "stroke": "black"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rect",
+                          "name": "concat_2_concat_1_layer_1_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 248,
+                              "y": 3,
+                              "width": 59,
+                              "height": 14,
+                              "fill": "#4c78a8",
+                              "description": "c_0: 0.558; upper_box_c_0: 0.69075; Max of c_0: 0.834; Q3 of c_0: 0.69075; Median of c_0: 0.627; Q1 of c_0: 0.558; Min of c_0: 0.058",
+                              "ariaRoleDescription": "box"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rect",
+                          "name": "concat_2_concat_1_layer_1_layer_1_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 278.1666666666667,
+                              "y": 3,
+                              "width": 1,
+                              "height": 14,
+                              "fill": "white"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 339,
+                      "width": 400,
+                      "height": 20,
+                      "fill": "transparent",
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 418
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_3_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "name": "concat_3_concat_0_group",
+                  "role": "scope",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 36,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 73,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 263,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 225,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 36,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 73,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.01"
+                                    },
+                                    {
+                                      "x": 36.36363636363637,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.02"
+                                    },
+                                    {
+                                      "x": 72.72727272727272,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.03"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 263,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 225,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": -7,
+                                      "y": 300,
+                                      "fill": "#000",
+                                      "text": "0"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 262.5,
+                                      "fill": "#000",
+                                      "text": "5"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 225,
+                                      "fill": "#000",
+                                      "text": "10"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": -22.728515625,
+                                      "y": 150,
+                                      "fill": "#000",
+                                      "text": "density"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "area",
+                          "name": "concat_3_concat_0_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 5.588089922934882,
+                              "y": 225.52107431858764,
+                              "height": 74.47892568141236,
+                              "fill": "#4c78a8",
+                              "description": "error: 0.0115367247288; density: 9.93052342419"
+                            },
+                            {
+                              "x": 7.385232732325159,
+                              "y": 217.15872237415704,
+                              "height": 82.84127762584296,
+                              "fill": "#4c78a8",
+                              "description": "error: 0.0120309390014; density: 11.0455036834"
+                            },
+                            {
+                              "x": 9.182375541715443,
+                              "y": 208.68689660122197,
+                              "height": 91.31310339877803,
+                              "fill": "#4c78a8",
+                              "description": "error: 0.012525153274; density: 12.1750804532"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "name": "concat_3_concat_0_layer_1_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 76.36363636363636,
+                              "y": 0,
+                              "stroke": "red",
+                              "description": "Median of error: 0.031"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0,
+                      "width": 400,
+                      "height": 300,
+                      "fill": "transparent",
+                      "stroke": "#ddd"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "name": "concat_3_concat_1_group",
+                  "role": "scope",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 36,
+                                      "y": 0,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 73,
+                                      "y": 0,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 20.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 36,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 73,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.01"
+                                    },
+                                    {
+                                      "x": 36.36363636363637,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.02"
+                                    },
+                                    {
+                                      "x": 72.72727272727272,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.03"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": 200,
+                                      "y": 21,
+                                      "fill": "#000",
+                                      "text": "error"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 20.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "symbol",
+                          "name": "concat_3_concat_1_layer_0_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 283.6363636363636,
+                              "y": 10,
+                              "fill": "transparent",
+                              "stroke": "#4c78a8",
+                              "shape": "circle",
+                              "description": "error: 0.088",
+                              "ariaRoleDescription": "point"
+                            },
+                            {
+                              "x": 225.45454545454544,
+                              "y": 10,
+                              "fill": "transparent",
+                              "stroke": "#4c78a8",
+                              "shape": "circle",
+                              "description": "error: 0.072",
+                              "ariaRoleDescription": "point"
+                            },
+                            {
+                              "x": 218.18181818181822,
+                              "y": 10,
+                              "fill": "transparent",
+                              "stroke": "#4c78a8",
+                              "shape": "circle",
+                              "description": "error: 0.07",
+                              "ariaRoleDescription": "point"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "name": "concat_3_concat_1_layer_0_layer_1_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 10.909090909090907,
+                              "y": 10,
+                              "stroke": "black"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "name": "concat_3_concat_1_layer_0_layer_1_layer_1_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 87.27272727272728,
+                              "y": 10,
+                              "stroke": "black"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rect",
+                          "name": "concat_3_concat_1_layer_1_layer_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 47.27272727272727,
+                              "y": 3,
+                              "width": 40.00000000000001,
+                              "height": 14,
+                              "fill": "#4c78a8",
+                              "description": "error: 0.023; upper_box_error: 0.034; Max of error: 0.088; Q3 of error: 0.034; Median of error: 0.031; Q1 of error: 0.023; Min of error: 0.013",
+                              "ariaRoleDescription": "box"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rect",
+                          "name": "concat_3_concat_1_layer_1_layer_1_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 75.86363636363636,
+                              "y": 3,
+                              "width": 1,
+                              "height": 14,
+                              "fill": "white"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 339,
+                      "width": 400,
+                      "height": 20,
+                      "fill": "transparent",
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 836
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 0
+    }
+  ]
+}

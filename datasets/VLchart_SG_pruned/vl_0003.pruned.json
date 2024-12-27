@@ -1,0 +1,716 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 6,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 11,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 550,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 500,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 6,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 11,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "Jan 2009"
+                    },
+                    {
+                      "x": 5.658224960073009,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "Feb 2009"
+                    },
+                    {
+                      "x": 10.768879762719598,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "Mar 2009"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 58.0068359375,
+                      "fill": "#000",
+                      "text": "Time (Month Year)"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 550,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 500,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "fill": "#000",
+                      "text": "0.0"
+                    },
+                    {
+                      "x": -7,
+                      "y": 550,
+                      "fill": "#000",
+                      "text": "0.1"
+                    },
+                    {
+                      "x": -7,
+                      "y": 499.99999999999994,
+                      "fill": "#000",
+                      "text": "0.2"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -25.1357421875,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "Completeness"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_0_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#e45756",
+                      "description": "Time (Month Year): Jan 2009; Completeness: 0; care_site_short_name: HOSPITAL 3; legend_predictor: Predictor c(t)"
+                    },
+                    {
+                      "x": 5.658224960073009,
+                      "y": 600,
+                      "stroke": "#e45756",
+                      "description": "Time (Month Year): Feb 2009; Completeness: 0; care_site_short_name: HOSPITAL 3; legend_predictor: Predictor c(t)"
+                    },
+                    {
+                      "x": 10.768879762719598,
+                      "y": 600,
+                      "stroke": "#e45756",
+                      "description": "Time (Month Year): Mar 2009; Completeness: 0; care_site_short_name: HOSPITAL 3; legend_predictor: Predictor c(t)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 527.7860112943556,
+                      "stroke": "#f58518",
+                      "description": "Time (Month Year): Jan 2009; Completeness: 0.144427977411; care_site_short_name: HOSPITAL 2; legend_predictor: Predictor c(t)"
+                    },
+                    {
+                      "x": 5.658224960073009,
+                      "y": 538.9363779394824,
+                      "stroke": "#f58518",
+                      "description": "Time (Month Year): Feb 2009; Completeness: 0.122127244121; care_site_short_name: HOSPITAL 2; legend_predictor: Predictor c(t)"
+                    },
+                    {
+                      "x": 10.768879762719598,
+                      "y": 533.7270202942526,
+                      "stroke": "#f58518",
+                      "description": "Time (Month Year): Mar 2009; Completeness: 0.132545959411; care_site_short_name: HOSPITAL 2; legend_predictor: Predictor c(t)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 540.2641694499895,
+                      "stroke": "#4c78a8",
+                      "description": "Time (Month Year): Jan 2009; Completeness: 0.1194716611; care_site_short_name: HOSPITAL 1; legend_predictor: Predictor c(t)"
+                    },
+                    {
+                      "x": 5.658224960073009,
+                      "y": 547.6130413981455,
+                      "stroke": "#4c78a8",
+                      "description": "Time (Month Year): Feb 2009; Completeness: 0.104773917204; care_site_short_name: HOSPITAL 1; legend_predictor: Predictor c(t)"
+                    },
+                    {
+                      "x": 10.768879762719598,
+                      "y": 541.074045134072,
+                      "stroke": "#4c78a8",
+                      "description": "Time (Month Year): Mar 2009; Completeness: 0.117851909732; care_site_short_name: HOSPITAL 1; legend_predictor: Predictor c(t)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_1_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#e45756",
+                      "description": "Time (Month Year): Jan 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 3; legend_model: Model f(t)"
+                    },
+                    {
+                      "x": 5.658224960073009,
+                      "y": 600,
+                      "stroke": "#e45756",
+                      "description": "Time (Month Year): Feb 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 3; legend_model: Model f(t)"
+                    },
+                    {
+                      "x": 10.768879762719598,
+                      "y": 600,
+                      "stroke": "#e45756",
+                      "description": "Time (Month Year): Mar 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 3; legend_model: Model f(t)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#f58518",
+                      "description": "Time (Month Year): Jan 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 2; legend_model: Model f(t)"
+                    },
+                    {
+                      "x": 5.658224960073009,
+                      "y": 600,
+                      "stroke": "#f58518",
+                      "description": "Time (Month Year): Feb 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 2; legend_model: Model f(t)"
+                    },
+                    {
+                      "x": 10.768879762719598,
+                      "y": 600,
+                      "stroke": "#f58518",
+                      "description": "Time (Month Year): Mar 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 2; legend_model: Model f(t)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#4c78a8",
+                      "description": "Time (Month Year): Jan 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 1; legend_model: Model f(t)"
+                    },
+                    {
+                      "x": 5.658224960073009,
+                      "y": 600,
+                      "stroke": "#4c78a8",
+                      "description": "Time (Month Year): Feb 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 1; legend_model: Model f(t)"
+                    },
+                    {
+                      "x": 10.768879762719598,
+                      "y": 600,
+                      "stroke": "#4c78a8",
+                      "description": "Time (Month Year): Mar 2009; Mean of c_hat: 0; care_site_short_name: HOSPITAL 1; legend_model: Model f(t)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#4c78a8",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "HOSPITAL 1"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 72.6259765625,
+                              "height": 11
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#f58518",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "HOSPITAL 2"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 72.6259765625,
+                              "height": 11
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#e45756",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "HOSPITAL 3"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 72.6259765625,
+                              "height": 11
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "care_site_short_name"
+                    }
+                  ]
+                }
+              ],
+              "x": 821,
+              "y": 0,
+              "width": 118,
+              "height": 53
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "steelblue",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "Predictor c(t)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 88.9716796875,
+                              "height": 11
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ]
+                }
+              ],
+              "x": -144,
+              "y": 0,
+              "width": 89,
+              "height": 11
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6.5,
+                                      "y": 6.5,
+                                      "fill": "transparent",
+                                      "stroke": "steelblue",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 17,
+                                      "y": 6.5,
+                                      "fill": "#000",
+                                      "text": "Model f(t)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 73.36962890625,
+                              "height": 11.5
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ]
+                }
+              ],
+              "x": -144,
+              "y": 19,
+              "width": 74,
+              "height": 12
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

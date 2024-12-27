@@ -1,0 +1,565 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -260,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 33,
+                      "y": -260,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 65,
+                      "y": -260,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 260.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 260,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 223,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 186,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 33,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 65,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "2001"
+                    },
+                    {
+                      "x": 32.61152533805131,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "2002"
+                    },
+                    {
+                      "x": 65.22305067610262,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "2003"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 353.5,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "Year"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 260.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 260,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 223,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 186,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 260,
+                      "fill": "#000",
+                      "text": "300"
+                    },
+                    {
+                      "x": -7,
+                      "y": 222.85714285714286,
+                      "fill": "#000",
+                      "text": "350"
+                    },
+                    {
+                      "x": -7,
+                      "y": 185.71428571428572,
+                      "fill": "#000",
+                      "text": "400"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 260,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -28.5927734375,
+                      "y": 130,
+                      "fill": "#000",
+                      "text": "Average wage, \u00a3"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_0_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 242.17142857142855,
+                      "stroke": "rgb(25, 125, 140)",
+                      "description": "Year: Jan 01, 2001; Average wage, \u00a3: 324; Type: Private Sector"
+                    },
+                    {
+                      "x": 2.7697459876153165,
+                      "y": 240.68571428571428,
+                      "stroke": "rgb(25, 125, 140)",
+                      "description": "Year: Feb 01, 2001; Average wage, \u00a3: 326; Type: Private Sector"
+                    },
+                    {
+                      "x": 5.27145204094528,
+                      "y": 244.39999999999998,
+                      "stroke": "rgb(25, 125, 140)",
+                      "description": "Year: Mar 01, 2001; Average wage, \u00a3: 321; Type: Private Sector"
+                    }
+                  ]
+                }
+              ],
+              "width": 707,
+              "height": 260
+            },
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 243.65714285714287,
+                      "stroke": "rgb(149, 206, 63)",
+                      "description": "Year: Jan 01, 2001; Average wage, \u00a3: 322; Type: Public Sector"
+                    },
+                    {
+                      "x": 2.7697459876153165,
+                      "y": 242.17142857142855,
+                      "stroke": "rgb(149, 206, 63)",
+                      "description": "Year: Feb 01, 2001; Average wage, \u00a3: 324; Type: Public Sector"
+                    },
+                    {
+                      "x": 5.27145204094528,
+                      "y": 241.42857142857144,
+                      "stroke": "rgb(149, 206, 63)",
+                      "description": "Year: Mar 01, 2001; Average wage, \u00a3: 325; Type: Public Sector"
+                    }
+                  ]
+                }
+              ],
+              "width": 707,
+              "height": 260
+            }
+          ]
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 130,
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "shape": "circle",
+              "description": "DateClean: Jan 01, 2001",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 2.7697459876153165,
+              "y": 130,
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "shape": "circle",
+              "description": "DateClean: Feb 01, 2001",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 5.27145204094528,
+              "y": 130,
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "shape": "circle",
+              "description": "DateClean: Mar 01, 2001",
+              "ariaRoleDescription": "point"
+            }
+          ]
+        },
+        {
+          "marktype": "path",
+          "name": "layer_1_voronoi",
+          "role": "mark",
+          "items": [
+            {
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "transparent"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "transparent"
+            }
+          ]
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 242.17142857142855,
+              "fill": "transparent",
+              "stroke": "rgb(25, 125, 140)",
+              "shape": "circle",
+              "description": "DateClean: Jan 01, 2001; Value: 324; Type: Private Sector",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 2.7697459876153165,
+              "y": 240.68571428571428,
+              "fill": "transparent",
+              "stroke": "rgb(25, 125, 140)",
+              "shape": "circle",
+              "description": "DateClean: Feb 01, 2001; Value: 326; Type: Private Sector",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 5.27145204094528,
+              "y": 244.39999999999998,
+              "fill": "transparent",
+              "stroke": "rgb(25, 125, 140)",
+              "shape": "circle",
+              "description": "DateClean: Mar 01, 2001; Value: 321; Type: Private Sector",
+              "ariaRoleDescription": "point"
+            }
+          ]
+        },
+        {
+          "marktype": "rule",
+          "name": "layer_3_marks",
+          "role": "mark",
+          "items": []
+        },
+        {
+          "marktype": "text",
+          "name": "layer_4_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 242.17142857142855,
+              "fill": "rgb(25, 125, 140)",
+              "text": " ",
+              "description": "DateClean: Jan 01, 2001; Value: 324; Type: Private Sector"
+            },
+            {
+              "x": 2.7697459876153165,
+              "y": 240.68571428571428,
+              "fill": "rgb(25, 125, 140)",
+              "text": " ",
+              "description": "DateClean: Feb 01, 2001; Value: 326; Type: Private Sector"
+            },
+            {
+              "x": 5.27145204094528,
+              "y": 244.39999999999998,
+              "fill": "rgb(25, 125, 140)",
+              "text": " ",
+              "description": "DateClean: Mar 01, 2001; Value: 321; Type: Private Sector"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 7,
+                                      "y": 7,
+                                      "fill": "rgb(25, 125, 140)",
+                                      "stroke": "rgb(25, 125, 140)",
+                                      "shape": "circle"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 18,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "Private Sector"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 100.16552734375,
+                              "height": 16
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 7,
+                                      "y": 7,
+                                      "fill": "rgb(149, 206, 63)",
+                                      "stroke": "rgb(149, 206, 63)",
+                                      "shape": "circle"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 18,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "Public Sector"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 20,
+                              "width": 100.16552734375,
+                              "height": 16
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0
+                    }
+                  ]
+                }
+              ],
+              "x": 588,
+              "y": 206,
+              "width": 101,
+              "height": 36
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "items": [
+                    {
+                      "fill": "black",
+                      "text": "Seasonally Adjusted Total Pay"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "title-subtitle",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 16,
+                      "fill": "#000",
+                      "text": "Excluding Arrears, Source: ONS"
+                    }
+                  ]
+                }
+              ],
+              "x": -39.5927734375,
+              "y": -49.171428571428564
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 707,
+      "height": 260,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

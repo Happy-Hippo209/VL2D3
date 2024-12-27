@@ -1,0 +1,167 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Falkensee Population Over Time</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.6.1/d3.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        svg {
+            overflow: visible;
+        }
+    </style>
+</head>
+<body>
+    <svg id="chart"></svg>
+    <script>
+        // Data from Vega-Lite specification
+        const data = [
+            { year: new Date(1875, 0, 1), population: 1309 },
+            { year: new Date(1890, 0, 1), population: 1558 },
+            { year: new Date(1910, 0, 1), population: 4512 },
+            { year: new Date(1925, 0, 1), population: 8180 },
+            { year: new Date(1933, 0, 1), population: 15915 },
+            { year: new Date(1939, 0, 1), population: 24824 },
+            { year: new Date(1946, 0, 1), population: 28275 },
+            { year: new Date(1950, 0, 1), population: 29189 },
+            { year: new Date(1964, 0, 1), population: 29881 },
+            { year: new Date(1971, 0, 1), population: 26007 },
+            { year: new Date(1981, 0, 1), population: 24029 },
+            { year: new Date(1985, 0, 1), population: 23340 },
+            { year: new Date(1989, 0, 1), population: 22307 },
+            { year: new Date(1990, 0, 1), population: 22087 },
+            { year: new Date(1991, 0, 1), population: 22139 },
+            { year: new Date(1992, 0, 1), population: 22105 },
+            { year: new Date(1993, 0, 1), population: 22242 },
+            { year: new Date(1994, 0, 1), population: 22801 },
+            { year: new Date(1995, 0, 1), population: 24273 },
+            { year: new Date(1996, 0, 1), population: 25640 },
+            { year: new Date(1997, 0, 1), population: 27393 },
+            { year: new Date(1998, 0, 1), population: 29505 },
+            { year: new Date(1999, 0, 1), population: 32124 },
+            { year: new Date(2000, 0, 1), population: 33791 },
+            { year: new Date(2001, 0, 1), population: 35297 },
+            { year: new Date(2002, 0, 1), population: 36179 },
+            { year: new Date(2003, 0, 1), population: 36829 },
+            { year: new Date(2004, 0, 1), population: 37493 },
+            { year: new Date(2005, 0, 1), population: 38376 },
+            { year: new Date(2006, 0, 1), population: 39008 },
+            { year: new Date(2007, 0, 1), population: 39366 },
+            { year: new Date(2008, 0, 1), population: 39821 },
+            { year: new Date(2009, 0, 1), population: 40179 },
+            { year: new Date(2010, 0, 1), population: 40511 },
+            { year: new Date(2011, 0, 1), population: 40465 },
+            { year: new Date(2012, 0, 1), population: 40905 },
+            { year: new Date(2013, 0, 1), population: 41258 },
+            { year: new Date(2014, 0, 1), population: 41777 }
+        ];
+
+        const events = [
+            { start: new Date(1933, 0, 1), end: new Date(1945, 0, 1), event: "Nazi Rule" },
+            { start: new Date(1948, 0, 1), end: new Date(1989, 0, 1), event: "GDR (East Germany)" }
+        ];
+
+        // Set up dimensions
+        const margin = { top: 20, right: 60, bottom: 40, left: 60 };
+        const width = 500;
+        const height = 300;
+        const svg = d3.select("#chart")
+            .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+            .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Scales
+        const x = d3.scaleTime()
+            .domain(d3.extent(data, d => d.year))
+            .range([0, width]);
+
+        const y = d3.scaleLinear()
+            .domain([0, d3.max(data, d => d.population)]).nice()
+            .range([height, 0]);
+
+        const color = d3.scaleOrdinal()
+            .domain(events.map(e => e.event))
+            .range(["#f58518", "#4c78a8"]);
+
+        // Axis
+        const xAxis = d3.axisBottom(x).ticks(width / 80).tickSizeOuter(0);
+        const yAxis = d3.axisLeft(y);
+
+        // Add rectangles for events
+        svg.append("g")
+            .selectAll("rect")
+            .data(events)
+            .join("rect")
+            .attr("x", d => x(d.start))
+            .attr("width", d => x(d.end) - x(d.start))
+            .attr("y", 0)
+            .attr("height", height)
+            .attr("fill", d => color(d.event))
+            .attr("opacity", 0.3);
+
+        // Add line
+        svg.append("path")
+            .datum(data)
+            .attr("fill", "none")
+            .attr("stroke", "#333")
+            .attr("stroke-width", 1.5)
+            .attr("d", d3.line()
+                .x(d => x(d.year))
+                .y(d => y(d.population))
+            );
+
+        // Add points
+        svg.append("g")
+            .selectAll("circle")
+            .data(data)
+            .join("circle")
+            .attr("cx", d => x(d.year))
+            .attr("cy", d => y(d.population))
+            .attr("r", 3)
+            .attr("fill", "#333");
+
+        // Draw the axis
+        svg.append("g")
+            .attr("class", "x-axis")
+            .attr("transform", `translate(0,${height})`)
+            .call(xAxis);
+
+        svg.append("g")
+            .attr("class", "y-axis")
+            .call(yAxis);
+
+        // Add legends
+        const legend = svg.append("g")
+            .attr("transform", `translate(${width + 10}, 10)`)
+            .attr("font-family", "sans-serif")
+            .attr("font-size", 10)
+            .attr("text-anchor", "start");
+
+        events.forEach((e, i) => {
+            const g = legend.append("g").attr("transform", `translate(0, ${i * 20})`);
+            g.append("rect")
+                .attr("x", 0)
+                .attr("width", 16)
+                .attr("height", 16)
+                .attr("fill", color(e.event));
+
+            g.append("text")
+                .attr("x", 24)
+                .attr("y", 8)
+                .attr("dy", "0.35em")
+                .text(e.event);
+        });
+    </script>
+</body>
+</html>
+```

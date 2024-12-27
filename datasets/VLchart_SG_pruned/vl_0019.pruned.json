@@ -1,0 +1,313 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 43,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 86,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": 42.857142857142854,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "5"
+                    },
+                    {
+                      "x": 85.71428571428571,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "10"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 150,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "Total Floors (binned)"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 400.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 5,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 17,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 28,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 5.214285714285714,
+                      "fill": "#000",
+                      "text": "Appellate Court / Fifth District"
+                    },
+                    {
+                      "x": -7,
+                      "y": 16.642857142857142,
+                      "fill": "#000",
+                      "text": "Appellate Court / Fourth District"
+                    },
+                    {
+                      "x": -7,
+                      "y": 28.071428571428573,
+                      "fill": "#000",
+                      "text": "Appellate Court / Second District"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -190.013671875,
+                      "y": 200,
+                      "fill": "#000",
+                      "text": "Agency Name"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "name": "selector002_brush_bg",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "fill": "#333"
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0.5,
+              "y": 125.71428571428572,
+              "width": 42.857142857142854,
+              "height": 11.428571428571429,
+              "fill": "rgb(28, 49, 133)",
+              "description": "Total Floors (binned): 0 \u2013 5; Agency Name: Department of Natural Resources; Count of Records: 3212"
+            },
+            {
+              "x": 0.5,
+              "y": 80,
+              "width": 42.857142857142854,
+              "height": 11.428571428571429,
+              "fill": "rgb(93, 191, 191)",
+              "description": "Total Floors (binned): 0 \u2013 5; Agency Name: Department of Corrections; Count of Records: 1394"
+            },
+            {
+              "x": 0.5,
+              "y": 91.42857142857143,
+              "width": 42.857142857142854,
+              "height": 11.428571428571429,
+              "fill": "rgb(194, 231, 181)",
+              "description": "Total Floors (binned): 0 \u2013 5; Agency Name: Department of Human Services; Count of Records: 594"
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "name": "selector002_brush",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0,
+              "fill": "transparent",
+              "stroke": null
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {},
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 137.77639364683898,
+                              "fill": "#000",
+                              "text": "1,000"
+                            },
+                            {
+                              "x": 18,
+                              "y": 75.49050140143258,
+                              "fill": "#000",
+                              "text": "2,000"
+                            },
+                            {
+                              "x": 18,
+                              "y": 13.20460915602617,
+                              "fill": "#000",
+                              "text": "3,000"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "Count of Records"
+                    }
+                  ]
+                }
+              ],
+              "x": 318,
+              "y": 0,
+              "width": 96,
+              "height": 216
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 400,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

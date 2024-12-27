@@ -1,0 +1,125 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3.js v7 Visualization</title>
+    <style>
+        /* Inline CSS for visualization styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f9f9f9;
+        }
+
+        svg {
+            width: 100%;
+            max-width: 960px;
+            height: auto;
+        }
+
+        .axis line, .axis path {
+            stroke: #888;
+        }
+
+        .axis text {
+            font-size: 12px;
+            fill: #000;
+        }
+
+        .errorband {
+            fill: #4c78a8;
+            fill-opacity: 0.3;
+        }
+
+        .line {
+            fill: none;
+            stroke: #4c78a8;
+            stroke-width: 2px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Create a div container for the visualization -->
+    <div id="chart"></div>
+    
+    <!-- Load D3.js from CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        // Data values equivalent to the JSON provided in the Vega-Lite spec
+        const data = [
+            { "ci1": 23.5007, "ci0": 19.6912, "center": 21.5735, "Year": new Date(1976, 0, 1) },
+            { "ci1": 25.8214, "ci0": 20.8554, "center": 23.375, "Year": new Date(1977, 0, 1) },
+            { "ci1": 26.4472, "ci0": 21.9749, "center": 24.0611, "Year": new Date(1978, 0, 1) },
+            { "ci1": 27.7074, "ci0": 22.6203, "center": 25.0931, "Year": new Date(1979, 0, 1) }
+        ];
+
+        const margin = { top: 20, right: 30, bottom: 40, left: 50 },
+              width = 800 - margin.left - margin.right,
+              height = 400 - margin.top - margin.bottom;
+
+        // Create SVG container
+        const svg = d3.select("#chart").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Define scales
+        const x = d3.scaleTime()
+            .domain(d3.extent(data, d => d.Year))
+            .range([0, width]);
+
+        const y = d3.scaleLinear()
+            .domain([d3.min(data, d => d.ci0), d3.max(data, d => d.ci1)])
+            .range([height, 0]);
+
+        // Define x-axis
+        const xAxis = d3.axisBottom(x).ticks(d3.timeYear.every(1));
+
+        // Add x-axis to the SVG
+        svg.append("g")
+            .attr("transform", `translate(0,${height})`)
+            .call(xAxis)
+            .attr("class", "axis");
+
+        // Define y-axis
+        const yAxis = d3.axisLeft(y);
+
+        // Add y-axis to the SVG
+        svg.append("g")
+            .call(yAxis)
+            .attr("class", "axis");
+
+        // Add error bands (ci0 to ci1 range)
+        svg.append("g")
+            .selectAll("rect")
+            .data(data)
+            .join("rect")
+            .attr("class", "errorband")
+            .attr("x", d => x(d.Year))
+            .attr("width", width / data.length - 1)
+            .attr("y", d => y(d.ci1))
+            .attr("height", d => y(d.ci0) - y(d.ci1));
+        
+        // Add line for center value
+        const line = d3.line()
+            .x(d => x(d.Year))
+            .y(d => y(d.center));
+
+        svg.append("path")
+            .datum(data)
+            .attr("class", "line")
+            .attr("d", line);
+    </script>
+</body>
+</html>
+```
+
+This complete HTML file fulfills the requirements provided. It makes use of D3.js v7 to create an error band chart layered with a line for center values, all within a responsive SVG element, and conforms to modern web standards. The CSS styles ensure a clean look, while the JavaScript code is well structured for clarity and functionality.

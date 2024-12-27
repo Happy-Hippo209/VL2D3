@@ -1,0 +1,369 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 112,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 225,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 564,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 543,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 112,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 225,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "0.00"
+                    },
+                    {
+                      "x": 112.4,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "0.10"
+                    },
+                    {
+                      "x": 224.8,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "0.20"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 281,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "Mobility"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 564,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 543,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "fill": "#000",
+                      "text": "1,000"
+                    },
+                    {
+                      "x": -7,
+                      "y": 563.8764005203222,
+                      "fill": "#000",
+                      "text": "2,000"
+                    },
+                    {
+                      "x": -7,
+                      "y": 542.7454494336405,
+                      "fill": "#000",
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -68.5927734375,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "Population"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "symbol",
+          "name": "marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 69.9114627772,
+              "y": 268.74197378508467,
+              "fill": "transparent",
+              "stroke": "rgb(0, 191, 191)",
+              "shape": "circle",
+              "description": "Mobility: 0.0621988103; Population: 576081; Income (binned): 30000 \u2013 40000",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 60.30478067240001,
+              "y": 317.0898933317819,
+              "fill": "transparent",
+              "stroke": "rgb(64, 255, 64)",
+              "shape": "circle",
+              "description": "Mobility: 0.0536519401; Population: 227816; Income (binned): 20000 \u2013 30000",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 81.64189342600001,
+              "y": 381.09864958965784,
+              "fill": "transparent",
+              "stroke": "rgb(64, 255, 64)",
+              "shape": "circle",
+              "description": "Mobility: 0.0726351365; Population: 66708; Income (binned): 20000 \u2013 30000",
+              "ariaRoleDescription": "point"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-band",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 160,
+                              "width": 16,
+                              "height": 40,
+                              "fill": "rgb(191, 191, 0)",
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 120,
+                              "width": 16,
+                              "height": 40,
+                              "fill": "rgb(64, 255, 64)",
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 80,
+                              "width": 16,
+                              "height": 40,
+                              "fill": "rgb(0, 191, 191)",
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 200,
+                              "fill": "#000",
+                              "text": null
+                            },
+                            {
+                              "x": 18,
+                              "y": 160,
+                              "fill": "#000",
+                              "text": "20,000"
+                            },
+                            {
+                              "x": 18,
+                              "y": 120,
+                              "fill": "#000",
+                              "text": "30,000"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "Income (binned)"
+                    }
+                  ]
+                }
+              ],
+              "x": 580,
+              "y": 0,
+              "width": 92,
+              "height": 216
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 562,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

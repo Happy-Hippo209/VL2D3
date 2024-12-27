@@ -1,0 +1,268 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 50,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 100,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 570,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 50,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 100,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "Jan 01, 2012 15:00"
+                    },
+                    {
+                      "x": 50,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "Jan 01, 2012 15:15"
+                    },
+                    {
+                      "x": 100,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "Jan 01, 2012 15:30"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "date (year-month-date-hours-minutes)"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 570,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 540,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": -7,
+                      "y": 570,
+                      "fill": "#000",
+                      "text": "10"
+                    },
+                    {
+                      "x": -7,
+                      "y": 540,
+                      "fill": "#000",
+                      "text": "20"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -28.5927734375,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "price"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "line",
+          "name": "marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 150,
+              "stroke": "#4c78a8",
+              "description": "date (year-month-date-hours-minutes): Jan 01, 2012 15:00; price: 150"
+            },
+            {
+              "x": 200,
+              "y": 300,
+              "stroke": "#4c78a8",
+              "description": "date (year-month-date-hours-minutes): Jan 01, 2012 16:00; price: 100"
+            },
+            {
+              "x": 400,
+              "y": 90.00000000000001,
+              "stroke": "#4c78a8",
+              "description": "date (year-month-date-hours-minutes): Jan 01, 2012 17:00; price: 170"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

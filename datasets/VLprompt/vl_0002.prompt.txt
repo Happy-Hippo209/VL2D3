@@ -1,0 +1,568 @@
+Task: Convert the Vega-Lite visualization to a complete HTML file using D3.js v7.
+
+Key Requirements:
+- Create a complete, self-contained HTML file
+- Use ONLY D3.js version 7
+- Include proper viewport settings and responsive design
+- Ensure cross-browser compatibility
+
+Expected HTML Structure:
+- DOCTYPE declaration
+- HTML5 semantic structure
+- D3.js v7 CDN inclusion
+- Inline CSS for visualization styling
+- Inline JavaScript with D3.js code
+
+Reference Materials:
+1. Original Vega-Lite Specification:
+```json
+{
+  "config": {
+    "view": {
+      "continuousWidth": 400,
+      "continuousHeight": 300
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "color": "dodgerblue"
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "type": "temporal",
+            "field": "year",
+            "format": "%Y",
+            "title": "year"
+          },
+          {
+            "type": "nominal",
+            "field": "km^3",
+            "format": ".2f"
+          }
+        ],
+        "x": {
+          "type": "temporal",
+          "field": "year",
+          "timeUnit": "year",
+          "title": "year"
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "km^3",
+          "title": "Oil Production [km^3]"
+        }
+      },
+      "height": 300,
+      "width": "container"
+    },
+    {
+      "mark": {
+        "type": "point",
+        "color": "dodgerblue",
+        "filled": true
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "type": "temporal",
+            "field": "year",
+            "format": "%Y",
+            "title": "year"
+          },
+          {
+            "type": "nominal",
+            "field": "km^3",
+            "format": ".2f"
+          }
+        ],
+        "x": {
+          "type": "temporal",
+          "field": "year",
+          "timeUnit": "year",
+          "title": "year"
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "km^3",
+          "title": "Oil Production [km^3]"
+        }
+      },
+      "height": 300,
+      "width": "container"
+    }
+  ],
+  "data": {
+    "name": "data-c30da01c35dc9c933a536fefc68a357a"
+  },
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "datasets": {
+    "data-c30da01c35dc9c933a536fefc68a357a": [
+      {
+        "year": "1980-01-01T00:00:00",
+        "km^3": 3.713246844512338
+      },
+      {
+        "year": "1981-01-01T00:00:00",
+        "km^3": 3.5167560366183768
+      },
+      {
+        "year": "1982-01-01T00:00:00",
+        "km^3": 3.37156406929685
+      },
+      {
+        "year": "1983-01-01T00:00:00",
+        "km^3": 3.3616408772856663
+      },
+      {
+        "year": "1984-01-01T00:00:00",
+        "km^3": 3.456462489836975
+      },
+      {
+        "year": "1985-01-01T00:00:00",
+        "km^3": 3.432844132243106
+      },
+      {
+        "year": "1986-01-01T00:00:00",
+        "km^3": 3.570898364960097
+      },
+      {
+        "year": "1987-01-01T00:00:00",
+        "km^3": 3.6037435502134882
+      },
+      {
+        "year": "1988-01-01T00:00:00",
+        "km^3": 3.737097323556761
+      },
+      {
+        "year": "1989-01-01T00:00:00",
+        "km^3": 3.802439511887712
+      },
+      {
+        "year": "1990-01-01T00:00:00",
+        "km^3": 3.8553632026140243
+      },
+      {
+        "year": "1991-01-01T00:00:00",
+        "km^3": 3.849676227075451
+      },
+      {
+        "year": "1992-01-01T00:00:00",
+        "km^3": 3.8620366943174527
+      },
+      {
+        "year": "1993-01-01T00:00:00",
+        "km^3": 3.8938953634059885
+      },
+      {
+        "year": "1994-01-01T00:00:00",
+        "km^3": 3.983146061144001
+      },
+      {
+        "year": "1995-01-01T00:00:00",
+        "km^3": 4.079882675662382
+      },
+      {
+        "year": "1996-01-01T00:00:00",
+        "km^3": 4.177373684895061
+      },
+      {
+        "year": "1997-01-01T00:00:00",
+        "km^3": 4.30701351502947
+      },
+      {
+        "year": "1998-01-01T00:00:00",
+        "km^3": 4.3919119355695955
+      },
+      {
+        "year": "1999-01-01T00:00:00",
+        "km^3": 4.342992339865339
+      },
+      {
+        "year": "2000-01-01T00:00:00",
+        "km^3": 4.510642057527968
+      },
+      {
+        "year": "2001-01-01T00:00:00",
+        "km^3": 4.50739235722021
+      },
+      {
+        "year": "2002-01-01T00:00:00",
+        "km^3": 4.4743730808789035
+      },
+      {
+        "year": "2003-01-01T00:00:00",
+        "km^3": 4.620551564365285
+      },
+      {
+        "year": "2004-01-01T00:00:00",
+        "km^3": 4.8466958875675195
+      },
+      {
+        "year": "2005-01-01T00:00:00",
+        "km^3": 4.941807651932021
+      },
+      {
+        "year": "2006-01-01T00:00:00",
+        "km^3": 4.948771295448641
+      },
+      {
+        "year": "2007-01-01T00:00:00",
+        "km^3": 4.9517308439432055
+      },
+      {
+        "year": "2008-01-01T00:00:00",
+        "km^3": 5.029375469153518
+      },
+      {
+        "year": "2009-01-01T00:00:00",
+        "km^3": 4.9824289057789715
+      },
+      {
+        "year": "2010-01-01T00:00:00",
+        "km^3": 5.140793765419437
+      },
+      {
+        "year": "2011-01-01T00:00:00",
+        "km^3": 5.1664431857056545
+      },
+      {
+        "year": "2012-01-01T00:00:00",
+        "km^3": 5.287552552532204
+      },
+      {
+        "year": "2013-01-01T00:00:00",
+        "km^3": 5.32092001104934
+      },
+      {
+        "year": "2014-01-01T00:00:00",
+        "km^3": 5.470406225206118
+      },
+      {
+        "year": "2015-01-01T00:00:00",
+        "km^3": 5.634400030022518
+      },
+      {
+        "year": "2016-01-01T00:00:00",
+        "km^3": 5.663473241704407
+      },
+      {
+        "year": "2017-01-01T00:00:00",
+        "km^3": 5.696666609133629
+      },
+      {
+        "year": "2018-01-01T00:00:00",
+        "km^3": 5.848764189609139
+      }
+    ]
+  }
+}
+```
+
+2. Scene Graph Structure:
+```json
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -300,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 40,
+                      "y": -300,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 80,
+                      "y": -300,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 40,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 80,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1980"
+                    },
+                    {
+                      "x": 40.131268011527375,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1982"
+                    },
+                    {
+                      "x": 80.20763688760807,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1984"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 381,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "year"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 250,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": -7,
+                      "y": 250,
+                      "fill": "#000",
+                      "text": "1"
+                    },
+                    {
+                      "x": -7,
+                      "y": 200.00000000000003,
+                      "fill": "#000",
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -16.8642578125,
+                      "y": 150,
+                      "fill": "#000",
+                      "text": "Oil Production [km^3]"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "line",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 114.3376577743831,
+              "stroke": "dodgerblue",
+              "description": "year: 1980; Oil Production [km^3]: 3.71324684451; km^3: 3.71"
+            },
+            {
+              "x": 20.093083573487032,
+              "y": 124.16219816908118,
+              "stroke": "dodgerblue",
+              "description": "year: 1981; Oil Production [km^3]: 3.51675603662; km^3: 3.52"
+            },
+            {
+              "x": 40.131268011527375,
+              "y": 131.4217965351575,
+              "stroke": "dodgerblue",
+              "description": "year: 1982; Oil Production [km^3]: 3.3715640693; km^3: 3.37"
+            }
+          ]
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 114.3376577743831,
+              "fill": "dodgerblue",
+              "shape": "circle",
+              "description": "year: 1980; Oil Production [km^3]: 3.71324684451; km^3: 3.71",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 20.093083573487032,
+              "y": 124.16219816908118,
+              "fill": "dodgerblue",
+              "shape": "circle",
+              "description": "year: 1981; Oil Production [km^3]: 3.51675603662; km^3: 3.52",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 40.131268011527375,
+              "y": 131.4217965351575,
+              "fill": "dodgerblue",
+              "shape": "circle",
+              "description": "year: 1982; Oil Production [km^3]: 3.3715640693; km^3: 3.37",
+              "ariaRoleDescription": "point"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 762,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}
+```
+
+Please provide a complete HTML file with embedded D3.js v7 code below:
+```html

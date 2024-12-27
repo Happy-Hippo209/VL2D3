@@ -1,0 +1,109 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Line Chart with D3.js v7</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      height: 100vh;
+      align-items: center;
+    }
+    svg {
+      max-width: 100%;
+      height: auto;
+    }
+    .axis path, .axis line {
+      fill: none;
+      stroke: #888;
+      shape-rendering: crispEdges;
+    }
+    .axis text {
+      font-size: 12px;
+    }
+    .grid .tick line {
+      stroke: #ddd;
+    }
+  </style>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+
+<svg id="chart"></svg>
+
+<script>
+  // Dimensions and margins
+  const margin = {top: 20, right: 30, bottom: 30, left: 40};
+  const width = 960 - margin.left - margin.right;
+  const height = 500 - margin.top - margin.bottom;
+
+  // Create SVG
+  const svg = d3.select("#chart")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+  // Load Data
+  d3.json("https://raw.githubusercontent.com/scottyhq/snotel/0d81e09e0c53f92c68dc8f67f8f64b4266e56a17/301_CA_SNTL_slim.json").then(data => {
+    // Parse date and convert SNWD to inches (from meters)
+    const parseDate = d3.timeParse("%Y-%m-%dT%H:%M:%S");
+    data.forEach(d => {
+      d.datetime = parseDate(d.datetime);
+      d.SNWD = +d.SNWD * 39.3701;  // Convert meters to inches
+    });
+
+    // X and Y scales
+    const x = d3.scaleTime()
+      .domain(d3.extent(data, d => d.datetime))
+      .range([0, width]);
+      
+    const y = d3.scaleLinear()
+      .domain([0, d3.max(data, d => d.SNWD)])
+      .nice()
+      .range([height, 0]);
+
+    // Add the line
+    svg.append("path")
+      .datum(data)
+      .attr("fill", "none")
+      .attr("stroke", "#4c78a8")
+      .attr("stroke-width", 1.5)
+      .attr("d", d3.line()
+        .x(d => x(d.datetime))
+        .y(d => y(d.SNWD))
+      );
+
+    // Add X and Y axes
+    svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", `translate(0,${height})`)
+      .call(d3.axisBottom(x));
+    
+    svg.append("g")
+      .attr("class", "y axis")
+      .call(d3.axisLeft(y));
+
+    // Add gridlines (optional, for aesthetics)
+    const gridlinesY = d3.axisLeft(y)
+      .tickSize(-width)
+      .tickFormat("")
+      .ticks(10);
+
+    svg.append("g")
+      .attr("class", "grid")
+      .call(gridlinesY);
+  }).catch(error => {
+    console.error("Failed to load data:", error);
+  });
+
+</script>
+
+</body>
+</html>
+```

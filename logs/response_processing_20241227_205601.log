@@ -1,0 +1,51 @@
+2024-12-27 20:56:02,446 - INFO - Found 30 prompt files to process
+2024-12-27 20:56:02,462 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0000.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:56:02,466 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0001.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:56:35,791 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:56:35,797 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0002.prompt.txt
+2024-12-27 20:56:35,820 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0003.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:56:35,853 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0004.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:56:48,360 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:56:48,364 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0006.prompt.txt
+2024-12-27 20:57:02,298 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:57:02,298 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0007.prompt.txt
+2024-12-27 20:57:02,310 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0008.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:57:02,321 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0009.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:57:02,350 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0010.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:57:09,046 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:57:09,049 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0011.prompt.txt
+2024-12-27 20:57:19,086 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:57:19,086 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0012.prompt.txt
+2024-12-27 20:57:45,169 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:57:45,171 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0013.prompt.txt
+2024-12-27 20:57:45,175 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0014.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:57:45,206 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0015.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:57:45,236 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0016.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:57:55,900 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:57:55,900 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0017.prompt.txt
+2024-12-27 20:57:55,956 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0018.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:58:11,897 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:58:11,899 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0019.prompt.txt
+2024-12-27 20:58:11,920 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0020.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:58:30,582 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:58:30,585 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0021.prompt.txt
+2024-12-27 20:58:56,496 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:58:56,496 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0022.prompt.txt
+2024-12-27 20:58:56,520 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0023.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:59:09,700 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:59:09,701 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0024.prompt.txt
+2024-12-27 20:59:35,990 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:59:35,991 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0025.prompt.txt
+2024-12-27 20:59:58,211 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:59:58,213 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0026.prompt.txt
+2024-12-27 20:59:58,218 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0027.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 21:00:05,342 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 21:00:05,342 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0028.prompt.txt
+2024-12-27 21:00:23,441 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 21:00:23,443 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0029.prompt.txt
+2024-12-27 21:00:37,581 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 21:00:37,585 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0030.prompt.txt
+2024-12-27 21:00:37,587 - INFO - Processing completed:
+2024-12-27 21:00:37,587 - INFO -   Successfully processed: 16
+2024-12-27 21:00:37,587 - INFO -   Failed: 14
+2024-12-27 21:00:37,587 - INFO -   Skipped: 0

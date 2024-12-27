@@ -1,0 +1,64 @@
+2024-12-27 20:17:38,766 - INFO - Processed vl_0000.sg.json:
+2024-12-27 20:17:38,766 - INFO -   Original size: 173,224 characters
+2024-12-27 20:17:38,766 - INFO -   Pruned size: 15,771 characters
+2024-12-27 20:17:38,766 - INFO -   Reduction: 90.90%
+2024-12-27 20:17:38,766 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0000.pruned.json
+
+2024-12-27 20:17:38,770 - INFO - Processed vl_0001.sg.json:
+2024-12-27 20:17:38,770 - INFO -   Original size: 56,530 characters
+2024-12-27 20:17:38,770 - INFO -   Pruned size: 9,066 characters
+2024-12-27 20:17:38,770 - INFO -   Reduction: 83.96%
+2024-12-27 20:17:38,770 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0001.pruned.json
+
+2024-12-27 20:17:38,770 - INFO - Processed vl_0002.sg.json:
+2024-12-27 20:17:38,770 - INFO -   Original size: 28,838 characters
+2024-12-27 20:17:38,770 - INFO -   Pruned size: 3,249 characters
+2024-12-27 20:17:38,770 - INFO -   Reduction: 88.73%
+2024-12-27 20:17:38,770 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0002.pruned.json
+
+2024-12-27 20:17:38,776 - INFO - Processed vl_0003.sg.json:
+2024-12-27 20:17:38,776 - INFO -   Original size: 305,278 characters
+2024-12-27 20:17:38,776 - INFO -   Pruned size: 8,840 characters
+2024-12-27 20:17:38,776 - INFO -   Reduction: 97.10%
+2024-12-27 20:17:38,776 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0003.pruned.json
+
+2024-12-27 20:17:38,780 - INFO - Processed vl_0004.sg.json:
+2024-12-27 20:17:38,780 - INFO -   Original size: 70,797 characters
+2024-12-27 20:17:38,780 - INFO -   Pruned size: 2,637 characters
+2024-12-27 20:17:38,780 - INFO -   Reduction: 96.28%
+2024-12-27 20:17:38,780 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0004.pruned.json
+
+2024-12-27 20:17:38,780 - INFO - Processed vl_0006.sg.json:
+2024-12-27 20:17:38,780 - INFO -   Original size: 3,854 characters
+2024-12-27 20:17:38,780 - INFO -   Pruned size: 2,003 characters
+2024-12-27 20:17:38,780 - INFO -   Reduction: 48.03%
+2024-12-27 20:17:38,780 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0006.pruned.json
+
+2024-12-27 20:17:38,784 - INFO - Processed vl_0007.sg.json:
+2024-12-27 20:17:38,784 - INFO -   Original size: 131,187 characters
+2024-12-27 20:17:38,784 - INFO -   Pruned size: 6,158 characters
+2024-12-27 20:17:38,784 - INFO -   Reduction: 95.31%
+2024-12-27 20:17:38,784 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0007.pruned.json
+
+2024-12-27 20:17:38,784 - INFO - Processed vl_0008.sg.json:
+2024-12-27 20:17:38,784 - INFO -   Original size: 6,116 characters
+2024-12-27 20:17:38,784 - INFO -   Pruned size: 3,269 characters
+2024-12-27 20:17:38,784 - INFO -   Reduction: 46.55%
+2024-12-27 20:17:38,784 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0008.pruned.json
+
+2024-12-27 20:17:38,799 - INFO - Processed vl_0009.sg.json:
+2024-12-27 20:17:38,799 - INFO -   Original size: 605,671 characters
+2024-12-27 20:17:38,799 - INFO -   Pruned size: 6,871 characters
+2024-12-27 20:17:38,799 - INFO -   Reduction: 98.87%
+2024-12-27 20:17:38,799 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0009.pruned.json
+
+2024-12-27 20:17:38,822 - INFO - Processed vl_0010.sg.json:
+2024-12-27 20:17:38,822 - INFO -   Original size: 1,159,094 characters
+2024-12-27 20:17:38,822 - INFO -   Pruned size: 17,471 characters
+2024-12-27 20:17:38,822 - INFO -   Reduction: 98.49%
+2024-12-27 20:17:38,822 - INFO -   Saved to: D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned\vl_0010.pruned.json
+
+2024-12-27 20:17:38,822 - INFO - 
+Processing complete:
+2024-12-27 20:17:38,822 - INFO - Total files processed: 10
+2024-12-27 20:17:38,822 - INFO - Average reduction: 84.42%

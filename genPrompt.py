@@ -5,7 +5,7 @@ import sys
 def main():
     # 参数
     vl_path = r"D:\files\study2024\VL2D3_20241224\datasets\VLchart"
-    sg_path = r"D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG"  
+    sg_path = r"D:\files\study2024\VL2D3_20241224\datasets\VLchart_SG_pruned"  
     output_path = r"D:\files\study2024\VL2D3_20241224\datasets\VLprompt"
     log_dir = r"D:\files\study2024\VL2D3_20241224\logs"
 

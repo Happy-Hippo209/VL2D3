@@ -1,0 +1,114 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity Time Distribution Bar Chart</title>
+    <!-- Include D3.js v7 CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f9f9f9;
+        }
+        .chart {
+            max-width: 800px;
+            width: 95%;
+            height: auto;
+        }
+        .axis text {
+            font-size: 12px;
+        }
+        .bar {
+            fill: #4c78a8;
+        }
+        .axis path, .axis line {
+            fill: none;
+            stroke: #888;
+        }
+    </style>
+</head>
+<body>
+<div id="chart" class="chart"></div>
+<script>
+    // Data based on Vega-Lite specification
+    const data = [
+        {"Activity": "Sleeping", "Time": 8},
+        {"Activity": "Eating", "Time": 2},
+        {"Activity": "TV", "Time": 4},
+        {"Activity": "Work", "Time": 8},
+        {"Activity": "Exercise", "Time": 2}
+    ];
+
+    // Calculate total time
+    const totalTime = data.reduce((acc, d) => acc + d.Time, 0);
+
+    // Calculate percentage of total
+    data.forEach(d => {
+        d.PercentOfTotal = (d.Time / totalTime) * 100;
+    });
+
+    // Set the dimensions and margins of the graph
+    const margin = {top: 20, right: 30, bottom: 40, left: 100};
+    const width = 800 - margin.left - margin.right;
+    const height = data.length * 30 - margin.top - margin.bottom;
+
+    // Append the svg object to the body of the page
+    const svg = d3.select("#chart")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    // X scale
+    const x = d3.scaleLinear()
+        .domain([0, 100])  // % of total time
+        .range([0, width]);
+
+    // Y scale
+    const y = d3.scaleBand()
+        .domain(data.map(d => d.Activity))
+        .range([0, height])
+        .padding(0.1);
+
+    // X Axis
+    svg.append("g")
+        .attr("class", "axis")
+        .attr("transform", `translate(0,${height})`)
+        .call(d3.axisBottom(x))
+        .append("text")
+        .attr("x", width)
+        .attr("y", margin.bottom - 4)
+        .attr("fill", "#000")
+        .attr("text-anchor", "end")
+        .text("% of total Time");
+
+    // Y Axis
+    svg.append("g")
+        .attr("class", "axis")
+        .call(d3.axisLeft(y));
+
+    // Create bars
+    svg.selectAll(".bar")
+        .data(data)
+        .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", 0)
+        .attr("y", d => y(d.Activity))
+        .attr("width", d => x(d.PercentOfTotal))
+        .attr("height", y.bandwidth());
+</script>
+</body>
+</html>
+```
+
+This HTML file creates a responsive bar chart using D3.js v7, replicating the Vega-Lite visualization for activity time distribution. The chart is designed to adjust within the viewport, and it includes scale calculations for the X and Y axes to reflect percentage calculations as described in the Vega-Lite specification.

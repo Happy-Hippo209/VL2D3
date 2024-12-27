@@ -1,0 +1,642 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 40,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 80,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 567,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 533,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 40,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 80,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": 40,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "5,000"
+                    },
+                    {
+                      "x": 80,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "10,000"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "Task Duration (ns)"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 567,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 533,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": -7,
+                      "y": 566.6666666666666,
+                      "fill": "#000",
+                      "text": "10,000"
+                    },
+                    {
+                      "x": -7,
+                      "y": 533.3333333333333,
+                      "fill": "#000",
+                      "text": "20,000"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -48.5927734375,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "Execution Time (ns)"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_0_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0.8,
+                      "y": 368.78000000000003,
+                      "stroke": "#72b7b2",
+                      "description": "Task Duration (ns): 100; Execution Time (ns): 69366; l1: Eager (Thread Pool)"
+                    },
+                    {
+                      "x": 1.6,
+                      "y": 368.05,
+                      "stroke": "#72b7b2",
+                      "description": "Task Duration (ns): 200; Execution Time (ns): 69585; l1: Eager (Thread Pool)"
+                    },
+                    {
+                      "x": 2.4,
+                      "y": 367.99666666666667,
+                      "stroke": "#72b7b2",
+                      "description": "Task Duration (ns): 300; Execution Time (ns): 69601; l1: Eager (Thread Pool)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_1_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0.8,
+                      "y": 371.6466666666667,
+                      "stroke": "#f58518",
+                      "description": "Task Duration (ns): 100; Execution Time (ns): 68506; l2: Deferred (Thread Pool)"
+                    },
+                    {
+                      "x": 1.6,
+                      "y": 370.71333333333337,
+                      "stroke": "#f58518",
+                      "description": "Task Duration (ns): 200; Execution Time (ns): 68786; l2: Deferred (Thread Pool)"
+                    },
+                    {
+                      "x": 2.4,
+                      "y": 370.8933333333333,
+                      "stroke": "#f58518",
+                      "description": "Task Duration (ns): 300; Execution Time (ns): 68732; l2: Deferred (Thread Pool)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_2_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_2_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0.8,
+                      "y": 414.1433333333333,
+                      "stroke": "#4c78a8",
+                      "description": "Task Duration (ns): 100; Execution Time (ns): 55757; l3: Deferred (Inline Executor)"
+                    },
+                    {
+                      "x": 1.6,
+                      "y": 413.5733333333333,
+                      "stroke": "#4c78a8",
+                      "description": "Task Duration (ns): 200; Execution Time (ns): 55928; l3: Deferred (Inline Executor)"
+                    },
+                    {
+                      "x": 2.4,
+                      "y": 413.54,
+                      "stroke": "#4c78a8",
+                      "description": "Task Duration (ns): 300; Execution Time (ns): 55938; l3: Deferred (Inline Executor)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_3_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_3_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0.8,
+                      "y": 416.63,
+                      "stroke": "#54a24b",
+                      "description": "Task Duration (ns): 100; Execution Time (ns): 55011; l4: Execute (Inline Executor)"
+                    },
+                    {
+                      "x": 1.6,
+                      "y": 416.13,
+                      "stroke": "#54a24b",
+                      "description": "Task Duration (ns): 200; Execution Time (ns): 55161; l4: Execute (Inline Executor)"
+                    },
+                    {
+                      "x": 2.4,
+                      "y": 416.07666666666665,
+                      "stroke": "#54a24b",
+                      "description": "Task Duration (ns): 300; Execution Time (ns): 55177; l4: Execute (Inline Executor)"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "layer_4_pathgroup",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "line",
+                  "name": "layer_4_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0.8,
+                      "y": 417.1133333333333,
+                      "stroke": "#e45756",
+                      "description": "Task Duration (ns): 100; Execution Time (ns): 54866; l5: Direct Invoke"
+                    },
+                    {
+                      "x": 1.6,
+                      "y": 416.45666666666665,
+                      "stroke": "#e45756",
+                      "description": "Task Duration (ns): 200; Execution Time (ns): 55063; l5: Direct Invoke"
+                    },
+                    {
+                      "x": 2.4,
+                      "y": 416.41999999999996,
+                      "stroke": "#e45756",
+                      "description": "Task Duration (ns): 300; Execution Time (ns): 55074; l5: Direct Invoke"
+                    }
+                  ]
+                }
+              ],
+              "width": 800,
+              "height": 600
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#4c78a8",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "Deferred (Inline Executor)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 138.0068359375,
+                              "height": 11
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#f58518",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "Deferred (Thread Pool)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 138.0068359375,
+                              "height": 11
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#e45756",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "Direct Invoke"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 26,
+                              "width": 138.0068359375,
+                              "height": 11
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#72b7b2",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "Eager (Thread Pool)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 39,
+                              "width": 138.0068359375,
+                              "height": 11
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "transparent",
+                                      "stroke": "#54a24b",
+                                      "shape": "stroke"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "Execute (Inline Executor)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 52,
+                              "width": 138.0068359375,
+                              "height": 11
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "Execution"
+                    }
+                  ]
+                }
+              ],
+              "x": 820,
+              "y": 0,
+              "width": 139,
+              "height": 79
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

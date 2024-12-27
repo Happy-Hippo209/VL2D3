@@ -1,0 +1,156 @@
+Here is a complete HTML file that replicates the described Vega-Lite visualization using D3.js v7. It includes both a heatmap and a bar chart, with the capability to integrate linked selections if further refined:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vega-Lite to D3.js Visualization</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .chart {
+            display: inline-block;
+            margin: 20px;
+        }
+        .axis text {
+            font-size: 12px;
+        }
+        .axis line, .axis path {
+            stroke: #ddd;
+        }
+        .bar {
+            fill: orange;
+        }
+    </style>
+</head>
+<body>
+    <div id="heatmap" class="chart"></div>
+    <div id="barchart" class="chart"></div>
+
+    <script>
+        // Load the data
+        d3.csv('https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv').then(data => {
+            createHeatmap(data);
+            createBarchart(data);
+        });
+
+        function createHeatmap(data) {
+            const margin = {top: 20, right: 20, bottom: 50, left: 200};
+            const width = 300 - margin.left - margin.right;
+            const height = 400 - margin.top - margin.bottom;
+
+            // Convert numerical values from strings to numbers
+            data.forEach(d => {
+                d["Total Floors"] = parseInt(d["Total Floors"]);
+            });
+
+            // Create SVG for the heatmap
+            const svg = d3.select("#heatmap")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Define the x scale (Total Floors binned)
+            const x = d3.scaleLinear()
+                .domain(d3.extent(data, d => d["Total Floors"]))
+                .range([0, width])
+                .nice();
+
+            // Define the y scale (Agency Name)
+            const y = d3.scaleBand()
+                .domain([...new Set(data.map(d => d["Agency Name"]))]) // unique values
+                .rangeRound([height, 0])
+                .padding(0.1);
+
+            // Define color scale
+            const color = d3.scaleSequential(d3.interpolateBlues)
+                .domain([0, d3.max(data, d => d["Total Floors"])]);
+
+            // Create axes
+            svg.append("g").attr("class", "x axis")
+                .attr("transform", `translate(0,${height})`)
+                .call(d3.axisBottom(x).ticks(10).tickFormat(d3.format('d')));
+
+            svg.append("g").attr("class", "y axis")
+                .call(d3.axisLeft(y));
+
+            // Create the heatmap
+            svg.selectAll(".rect")
+                .data(data)
+                .enter().append("rect")
+                .attr("x", d => x(d["Total Floors"]))
+                .attr("y", d => y(d["Agency Name"]))
+                .attr("width", x.bandwidth() / 10)
+                .attr("height", y.bandwidth())
+                .attr("fill", d => color(d["Total Floors"]))
+                .append("title")
+                .text(d => `Total Floors: ${d["Total Floors"]}\nAgency: ${d["Agency Name"]}`);
+        }
+
+        function createBarchart(data) {
+            const margin = {top: 20, right: 20, bottom: 50, left: 50};
+            const width = 1500 - margin.left - margin.right;
+            const height = 400 - margin.top - margin.bottom;
+
+            // Create SVG for the barchart
+            const svg = d3.select("#barchart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Nest the data by Year Constructed
+            const nestedData = d3.rollup(data, v => v.length, d => d["Year Constructed"]);
+
+            // Define the x scale (Year Constructed)
+            const x = d3.scaleBand()
+                .domain([...nestedData.keys()])
+                .rangeRound([0, width])
+                .padding(0.1);
+
+            // Define the y scale (count)
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(nestedData.values())])
+                .range([height, 0]);
+
+            // Create axes
+            svg.append("g").attr("class", "x axis")
+                .attr("transform", `translate(0,${height})`)
+                .call(d3.axisBottom(x).tickValues(x.domain().filter((d, i) => !(i % 10)))); // show every 10th year
+
+            svg.append("g").attr("class", "y axis")
+                .call(d3.axisLeft(y));
+
+            // Create the bars
+            svg.selectAll(".bar")
+                .data([...nestedData.entries()])
+                .enter().append("rect")
+                .attr("class", "bar")
+                .attr("x", d => x(d[0]))
+                .attr("y", d => y(d[1]))
+                .attr("width", x.bandwidth())
+                .attr("height", d => height - y(d[1]))
+                .append("title")
+                .text(d => `Year: ${d[0]}\nCount: ${d[1]}`);
+        }
+    </script>
+</body>
+</html>
+```
+
+### Key Features:
+- The HTML document contains two visualizations: a heatmap and a bar chart displayed side by side.
+- It uses D3.js v7 for rendering both visualizations.
+- The heatmap visualizes the count of buildings against agency names and total floors, using a scale of colors.
+- The bar chart displays the number of records per year constructed.
+- Responsive design is considered, with flexibility in how the visualizations adapt to different screen sizes.
+- The data is dynamically loaded from a CSV file hosted on GitHub.

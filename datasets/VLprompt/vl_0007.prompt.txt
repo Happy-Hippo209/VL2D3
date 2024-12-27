@@ -1,0 +1,672 @@
+Task: Convert the Vega-Lite visualization to a complete HTML file using D3.js v7.
+
+Key Requirements:
+- Create a complete, self-contained HTML file
+- Use ONLY D3.js version 7
+- Include proper viewport settings and responsive design
+- Ensure cross-browser compatibility
+
+Expected HTML Structure:
+- DOCTYPE declaration
+- HTML5 semantic structure
+- D3.js v7 CDN inclusion
+- Inline CSS for visualization styling
+- Inline JavaScript with D3.js code
+
+Reference Materials:
+1. Original Vega-Lite Specification:
+```json
+{
+  "config": {
+    "view": {
+      "continuousWidth": 400,
+      "continuousHeight": 300
+    }
+  },
+  "hconcat": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv"
+      },
+      "mark": "rect",
+      "encoding": {
+        "color": {
+          "aggregate": "count",
+          "type": "quantitative"
+        },
+        "x": {
+          "bin": {
+            "maxbins": 10
+          },
+          "field": "Total Floors",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Agency Name",
+          "type": "ordinal"
+        }
+      },
+      "height": 400,
+      "selection": {
+        "selector002": {
+          "type": "interval",
+          "encodings": [
+            "x",
+            "y"
+          ]
+        }
+      },
+      "width": 300
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv"
+      },
+      "mark": "bar",
+      "encoding": {
+        "color": {
+          "value": "orange"
+        },
+        "x": {
+          "field": "Year Constructed",
+          "type": "ordinal"
+        },
+        "y": {
+          "aggregate": "count",
+          "field": "Year Constructed",
+          "type": "quantitative"
+        }
+      },
+      "height": 400,
+      "transform": [
+        {
+          "filter": {
+            "selection": "selector002"
+          }
+        }
+      ],
+      "width": 1500
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json"
+}
+```
+
+2. Scene Graph Structure:
+```json
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 43,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 86,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "0"
+                            },
+                            {
+                              "x": 42.857142857142854,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "5"
+                            },
+                            {
+                              "x": 85.71428571428571,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "10"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 150,
+                              "y": 21,
+                              "fill": "#000",
+                              "text": "Total Floors (binned)"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 400.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 5,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 17,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 28,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 5.214285714285714,
+                              "fill": "#000",
+                              "text": "Appellate Court / Fifth District"
+                            },
+                            {
+                              "x": -7,
+                              "y": 16.642857142857142,
+                              "fill": "#000",
+                              "text": "Appellate Court / Fourth District"
+                            },
+                            {
+                              "x": -7,
+                              "y": 28.071428571428573,
+                              "fill": "#000",
+                              "text": "Appellate Court / Second District"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -190.013671875,
+                              "y": 200,
+                              "fill": "#000",
+                              "text": "Agency Name"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector002_brush_bg",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "#333"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0.5,
+                      "y": 125.71428571428572,
+                      "width": 42.857142857142854,
+                      "height": 11.428571428571429,
+                      "fill": "rgb(28, 49, 133)",
+                      "description": "Total Floors (binned): 0 \u2013 5; Agency Name: Department of Natural Resources; Count of Records: 3212"
+                    },
+                    {
+                      "x": 0.5,
+                      "y": 80,
+                      "width": 42.857142857142854,
+                      "height": 11.428571428571429,
+                      "fill": "rgb(93, 191, 191)",
+                      "description": "Total Floors (binned): 0 \u2013 5; Agency Name: Department of Corrections; Count of Records: 1394"
+                    },
+                    {
+                      "x": 0.5,
+                      "y": 91.42857142857143,
+                      "width": 42.857142857142854,
+                      "height": 11.428571428571429,
+                      "fill": "rgb(194, 231, 181)",
+                      "description": "Total Floors (binned): 0 \u2013 5; Agency Name: Department of Human Services; Count of Records: 594"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector002_brush",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "transparent",
+                      "stroke": null
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 300,
+              "height": 400,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 400,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 373,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 347,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 4,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 12,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 20,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 3.6899441340782495,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "0"
+                            },
+                            {
+                              "x": 12.069832402234674,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "1753"
+                            },
+                            {
+                              "x": 20.4497206703911,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "1802"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 750,
+                              "y": 34.45703125000006,
+                              "fill": "#000",
+                              "text": "Year Constructed"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 400.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 400,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 373,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 347,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 400,
+                              "fill": "#000",
+                              "text": "0"
+                            },
+                            {
+                              "x": -7,
+                              "y": 373.3333333333333,
+                              "fill": "#000",
+                              "text": "20"
+                            },
+                            {
+                              "x": -7,
+                              "y": 346.6666666666667,
+                              "fill": "#000",
+                              "text": "40"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 400,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -28.5927734375,
+                              "y": 200,
+                              "fill": "#000",
+                              "text": "Count of Records"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 1123.3240223463686,
+                      "y": 156,
+                      "width": 7.5418994413407825,
+                      "height": 244,
+                      "fill": "orange",
+                      "description": "Year Constructed: 1975; Count of Records: 183",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 1366.3407821229052,
+                      "y": 312,
+                      "width": 7.5418994413407825,
+                      "height": 88,
+                      "fill": "orange",
+                      "description": "Year Constructed: 2004; Count of Records: 66",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 1332.8212290502793,
+                      "y": 46.66666666666668,
+                      "width": 7.5418994413407825,
+                      "height": 353.3333333333333,
+                      "fill": "orange",
+                      "description": "Year Constructed: 2000; Count of Records: 265",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ]
+                }
+              ],
+              "x": 363,
+              "y": 0,
+              "width": 1500,
+              "height": 400,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {},
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 137.77639364683898,
+                              "fill": "#000",
+                              "text": "1,000"
+                            },
+                            {
+                              "x": 18,
+                              "y": 75.49050140143258,
+                              "fill": "#000",
+                              "text": "2,000"
+                            },
+                            {
+                              "x": 18,
+                              "y": 13.20460915602617,
+                              "fill": "#000",
+                              "text": "3,000"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "Count of Records"
+                    }
+                  ]
+                }
+              ],
+              "x": 1883,
+              "y": 0,
+              "width": 96,
+              "height": 216
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 400
+    }
+  ]
+}
+```
+
+Please provide a complete HTML file with embedded D3.js v7 code below:
+```html

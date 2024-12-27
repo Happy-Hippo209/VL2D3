@@ -47,22 +47,49 @@ class VLtoD3PromptGenerator:
 
     def generate_prompt(self, vl_content, sg_content):
         """
-        生成Prompt。
+        Generate a comprehensive prompt for converting Vega-Lite to a complete HTML with D3.js v7.
 
         Parameters:
-        vl_content (dict): Vega-Lite源代码内容。
-        sg_content (dict): 场景图内容。
+        -----------
+        vl_content : dict
+            The Vega-Lite specification content.
+        sg_content : dict
+            The scene graph representation content.
 
         Returns:
-        str: 用于大语言模型的Prompt。
+        --------
+        str
+            A structured prompt for the language model.
         """
         return (
-            "Convert the following Vega-Lite specification to D3.js code.\n\n"
-            "Vega-Lite Specification:\n"
-            f"{json.dumps(vl_content, indent=2)}\n\n"
-            "Scene Graph Representation:\n"
-            f"{json.dumps(sg_content, indent=2)}\n\n"
-            "D3.js Code:"  # 语言模型将在这里生成对应的D3.js代码。
+            "Task: Convert the Vega-Lite visualization to a complete HTML file using D3.js v7.\n\n"
+            
+            "Key Requirements:\n"
+            "- Create a complete, self-contained HTML file\n"
+            "- Use ONLY D3.js version 7\n"
+            "- Include proper viewport settings and responsive design\n"
+            "- Ensure cross-browser compatibility\n\n"
+            
+            "Expected HTML Structure:\n"
+            "- DOCTYPE declaration\n"
+            "- HTML5 semantic structure\n"
+            "- D3.js v7 CDN inclusion\n"
+            "- Inline CSS for visualization styling\n"
+            "- Inline JavaScript with D3.js code\n\n"
+            
+            "Reference Materials:\n"
+            "1. Original Vega-Lite Specification:\n"
+            "```json\n"
+            f"{json.dumps(vl_content, indent=2)}\n"
+            "```\n\n"
+            
+            "2. Scene Graph Structure:\n"
+            "```json\n"
+            f"{json.dumps(sg_content, indent=2)}\n"
+            "```\n\n"
+            
+            "Please provide a complete HTML file with embedded D3.js v7 code below:\n"
+            "```html\n"
         )
 
     def process_files(self):
@@ -73,7 +100,7 @@ class VLtoD3PromptGenerator:
 
         for vl_file in tqdm(vl_files, desc="Processing files"):
             vl_file_path = os.path.join(self.vl_path, vl_file)
-            sg_file_path = os.path.join(self.sg_path, vl_file.replace('.vl.json', '.sg.json'))
+            sg_file_path = os.path.join(self.sg_path, vl_file.replace('.vl.json', '.pruned.json'))
 
             # 确保场景图文件存在
             if not os.path.exists(sg_file_path):

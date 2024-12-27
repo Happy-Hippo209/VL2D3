@@ -1,0 +1,299 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 267,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 534,
+                      "y": -600,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 567,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 533,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 267,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 534,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1976"
+                    },
+                    {
+                      "x": 267.15328467153284,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1977"
+                    },
+                    {
+                      "x": 533.5766423357665,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1978"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "Year (year)"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 600.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 567,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 533,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "fill": "#000",
+                      "text": "19.0"
+                    },
+                    {
+                      "x": -7,
+                      "y": 566.6666666666666,
+                      "fill": "#000",
+                      "text": "19.5"
+                    },
+                    {
+                      "x": -7,
+                      "y": 533.3333333333333,
+                      "fill": "#000",
+                      "text": "20.0"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -31,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "Mean of Miles per Gallon (95% CIs)"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "area",
+          "name": "layer_0_layer_0_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 299.95333333333343,
+              "height": 253.96666666666664,
+              "fill": "#4c78a8",
+              "description": "Year (year): Jan 01, 1976; Mean of Miles per Gallon (95% CIs): 23.5007; upper_ci1: 19.6912; ci0: 19.6912; ci1: 23.5007",
+              "ariaRoleDescription": "errorband"
+            },
+            {
+              "x": 267.15328467153284,
+              "y": 145.23999999999998,
+              "height": 331.0666666666667,
+              "fill": "#4c78a8",
+              "description": "Year (year): Jan 01, 1977; Mean of Miles per Gallon (95% CIs): 25.8214; upper_ci1: 20.8554; ci0: 20.8554; ci1: 25.8214",
+              "ariaRoleDescription": "errorband"
+            },
+            {
+              "x": 533.5766423357665,
+              "y": 103.52000000000005,
+              "height": 298.1533333333332,
+              "fill": "#4c78a8",
+              "description": "Year (year): Jan 01, 1978; Mean of Miles per Gallon (95% CIs): 26.4472; upper_ci1: 21.9749; ci0: 21.9749; ci1: 26.4472",
+              "ariaRoleDescription": "errorband"
+            }
+          ]
+        },
+        {
+          "marktype": "line",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 428.4333333333334,
+              "stroke": "#4c78a8",
+              "description": "Year (year): 1976; center: 21.5735"
+            },
+            {
+              "x": 267.15328467153284,
+              "y": 308.3333333333333,
+              "stroke": "#4c78a8",
+              "description": "Year (year): 1977; center: 23.375"
+            },
+            {
+              "x": 533.5766423357665,
+              "y": 262.59333333333336,
+              "stroke": "#4c78a8",
+              "description": "Year (year): 1978; center: 24.0611"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

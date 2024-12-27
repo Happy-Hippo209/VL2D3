@@ -1,0 +1,320 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 573,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 547,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 573,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 547,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 600,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": -7,
+                      "y": 573.3333333333334,
+                      "fill": "#000",
+                      "text": "2,000"
+                    },
+                    {
+                      "x": -7,
+                      "y": 546.6666666666666,
+                      "fill": "#000",
+                      "text": "4,000"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 600,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -42.728515625,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "population"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 208.6312741378964,
+              "y": 0,
+              "width": 43.165691569715165,
+              "height": 600,
+              "fill": "#f58518",
+              "description": "start (year): 1933; end (year): 1945; event: Nazi Rule"
+            },
+            {
+              "x": 262.58151514761767,
+              "y": 0,
+              "width": 147.49156797400252,
+              "height": 600,
+              "fill": "#4c78a8",
+              "description": "start (year): 1948; end (year): 1989; event: GDR (East Germany)"
+            }
+          ]
+        },
+        {
+          "marktype": "line",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 582.5466666666666,
+              "stroke": "#333",
+              "description": "year (year): 1875; population: 1309"
+            },
+            {
+              "x": 53.960089538565676,
+              "y": 579.2266666666667,
+              "stroke": "#333",
+              "description": "year (year): 1890; population: 1558"
+            },
+            {
+              "x": 125.89378331594165,
+              "y": 539.8399999999999,
+              "stroke": "#333",
+              "description": "year (year): 1910; population: 4512"
+            }
+          ]
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 582.5466666666666,
+              "fill": "transparent",
+              "stroke": "#333",
+              "shape": "circle",
+              "description": "year (year): 1875; population: 1309",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 53.960089538565676,
+              "y": 579.2266666666667,
+              "fill": "transparent",
+              "stroke": "#333",
+              "shape": "circle",
+              "description": "year (year): 1890; population: 1558",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 125.89378331594165,
+              "y": 539.8399999999999,
+              "fill": "transparent",
+              "stroke": "#333",
+              "shape": "circle",
+              "description": "year (year): 1910; population: 4512",
+              "ariaRoleDescription": "point"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "scope",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#4c78a8",
+                                      "shape": "square"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "GDR (East Germany)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 0,
+                              "width": 112.8212890625,
+                              "height": 11
+                            },
+                            {
+                              "items": [
+                                {
+                                  "marktype": "symbol",
+                                  "role": "legend-symbol",
+                                  "items": [
+                                    {
+                                      "x": 6,
+                                      "y": 6,
+                                      "fill": "#f58518",
+                                      "shape": "square"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "legend-label",
+                                  "items": [
+                                    {
+                                      "x": 16,
+                                      "y": 6,
+                                      "fill": "#000",
+                                      "text": "Nazi Rule"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0,
+                              "y": 13,
+                              "width": 112.8212890625,
+                              "height": 11
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "event"
+                    }
+                  ]
+                }
+              ],
+              "x": 518,
+              "y": 0,
+              "width": 113,
+              "height": 40
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 600,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}

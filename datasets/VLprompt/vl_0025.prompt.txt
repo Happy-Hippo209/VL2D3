@@ -1,0 +1,532 @@
+Task: Convert the Vega-Lite visualization to a complete HTML file using D3.js v7.
+
+Key Requirements:
+- Create a complete, self-contained HTML file
+- Use ONLY D3.js version 7
+- Include proper viewport settings and responsive design
+- Ensure cross-browser compatibility
+
+Expected HTML Structure:
+- DOCTYPE declaration
+- HTML5 semantic structure
+- D3.js v7 CDN inclusion
+- Inline CSS for visualization styling
+- Inline JavaScript with D3.js code
+
+Reference Materials:
+1. Original Vega-Lite Specification:
+```json
+{
+  "config": {
+    "view": {
+      "continuousWidth": 400,
+      "continuousHeight": 300
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "color": "dodgerblue"
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "type": "temporal",
+            "field": "year",
+            "format": "%Y",
+            "title": "year"
+          },
+          {
+            "type": "nominal",
+            "field": "TW",
+            "format": ".2f"
+          }
+        ],
+        "x": {
+          "type": "temporal",
+          "field": "year",
+          "timeUnit": "year",
+          "title": "year"
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "TW",
+          "title": "Wind Generation [TW]"
+        }
+      },
+      "height": 300,
+      "width": "container"
+    },
+    {
+      "mark": {
+        "type": "point",
+        "color": "dodgerblue",
+        "filled": true
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "type": "temporal",
+            "field": "year",
+            "format": "%Y",
+            "title": "year"
+          },
+          {
+            "type": "nominal",
+            "field": "TW",
+            "format": ".2f"
+          }
+        ],
+        "x": {
+          "type": "temporal",
+          "field": "year",
+          "timeUnit": "year",
+          "title": "year"
+        },
+        "y": {
+          "type": "quantitative",
+          "field": "TW",
+          "title": "Wind Generation [TW]"
+        }
+      },
+      "height": 300,
+      "width": "container"
+    }
+  ],
+  "data": {
+    "name": "data-71bdb35444152b3687b36d64b07a7fa7"
+  },
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "datasets": {
+    "data-71bdb35444152b3687b36d64b07a7fa7": [
+      {
+        "year": "1989-01-01T00:00:00",
+        "TW": 0.000906140223737
+      },
+      {
+        "year": "1990-01-01T00:00:00",
+        "TW": 0.0012295874440092002
+      },
+      {
+        "year": "1991-01-01T00:00:00",
+        "TW": 0.001429480171106
+      },
+      {
+        "year": "1992-01-01T00:00:00",
+        "TW": 0.0015945152571428
+      },
+      {
+        "year": "1993-01-01T00:00:00",
+        "TW": 0.00191558582007
+      },
+      {
+        "year": "1994-01-01T00:00:00",
+        "TW": 0.0025126338338986
+      },
+      {
+        "year": "1995-01-01T00:00:00",
+        "TW": 0.0027361346906224
+      },
+      {
+        "year": "1996-01-01T00:00:00",
+        "TW": 0.0032112443382702
+      },
+      {
+        "year": "1997-01-01T00:00:00",
+        "TW": 0.0041435594815668
+      },
+      {
+        "year": "1998-01-01T00:00:00",
+        "TW": 0.0054917896602384
+      },
+      {
+        "year": "1999-01-01T00:00:00",
+        "TW": 0.007262431071028001
+      },
+      {
+        "year": "2000-01-01T00:00:00",
+        "TW": 0.010696922755905199
+      },
+      {
+        "year": "2001-01-01T00:00:00",
+        "TW": 0.0132546813905942
+      },
+      {
+        "year": "2002-01-01T00:00:00",
+        "TW": 0.0179468050761516
+      },
+      {
+        "year": "2003-01-01T00:00:00",
+        "TW": 0.021768470086911598
+      },
+      {
+        "year": "2004-01-01T00:00:00",
+        "TW": 0.028174639049683
+      },
+      {
+        "year": "2005-01-01T00:00:00",
+        "TW": 0.034774267920337394
+      },
+      {
+        "year": "2006-01-01T00:00:00",
+        "TW": 0.0437181999073352
+      },
+      {
+        "year": "2007-01-01T00:00:00",
+        "TW": 0.0563643619513156
+      },
+      {
+        "year": "2008-01-01T00:00:00",
+        "TW": 0.07257845706790379
+      },
+      {
+        "year": "2009-01-01T00:00:00",
+        "TW": 0.09007924278231039
+      },
+      {
+        "year": "2010-01-01T00:00:00",
+        "TW": 0.110744785417319
+      },
+      {
+        "year": "2011-01-01T00:00:00",
+        "TW": 0.14111206515596977
+      },
+      {
+        "year": "2012-01-01T00:00:00",
+        "TW": 0.16584394175321499
+      },
+      {
+        "year": "2013-01-01T00:00:00",
+        "TW": 0.20531743164238017
+      },
+      {
+        "year": "2014-01-01T00:00:00",
+        "TW": 0.2270359602362822
+      },
+      {
+        "year": "2015-01-01T00:00:00",
+        "TW": 0.25787198018089613
+      },
+      {
+        "year": "2016-01-01T00:00:00",
+        "TW": 0.2951258939311836
+      },
+      {
+        "year": "2017-01-01T00:00:00",
+        "TW": 0.34644635522111716
+      },
+      {
+        "year": "2018-01-01T00:00:00",
+        "TW": 0.3851798807681078
+      }
+    ]
+  }
+}
+```
+
+2. Scene Graph Structure:
+```json
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 26,
+                      "y": -300,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 79,
+                      "y": -300,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 131,
+                      "y": -300,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 26,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 79,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 131,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 26.258496978851966,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1990"
+                    },
+                    {
+                      "x": 78.77549093655588,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1992"
+                    },
+                    {
+                      "x": 131.3644259818731,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "1994"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 381,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "year"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 300.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 263,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 225,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 300,
+                      "fill": "#000",
+                      "text": "0.00"
+                    },
+                    {
+                      "x": -7,
+                      "y": 262.5,
+                      "fill": "#000",
+                      "text": "0.05"
+                    },
+                    {
+                      "x": -7,
+                      "y": 225,
+                      "fill": "#000",
+                      "text": "0.10"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 300,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -31,
+                      "y": 150,
+                      "fill": "#000",
+                      "text": "Wind Generation [TW]"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "line",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 299.3203948321972,
+              "stroke": "dodgerblue",
+              "description": "year: 1989; Wind Generation [TW]: 0.000906140223737; TW: 0.00"
+            },
+            {
+              "x": 26.258496978851966,
+              "y": 299.0778094169931,
+              "stroke": "dodgerblue",
+              "description": "year: 1990; Wind Generation [TW]: 0.00122958744401; TW: 0.00"
+            },
+            {
+              "x": 52.51699395770393,
+              "y": 298.9278898716705,
+              "stroke": "dodgerblue",
+              "description": "year: 1991; Wind Generation [TW]: 0.00142948017111; TW: 0.00"
+            }
+          ]
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 299.3203948321972,
+              "fill": "dodgerblue",
+              "shape": "circle",
+              "description": "year: 1989; Wind Generation [TW]: 0.000906140223737; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 26.258496978851966,
+              "y": 299.0778094169931,
+              "fill": "dodgerblue",
+              "shape": "circle",
+              "description": "year: 1990; Wind Generation [TW]: 0.00122958744401; TW: 0.00",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 52.51699395770393,
+              "y": 298.9278898716705,
+              "fill": "dodgerblue",
+              "shape": "circle",
+              "description": "year: 1991; Wind Generation [TW]: 0.00142948017111; TW: 0.00",
+              "ariaRoleDescription": "point"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 762,
+      "height": 300,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}
+```
+
+Please provide a complete HTML file with embedded D3.js v7 code below:
+```html

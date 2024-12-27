@@ -1,0 +1,351 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": []
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": []
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 150,
+                              "y": 4,
+                              "fill": "#000",
+                              "text": "Total Floors (binned)"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 400.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": []
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": []
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -4,
+                              "y": 200,
+                              "fill": "#000",
+                              "text": "Agency Name"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector002_brush_bg",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "#333"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "items": []
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector002_brush",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "transparent",
+                      "stroke": null
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 300,
+              "height": 400,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": []
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": []
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": []
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 750,
+                              "y": 4,
+                              "fill": "#000",
+                              "text": "Year Constructed"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 400.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": []
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": []
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 400,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -4,
+                              "y": 200,
+                              "fill": "#000",
+                              "text": "Count of Records"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_marks",
+                  "role": "mark",
+                  "items": []
+                }
+              ],
+              "x": 337,
+              "y": 0,
+              "width": 1500,
+              "height": 400,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {},
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 100,
+                              "fill": "#000",
+                              "text": "NaN"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "Count of Records"
+                    }
+                  ]
+                }
+              ],
+              "x": 1856,
+              "y": 0,
+              "width": 96,
+              "height": 216
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 400
+    }
+  ]
+}

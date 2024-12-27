@@ -1,0 +1,929 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 25,
+                              "y": -200,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 87,
+                              "y": -200,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 149,
+                              "y": -200,
+                              "stroke": "#eee"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 0,
+                              "y": 155,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 0,
+                              "y": 109,
+                              "stroke": "#eee"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 25,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 87,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 149,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 24.545454545454547,
+                              "y": 7,
+                              "fill": "gray",
+                              "text": "April"
+                            },
+                            {
+                              "x": 86.5909090909091,
+                              "y": 7,
+                              "fill": "gray",
+                              "text": "July"
+                            },
+                            {
+                              "x": 149.3181818181818,
+                              "y": 7,
+                              "fill": "gray",
+                              "text": "October"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 155,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 109,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 200,
+                              "fill": "gray",
+                              "text": "0"
+                            },
+                            {
+                              "x": -7,
+                              "y": 154.54545454545453,
+                              "fill": "gray",
+                              "text": "50"
+                            },
+                            {
+                              "x": -7,
+                              "y": 109.09090909090908,
+                              "fill": "gray",
+                              "text": "100"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "line",
+                  "name": "concat_0_layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "stroke": "lightgray",
+                      "description": "date: Feb 25, 2020; diff: 0"
+                    },
+                    {
+                      "x": 1.3636363636363635,
+                      "y": 200,
+                      "stroke": "lightgray",
+                      "description": "date: Feb 27, 2020; diff: 0"
+                    },
+                    {
+                      "x": 2.0454545454545454,
+                      "y": 200,
+                      "stroke": "lightgray",
+                      "description": "date: Feb 28, 2020; diff: 0"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "line",
+                  "name": "concat_0_layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "stroke": "#d62728",
+                      "description": "date: Feb 25, 2020; rolling_mean: 0"
+                    },
+                    {
+                      "x": 1.3636363636363635,
+                      "y": 200,
+                      "stroke": "#d62728",
+                      "description": "date: Feb 27, 2020; rolling_mean: 0"
+                    },
+                    {
+                      "x": 2.0454545454545454,
+                      "y": 200,
+                      "stroke": "#d62728",
+                      "description": "date: Feb 28, 2020; rolling_mean: 0"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "name": "concat_0_layer_2_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 190.9090909090909,
+                      "fill": "lightgray",
+                      "text": "10",
+                      "description": "date: May 10, 2021; diff: 10"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_0_layer_3_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 190.9090909090909,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: May 10, 2021; diff: 10",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "name": "concat_0_layer_4_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 178.75,
+                      "fill": "#d62728",
+                      "text": "23.38",
+                      "description": "date: May 10, 2021; rolling_mean: 23.375"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_0_layer_5_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 178.75,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: May 10, 2021; rolling_mean: 23.375",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_0_layer_6_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: Feb 25, 2020; rolling_mean: 0; Datum: Feb 25, 2020; 7d Moving Average: 0",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 1.3636363636363635,
+                      "y": 200,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: Feb 27, 2020; rolling_mean: 0; Datum: Feb 27, 2020; 7d Moving Average: 0",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 2.0454545454545454,
+                      "y": 200,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: Feb 28, 2020; rolling_mean: 0; Datum: Feb 28, 2020; 7d Moving Average: 0",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_0_layer_7_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 200,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: Feb 25, 2020; diff: 0; Datum: Feb 25, 2020; Neue Todesf\u00e4lle: 0",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 1.3636363636363635,
+                      "y": 200,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: Feb 27, 2020; diff: 0; Datum: Feb 27, 2020; Neue Todesf\u00e4lle: 0",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 2.0454545454545454,
+                      "y": 200,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: Feb 28, 2020; diff: 0; Datum: Feb 28, 2020; Neue Todesf\u00e4lle: 0",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "items": [
+                            {
+                              "fill": "gray",
+                              "text": "Neue Todesf\u00e4lle pro Tag"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": -50,
+                      "y": -21.25288599368367
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 300,
+              "height": 200,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 25,
+                              "y": -200,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 87,
+                              "y": -200,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 149,
+                              "y": -200,
+                              "stroke": "#eee"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 0,
+                              "y": 160,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 0,
+                              "y": 120,
+                              "stroke": "#eee"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 25,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 87,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 149,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 24.545454545454547,
+                              "y": 7,
+                              "fill": "gray",
+                              "text": "April"
+                            },
+                            {
+                              "x": 86.5909090909091,
+                              "y": 7,
+                              "fill": "gray",
+                              "text": "July"
+                            },
+                            {
+                              "x": 149.3181818181818,
+                              "y": 7,
+                              "fill": "gray",
+                              "text": "October"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 200.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 160,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 120,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 200,
+                              "fill": "gray",
+                              "text": "0%"
+                            },
+                            {
+                              "x": -7,
+                              "y": 160,
+                              "fill": "gray",
+                              "text": "20%"
+                            },
+                            {
+                              "x": -7,
+                              "y": 120,
+                              "fill": "gray",
+                              "text": "40%"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 200,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "line",
+                  "name": "concat_1_layer_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "stroke": "lightgray",
+                      "description": "date: Feb 25, 2020; diff: NaN%"
+                    },
+                    {
+                      "x": 1.3636363636363635,
+                      "stroke": "lightgray",
+                      "description": "date: Feb 27, 2020; diff: NaN%"
+                    },
+                    {
+                      "x": 2.0454545454545454,
+                      "stroke": "lightgray",
+                      "description": "date: Feb 28, 2020; diff: NaN%"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "line",
+                  "name": "concat_1_layer_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "stroke": "#d62728",
+                      "description": "date: Feb 25, 2020; rolling_mean: NaN%"
+                    },
+                    {
+                      "x": 1.3636363636363635,
+                      "stroke": "#d62728",
+                      "description": "date: Feb 27, 2020; rolling_mean: NaN%"
+                    },
+                    {
+                      "x": 2.0454545454545454,
+                      "stroke": "#d62728",
+                      "description": "date: Feb 28, 2020; rolling_mean: NaN%"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "name": "concat_1_layer_2_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 199.5466839846573,
+                      "fill": "#d62728",
+                      "text": "0.23%",
+                      "description": "date: May 10, 2021; rolling_mean: 0.00226658007671"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_1_layer_3_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 199.5466839846573,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: May 10, 2021; rolling_mean: 0.00226658007671",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "name": "concat_1_layer_4_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 199.8075442648191,
+                      "fill": "lightgray",
+                      "text": "0.10%",
+                      "description": "date: May 10, 2021; diff: 0.000962278675905"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_1_layer_5_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 300,
+                      "y": 199.8075442648191,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: May 10, 2021; diff: 0.000962278675905",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_1_layer_6_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 10.909090909090908,
+                      "y": 0,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: Mar 12, 2020; rolling_mean: 1; Datum: Mar 12, 2020; 7d Moving Average: 100.00%",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 11.59090909090909,
+                      "y": 100,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: Mar 13, 2020; rolling_mean: 0.5; Datum: Mar 13, 2020; 7d Moving Average: 50.00%",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 12.272727272727273,
+                      "y": 133.33333333333331,
+                      "fill": "#d62728",
+                      "shape": "circle",
+                      "description": "date: Mar 14, 2020; rolling_mean: 0.333333333333; Datum: Mar 14, 2020; 7d Moving Average: 33.33%",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_1_layer_7_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 10.909090909090908,
+                      "y": 0,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: Mar 12, 2020; diff: 1; Datum: Mar 12, 2020; Steigerung %: 100.00%",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 11.59090909090909,
+                      "y": 200,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: Mar 13, 2020; diff: 0; Datum: Mar 13, 2020; Steigerung %: 0.00%",
+                      "ariaRoleDescription": "circle"
+                    },
+                    {
+                      "x": 12.272727272727273,
+                      "y": 200,
+                      "fill": "lightgray",
+                      "shape": "circle",
+                      "description": "date: Mar 14, 2020; diff: 0; Datum: Mar 14, 2020; Steigerung %: 0.00%",
+                      "ariaRoleDescription": "circle"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "title",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "title-text",
+                          "items": [
+                            {
+                              "fill": "gray",
+                              "text": "Neue Todesf\u00e4lle akkumuliert Steigerung % zum Vortag"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": -50,
+                      "y": -23.071067811865476
+                    }
+                  ]
+                }
+              ],
+              "x": 404,
+              "y": 0,
+              "width": 300,
+              "height": 200,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_2_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 10,
+                              "stroke": "#eee"
+                            },
+                            {
+                              "x": 0,
+                              "y": 30,
+                              "stroke": "#eee"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 20.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 2,
+                              "y": 10,
+                              "fill": "gray",
+                              "text": "7d Moving Average"
+                            },
+                            {
+                              "x": 2,
+                              "y": 30,
+                              "fill": "gray",
+                              "text": "Tageswert"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 20.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "symbol",
+                  "name": "concat_2_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 10,
+                      "y": 30,
+                      "fill": "lightgray",
+                      "shape": "square",
+                      "description": "label: Tageswert",
+                      "ariaRoleDescription": "square"
+                    },
+                    {
+                      "x": 10,
+                      "y": 10,
+                      "fill": "#d62728",
+                      "shape": "square",
+                      "description": "label: 7d Moving Average",
+                      "ariaRoleDescription": "square"
+                    }
+                  ]
+                }
+              ],
+              "x": 761,
+              "y": 0,
+              "width": 20,
+              "height": 40,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  ]
+}

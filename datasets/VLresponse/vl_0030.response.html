@@ -1,0 +1,164 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobility Visualization</title>
+    <style>
+        /* Inline CSS for visualization styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f9f9f9;
+        }
+
+        .chart {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .axis line,
+        .axis path {
+            stroke: #888;
+        }
+
+        .axis text {
+            font-size: 12px;
+        }
+
+        .legend {
+            font-size: 12px;
+        }
+
+        .legend rect {
+            stroke: #ddd;
+        }
+
+    </style>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <svg class="chart" width="700" height="400"></svg>
+    <script>
+        // Margin convention
+        const margin = { top: 20, right: 50, bottom: 50, left: 60 };
+        const width = 700 - margin.left - margin.right;
+        const height = 400 - margin.top - margin.bottom;
+
+        const svg = d3.select(".chart")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Load the data
+        d3.csv("https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/mobility.csv").then(function(data) {
+            // Data processing
+            data.forEach(d => {
+                d.Mobility = +d.Mobility;
+                d.Population = +d.Population;
+                d.Income = +d.Income;
+            });
+
+            // X scale
+            const xScale = d3.scaleLinear()
+                .domain(d3.extent(data, d => d.Mobility))
+                .range([0, width]);
+
+            // Y scale with log
+            const yScale = d3.scaleLog()
+                .domain(d3.extent(data, d => d.Population))
+                .range([height, 0]);
+
+            // Color scale using sinebow
+            const colorScale = d3.scaleSequential(d3.interpolateSinebow)
+                .domain(d3.extent(data, d => d.Income));
+
+            // X Axis
+            const xAxis = d3.axisBottom(xScale);
+
+            // Y Axis
+            const yAxis = d3.axisLeft(yScale).ticks(5, "~s");
+
+            // Add X Axis
+            svg.append("g")
+                .attr("class", "axis x-axis")
+                .attr("transform", `translate(0, ${height})`)
+                .call(xAxis)
+                .append("text")
+                .attr("fill", "#000")
+                .attr("x", width)
+                .attr("y", -10)
+                .attr("dy", "2.5em")
+                .attr("text-anchor", "end")
+                .text("Mobility");
+
+            // Add Y Axis
+            svg.append("g")
+                .attr("class", "axis y-axis")
+                .call(yAxis)
+                .append("text")
+                .attr("fill", "#000")
+                .attr("transform", "rotate(-90)")
+                .attr("x", 0)
+                .attr("y", 15)
+                .attr("dy", "-3.5em")
+                .attr("text-anchor", "end")
+                .text("Population");
+
+            // Add data points
+            svg.selectAll("circle")
+                .data(data)
+                .enter()
+                .append("circle")
+                .attr("cx", d => xScale(d.Mobility))
+                .attr("cy", d => yScale(d.Population))
+                .attr("r", 5)
+                .attr("fill", d => colorScale(d.Income))
+                .attr("stroke", "black");
+
+            // Legend setup
+            const legend = svg.append("g")
+                .attr("class", "legend")
+                .attr("transform", `translate(${width + 10}, 20)`);
+
+            const legendData = [50000, 40000, 30000, 20000, 10000];
+
+            legend.selectAll("rect")
+                .data(legendData)
+                .enter()
+                .append("rect")
+                .attr("x", 0)
+                .attr("y", (d, i) => i * 20)
+                .attr("width", 16)
+                .attr("height", 16)
+                .attr("fill", d => colorScale(d));
+
+            legend.selectAll("text")
+                .data(legendData)
+                .enter()
+                .append("text")
+                .attr("x", 20)
+                .attr("y", (d, i) => i * 20 + 13)
+                .attr("fill", "#000")
+                .text(d => d);
+
+            legend.append("text")
+                .attr("x", 0)
+                .attr("y", -5)
+                .attr("fill", "#000")
+                .text("Income (binned)");
+
+        }).catch(function(error){
+            console.error(error);
+        });
+    </script>
+</body>
+</html>
+```

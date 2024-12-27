@@ -1,0 +1,160 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oil Production Over Time</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        svg {
+            max-width: 100%;
+            height: auto;
+        }
+        .axis-label {
+            font-size: 12px;
+            fill: #000;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 5px;
+            pointer-events: none;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div id="chart"></div>
+    <script>
+        // Data from Vega-Lite specification
+        const data = [
+            {"year": "1980-01-01T00:00:00", "km^3": 3.713246844512338},
+            {"year": "1981-01-01T00:00:00", "km^3": 3.5167560366183768},
+            {"year": "1982-01-01T00:00:00", "km^3": 3.37156406929685},
+            {"year": "1983-01-01T00:00:00", "km^3": 3.3616408772856663},
+            {"year": "1984-01-01T00:00:00", "km^3": 3.456462489836975},
+            {"year": "1985-01-01T00:00:00", "km^3": 3.432844132243106},
+            {"year": "1986-01-01T00:00:00", "km^3": 3.570898364960097},
+            {"year": "1987-01-01T00:00:00", "km^3": 3.6037435502134882},
+            {"year": "1988-01-01T00:00:00", "km^3": 3.737097323556761},
+            {"year": "1989-01-01T00:00:00", "km^3": 3.802439511887712},
+            {"year": "1990-01-01T00:00:00", "km^3": 3.8553632026140243},
+            {"year": "1991-01-01T00:00:00", "km^3": 3.849676227075451},
+            {"year": "1992-01-01T00:00:00", "km^3": 3.8620366943174527},
+            {"year": "1993-01-01T00:00:00", "km^3": 3.8938953634059885},
+            {"year": "1994-01-01T00:00:00", "km^3": 3.983146061144001},
+            {"year": "1995-01-01T00:00:00", "km^3": 4.079882675662382},
+            {"year": "1996-01-01T00:00:00", "km^3": 4.177373684895061},
+            {"year": "1997-01-01T00:00:00", "km^3": 4.30701351502947},
+            {"year": "1998-01-01T00:00:00", "km^3": 4.3919119355695955},
+            {"year": "1999-01-01T00:00:00", "km^3": 4.342992339865339},
+            {"year": "2000-01-01T00:00:00", "km^3": 4.510642057527968},
+            {"year": "2001-01-01T00:00:00", "km^3": 4.50739235722021},
+            {"year": "2002-01-01T00:00:00", "km^3": 4.4743730808789035},
+            {"year": "2003-01-01T00:00:00", "km^3": 4.620551564365285},
+            {"year": "2004-01-01T00:00:00", "km^3": 4.8466958875675195},
+            {"year": "2005-01-01T00:00:00", "km^3": 4.941807651932021},
+            {"year": "2006-01-01T00:00:00", "km^3": 4.948771295448641},
+            {"year": "2007-01-01T00:00:00", "km^3": 4.9517308439432055},
+            {"year": "2008-01-01T00:00:00", "km^3": 5.029375469153518},
+            {"year": "2009-01-01T00:00:00", "km^3": 4.9824289057789715},
+            {"year": "2010-01-01T00:00:00", "km^3": 5.140793765419437},
+            {"year": "2011-01-01T00:00:00", "km^3": 5.1664431857056545},
+            {"year": "2012-01-01T00:00:00", "km^3": 5.287552552532204},
+            {"year": "2013-01-01T00:00:00", "km^3": 5.32092001104934},
+            {"year": "2014-01-01T00:00:00", "km^3": 5.470406225206118},
+            {"year": "2015-01-01T00:00:00", "km^3": 5.634400030022518},
+            {"year": "2016-01-01T00:00:00", "km^3": 5.663473241704407},
+            {"year": "2017-01-01T00:00:00", "km^3": 5.696666609133629},
+            {"year": "2018-01-01T00:00:00", "km^3": 5.848764189609139}
+        ];
+
+        // Parse the date and set dimensions
+        const parseDate = d3.timeParse("%Y-%m-%dT%H:%M:%S");
+        data.forEach(d => d.year = parseDate(d.year));
+
+        const margin = { top: 20, right: 20, bottom: 40, left: 60 };
+        const width = 800 - margin.left - margin.right;
+        const height = 400 - margin.top - margin.bottom;
+
+        const svg = d3.select("#chart")
+            .append("svg")
+            .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+            .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Set the scales
+        const xScale = d3.scaleTime()
+            .domain(d3.extent(data, d => d.year))
+            .range([0, width]);
+
+        const yScale = d3.scaleLinear()
+            .domain([0, d3.max(data, d => d["km^3"])])
+            .nice() // rounds to nice values
+            .range([height, 0]);
+
+        // Define the line
+        const line = d3.line()
+            .x(d => xScale(d.year))
+            .y(d => yScale(d["km^3"]));
+
+        // Add the x-axis
+        svg.append("g")
+            .attr("class", "x-axis")
+            .attr("transform", `translate(0,${height})`)
+            .call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%Y")))
+            .selectAll("text")
+            .style("text-anchor", "end")
+            .attr("dx", "-.8em")
+            .attr("dy", ".15em")
+            .attr("transform", "rotate(-45)");
+
+        // Add the y-axis
+        svg.append("g")
+            .attr("class", "y-axis")
+            .call(d3.axisLeft(yScale));
+
+        // Add axis labels
+        svg.append("text")
+            .attr("class", "axis-label")
+            .attr("text-anchor", "end")
+            .attr("x", width / 2)
+            .attr("y", height + margin.bottom - 5)
+            .text("Year");
+
+        svg.append("text")
+            .attr("class", "axis-label")
+            .attr("text-anchor", "end")
+            .attr("transform", "rotate(-90)")
+            .attr("y", -margin.left + 15)
+            .attr("x", -height / 2)
+            .text("Oil Production [km^3]");
+
+        // Draw the line
+        svg.append("path")
+            .datum(data)
+            .attr("fill", "none")
+            .attr("stroke", "dodgerblue")
+            .attr("stroke-width", 1.5)
+            .attr("d", line);
+
+        // Add points
+        svg.selectAll("circle")
+            .data(data)
+            .enter().append("circle")
+            .attr("cx", d => xScale(d.year))
+            .attr("cy", d => yScale(d["km^3"]))
+            .attr("r", 3)
+            .style("fill", "dodgerblue");
+
+    </script>
+</body>
+</html>
+```

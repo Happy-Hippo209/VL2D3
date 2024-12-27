@@ -1,0 +1,137 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Stock Price Over Time</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        svg {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #888;
+        }
+
+        .grid line {
+            stroke: #ddd;
+        }
+
+        .line {
+            fill: none;
+            stroke: #4c78a8;
+            stroke-width: 2px;
+        }
+    </style>
+</head>
+
+<body>
+    <svg id="chart"></svg>
+
+    <script>
+        (function () {
+            // Data from Vega-Lite specification
+            const data = [
+                { "date": "Sun, 01 Jan 2012 23:00:00 GMT", "price": 150 },
+                { "date": "Mon, 02 Jan 2012 00:00:00 GMT", "price": 100 },
+                { "date": "Mon, 02 Jan 2012 01:00:00 GMT", "price": 170 },
+                { "date": "Mon, 02 Jan 2012 02:00:00 GMT", "price": 165 },
+                { "date": "Mon, 02 Jan 2012 03:00:00 GMT", "price": 200 }
+            ];
+
+            // Parse date strings into Date objects
+            const parseDate = d3.utcParse("%a, %d %b %Y %H:%M:%S %Z");
+            data.forEach(d => d.date = parseDate(d.date));
+
+            // Set dimensions and margins
+            const margin = { top: 20, right: 20, bottom: 50, left: 60 };
+            const width = 800 - margin.left - margin.right;
+            const height = 600 - margin.top - margin.bottom;
+
+            // Create SVG and set up the canvas
+            const svg = d3.select("#chart")
+                .attr("viewBox", `0 0 ${800} ${600}`)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Create scales
+            const x = d3.scaleUtc()
+                .domain(d3.extent(data, d => d.date))
+                .range([0, width]);
+
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(data, d => d.price)]).nice()
+                .range([height, 0]);
+
+            // Create axes
+            const xAxis = d3.axisBottom(x).ticks(width / 80).tickSizeOuter(0);
+            const yAxis = d3.axisLeft(y);
+
+            // Add x-axis to the svg
+            svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", `translate(0,${height})`)
+                .call(xAxis)
+                .append("text")
+                .attr("fill", "#000")
+                .attr("x", width / 2)
+                .attr("y", margin.bottom - 10)
+                .attr("dx", "0.71em")
+                .attr("text-anchor", "end")
+                .text("Date");
+
+            // Add y-axis to the svg
+            svg.append("g")
+                .attr("class", "axis")
+                .call(yAxis)
+                .append("text")
+                .attr("fill", "#000")
+                .attr("transform", "rotate(-90)")
+                .attr("y", -margin.left + 15)
+                .attr("x", -height / 2)
+                .attr("dy", "-0.71em")
+                .attr("text-anchor", "end")
+                .text("Price");
+
+            // Add grid lines
+            const gridX = d3.axisBottom(x).ticks(width / 80).tickSize(-height).tickFormat('');
+            svg.append("g")
+                .attr("class", "grid")
+                .attr("transform", `translate(0,${height})`)
+                .call(gridX);
+
+            const gridY = d3.axisLeft(y).tickSize(-width).tickFormat('');
+            svg.append("g")
+                .attr("class", "grid")
+                .call(gridY);
+
+            // Define the line
+            const line = d3.line()
+                .x(d => x(d.date))
+                .y(d => y(d.price));
+
+            // Add the line to the svg
+            svg.append("path")
+                .datum(data)
+                .attr("class", "line")
+                .attr("d", line);
+
+        })();
+    </script>
+</body>
+
+</html>
+```

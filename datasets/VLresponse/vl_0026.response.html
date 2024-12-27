@@ -1,0 +1,168 @@
+Certainly! Below is a complete HTML file that converts the given Vega-Lite specification to D3.js v7 code. This file includes all necessary components such as a proper DOCTYPE declaration, a meta viewport tag, inline CSS for styling, and JavaScript for handling the D3.js visualization.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coal Production Line Chart</title>
+    <style>
+        /* Inline CSS for styling the visualization */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f9;
+        }
+
+        .chart {
+            max-width: 100%;
+            height: auto;
+        }
+
+        text {
+            font-size: 10px;
+            fill: #666;
+        }
+
+        .line {
+            fill: none;
+            stroke: dodgerblue;
+            stroke-width: 2;
+        }
+
+        .point {
+            fill: dodgerblue;
+        }
+    </style>
+</head>
+<body>
+    <!-- Container for the D3.js visualization -->
+    <svg class="chart"></svg>
+
+    <!-- D3.js v7 CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        // JavaScript code to create the D3.js visualization
+
+        // Data from the Vega-Lite specification
+        const data = [
+            { "year": new Date("1980-01-01"), "MT": 3766.49 },
+            { "year": new Date("1981-01-01"), "MT": 3794.886 },
+            { "year": new Date("1982-01-01"), "MT": 3947.439 },
+            { "year": new Date("1983-01-01"), "MT": 3986.255 },
+            { "year": new Date("1984-01-01"), "MT": 4186.809 },
+            { "year": new Date("1985-01-01"), "MT": 4384.168 },
+            { "year": new Date("1986-01-01"), "MT": 4493.868 },
+            { "year": new Date("1987-01-01"), "MT": 4605.592 },
+            { "year": new Date("1988-01-01"), "MT": 4705.923 },
+            { "year": new Date("1989-01-01"), "MT": 4780.166 },
+            { "year": new Date("1990-01-01"), "MT": 4702.379 },
+            { "year": new Date("1991-01-01"), "MT": 4537.049 },
+            { "year": new Date("1992-01-01"), "MT": 4439.556 },
+            { "year": new Date("1993-01-01"), "MT": 4323.764 },
+            { "year": new Date("1994-01-01"), "MT": 4406.505 },
+            { "year": new Date("1995-01-01"), "MT": 4485.757 },
+            { "year": new Date("1996-01-01"), "MT": 4586.158 },
+            { "year": new Date("1997-01-01"), "MT": 4589.709 },
+            { "year": new Date("1998-01-01"), "MT": 4567.467 },
+            { "year": new Date("1999-01-01"), "MT": 4507.147 },
+            { "year": new Date("2000-01-01"), "MT": 4648.726 },
+            { "year": new Date("2001-01-01"), "MT": 4865.715 },
+            { "year": new Date("2002-01-01"), "MT": 4916.793 },
+            { "year": new Date("2003-01-01"), "MT": 5271.999 },
+            { "year": new Date("2004-01-01"), "MT": 5671.298 },
+            { "year": new Date("2005-01-01"), "MT": 6032.159 },
+            { "year": new Date("2006-01-01"), "MT": 6343.612 },
+            { "year": new Date("2007-01-01"), "MT": 6615.427 },
+            { "year": new Date("2008-01-01"), "MT": 6837.017 },
+            { "year": new Date("2009-01-01"), "MT": 6913.764 },
+            { "year": new Date("2010-01-01"), "MT": 7345.909 },
+            { "year": new Date("2011-01-01"), "MT": 7835.663 },
+            { "year": new Date("2012-01-01"), "MT": 8039.782 },
+            { "year": new Date("2013-01-01"), "MT": 8138.898 },
+            { "year": new Date("2014-01-01"), "MT": 8043.147 },
+            { "year": new Date("2015-01-01"), "MT": 7831.214 },
+            { "year": new Date("2016-01-01"), "MT": 7303.822 },
+            { "year": new Date("2017-01-01"), "MT": 7560.447 },
+            { "year": new Date("2018-01-01"), "MT": 7858.962 },
+            { "year": new Date("2019-01-01"), "MT": 8007.745 }
+        ];
+
+        // Set the dimensions and margins of the graph
+        const margin = {top: 20, right: 20, bottom: 50, left: 80},
+              width = window.innerWidth - margin.left - margin.right,
+              height = window.innerHeight - margin.top - margin.bottom;
+
+        // Append the SVG object to the body of the page
+        const svg = d3.select(".chart")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Set the ranges
+        const x = d3.scaleTime()
+            .domain(d3.extent(data, d => d.year))
+            .range([0, width]);
+
+        const y = d3.scaleLinear()
+            .domain([0, d3.max(data, d => d.MT) + 500])  // Add some padding to the y-axis
+            .range([height, 0]);
+
+        // Add the X Axis
+        svg.append("g")
+            .attr("transform", `translate(0,${height})`)
+            .call(d3.axisBottom(x).ticks(width / 100))  // Make sure ticks are responsive
+          .append("text")
+            .attr("x", width)
+            .attr("y", -10)
+            .style("fill", "black")
+            .text("Year");
+
+        // Add the Y Axis
+        svg.append("g")
+            .call(d3.axisLeft(y).tickFormat(d3.format(".2s")))
+          .append("text")
+            .attr("transform", "rotate(-90)")
+            .attr("y", 15)
+            .style("fill", "black")
+            .text("Coal Production [MT]");
+
+        // Define the line
+        const line = d3.line()
+            .x(d => x(d.year))
+            .y(d => y(d.MT));
+
+        // Add the line path
+        svg.append("path")
+            .data([data])
+            .attr("class", "line")
+            .attr("d", line);
+
+        // Add the points
+        svg.selectAll(".point")
+            .data(data)
+          .enter().append("circle")
+            .attr("class", "point")
+            .attr("cx", d => x(d.year))
+            .attr("cy", d => y(d.MT))
+            .attr("r", 3);
+    </script>
+</body>
+</html>
+```
+
+### Key Points:
+- The `x` and `y` scales use `d3.scaleTime` and `d3.scaleLinear` respectively to map date and numeric data.
+- The axes use `d3.axisBottom` and `d3.axisLeft` with appropriate formatting for the ticks.
+- The line and points are drawn using `d3.line()` and `svg.circle()` functions.
+- The SVG element is sized according to the viewport, ensuring responsive design.
+- The visualization retains the aesthetics, using a consistent "dodgerblue" color for both line and points.
+
+This setup should work fluidly and responsively across modern browsers.

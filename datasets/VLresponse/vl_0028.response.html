@@ -1,0 +1,101 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google's Stock Price Visualization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f5f5f5;
+        }
+        svg {
+            width: 100%;
+            height: 80vh;
+            max-width: 800px;
+            border: 1px solid #ddd;
+            background: white;
+        }
+    </style>
+</head>
+<body>
+    <svg></svg>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        // Data representing Google's stock price
+        const data = [
+            { date: new Date("2012-01-01T23:00:00Z"), price: 150 },
+            { date: new Date("2012-01-02T00:00:00Z"), price: 100 },
+            { date: new Date("2012-01-02T01:00:00Z"), price: 170 },
+            { date: new Date("2012-01-02T02:00:00Z"), price: 165 },
+            { date: new Date("2012-01-02T03:00:00Z"), price: 200 },
+        ];
+
+        // Set dimensions for the chart
+        const margin = { top: 20, right: 30, bottom: 30, left: 40 };
+        const svg = d3.select("svg");
+        const width = parseFloat(svg.style("width")) - margin.left - margin.right;
+        const height = parseFloat(svg.style("height")) - margin.top - margin.bottom;
+
+        const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Create scales
+        const xScale = d3.scaleUtc()
+            .domain(d3.extent(data, d => d.date))
+            .range([0, width]);
+
+        const yScale = d3.scaleLinear()
+            .domain([0, d3.max(data, d => d.price)]).nice()
+            .range([height, 0]);
+
+        // Add X axis
+        g.append("g")
+            .attr("transform", `translate(0,${height})`)
+            .call(d3.axisBottom(xScale).ticks(d3.timeHour.every(1)).tickFormat(d3.timeFormat("%b %d, %H:%M")))
+            .call(g => g.append("text")
+                .attr("x", width)
+                .attr("y", 28)
+                .attr("fill", "#000")
+                .attr("text-anchor", "end")
+                .text("Date (year-month-date-hours-minutes)"));
+
+        // Add Y axis
+        g.append("g")
+            .call(d3.axisLeft(yScale))
+            .call(g => g.append("text")
+                .attr("x", -40)
+                .attr("y", -10)
+                .attr("fill", "#000")
+                .attr("text-anchor", "start")
+                .text("Price"));
+
+        // Add grid lines
+        const grid = g.append("g")
+            .attr("class", "grid")
+            .attr("stroke", "#ddd")
+            .attr("stroke-opacity", 0.5)
+            .call(d3.axisLeft(yScale)
+                .tickSize(-width)
+                .tickFormat("")
+            );
+
+        // Add line path
+        g.append("path")
+            .datum(data)
+            .attr("fill", "none")
+            .attr("stroke", "#4c78a8")
+            .attr("stroke-width", 2.5)
+            .attr("d", d3.line()
+                .x(d => xScale(d.date))
+                .y(d => yScale(d.price))
+            );
+    </script>
+</body>
+</html>
+```

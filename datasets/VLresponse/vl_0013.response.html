@@ -1,0 +1,202 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diverging Stacked Bar Chart with D3.js v7</title>
+    <!-- D3.js v7 CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        /* Basic styling for the SVG container */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f9f9f9;
+        }
+        
+        svg {
+            width: 100%;
+            height: auto;
+            max-width: 900px;
+        }
+
+        /* Style for axis and grid lines */
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #888;
+        }
+
+        .grid line {
+            stroke: #ddd;
+        }
+
+        /* Legend style */
+        .legend-item rect {
+            width: 18px;
+            height: 18px;
+        }
+
+        .legend-item text {
+            font-size: 14px;
+            alignment-baseline: middle;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        // Data from the Vega-Lite specification
+        const data = [
+            { question: "Question 1", type: "Strongly disagree", value: 24, percentage: 0.7 },
+            { question: "Question 1", type: "Disagree", value: 294, percentage: 9.1 },
+            { question: "Question 1", type: "Neither agree nor disagree", value: 594, percentage: 18.5 },
+            { question: "Question 1", type: "Agree", value: 1927, percentage: 59.9 },
+            { question: "Question 1", type: "Strongly agree", value: 376, percentage: 11.7 },
+            { question: "Question 2", type: "Strongly disagree", value: 2, percentage: 18.2 },
+            { question: "Question 2", type: "Disagree", value: 2, percentage: 18.2 },
+            { question: "Question 2", type: "Neither agree nor disagree", value: 0, percentage: 0 },
+            { question: "Question 2", type: "Agree", value: 7, percentage: 63.6 },
+            { question: "Question 2", type: "Strongly agree", value: 11, percentage: 0 },
+            { question: "Question 3", type: "Strongly disagree", value: 2, percentage: 20 }, 
+            { question: "Question 3", type: "Disagree", value: 0, percentage: 0 }, 
+            { question: "Question 3", type: "Neither agree nor disagree", value: 2, percentage: 20 }, 
+            { question: "Question 3", type: "Agree", value: 4, percentage: 40 }, 
+            { question: "Question 3", type: "Strongly agree", value: 2, percentage: 20 },
+            { question: "Question 4", type: "Strongly disagree", value: 0, percentage: 0 }, 
+            { question: "Question 4", type: "Disagree", value: 2, percentage: 12.5 }, 
+            { question: "Question 4", type: "Neither agree nor disagree", value: 1, percentage: 6.3 }, 
+            { question: "Question 4", type: "Agree", value: 7, percentage: 43.8 }, 
+            { question: "Question 4", type: "Strongly agree", value: 6, percentage: 37.5 },
+            { question: "Question 5", type: "Strongly disagree", value: 0, percentage: 0 }, 
+            { question: "Question 5", type: "Disagree", value: 1, percentage: 4.2 }, 
+            { question: "Question 5", type: "Neither agree nor disagree", value: 3, percentage: 12.5 }, 
+            { question: "Question 5", type: "Agree", value: 16, percentage: 66.7 }, 
+            { question: "Question 5", type: "Strongly agree", value: 4, percentage: 16.7 },
+            { question: "Question 6", type: "Strongly disagree", value: 1, percentage: 6.3 }, 
+            { question: "Question 6", type: "Disagree", value: 1, percentage: 6.3 }, 
+            { question: "Question 6", type: "Neither agree nor disagree", value: 2, percentage: 12.5 }, 
+            { question: "Question 6", type: "Agree", value: 9, percentage: 56.3 }, 
+            { question: "Question 6", type: "Strongly agree", value: 3, percentage: 18.8 },
+            { question: "Question 7", type: "Strongly disagree", value: 0, percentage: 0 }, 
+            { question: "Question 7", type: "Disagree", value: 0, percentage: 0 }, 
+            { question: "Question 7", type: "Neither agree nor disagree", value: 1, percentage: 20 }, 
+            { question: "Question 7", type: "Agree", value: 4, percentage: 80 }, 
+            { question: "Question 7", type: "Strongly agree", value: 0, percentage: 0 },
+            { question: "Question 8", type: "Strongly disagree", value: 0, percentage: 0 }, 
+            { question: "Question 8", type: "Disagree", value: 0, percentage: 0 }, 
+            { question: "Question 8", type: "Neither agree nor disagree", value: 0, percentage: 0 }, 
+            { question: "Question 8", type: "Agree", value: 0, percentage: 0 }, 
+            { question: "Question 8", type: "Strongly agree", value: 2, percentage: 100 }
+        ];
+
+        // Dimensions
+        const margin = { top: 40, right: 20, bottom: 60, left: 100 };
+        const width = 800 - margin.left - margin.right;
+        const height = 500 - margin.top - margin.bottom;
+
+        // Append SVG to body
+        const svg = d3.select("body").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Color scale
+        const colorScale = d3.scaleOrdinal()
+            .domain(["Strongly disagree", "Disagree", "Neither agree nor disagree", "Agree", "Strongly agree"])
+            .range(["#c30d24", "#f3a583", "#cccccc", "#94c6da", "#1770ab"]);
+
+        // Prepare the data
+        const stackOffset = d3.stackOffsetDiverging;
+        const stack = d3.stack()
+            .keys(["Strongly disagree", "Disagree", "Neither agree nor disagree", "Agree", "Strongly agree"])
+            .value((d, key) => d.type === key ? d.percentage : 0)
+            .order(d3.stackOrderNone)
+            .offset(stackOffset);
+
+        const dataGrouped = d3.group(data, d => d.question);
+
+        // Prepare stacked data
+        const series = stack(Array.from(dataGrouped.values()));
+
+        // Scales
+        const x = d3.scaleLinear()
+            .domain(d3.extent(data, d => d.percentage))
+            .range([0, width]);
+
+        const y = d3.scaleBand()
+            .domain(data.map(d => d.question))
+            .range([0, height])
+            .padding(0.1);
+
+        // Axes
+        const xAxis = d3.axisBottom(x)
+            .ticks(10, "%")
+            .tickSize(0);
+
+        const yAxis = d3.axisLeft(y)
+            .tickSize(0);
+
+        // Draw the bars
+        svg.selectAll("g.layer")
+            .data(series)
+            .enter().append("g")
+            .classed("layer", true)
+            .attr("fill", d => colorScale(d.key))
+          .selectAll("rect")
+            .data(d => d)
+            .enter().append("rect")
+              .attr("y", d => y(d.data[0].question))
+              .attr("x", d => x(d[0]))
+              .attr("width", d => x(d[1]) - x(d[0]))
+              .attr("height", y.bandwidth());
+
+        // Draw axes
+        svg.append("g")
+            .attr("class", "x axis")
+            .attr("transform", `translate(0,${height})`)
+            .call(xAxis);
+
+        svg.append("g")
+            .attr("class", "y axis")
+            .call(yAxis);
+
+        // Add legend
+        const legend = svg.append("g")
+            .attr("transform", `translate(${width + 20}, 20)`)
+            .selectAll(".legend-item")
+            .data(colorScale.domain())
+            .enter().append("g")
+              .attr("class", "legend-item")
+              .attr("transform", (d, i) => `translate(0, ${i * 20})`);
+
+        legend.append("rect")
+            .attr("x", 4)
+            .attr("y", 4)
+            .attr("width", 16)
+            .attr("height", 16)
+            .attr("fill", colorScale);
+
+        legend.append("text")
+            .attr("x", 24)
+            .attr("y", 12)
+            .text(d => d);
+    </script>
+</body>
+</html>
+```
+
+### Explanation:
+- **SVG Setup**: The visualization is drawn within an `svg` element. The layout is responsive and centered within the browser window.
+- **Color Mapping**: Use `d3.scaleOrdinal()` with specific color mappings to differentiate each response type.
+- **Data Aggregation**: Data is grouped by questions and stacked using `d3.stack()`, which calculates the needed offsets for a diverging bar layout.
+- **Scales and Axes**: `d3.scaleLinear` and `d3.scaleBand` are used for x and y axes respectively. Axes are created with `d3.axisBottom` and `d3.axisLeft`.
+- **Responsive Design**: SVG viewbox and width/heights are set up to allow responsive resizing.
+- **Legend**: A legend is created using rectangles and text.
+
+This setup maintains cross-browser compatibility and leverages D3.js v7’s tools and best practices to replicate the Vega-Lite chart design within a standard HTML template.

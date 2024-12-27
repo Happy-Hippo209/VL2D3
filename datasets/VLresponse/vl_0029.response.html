@@ -1,0 +1,178 @@
+Below is a complete HTML file using D3.js v7 to recreate the Vega-Lite visualization specified. This file assumes that the data is externally hosted at the given URL.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3.js Visualization</title>
+    <!-- D3.js v7 CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f9f9f9;
+        }
+        .chart {
+            display: flex;
+            justify-content: space-between;
+            width: 90%;
+            max-width: 1200px;
+        }
+        .axis-label, .axis-title, .tick text {
+            fill: #000;
+            font-size: 12px;
+        }
+        .grid line {
+            stroke: #ddd;
+        }
+        .bar {
+            fill: #4c78a8;
+        }
+        .heatmap-rect {
+            stroke-width: 0;
+        }
+        .selection {
+            fill: none;
+            stroke: black;
+            stroke-width: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart" id="chart"></div>
+
+    <script>
+        // Constants for SVG size and padding
+        const svgWidth = 1200, svgHeight = 400;
+        const margin = {top: 20, right: 20, bottom: 50, left: 100};
+        const heatmapHeight = 400;
+
+        d3.csv("https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_spring2021/master/week08/data/mobility.csv").then(data => {
+            const xScaleHeatmap = d3.scaleLinear()
+                .domain([d3.min(data, d => d.Student_teacher_ratio), d3.max(data, d => d.Student_teacher_ratio)])
+                .range([0, svgWidth / 2 - margin.left - margin.right]);
+
+            const yScaleHeatmap = d3.scaleBand()
+                .domain(data.map(d => d.State))
+                .range([0, heatmapHeight - margin.top - margin.bottom])
+                .padding(0.1);
+
+            const colorScale = d3.scaleSequential()
+                .interpolator(d3.interpolateYlGnBu)
+                .domain([0, d3.max(data, d => +d.Student_teacher_ratio)]);
+
+            const heatSvg = d3.select("#chart")
+                .append("svg")
+                .attr("width", svgWidth / 2)
+                .attr("height", svgHeight);
+
+            const heatmap = heatSvg.append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Creating the rectangles
+            heatmap.selectAll(".heatmap-rect")
+                .data(data)
+                .enter()
+                .append("rect")
+                .attr("class", "heatmap-rect")
+                .attr("x", d => xScaleHeatmap(d.Student_teacher_ratio))
+                .attr("y", d => yScaleHeatmap(d.State))
+                .attr("width", xScaleHeatmap(10) - xScaleHeatmap(0))
+                .attr("height", yScaleHeatmap.bandwidth())
+                .attr("fill", d => colorScale(d.Student_teacher_ratio));
+
+            // Adding the x-axis
+            heatSvg.append("g")
+                .attr("class", "x axis")
+                .attr("transform", `translate(${margin.left},${heatmapHeight - margin.bottom})`)
+                .call(d3.axisBottom(xScaleHeatmap).ticks(10))
+                .append("text")
+                .attr("class", "axis-title")
+                .attr("x", (svgWidth / 4) - margin.right)
+                .attr("y", margin.bottom / 2)
+                .attr("text-anchor", "middle")
+                .text("Student Teacher Ratio (binned)");
+
+            // Adding the y-axis
+            heatSvg.append("g")
+                .attr("class", "y axis")
+                .attr("transform", `translate(${margin.left},${margin.top})`)
+                .call(d3.axisLeft(yScaleHeatmap))
+                .append("text")
+                .attr("class", "axis-title")
+                .attr("transform", "rotate(-90)")
+                .attr("x", -(heatmapHeight / 3))
+                .attr("y", -margin.left + 20)
+                .attr("dy", "-2em")
+                .attr("text-anchor", "middle")
+                .text("State");
+
+            // Mobility Score Distribution Bar Chart Configuration
+            const xScaleMobility = d3.scaleLinear()
+                .domain([0, d3.max(data, d => +d.Mobility)])
+                .range([0, svgWidth / 2 - margin.left - margin.right]);
+
+            const yScaleMobility = d3.scaleLinear()
+                .domain([0, d3.max(data, d => +d.Mobility)])
+                .nice()
+                .range([heatmapHeight - margin.top - margin.bottom, 0]);
+
+            const barSvg = d3.select("#chart")
+                .append("svg")
+                .attr("width", svgWidth / 2)
+                .attr("height", svgHeight);
+
+            const barChart = barSvg.append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Bind data and create bars 
+            barChart.selectAll(".bar")
+                .data(data)
+                .enter()
+                .append("rect")
+                .attr("class", "bar")
+                .attr("x", d => xScaleMobility(d.Mobility))
+                .attr("y", d => yScaleMobility(+d.Mobility))
+                .attr("width", (svgWidth / 2 - margin.right - margin.left) / data.length - 2)
+                .attr("height", d => heatmapHeight - margin.bottom - margin.top - yScaleMobility(+d.Mobility));
+
+            // Adding the x-axis
+            barSvg.append("g")
+                .attr("class", "x axis")
+                .attr("transform", `translate(${margin.left},${heatmapHeight - margin.bottom})`)
+                .call(d3.axisBottom(xScaleMobility))
+                .append("text")
+                .attr("class", "axis-title")
+                .attr("x", (svgWidth / 4) - margin.right)
+                .attr("y", margin.bottom / 2)
+                .attr("text-anchor", "middle")
+                .text("Mobility Score");
+
+            // Adding the y-axis
+            barSvg.append("g")
+                .attr("class", "y axis")
+                .attr("transform", `translate(${margin.left},${margin.top})`)
+                .call(d3.axisLeft(yScaleMobility))
+                .append("text")
+                .attr("class", "axis-title")
+                .attr("transform", "rotate(-90)")
+                .attr("x", -(heatmapHeight / 3))
+                .attr("y", -margin.left + 20)
+                .attr("dy", "-2em")
+                .attr("text-anchor", "middle")
+                .text("Mobility Score Distribution");
+        });
+    </script>
+</body>
+</html>
+```
+
+This HTML file establishes a flexible framework using D3.js v7 to create an equivalent visualization as in the Vega-Lite specification. It lays out two side-by-side visualizations: a heatmap for the "Student_teacher_ratio" by "State" and a bar chart depicting the "Mobility Score Distribution." Adjustments can be made to refine the appearance or structure further based on user requirements or additional styling preferences.

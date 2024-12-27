@@ -1,0 +1,162 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building Inventory Visualization</title>
+    <!-- Include D3.js v7 from CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        svg {
+            display: block;
+            margin: auto;
+        }
+        .axis-label {
+            font-size: 12px;
+            fill: #000;
+        }
+        .legend-title {
+            font-weight: bold;
+            fill: #000;
+        }
+        .legend-label {
+            font-size: 10px;
+            fill: #000;
+        }
+    </style>
+</head>
+<body>
+    <svg width="100%" height="100%" viewBox="0 0 400 600" preserveAspectRatio="xMidYMid meet"></svg>
+    <script>
+        // Constants for dimensions
+        const margin = { top: 20, right: 100, bottom: 50, left: 60 };
+        const width = 400 - margin.left - margin.right;
+        const height = 500 - margin.top - margin.bottom;
+
+        // Append SVG and group element
+        const svg = d3.select("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // Load the data
+        d3.csv("https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv").then(data => {
+            // Prepare data and scales
+            const agencyNames = Array.from(new Set(data.map(d => d["Agency Name"])));
+            const xScale = d3.scaleLinear()
+                .domain([0, 10])
+                .range([0, width]);
+            const yScale = d3.scaleBand()
+                .domain(agencyNames)
+                .range([0, height])
+                .padding(0.1);
+
+            // Create axes
+            svg.append("g")
+               .attr("class", "x-axis")
+               .attr("transform", `translate(0,${height})`)
+               .call(d3.axisBottom(xScale).ticks(10))
+               .append("text")
+                 .attr("class", "axis-label")
+                 .attr("x", width / 2)
+                 .attr("y", 40)
+                 .attr("text-anchor", "middle")
+                 .text("Total Floors (binned)");
+
+            svg.append("g")
+               .attr("class", "y-axis")
+               .call(d3.axisLeft(yScale))
+               .selectAll("text")
+               .attr("class", "axis-label")
+               .attr("y", -5);
+
+            // Aggregate data for rectangles
+            const binGenerator = d3.bin()
+                .domain(xScale.domain())
+                .thresholds(xScale.ticks(10));
+
+            const bins = d3.group(
+                data,
+                d => d["Agency Name"],
+                d => binGenerator(+d["Total Floors"])[0]
+            );
+
+            const counts = Array.from(bins, ([agency, floors]) => ({
+                agency,
+                values: Array.from(floors, ([floor, items]) => ({
+                    floor,
+                    count: items.length
+                }))
+            }));
+
+            // Color scale
+            const colorScale = d3.scaleSequential(d3.interpolateBlues)
+                .domain([0, d3.max(counts, d => d3.max(d.values, v => v.count))]);
+
+            // Draw rectangles
+            counts.forEach(d => {
+                svg.selectAll(`.rect-${d.agency.replace(/\s+/g, '')}`)
+                    .data(d.values)
+                    .join("rect")
+                        .attr("class", `rect-${d.agency.replace(/\s+/g, '')}`)
+                        .attr("x", v => xScale(v.floor))
+                        .attr("y", yScale(d.agency))
+                        .attr("width", xScale.binThresholds ? xScale(binGenerator.thresholds()[1] - 0.1) : xScale(1) - 1)  // Bin width
+                        .attr("height", yScale.bandwidth())
+                        .attr("fill", v => colorScale(v.count));
+            });
+
+            // Legend
+            const legend = svg.append("g")
+                .attr("class", "legend")
+                .attr("transform", `translate(${width + 20}, 20)`);
+
+            legend.append("text")
+                .attr("class", "legend-title")
+                .attr("x", 0)
+                .attr("y", 0)
+                .text("Count of Records");
+
+            const legendScale = d3.scaleLinear()
+                .domain(colorScale.domain())
+                .range([0, 200]);
+
+            legend.selectAll(".legend-rect")
+                .data(d3.range(colorScale.domain()[0], colorScale.domain()[1], (colorScale.domain()[1] - colorScale.domain()[0]) / 10))
+                .join("rect")
+                    .attr("class", "legend-rect")
+                    .attr("x", 0)
+                    .attr("y", d => legendScale(d))
+                    .attr("width", 16)
+                    .attr("height", 16)
+                    .attr("fill", d => colorScale(d));
+
+            legend.selectAll(".legend-label")
+                .data(colorScale.ticks(3))
+                .join("text")
+                    .attr("class", "legend-label")
+                    .attr("x", 20)
+                    .attr("y", d => legendScale(d) + 10)
+                    .text(d => d3.format(".0f")(d));
+        }).catch(error => console.error('Error loading the CSV file: ', error));
+    </script>
+</body>
+</html>
+```
+
+### Explanation:
+
+- **HTML and CSS**: The document is set up with a responsive SVG and CSS styles for axes labels and legend.
+- **D3.js**: Data is loaded from the specified CSV URL. Scales, axes, and rectangles are created using D3's modern methods. The visualization responds to screen size changes due to the `viewBox` attribute and margins.
+- **Axes and Binning**: The x-axis values are binned. The y-axis represents different agency names. Both axes are created using D3's axis features.
+- **Color Scaling**: The color scale is based on the count of records, using a blue color gradient.
+- **Legend**: A dynamic legend is rendered to the right of the chart, showing the color gradient and corresponding scales.
+
+This setup should recreate the Vega-Lite visualization using D3.js V7 within a complete HTML file environment.

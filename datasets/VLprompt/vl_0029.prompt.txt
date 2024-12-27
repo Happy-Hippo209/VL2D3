@@ -1,0 +1,672 @@
+Task: Convert the Vega-Lite visualization to a complete HTML file using D3.js v7.
+
+Key Requirements:
+- Create a complete, self-contained HTML file
+- Use ONLY D3.js version 7
+- Include proper viewport settings and responsive design
+- Ensure cross-browser compatibility
+
+Expected HTML Structure:
+- DOCTYPE declaration
+- HTML5 semantic structure
+- D3.js v7 CDN inclusion
+- Inline CSS for visualization styling
+- Inline JavaScript with D3.js code
+
+Reference Materials:
+1. Original Vega-Lite Specification:
+```json
+{
+  "config": {
+    "view": {
+      "continuousWidth": 400,
+      "continuousHeight": 300
+    }
+  },
+  "hconcat": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_spring2021/master/week08/data/mobility.csv"
+      },
+      "mark": "rect",
+      "encoding": {
+        "color": {
+          "aggregate": "count",
+          "type": "quantitative"
+        },
+        "x": {
+          "bin": {
+            "maxbins": 10
+          },
+          "field": "Student_teacher_ratio",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "State",
+          "type": "ordinal"
+        }
+      },
+      "height": 400,
+      "selection": {
+        "selector006": {
+          "type": "interval",
+          "encodings": [
+            "x",
+            "y"
+          ]
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_spring2021/master/week08/data/mobility.csv"
+      },
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "axis": {
+            "title": "Mobility Score"
+          },
+          "bin": true,
+          "field": "Mobility",
+          "type": "quantitative"
+        },
+        "y": {
+          "aggregate": "count",
+          "axis": {
+            "title": "Mobility Score Distribution"
+          },
+          "type": "quantitative"
+        }
+      },
+      "transform": [
+        {
+          "filter": {
+            "selection": "selector006"
+          }
+        }
+      ]
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json"
+}
+```
+
+2. Scene Graph Structure:
+```json
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 40,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 80,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "8.0"
+                            },
+                            {
+                              "x": 40,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "10.0"
+                            },
+                            {
+                              "x": 80,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "12.0"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 200,
+                              "y": 21,
+                              "fill": "#000",
+                              "text": "Student_teacher_ratio (binned)"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 400.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 3,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 11,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 19,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 3.4215686274509802,
+                              "fill": "#000",
+                              "text": "AK"
+                            },
+                            {
+                              "x": -7,
+                              "y": 11.26470588235294,
+                              "fill": "#000",
+                              "text": "AL"
+                            },
+                            {
+                              "x": -7,
+                              "y": 19.1078431372549,
+                              "fill": "#000",
+                              "text": "AR"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -28.919921875,
+                              "y": 200,
+                              "fill": "#000",
+                              "text": "State"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector006_brush_bg",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "#333"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 120.5,
+                      "y": 329.4117647058823,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(233, 246, 186)",
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: TN; Count of Records: 2"
+                    },
+                    {
+                      "x": 120.5,
+                      "y": 211.76470588235293,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(191, 230, 181)",
+                      "description": "Student_teacher_ratio (binned): 14 \u2013 16; State: NC; Count of Records: 7"
+                    },
+                    {
+                      "x": 160.5,
+                      "y": 211.76470588235293,
+                      "width": 40,
+                      "height": 7.8431372549019605,
+                      "fill": "rgb(111, 199, 189)",
+                      "description": "Student_teacher_ratio (binned): 16 \u2013 18; State: NC; Count of Records: 13"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "selector006_brush",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "width": 0,
+                      "height": 0,
+                      "fill": "transparent",
+                      "stroke": null
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 400,
+              "height": 400,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 263,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 225,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 40,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 80,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "0.00"
+                            },
+                            {
+                              "x": 40,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "0.05"
+                            },
+                            {
+                              "x": 80,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "0.10"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 200,
+                              "y": 21,
+                              "fill": "#000",
+                              "text": "Mobility Score"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 300.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 263,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 225,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 300,
+                              "fill": "#000",
+                              "text": "0"
+                            },
+                            {
+                              "x": -7,
+                              "y": 262.5,
+                              "fill": "#000",
+                              "text": "50"
+                            },
+                            {
+                              "x": -7,
+                              "y": 225,
+                              "fill": "#000",
+                              "text": "100"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -28.5927734375,
+                              "y": 150,
+                              "fill": "#000",
+                              "text": "Mobility Score Distribution"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_1_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 41,
+                      "y": 33.750000000000014,
+                      "width": 39,
+                      "height": 266.25,
+                      "fill": "#4c78a8",
+                      "description": "Mobility (binned): 0.05 \u2013 0.1; Count of Records: 355",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 1,
+                      "y": 236.25,
+                      "width": 39,
+                      "height": 63.75,
+                      "fill": "#4c78a8",
+                      "description": "Mobility (binned): 0 \u2013 0.05; Count of Records: 85",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 81,
+                      "y": 163.49999999999997,
+                      "width": 39.000000000000014,
+                      "height": 136.50000000000003,
+                      "fill": "#4c78a8",
+                      "description": "Mobility (binned): 0.1 \u2013 0.15; Count of Records: 182",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ]
+                }
+              ],
+              "x": 463,
+              "y": 0,
+              "width": 400,
+              "height": 300,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {},
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 141.93548387096774,
+                              "fill": "#000",
+                              "text": "10"
+                            },
+                            {
+                              "x": 18,
+                              "y": 77.41935483870968,
+                              "fill": "#000",
+                              "text": "20"
+                            },
+                            {
+                              "x": 18,
+                              "y": 12.903225806451623,
+                              "fill": "#000",
+                              "text": "30"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "Count of Records"
+                    }
+                  ]
+                }
+              ],
+              "x": 883,
+              "y": 0,
+              "width": 96,
+              "height": 216
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  ]
+}
+```
+
+Please provide a complete HTML file with embedded D3.js v7 code below:
+```html

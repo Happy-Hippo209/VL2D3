@@ -1,0 +1,7 @@
+2024-12-27 20:54:26,458 - INFO - Found 30 prompt files to process
+2024-12-27 20:54:26,474 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0000.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:54:26,479 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0001.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:54:40,592 - INFO - HTTP Request: POST https://api-zjuvag.truth-ai.com.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-27 20:54:40,600 - INFO - Successfully processed: D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0002.prompt.txt
+2024-12-27 20:54:40,622 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0003.prompt.txt: Token count exceeds limit of 5000
+2024-12-27 20:54:40,651 - WARNING - Skipped D:\files\study2024\VL2D3_20241224\datasets\VLprompt\vl_0004.prompt.txt: Token count exceeds limit of 5000

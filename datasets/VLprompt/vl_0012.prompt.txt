@@ -1,0 +1,330 @@
+Task: Convert the Vega-Lite visualization to a complete HTML file using D3.js v7.
+
+Key Requirements:
+- Create a complete, self-contained HTML file
+- Use ONLY D3.js version 7
+- Include proper viewport settings and responsive design
+- Ensure cross-browser compatibility
+
+Expected HTML Structure:
+- DOCTYPE declaration
+- HTML5 semantic structure
+- D3.js v7 CDN inclusion
+- Inline CSS for visualization styling
+- Inline JavaScript with D3.js code
+
+Reference Materials:
+1. Original Vega-Lite Specification:
+```json
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A bar graph showing what activites consume what percentage of the day.",
+  "data": {
+    "values": [
+      {
+        "Activity": "Sleeping",
+        "Time": 8
+      },
+      {
+        "Activity": "Eating",
+        "Time": 2
+      },
+      {
+        "Activity": "TV",
+        "Time": 4
+      },
+      {
+        "Activity": "Work",
+        "Time": 8
+      },
+      {
+        "Activity": "Exercise",
+        "Time": 2
+      }
+    ]
+  },
+  "transform": [
+    {
+      "joinaggregate": [
+        {
+          "op": "sum",
+          "field": "Time",
+          "as": "TotalTime"
+        }
+      ]
+    },
+    {
+      "calculate": "datum.Time/datum.TotalTime * 100",
+      "as": "PercentOfTotal"
+    }
+  ],
+  "height": {
+    "step": 12
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "PercentOfTotal",
+      "type": "quantitative",
+      "axis": {
+        "title": "% of total Time"
+      }
+    },
+    "y": {
+      "field": "Activity",
+      "type": "nominal"
+    }
+  }
+}
+```
+
+2. Scene Graph Structure:
+```json
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 46,
+                      "y": 0,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 91,
+                      "y": 0,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 60.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 46,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 91,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": 45.714285714285715,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "2"
+                    },
+                    {
+                      "x": 91.42857142857143,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "4"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "% of total Time"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 60.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 5,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 18,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 5.499999999999998,
+                      "fill": "#000",
+                      "text": "Eating"
+                    },
+                    {
+                      "x": -7,
+                      "y": 17.5,
+                      "fill": "#000",
+                      "text": "Exercise"
+                    },
+                    {
+                      "x": -7,
+                      "y": 29.5,
+                      "fill": "#000",
+                      "text": "Sleeping"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -52.38671875,
+                      "y": 30,
+                      "fill": "#000",
+                      "text": "Activity"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 24.599999999999998,
+              "width": 761.9047619047618,
+              "height": 10.8,
+              "fill": "#4c78a8",
+              "description": "PercentOfTotal: 33.3333333333; Activity: Sleeping",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 0.5999999999999979,
+              "width": 190.47619047619045,
+              "height": 10.8,
+              "fill": "#4c78a8",
+              "description": "PercentOfTotal: 8.33333333333; Activity: Eating",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 36.599999999999994,
+              "width": 380.9523809523809,
+              "height": 10.8,
+              "fill": "#4c78a8",
+              "description": "PercentOfTotal: 16.6666666667; Activity: TV",
+              "ariaRoleDescription": "bar"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 60,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}
+```
+
+Please provide a complete HTML file with embedded D3.js v7 code below:
+```html

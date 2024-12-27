@@ -1,0 +1,196 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "shape",
+          "name": "layer_0_marks",
+          "role": "mark",
+          "items": [
+            {
+              "fill": "lightgray",
+              "ariaRoleDescription": "geoshape"
+            }
+          ]
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_1_marks",
+          "role": "mark",
+          "items": [
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: Le Var",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: La Tin\u00e9e",
+              "ariaRoleDescription": "geoshape"
+            },
+            {
+              "fill": "transparent",
+              "stroke": "#4c78a8",
+              "description": "name: La Roya",
+              "ariaRoleDescription": "geoshape"
+            }
+          ]
+        },
+        {
+          "marktype": "shape",
+          "name": "layer_2_marks",
+          "role": "mark",
+          "items": [
+            {
+              "fill": "darkseagreen",
+              "stroke": "darkseagreen",
+              "ariaRoleDescription": "geoshape"
+            }
+          ]
+        },
+        {
+          "marktype": "symbol",
+          "name": "layer_3_marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 221.55185410216268,
+              "y": 155.13911938136516,
+              "fill": "transparent",
+              "stroke": "rgb(255, 241, 95)",
+              "shape": "triangle-up",
+              "description": "longitude: 7.2021197; latitude: 44.1105097; Altitude (m): 2674; name: Mont P\u00e9poiri",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 105.40624515358377,
+              "y": 25.464981764740514,
+              "fill": "transparent",
+              "stroke": "rgb(255, 255, 255)",
+              "shape": "triangle-up",
+              "description": "longitude: 6.7880841; latitude: 44.4414812; Altitude (m): 3032; name: T\u00eate de Siguret",
+              "ariaRoleDescription": "point"
+            },
+            {
+              "x": 219.18784898827516,
+              "y": 125.17988929440435,
+              "fill": "transparent",
+              "stroke": "rgb(255, 246, 156)",
+              "shape": "triangle-up",
+              "description": "longitude: 7.1936925; latitude: 44.1871412; Altitude (m): 2795; name: Cime de Tavels",
+              "ariaRoleDescription": "point"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "legend",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "legend-entry",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rect",
+                          "role": "legend-gradient",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "width": 16,
+                              "height": 200,
+                              "fill": {},
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "legend-label",
+                          "items": [
+                            {
+                              "x": 18,
+                              "y": 200,
+                              "fill": "#000",
+                              "text": "1,000"
+                            },
+                            {
+                              "x": 18,
+                              "y": 73.81404928570842,
+                              "fill": "#000",
+                              "text": "2,000"
+                            },
+                            {
+                              "x": 18,
+                              "y": 0,
+                              "fill": "#000",
+                              "text": "3,000"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 16
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "legend-title",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "#000",
+                      "text": "Altitude (m)"
+                    }
+                  ]
+                }
+              ],
+              "x": 418,
+              "y": 0,
+              "width": 68,
+              "height": 216
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "items": [
+                    {
+                      "fill": "#000",
+                      "text": "Sommets du Massif du Mercantour"
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": -21.499999999994543
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 400,
+      "height": 400,
+      "fill": "transparent"
+    }
+  ]
+}

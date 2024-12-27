@@ -1,0 +1,211 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wind Generation Visualization</title>
+    <style>
+        /* Inline CSS for basic styling and responsiveness */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        #chart {
+            width: 80%;
+            height: 60%;
+        }
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #888;
+            shape-rendering: crispEdges;
+        }
+        .axis text {
+            font-size: 12px;
+            fill: #000;
+        }
+        .grid .tick line {
+            stroke: #ddd;
+            stroke-opacity: 0.7;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 8px;
+            font-size: 12px;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chart"></div>
+
+<!-- Include D3.js v7 from CDN -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+    // Data from the Vega-Lite specification
+    const data = [
+        {"year": "1989-01-01T00:00:00", "TW": 0.000906140223737},
+        {"year": "1990-01-01T00:00:00", "TW": 0.0012295874440092002},
+        {"year": "1991-01-01T00:00:00", "TW": 0.001429480171106},
+        {"year": "1992-01-01T00:00:00", "TW": 0.0015945152571428},
+        {"year": "1993-01-01T00:00:00", "TW": 0.00191558582007},
+        {"year": "1994-01-01T00:00:00", "TW": 0.0025126338338986},
+        {"year": "1995-01-01T00:00:00", "TW": 0.0027361346906224},
+        {"year": "1996-01-01T00:00:00", "TW": 0.0032112443382702},
+        {"year": "1997-01-01T00:00:00", "TW": 0.0041435594815668},
+        {"year": "1998-01-01T00:00:00", "TW": 0.0054917896602384},
+        {"year": "1999-01-01T00:00:00", "TW": 0.007262431071028001},
+        {"year": "2000-01-01T00:00:00", "TW": 0.010696922755905199},
+        {"year": "2001-01-01T00:00:00", "TW": 0.0132546813905942},
+        {"year": "2002-01-01T00:00:00", "TW": 0.0179468050761516},
+        {"year": "2003-01-01T00:00:00", "TW": 0.021768470086911598},
+        {"year": "2004-01-01T00:00:00", "TW": 0.028174639049683},
+        {"year": "2005-01-01T00:00:00", "TW": 0.034774267920337394},
+        {"year": "2006-01-01T00:00:00", "TW": 0.0437181999073352},
+        {"year": "2007-01-01T00:00:00", "TW": 0.0563643619513156},
+        {"year": "2008-01-01T00:00:00", "TW": 0.07257845706790379},
+        {"year": "2009-01-01T00:00:00", "TW": 0.09007924278231039},
+        {"year": "2010-01-01T00:00:00", "TW": 0.110744785417319},
+        {"year": "2011-01-01T00:00:00", "TW": 0.14111206515596977},
+        {"year": "2012-01-01T00:00:00", "TW": 0.16584394175321499},
+        {"year": "2013-01-01T00:00:00", "TW": 0.20531743164238017},
+        {"year": "2014-01-01T00:00:00", "TW": 0.2270359602362822},
+        {"year": "2015-01-01T00:00:00", "TW": 0.25787198018089613},
+        {"year": "2016-01-01T00:00:00", "TW": 0.2951258939311836},
+        {"year": "2017-01-01T00:00:00", "TW": 0.34644635522111716},
+        {"year": "2018-01-01T00:00:00", "TW": 0.3851798807681078}
+    ];
+
+    // Set dimensions and margins for the chart
+    const margin = {top: 10, right: 30, bottom: 50, left: 60},
+          width = parseInt(d3.select('#chart').style('width')) - margin.left - margin.right,
+          height = parseInt(d3.select('#chart').style('height')) - margin.top - margin.bottom;
+
+    // Append SVG element to the chart div
+    const svg = d3.select("#chart")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    // Parse the date / time from the data
+    const parseTime = d3.timeParse("%Y-%m-%dT%H:%M:%S");
+    data.forEach(d => {
+        d.year = parseTime(d.year);
+        d.TW = +d.TW;
+    });
+
+    // Set scales for x and y
+    const x = d3.scaleTime()
+        .domain(d3.extent(data, d => d.year))
+        .range([0, width]);
+
+    const y = d3.scaleLinear()
+        .domain([0, d3.max(data, d => d.TW)])
+        .range([height, 0]);
+
+    // Add X axis with label
+    svg.append("g")
+        .attr("transform", `translate(0,${height})`)
+        .call(d3.axisBottom(x))
+        .append("text")
+        .attr("y", 35)
+        .attr("x", width)
+        .style("fill", "#000")
+        .style("text-anchor", "end")
+        .text("Year");
+
+    // Add Y axis with label
+    svg.append("g")
+        .call(d3.axisLeft(y))
+        .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", -45)
+        .attr("x", -10)
+        .attr("dy", "0.71em")
+        .style("fill", "#000")
+        .style("text-anchor", "end")
+        .text("Wind Generation [TW]");
+
+    // Add the gridlines for better visualization
+    function make_x_gridlines() {
+        return d3.axisBottom(x).ticks(5);
+    }
+
+    function make_y_gridlines() {
+        return d3.axisLeft(y).ticks(5);
+    }
+
+    svg.append("g")			
+        .attr("class", "grid")
+        .attr("transform", `translate(0,${height})`)
+        .call(make_x_gridlines()
+            .tickSize(-height)
+            .tickFormat(""))
+
+    svg.append("g")
+        .attr("class", "grid")
+        .call(make_y_gridlines()
+            .tickSize(-width)
+            .tickFormat(""))
+
+    // Add the line path
+    svg.append("path")
+        .datum(data)
+        .attr("fill", "none")
+        .attr("stroke", "dodgerblue")
+        .attr("stroke-width", 1.5)
+        .attr("d", d3.line()
+            .x(d => x(d.year))
+            .y(d => y(d.TW))
+        );
+
+    // Add the points on top of the line
+    svg.selectAll("circle")
+        .data(data)
+        .enter()
+        .append("circle")
+        .attr("cx", d => x(d.year))
+        .attr("cy", d => y(d.TW))
+        .attr("r", 3)
+        .attr("fill", "dodgerblue");
+
+    // Tooltip to show data points on hover
+    const tooltip = d3.select("body")
+        .append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+    svg.selectAll("circle")
+        .on("mouseover", function(event, d) {
+            tooltip.transition()
+                .duration(200)
+                .style("opacity", .9);
+            tooltip.html(`Year: ${d3.timeFormat("%Y")(d.year)}<br/>TW: ${d.TW.toFixed(2)}`)
+                .style("left", (event.pageX + 5) + "px")
+                .style("top", (event.pageY - 28) + "px");
+        })
+        .on("mouseout", function(d) {
+            tooltip.transition()
+                .duration(500)
+                .style("opacity", 0);
+        });
+
+</script>
+
+</body>
+</html>
+```
+
+This complete HTML file uses D3.js v7 to create a responsive line chart with points, following modern web practices, including a responsive design and cross-browser compatibility. The code includes axis labels, gridlines for better readability, and a tooltip to show detailed data on hover.

@@ -1,0 +1,124 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3.js v7 Visualization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .chart-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        .chart {
+            flex: 1;
+            max-width: 600px;
+        }
+        .axis-label {
+            font-size: 12px;
+            fill: #000;
+        }
+        .brush {
+            fill: lightgrey;
+            fill-opacity: 0.3;
+            stroke: none;
+        }
+        .axes line, .axes path {
+            stroke: #888;
+        }
+        .grid line {
+            stroke: #ddd;
+        }
+        .point {
+            stroke: steelblue;
+            fill: goldenrod;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart-container">
+        <svg id="chart1" class="chart"></svg>
+        <svg id="chart2" class="chart"></svg>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        const data = [
+            { date: new Date("Sun, 01 Jan 2012 23:00:01"), price: 150 },
+            { date: new Date("Sun, 02 Jan 2012 00:10:02"), price: 100 },
+            { date: new Date("Sun, 02 Jan 2012 01:20:03"), price: 170 },
+            { date: new Date("Sun, 02 Jan 2012 02:30:04"), price: 165 },
+            { date: new Date("Sun, 02 Jan 2012 03:40:05"), price: 200 }
+        ];
+
+        const margin = { top: 20, right: 30, bottom: 30, left: 40 };
+        const width = 600 - margin.left - margin.right;
+        const height = 400 - margin.top - margin.bottom;
+
+        const xScale = d3.scaleTime()
+            .domain(d3.extent(data, d => d.date))
+            .range([margin.left, width - margin.right]);
+
+        const yScale = d3.scaleLinear()
+            .domain([0, d3.max(data, d => d.price)])
+            .nice()
+            .range([height - margin.bottom, margin.top]);
+
+        const xAxis = g => g
+            .attr("class", "axis x-axis")
+            .attr("transform", `translate(0,${height - margin.bottom})`)
+            .call(d3.axisBottom(xScale).ticks(width / 80).tickSizeOuter(0));
+
+        const yAxis = g => g
+            .attr("class", "axis y-axis")
+            .attr("transform", `translate(${margin.left},0)`)
+            .call(d3.axisLeft(yScale));
+
+        const createChart = (svgId, xTimeUnit) => {
+            const svg = d3.select(svgId)
+                .attr("viewBox", [0, 0, width, height]);
+
+            svg.append("g")
+                .attr("class", "grid")
+                .call(d3.axisLeft(yScale).tickSize(-width + margin.right + margin.left).tickFormat(''));
+
+            svg.append("g").call(xAxis);
+            svg.append("g").call(yAxis);
+
+            const brush = d3.brushX()
+                .extent([[margin.left, 0], [width - margin.right, height - margin.bottom]])
+                .on("end", brushed);
+
+            svg.append("g")
+                .attr("class", "brush")
+                .call(brush);
+
+            const dots = svg.append("g")
+                .selectAll("dot")
+                .data(data)
+                .enter().append("circle")
+                .attr("class", "point")
+                .attr("cx", d => xScale(d.date))
+                .attr("cy", d => yScale(d.price))
+                .attr("r", 5);
+
+            function brushed(event) {
+                const [x0, x1] = event.selection.map(xScale.invert);
+                dots.attr("fill", d => (x0 <= d.date && d.date <= x1) ? "goldenrod" : "steelblue");
+            }
+        };
+
+        createChart("#chart1", "seconds");
+        createChart("#chart2", "minutes");
+    </script>
+</body>
+</html>
+```
+
+This HTML file uses D3.js v7 to create two parallel charts. The charts are responsive and include interactive brushing, achieved via the D3 brush API. The data points are represented as circles, colored differently based on selection states, similar to the Vega-Lite brushing effect. Adjust `xTimeUnit` logic as needed for x-axis units in a more complex setup.

@@ -1,0 +1,847 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "name": "concat_0_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-grid",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 246,
+                              "stroke": "#ddd"
+                            },
+                            {
+                              "x": 0,
+                              "y": 193,
+                              "stroke": "#ddd"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 15,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 45,
+                              "y": 0,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 76,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": 14.758620689655178,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "cpp_sanders"
+                            },
+                            {
+                              "x": 45.27586206896552,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "cpp_mixed"
+                            },
+                            {
+                              "x": 75.79310344827587,
+                              "y": 7,
+                              "fill": "#000",
+                              "text": "amp_gonzales"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 0,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": 442.5,
+                              "y": 90.5751953125,
+                              "fill": "#000",
+                              "text": "Dataset"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 300.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "role": "axis",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "rule",
+                          "role": "axis-tick",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 246,
+                              "stroke": "#888"
+                            },
+                            {
+                              "x": 0,
+                              "y": 193,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-label",
+                          "items": [
+                            {
+                              "x": -7,
+                              "y": 300,
+                              "fill": "#000",
+                              "text": "0.0"
+                            },
+                            {
+                              "x": -7,
+                              "y": 246.42857142857142,
+                              "fill": "#000",
+                              "text": "0.5"
+                            },
+                            {
+                              "x": -7,
+                              "y": 192.85714285714283,
+                              "fill": "#000",
+                              "text": "1.0"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "rule",
+                          "role": "axis-domain",
+                          "items": [
+                            {
+                              "x": 0,
+                              "y": 300,
+                              "stroke": "#888"
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "text",
+                          "role": "axis-title",
+                          "items": [
+                            {
+                              "x": -25.1357421875,
+                              "y": 150,
+                              "fill": "#000",
+                              "text": "Computation time (h)"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0.5,
+                      "y": 0.5
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rect",
+                  "name": "concat_0_marks",
+                  "role": "mark",
+                  "items": [
+                    {
+                      "x": 245.66379310344828,
+                      "y": 295.3456815428571,
+                      "width": 27.46551724137931,
+                      "height": 4.654318457142892,
+                      "fill": "#4C78A8",
+                      "description": "Dataset: ace_vaxinpad; Computation time (h): 0.0434403056; h: 0.04h",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 276.1810344827586,
+                      "y": 295.0994583321429,
+                      "width": 27.46551724137931,
+                      "height": 4.900541667857112,
+                      "fill": "#4C78A8",
+                      "description": "Dataset: acp_anticp; Computation time (h): 0.0457383889; h: 0.05h",
+                      "ariaRoleDescription": "bar"
+                    },
+                    {
+                      "x": 123.5948275862069,
+                      "y": 296.22712797857145,
+                      "width": 27.46551724137931,
+                      "height": 3.7728720214285545,
+                      "fill": "#4C78A8",
+                      "description": "Dataset: acp_iacp; Computation time (h): 0.0352134722; h: 0.04h",
+                      "ariaRoleDescription": "bar"
+                    }
+                  ]
+                }
+              ],
+              "x": 0,
+              "y": 0,
+              "width": 885,
+              "height": 300,
+              "fill": "transparent",
+              "stroke": "#ddd"
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "name": "concat_1_group",
+          "role": "scope",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "group",
+                  "name": "concat_1_concat_0_group",
+                  "role": "scope",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 29,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 57,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 257,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 214,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 29,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 57,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.0"
+                                    },
+                                    {
+                                      "x": 28.571428571428577,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.2"
+                                    },
+                                    {
+                                      "x": 57.14285714285715,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.4"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": 200,
+                                      "y": 21,
+                                      "fill": "#000",
+                                      "text": "Computation time (h)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 257,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 214,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": -7,
+                                      "y": 300,
+                                      "fill": "#000",
+                                      "text": "0"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 257.14285714285717,
+                                      "fill": "#000",
+                                      "text": "500"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 214.28571428571428,
+                                      "fill": "#000",
+                                      "text": "1,000"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": -36.8642578125,
+                                      "y": 150,
+                                      "fill": "#000",
+                                      "text": "# of sequences"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "symbol",
+                          "name": "concat_1_concat_0_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 6.205757942857143,
+                              "y": 241.0285714285714,
+                              "fill": "#4c78a8",
+                              "shape": "circle",
+                              "description": "Computation time (h): 0.0434403056; # of sequences: 688; dataset: ace_vaxinpad",
+                              "ariaRoleDescription": "point"
+                            },
+                            {
+                              "x": 6.534055557142858,
+                              "y": 261.42857142857144,
+                              "fill": "#4c78a8",
+                              "shape": "circle",
+                              "description": "Computation time (h): 0.0457383889; # of sequences: 450; dataset: acp_anticp",
+                              "ariaRoleDescription": "point"
+                            },
+                            {
+                              "x": 5.030496028571429,
+                              "y": 270.51428571428573,
+                              "fill": "#4c78a8",
+                              "shape": "circle",
+                              "description": "Computation time (h): 0.0352134722; # of sequences: 344; dataset: acp_iacp",
+                              "ariaRoleDescription": "point"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 0,
+                      "y": 0,
+                      "width": 400,
+                      "height": 300,
+                      "fill": "transparent",
+                      "stroke": "#ddd"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "group",
+                  "name": "concat_1_concat_1_group",
+                  "role": "scope",
+                  "items": [
+                    {
+                      "items": [
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 29,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 57,
+                                      "y": -300,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-grid",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 254,
+                                      "stroke": "#ddd"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 208,
+                                      "stroke": "#ddd"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 29,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 57,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.0"
+                                    },
+                                    {
+                                      "x": 28.571428571428577,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.2"
+                                    },
+                                    {
+                                      "x": 57.14285714285715,
+                                      "y": 7,
+                                      "fill": "#000",
+                                      "text": "0.4"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": 200,
+                                      "y": 21,
+                                      "fill": "#000",
+                                      "text": "Computation time (h)"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 300.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "group",
+                          "role": "axis",
+                          "items": [
+                            {
+                              "items": [
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-tick",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 254,
+                                      "stroke": "#888"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 208,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-label",
+                                  "items": [
+                                    {
+                                      "x": -7,
+                                      "y": 300,
+                                      "fill": "#000",
+                                      "text": "0"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 253.84615384615384,
+                                      "fill": "#000",
+                                      "text": "10"
+                                    },
+                                    {
+                                      "x": -7,
+                                      "y": 207.69230769230768,
+                                      "fill": "#000",
+                                      "text": "20"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "rule",
+                                  "role": "axis-domain",
+                                  "items": [
+                                    {
+                                      "x": 0,
+                                      "y": 300,
+                                      "stroke": "#888"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "marktype": "text",
+                                  "role": "axis-title",
+                                  "items": [
+                                    {
+                                      "x": -22.728515625,
+                                      "y": 150,
+                                      "fill": "#000",
+                                      "text": "Mean sequence length"
+                                    }
+                                  ]
+                                }
+                              ],
+                              "x": 0.5,
+                              "y": 0.5
+                            }
+                          ]
+                        },
+                        {
+                          "marktype": "symbol",
+                          "name": "concat_1_concat_1_marks",
+                          "role": "mark",
+                          "items": [
+                            {
+                              "x": 6.205757942857143,
+                              "y": 245.004472272,
+                              "fill": "#4c78a8",
+                              "shape": "circle",
+                              "description": "Computation time (h): 0.0434403056; Mean sequence length: 11.9156976744; dataset: ace_vaxinpad",
+                              "ariaRoleDescription": "point"
+                            },
+                            {
+                              "x": 6.534055557142858,
+                              "y": 179.1487179489231,
+                              "fill": "#4c78a8",
+                              "shape": "circle",
+                              "description": "Computation time (h): 0.0457383889; Mean sequence length: 26.1844444444; dataset: acp_anticp",
+                              "ariaRoleDescription": "point"
+                            },
+                            {
+                              "x": 5.030496028571429,
+                              "y": 182.36135957076922,
+                              "fill": "#4c78a8",
+                              "shape": "circle",
+                              "description": "Computation time (h): 0.0352134722; Mean sequence length: 25.488372093; dataset: acp_iacp",
+                              "ariaRoleDescription": "point"
+                            }
+                          ]
+                        }
+                      ],
+                      "x": 459,
+                      "y": 0,
+                      "width": 400,
+                      "height": 300,
+                      "fill": "transparent",
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 12.5,
+              "y": 429
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "title",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "text",
+                  "role": "title-text",
+                  "items": [
+                    {
+                      "fill": "#000",
+                      "text": [
+                        "Total computation time per dataset (top), the number of sequences vs. computation",
+                        "time (bottom-left), and mean sequence length per dataset vs. computation time (bottom-right).",
+                        "Click on a field to enable filtering by datasets.",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "x": 423.43212890625,
+              "y": -63
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    }
+  ]
+}

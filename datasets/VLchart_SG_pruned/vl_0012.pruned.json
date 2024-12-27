@@ -1,0 +1,244 @@
+{
+  "marktype": "group",
+  "name": "root",
+  "role": "frame",
+  "items": [
+    {
+      "items": [
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-grid",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 46,
+                      "y": 0,
+                      "stroke": "#ddd"
+                    },
+                    {
+                      "x": 91,
+                      "y": 0,
+                      "stroke": "#ddd"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 60.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 46,
+                      "y": 0,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 91,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "0"
+                    },
+                    {
+                      "x": 45.714285714285715,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "2"
+                    },
+                    {
+                      "x": 91.42857142857143,
+                      "y": 7,
+                      "fill": "#000",
+                      "text": "4"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": 400,
+                      "y": 21,
+                      "fill": "#000",
+                      "text": "% of total Time"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 60.5
+            }
+          ]
+        },
+        {
+          "marktype": "group",
+          "role": "axis",
+          "items": [
+            {
+              "items": [
+                {
+                  "marktype": "rule",
+                  "role": "axis-tick",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 5,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 18,
+                      "stroke": "#888"
+                    },
+                    {
+                      "x": 0,
+                      "y": 30,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-label",
+                  "items": [
+                    {
+                      "x": -7,
+                      "y": 5.499999999999998,
+                      "fill": "#000",
+                      "text": "Eating"
+                    },
+                    {
+                      "x": -7,
+                      "y": 17.5,
+                      "fill": "#000",
+                      "text": "Exercise"
+                    },
+                    {
+                      "x": -7,
+                      "y": 29.5,
+                      "fill": "#000",
+                      "text": "Sleeping"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "rule",
+                  "role": "axis-domain",
+                  "items": [
+                    {
+                      "x": 0,
+                      "y": 0,
+                      "stroke": "#888"
+                    }
+                  ]
+                },
+                {
+                  "marktype": "text",
+                  "role": "axis-title",
+                  "items": [
+                    {
+                      "x": -52.38671875,
+                      "y": 30,
+                      "fill": "#000",
+                      "text": "Activity"
+                    }
+                  ]
+                }
+              ],
+              "x": 0.5,
+              "y": 0.5
+            }
+          ]
+        },
+        {
+          "marktype": "rect",
+          "name": "marks",
+          "role": "mark",
+          "items": [
+            {
+              "x": 0,
+              "y": 24.599999999999998,
+              "width": 761.9047619047618,
+              "height": 10.8,
+              "fill": "#4c78a8",
+              "description": "PercentOfTotal: 33.3333333333; Activity: Sleeping",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 0.5999999999999979,
+              "width": 190.47619047619045,
+              "height": 10.8,
+              "fill": "#4c78a8",
+              "description": "PercentOfTotal: 8.33333333333; Activity: Eating",
+              "ariaRoleDescription": "bar"
+            },
+            {
+              "x": 0,
+              "y": 36.599999999999994,
+              "width": 380.9523809523809,
+              "height": 10.8,
+              "fill": "#4c78a8",
+              "description": "PercentOfTotal: 16.6666666667; Activity: TV",
+              "ariaRoleDescription": "bar"
+            }
+          ]
+        }
+      ],
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 60,
+      "fill": "transparent",
+      "stroke": "#ddd"
+    }
+  ]
+}
